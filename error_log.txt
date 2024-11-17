@@ -1,0 +1,8 @@
+Names that don't show up in the Senate file w/ their committee data:
+      NAME  VOTES                                          COMMITTEE  ...  YEAR CONGRESS  PAGE
+488  april     20  Cmte on recommitted bill relative to district ...  ...  1798        5    11
+
+[1 rows x 9 columns]     NAME  VOTES               COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1441  que      8  cmte on Mason’s motion        NaN   Jan   18  1799         5    17      NAME  VOTES              COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+2649  pate      1  Cmte on Appropriation        NaN   Jul    4  1797         5     3      NAME  VOTES                 COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+3254  mace      1  Cmte on bill impeachment        NaN   Jan   23  1798         5     7

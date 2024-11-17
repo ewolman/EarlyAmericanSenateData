@@ -1,0 +1,134 @@
+import re
+import pandas as pd
+import os
+import statistics
+
+# function to extract dates with years
+def get_dates_w_years(txt):
+    date = re.compile(r'(\b[A-Za-z]+ \d{1,2}, \d{4}|n\.d\.).*?')
+    dates = re.findall(date, txt)
+    day_year = [d.replace("n.d.","n.d., n.d.").split(", ") for d in dates] #split out day year
+    dat,year = [d[0] for d in day_year], [y[1] for y in day_year]
+    month = [d[:3] if len(d) > 4 else d for d in dat] #first 3 letters of month
+    day = [re.findall(r'(\d{1,2}$)', d)[0] if len(d)>4 else d for d in dat]  # day
+
+    return month, day, year, dates
+
+re_month = 'Jan(?:uary)|Feb(?:ruary)|March|Apr(?:il)|May|Jun(?:e)|Jul(?:y)|Aug(?:ust)|Sep(?:tember)|Oct(?:ober)|Nov(?:ember)|Dec(?:ember))\S*' # month regex
+# senator with name Marsh so we are ignoring all Mar's to count dates -- 
+# can be edited in txt and will be flagged when running this file
+
+folder = input('Input Congress number: ') + '_Congress'
+edited = input('Have the text files been edited already? (y or n): ')
+yrs_exist = input('''Do all the sheets have dates with years? 
+                    IF NO make sure there is a 'pg_years.csv' that has the years for each page!
+                    (y or n - includes if only some pages have years): ''')
+
+if edited == 'y':
+    texts = [f for f in os.listdir(folder + '/Text/Edited') if f.endswith('.txt')] #only edited .txt files
+    path = folder + '/Text/Edited/'
+else:
+    texts = [f for f in os.listdir(folder + '/Text') if f.endswith('.txt')] #only .txt files
+    path = folder + '/Text/'
+
+if yrs_exist == 'y':
+    pass
+else:
+    yrs_exist_csv = pd.read_csv(folder + '/pg_years.csv')
+
+df_data = [] # empty list to append data
+for txt in texts:
+  pg = txt[12:-4]
+  congress = txt[0]
+  n_dates = 0
+  n_committees = 1 #initialize as unequal
+  n_names = [] #empty list to collect number of names for each sheet
+  while n_dates != n_committees: #process until n_dates = n_committees
+    #data_n = [] #reset data for each time we process a file
+    print(txt)
+    with open(path + txt, 'r') as f:
+        garbanzo = '\n' + f.read() #read text file and add \n new line character 
+                                    # sometimes committees are at the very top of page and not read in
+        # Regular expression pattern to match text to find committee, date
+        cmte = re.compile(r'(?<=\n)((?!\w+\s\d{1,2}|\d|Type: ).+?)(?=[,.])')
+        # Find all matches
+        committees = re.findall(cmte, garbanzo)
+        n_committees = len(committees)
+        indices = re.finditer(cmte, garbanzo) #iterative object for each instance
+        #print(len(committees), committees)
+
+        # when years exist run get_dates function
+        if yrs_exist == 'y':
+            month, day, year, dates = get_dates_w_years(garbanzo)
+
+        # when we don't have years -- NEEDS TO BE SOLVED want to get the year based on page, some condition for yes
+        else:
+            yr = yrs_exist_csv[(yrs_exist_csv['congress'] == int(congress)) & (yrs_exist_csv['pg'] == int(pg))]['year'].item()
+            if yr == 'y': # run the years function if we have on this page
+                print('running the function instead')
+                month, day, year, dates = get_dates_w_years(garbanzo)
+            else: # run with non-year regex
+                print('running the non-year regex')
+    #            re_date = r
+                date = re.compile(r'\b(' + re_month + '\.? \d{1,2}\b|n\.d\.')
+                dates = re.findall(date, garbanzo)
+                month = [d[:3] if len(d) > 4 else d for d in dates] #first 3 letters of month
+                day = [re.findall(r'(\d{1,2}$)', d)[0] if len(d)>4 else d for d in dates]  # day
+                year = [yr] * len(dates)
+    
+        n_dates = len(dates)
+
+    
+        #print(date[:5])
+        print('I found', n_committees, 'committees and', n_dates, 'dates!')
+        #print(dates)
+
+        #find types if they exist, else - none
+        #types_exist = input('Are committee types on page '+ pg +'? (y or n): ')
+        #if types_exist == 'y':
+         #   c_type = re.compile(r'(?<=Type: )(.*?)(?=[\n])')
+          #  cmte_types = re.findall(c_type, garbanzo)
+        #else:
+        cmte_types = [None]*len(committees)
+
+        if n_dates == n_committees: #only process if equal
+            starts = [m.start(0) for m in indices] #record first index of each committee
+            name = r'(\w(?!' + re_month + '+ \s\d{1,2}[)}>?:;.])'
+            names_votes = []
+            for i in range(len(starts)):
+                if i != len(starts)-1: # if not last
+                    names_votes += [re.findall(name, garbanzo[starts[i]+20:starts[i+1]])] #find all names and votes in the cmte range
+                else:
+                    names_votes += [re.findall(name, garbanzo[starts[i]+20:len(garbanzo)])] # for last committee just look to end
+
+            # Process the matches into a structured format
+            for n in range(len(committees)):
+            #print(committees[n], n)
+            # Split the name-votes by ';'
+                n_names += [len(names_votes[n])] #append number of names for committee n
+                for nv in names_votes[n]:
+                    nv = nv.replace('\n', ' ')[:-1] #remove new line and end punctuation
+                    name, votes = nv.split(' ')
+                    #print(name, votes)
+                    df_data.append([name, votes, committees[n], cmte_types[n], month[n], day[n], year[n], congress, pg])
+            print(' ')
+            print('Summary Stats on Number of Names for each Commitee on page', pg)
+            print('Min:', min(n_names), 'Max:', max(n_names), 'Median names per committee:', statistics.median(n_names))      
+            print(' ')
+        else:
+            print('Error: Dates and Committees do not match. Last recorded date:',(dates[-1] if n_dates>0 else 'None') + '. Check page', pg)
+            print('Opening file for editing...')
+            print('Here are the committees:',committees)
+            print('Here are the dates:',dates)
+            # Open the text file in a text editor
+            os.system('start ' + folder + '/Scans/' + txt[:-4] + '.png &&'
+                      'notepad ' + path + txt)
+
+            print('File edited. Reprocessing...') #goes back into while loop and starts again
+
+    f.close()
+    
+print('Done processing, creating .csv file ....')
+# Create a DataFrame
+df = pd.DataFrame(df_data, columns=["NAME", "VOTES", "COMMITTEE", "CMTE_TYPE","MONTH", "DAY", "YEAR", "CONGRESS", "PAGE"])
+df.to_csv('Data/' + folder + '_Data.csv', index=False)
