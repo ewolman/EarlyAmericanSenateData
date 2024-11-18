@@ -14,9 +14,6 @@ def get_dates_w_years(txt):
 
     return month, day, year, dates
 
-re_month = 'Jan(?:uary)|Feb(?:ruary)|March|Apr(?:il)|May|Jun(?:e)|Jul(?:y)|Aug(?:ust)|Sep(?:tember)|Oct(?:ober)|Nov(?:ember)|Dec(?:ember))\S*' # month regex
-# senator with name Marsh so we are ignoring all Mar's to count dates -- 
-# can be edited in txt and will be flagged when running this file
 
 folder = input('Input Congress number: ') + '_Congress'
 edited = input('Have the text files been edited already? (y or n): ')
@@ -69,8 +66,7 @@ for txt in texts:
                 month, day, year, dates = get_dates_w_years(garbanzo)
             else: # run with non-year regex
                 print('running the non-year regex')
-    #            re_date = r
-                date = re.compile(r'\b(' + re_month + '\.? \d{1,2}\b|n\.d\.')
+                date = re.compile(r'\b(?:Jan(?:uary)?|Feb(?:ruary)?|March|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\S*\.?\s\d{1,2}\b|n\.d\.')
                 dates = re.findall(date, garbanzo)
                 month = [d[:3] if len(d) > 4 else d for d in dates] #first 3 letters of month
                 day = [re.findall(r'(\d{1,2}$)', d)[0] if len(d)>4 else d for d in dates]  # day
@@ -93,13 +89,13 @@ for txt in texts:
 
         if n_dates == n_committees: #only process if equal
             starts = [m.start(0) for m in indices] #record first index of each committee
-            name = r'(\w(?!' + re_month + '+ \s\d{1,2}[)}>?:;.])'
+            name = r'(\b(?!Jan(?:uary)?\b|Feb(?:ruary)?\b|Mar(?:ch)?\b|Apr(?:il)?\b|May|Jun(?:e)?\b|Jul(?:y)?\b|Aug(?:ust)?\b|Sep(?:tember)?\b|Oct(?:ober)?\b|Nov(?:ember)?\b|Dec(?:ember)?\b)\w+\s\d{1,2}[)}>?:;.])'
             names_votes = []
             for i in range(len(starts)):
                 if i != len(starts)-1: # if not last
-                    names_votes += [re.findall(name, garbanzo[starts[i]+20:starts[i+1]])] #find all names and votes in the cmte range
+                    names_votes += [re.findall(name, garbanzo[starts[i]:starts[i+1]])] #find all names and votes in the cmte range
                 else:
-                    names_votes += [re.findall(name, garbanzo[starts[i]+20:len(garbanzo)])] # for last committee just look to end
+                    names_votes += [re.findall(name, garbanzo[starts[i]:len(garbanzo)])] # for last committee just look to end
 
             # Process the matches into a structured format
             for n in range(len(committees)):
