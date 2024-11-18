@@ -61,7 +61,7 @@ comb_all = pd.DataFrame() #empty dataframe
 skips  = pd.read_csv('skip_log.csv') # skippable names in a csv
 
 # READ IN VOTES AND COMBINE -- Check Nans
-vote_data = os.listdir('Data')
+vote_data = os.listdir('vote_data')
 #print(vote_data)
 for congress in vote_data:
    #read in as text so needs to be converted
@@ -69,7 +69,7 @@ for congress in vote_data:
    # entries of only correct names for given congress
    congress_names = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'] 
    print(c)
-   data = pd.read_csv('Data/' + congress)
+   data = pd.read_csv('vote_data/' + congress)
    # lowercase name
    data['NAME'] = data['NAME'].str.lower()
    #print(data.head())
@@ -123,7 +123,7 @@ for congress in vote_data:
       # replace incorrect nonmatches from data sheet and resave
    #print(nonmatches, corrections)   
    data = data.replace(nonmatches, corrections)
-   data.to_csv('Data/' + congress, index = False)
+   data.to_csv('vote_data/' + congress, index = False)
 
 
 

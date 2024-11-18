@@ -21,17 +21,18 @@ yrs_exist = input('''Do all the sheets have dates with years?
                     IF NO make sure there is a 'pg_years.csv' that has the years for each page!
                     (y or n - includes if only some pages have years): ''')
 
+main_path = 'scans_and_text/' + folder
 if edited == 'y':
-    texts = [f for f in os.listdir(folder + '/Text/Edited') if f.endswith('.txt')] #only edited .txt files
-    path = folder + '/Text/Edited/'
+    texts = [f for f in os.listdir(main_path + '/Text/Edited') if f.endswith('.txt')] #only edited .txt files
+    path = main_path + '/Text/Edited/'
 else:
-    texts = [f for f in os.listdir(folder + '/Text') if f.endswith('.txt')] #only .txt files
-    path = folder + '/Text/'
+    texts = [f for f in os.listdir(main_path + '/Text') if f.endswith('.txt')] #only .txt files
+    path = main_path + '/Text/'
 
 if yrs_exist == 'y':
     pass
 else:
-    yrs_exist_csv = pd.read_csv(folder + '/pg_years.csv')
+    yrs_exist_csv = pd.read_csv(main_path + '/pg_years.csv')
 
 df_data = [] # empty list to append data
 for txt in texts:
@@ -117,7 +118,7 @@ for txt in texts:
             print('Here are the committees:',committees)
             print('Here are the dates:',dates)
             # Open the text file in a text editor
-            os.system('start ' + folder + '/Scans/' + txt[:-4] + '.png &&'
+            os.system('start ' + main_path + '/Scans/' + txt[:-4] + '.png &&'
                       'notepad ' + path + txt)
 
             print('File edited. Reprocessing...') #goes back into while loop and starts again
@@ -127,4 +128,4 @@ for txt in texts:
 print('Done processing, creating .csv file ....')
 # Create a DataFrame
 df = pd.DataFrame(df_data, columns=["NAME", "VOTES", "COMMITTEE", "CMTE_TYPE","MONTH", "DAY", "YEAR", "CONGRESS", "PAGE"])
-df.to_csv('Data/' + folder + '_Data.csv', index=False)
+df.to_csv('vote_data/' + folder + '_Data.csv', index=False)
