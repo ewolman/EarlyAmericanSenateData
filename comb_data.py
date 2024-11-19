@@ -6,6 +6,16 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import sys
 
+# update_text - function to update given page's text file with correct name
+def update_text(congress, pg, old_name, new_name):
+   path = 'scans_and_text/' + congress + '_Congress/Text/Edited/' + congress + '_Congress_p' + pg + '.txt'
+   with open(path, 'r') as f:
+      txt = f.read()
+   txt_update = txt.replace(old_name, new_name)
+   with open(path, 'w') as f:
+      f.write(txt_update)
+   return 'Updated the ' + congress + 'Congress pg ' + pg + ' file'
+
 # read in info data
 info = pd.read_csv('Info.csv')
 
@@ -68,6 +78,9 @@ for congress in vote_data:
    c = int(congress[0]), congress[0] # int and str 
    # entries of only correct names for given congress
    congress_names = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'] 
+   # list of names that appear twice
+   
+   dupes = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'].value_counts() > 1
    print(c)
    data = pd.read_csv('vote_data/' + congress)
    # lowercase name
@@ -80,6 +93,7 @@ for congress in vote_data:
    i = 0 # index
    for name in nonmatches: #iterate through unique nonmatches
       print(name)
+      pgs = data[data['NAME'] == name]['PAGE']
       # check if name can be skipped
       if sum(skips.iloc[:,0].str.fullmatch(name)) > 0: #check if name is in skip csv
          print(name)
@@ -90,27 +104,39 @@ for congress in vote_data:
       closest_matches = process.extract(name, congress_names, limit = 2) # find 2 closest matches
       # if the match score is above 80, append
       if closest_matches[0][1] > 80:
-         corrections.append(closest_matches[0][0])
+         new_name = closest_matches[0][0]
+         corrections.append(new_name)
+         for p in pgs:
+            update_text(c[1], str(p), name, new_name)
       # else: ask for input to look at matches
       else:
          print(data[data['NAME'] == name]) # print mistake
          # open documents and ask for input
          print('Pick closest match ' + name + str(closest_matches) + ' (1 or 2, 3 if wrong): ')
          pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
-         os.system('start ' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
-                    + '&& notepad ' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
+         os.system('start scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
+                    + '&& notepad scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
          m = int(input())
          if m == 1 or m == 2:
             # append based on choice - 1
-            corrections.append(closest_matches[m-1][0])
+            new_name = closest_matches[m-1][0]
+            corrections.append(new_name)
+            for p in pgs:
+               update_text(c[1], str(p), name, new_name)
          elif m == 3:
 
             # if no mistake, then delete nonmatch i from list, and add to file to skip in future
-            if input('Is this actually correct (add to data w/o correction)? (y or n): ') == 'y':
+            # if mistake is fixable - ask for new name - change in txt file and vote csv
+            q = input('1: Add to data without correction; 2: Name needs to be changed; 3: Error; : ')
+            if  int(q) == 1:
                nonmatches = np.delete(nonmatches, i)
                skips = skips.append(name)
                skips.to_csv('skip_log.csv', index = False)
-
+            elif int(q) == 2:
+               new_name = input('Corrected name: ')
+               corrections.append(new_name)
+               for p in pgs:
+                  update_text(c[1], str(p), name, new_name)
             else: 
                print('Something needs to be changed in the files, writing name to error file ....')
                # writes wrong name and data to a log file
@@ -120,10 +146,10 @@ for congress in vote_data:
             print('Something is wrong here')
             sys.exit(1)
       i += 1
-      # replace incorrect nonmatches from data sheet and resave
+   # replace incorrect nonmatches from data sheet and save in updated folder
    #print(nonmatches, corrections)   
    data = data.replace(nonmatches, corrections)
-   data.to_csv('vote_data/' + congress, index = False)
+   data.to_csv('vote_data/updated/' + congress, index = False)
 
 
 

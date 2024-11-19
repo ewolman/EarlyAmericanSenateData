@@ -5,4 +5,126 @@ Names that don't show up in the Senate file w/ their committee data:
 [1 rows x 9 columns]     NAME  VOTES               COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
 1441  que      8  cmte on Mason’s motion        NaN   Jan   18  1799         5    17      NAME  VOTES              COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
 2649  pate      1  Cmte on Appropriation        NaN   Jul    4  1797         5     3      NAME  VOTES                 COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
-3254  mace      1  Cmte on bill impeachment        NaN   Jan   23  1798         5     7
+3254  mace      1  Cmte on bill impeachment        NaN   Jan   23  1798         5     7     NAME  VOTES                                          COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1341   tf      2  Cmte on bill delegate from NW Territory franki...        NaN   Dec    3  1800         6    17
+1355   tf      2          Cmte on bill on powers over Washington DC        NaN   Dec    5  1800         6    17
+1373   tf      1                  Cmte on Shadrach Inman's petition        NaN   Dec    8  1800         6    17
+1440   tf      1                 Cmte on petition of Paul McDermott        NaN   Dec    8  1800         6    18
+1453   tf      6               Cmte on translation of French papers        NaN   Dec   19  1800         6    18
+1486   tf      7                             cmte on GW's Mausoluem        NaN   Jan    6  1801         6    18
+1502   tf      1  Cmte on report from ratification and communica...        NaN   Jan   15  1801         6    18
+1545   tf     11               Cmte on bill organizing courts of US        NaN   Jan   22  1801         6    18
+1589   tf      1      cmte on bill duties on wine spirits and sugar        NaN   Jan   22  1801         6    18
+1611   tf      3   Cmte on bill GW's mausoleum & amendment reported        NaN   Jan   27  1801         6    18
+1634   tf      1                         Cmte on votes for PUS & VP        NaN   Jan   27  1801         6    19
+1697   tf      1  Cmte on bill transportation of goods from Phil...        NaN   Jan   30  1801         6    19
+1718   tf      3  Cmte on memorial of Clerks in several departments        NaN   Jan   30  1801         6    19
+1740   tf      1                  Cmte on petition of Joseph Nourse        NaN   Feb    3  1801         6    19
+1800   tf      1                            Cmte bill John C Symmes        NaN   Feb    6  1801         6    19
+1821   tf      1                   Cmte on customs district in Ohio        NaN   Feb    6  1801         6    20
+1850   tf      2  Cmte on PUS's message on property in his posse...        NaN   Feb   18  1801         6    20
+1867   tf      2  Cmte on bill to amend act valuation of lands -...        NaN   Feb   20  1801         6    20
+1891   tf      2     Cmte on bills - civil & Military appropriation        NaN   Feb   20  1801         6    20
+1912   tf      2            Cmte on bill relief of Nathaniel Holmes        NaN   Feb   20  1801         6    20
+1936   tf      1                                       Cmte bill MD        NaN   Feb   24  1801         6    20
+1954   tf      3          Cmte on Wells's motion to settle accounts        NaN   Feb   24  1801         6    20
+1976   tf      1                          Cmte on AH Dohrman’s bill        NaN   Feb   24  1801         6    20
+2021   tf      1  Cmte on bill further to alter & est certain Po...        NaN   Feb   25  1801         6    21
+2099   tf      1                Cmte bill Naval peace establishment        NaN   Feb   27  1801         6    21
+2118   tf      1                             Cmte on bill Drawbacks        NaN   Feb   27  1801         6    21
+2153   tf      2                                Cmte bill judiciary        NaN   Feb   28  1801         6    21
+2193   tf      7         Cmte on bill teas destroyed by fires in RI        NaN   Mar    2  1801         6    22
+2248   tf      1                      Cmte on letter of VP this day        NaN   Mar    2  1801         6    22
+2268   tf      1  Cmte on bill altering the time of holding cert...        NaN   Mar    2  1801         6    22
+2299   tf      1                                Cmte to wait on PUS        NaN   Mar    3  1801         6    22
+2348   tf      2              Cmte on HR bill to amend seat of govt        NaN   Mar    3  1801         6    22     NAME  VOTES                                          COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1374   df      5                  Cmte on Shadrach Inman's petition        NaN   Dec    8  1800         6    17
+1387   df      7                             cmte on enrolled bills        NaN   Dec   10  1800         6    17
+1394   df      1                 Cmte on William Smith's nomination        NaN   Dec   10  1800         6    17
+1408   df     11                          cmte Robert Hooper's bill        NaN   Dec   17  1800         6    17
+1426   df      9                Cmte on petitions of John Pitchlynn        NaN   Dec   18  1800         6    17
+1441   df      5                 Cmte on petition of Paul McDermott        NaN   Dec    8  1800         6    18
+1454   df      3               Cmte on translation of French papers        NaN   Dec   19  1800         6    18
+1487   df      8                             cmte on GW's Mausoluem        NaN   Jan    6  1801         6    18
+1527   df     19  Cmte on bill for erecting lighthouses on Cape ...        NaN   Jan   22  1801         6    18
+1612   df      3   Cmte on bill GW's mausoleum & amendment reported        NaN   Jan   27  1801         6    18
+1635   df      1                         Cmte on votes for PUS & VP        NaN   Jan   27  1801         6    19
+1674   df      1         Cmte on bill for relief of Samuel Lewis Sr        NaN   Jan   30  1801         6    19
+1698   df      1  Cmte on bill transportation of goods from Phil...        NaN   Jan   30  1801         6    19
+1719   df      2  Cmte on memorial of Clerks in several departments        NaN   Jan   30  1801         6    19
+1741   df      2                  Cmte on petition of Joseph Nourse        NaN   Feb    3  1801         6    19
+1761   df      7                           cmte bill Biddleford & c        NaN   Feb    5  1801         6    19
+1801   df      3                            Cmte bill John C Symmes        NaN   Feb    6  1801         6    19
+1837   df      1  Ballot for teller for counting votes for PUS & VP        NaN   Feb   10  1801         6    20
+1868   df      1  Cmte on bill to amend act valuation of lands -...        NaN   Feb   20  1801         6    20
+1892   df      3     Cmte on bills - civil & Military appropriation        NaN   Feb   20  1801         6    20
+1913   df      5            Cmte on bill relief of Nathaniel Holmes        NaN   Feb   20  1801         6    20
+1977   df      6                          Cmte on AH Dohrman’s bill        NaN   Feb   24  1801         6    20
+2003   df      2  Cmte on bill supplementary to act to divide te...        NaN   Feb   25  1801         6    21
+2022   df      3  Cmte on bill further to alter & est certain Po...        NaN   Feb   25  1801         6    21
+2041   df      1           Cmte on bill Sec of Navy shall not trade        NaN   Feb   26  1801         6    21
+2057   df      4         Cmte on HR resolution re Theodosius Fowler        NaN   Feb   26  1801         6    21
+2119   df      1                             Cmte on bill Drawbacks        NaN   Feb   27  1801         6    21
+2154   df      2                                Cmte bill judiciary        NaN   Feb   28  1801         6    21
+2175   df      1                 Cmte bill to amend Bankruptcy bill        NaN   Mar    2  1801         6    21
+2194   df      3         Cmte on bill teas destroyed by fires in RI        NaN   Mar    2  1801         6    22
+2213   df      2      Cmte bill receivers of public money for lands        NaN   Mar    2  1801         6    22
+2249   df      1                      Cmte on letter of VP this day        NaN   Mar    2  1801         6    22
+2269   df      1  Cmte on bill altering the time of holding cert...        NaN   Mar    2  1801         6    22
+2300   df      2                                Cmte to wait on PUS        NaN   Mar    3  1801         6    22     NAME  VOTES                                          COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1380  stm      1                  Cmte on Shadrach Inman's petition        NaN   Dec    8  1800         6    17
+1398  stm      2                 Cmte on William Smith's nomination        NaN   Dec   10  1800         6    17
+1417  stm      4                          cmte Robert Hooper's bill        NaN   Dec   17  1800         6    17
+1432  stm      1                Cmte on petitions of John Pitchlynn        NaN   Dec   18  1800         6    17
+1474  stm      3                   Cmte on nomination of A St Clair        NaN   Dec   30  1800         6    18
+1574  stm      2              Cmte on bill relief of Solomon Boston        NaN   Jan   22  1801         6    18
+1596  stm      1      cmte on bill duties on wine spirits and sugar        NaN   Jan   22  1801         6    18
+1725  stm      1  Cmte on memorial of Clerks in several departments        NaN   Jan   30  1801         6    19
+1768  stm      1                           cmte bill Biddleford & c        NaN   Feb    5  1801         6    19
+1876  stm      2  Cmte on bill to amend act valuation of lands -...        NaN   Feb   20  1801         6    20
+1921  stm      4            Cmte on bill relief of Nathaniel Holmes        NaN   Feb   20  1801         6    20
+1986  stm      1                          Cmte on AH Dohrman’s bill        NaN   Feb   24  1801         6    20
+2046  stm      2           Cmte on bill Sec of Navy shall not trade        NaN   Feb   26  1801         6    21
+2065  stm      1         Cmte on HR resolution re Theodosius Fowler        NaN   Feb   26  1801         6    21
+2086  stm      2                          Cmte bill Bermuda hundred        NaN   Feb   26  1801         6    21
+2140  stm      2              Cmte to draft answer to address of VP        NaN   Feb   28  1801         6    21
+2179  stm      1                 Cmte bill to amend Bankruptcy bill        NaN   Mar    2  1801         6    21
+2201  stm      1         Cmte on bill teas destroyed by fires in RI        NaN   Mar    2  1801         6    22
+2291  stm      2                                    Cmte on bill DC        NaN   Mar    2  1801         6    22
+2303  stm      8                                Cmte to wait on PUS        NaN   Mar    3  1801         6    22     NAME  VOTES                                          COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1475   jm      1                   Cmte on nomination of A St Clair        NaN   Dec   30  1800         6    18
+1493   jm      1                             cmte on GW's Mausoluem        NaN   Jan    6  1801         6    18
+1511   jm      4  Cmte on report from ratification and communica...        NaN   Jan   15  1801         6    18
+1534   jm      3  Cmte on bill for erecting lighthouses on Cape ...        NaN   Jan   22  1801         6    18
+1551   jm     13               Cmte on bill organizing courts of US        NaN   Jan   22  1801         6    18
+1597   jm      4      cmte on bill duties on wine spirits and sugar        NaN   Jan   22  1801         6    18
+1620   jm      1   Cmte on bill GW's mausoleum & amendment reported        NaN   Jan   27  1801         6    18
+1660   jm      1  Cmte on bill for land to Canada & Nova Scotia ...        NaN   Jan   30  1801         6    19
+1705   jm      1  Cmte on bill transportation of goods from Phil...        NaN   Jan   30  1801         6    19
+1748   jm      1                  Cmte on petition of Joseph Nourse        NaN   Feb    3  1801         6    19
+1769   jm      6                           cmte bill Biddleford & c        NaN   Feb    5  1801         6    19
+1787   jm      7                             Cmte on Mines & metals        NaN   Feb    5  1801         6    19
+1830   jm      3                   Cmte on customs district in Ohio        NaN   Feb    6  1801         6    20
+1877   jm      3  Cmte on bill to amend act valuation of lands -...        NaN   Feb   20  1801         6    20
+1899   jm      4     Cmte on bills - civil & Military appropriation        NaN   Feb   20  1801         6    20
+1922   jm      5            Cmte on bill relief of Nathaniel Holmes        NaN   Feb   20  1801         6    20
+1960   jm      5          Cmte on Wells's motion to settle accounts        NaN   Feb   24  1801         6    20
+1987   jm      5                          Cmte on AH Dohrman’s bill        NaN   Feb   24  1801         6    20
+2009   jm      1  Cmte on bill supplementary to act to divide te...        NaN   Feb   25  1801         6    21
+2029   jm      4  Cmte on bill further to alter & est certain Po...        NaN   Feb   25  1801         6    21
+2047   jm      3           Cmte on bill Sec of Navy shall not trade        NaN   Feb   26  1801         6    21
+2066   jm      2         Cmte on HR resolution re Theodosius Fowler        NaN   Feb   26  1801         6    21
+2087   jm      3                          Cmte bill Bermuda hundred        NaN   Feb   26  1801         6    21
+2106   jm      7                Cmte bill Naval peace establishment        NaN   Feb   27  1801         6    21
+2126   jm      7                             Cmte on bill Drawbacks        NaN   Feb   27  1801         6    21
+2141   jm     12              Cmte to draft answer to address of VP        NaN   Feb   28  1801         6    21
+2180   jm      4                 Cmte bill to amend Bankruptcy bill        NaN   Mar    2  1801         6    21
+2202   jm      1         Cmte on bill teas destroyed by fires in RI        NaN   Mar    2  1801         6    22
+2219   jm      2      Cmte bill receivers of public money for lands        NaN   Mar    2  1801         6    22
+2238   jm      1             Cmte on bill Sec of T to employ Clerks        NaN   Mar    2  1801         6    22
+2254   jm      8                      Cmte on letter of VP this day        NaN   Mar    2  1801         6    22
+2275   jm      7  Cmte on bill altering the time of holding cert...        NaN   Mar    2  1801         6    22
+2320   jm      2                       Cmte bill to amend stamp act        NaN   Mar    3  1801         6    22
+2336   jm      5               cmte bill for relief of Laurance Elb        NaN   Mar    3  1801         6    22
+2355   jm      1              Cmte on HR bill to amend seat of govt        NaN   Mar    3  1801         6    22     NAME  VOTES                                          COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE
+1503   sf      2  Cmte on report from ratification and communica...        NaN   Jan   15  1801         6    18
