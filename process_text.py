@@ -88,11 +88,9 @@ for txt in texts:
         #else:
         cmte_types = [None]*len(committees)
         
-        ## ADD IN CONDITION TO GET EVERYTHING IN BETWEEN ; and ; -- current problem - multiple same last names
-        ## Plumer 2; Potter 2; IsSmith 1; J Smith(NY) 1; Smith(OH) 1;
         if n_dates == n_committees: #only process if equal
             starts = [m.start(0) for m in indices] #record first index of each committee
-            name = r'(\b(?!Jan(?:uary)?\b|Feb(?:ruary)?\b|Mar(?:ch)?\b|Apr(?:il)?\b|May|Jun(?:e)?\b|Jul(?:y)?\b|Aug(?:ust)?\b|Sep(?:tember)?\b|Oct(?:ober)?\b|Nov(?:ember)?\b|Dec(?:ember)?\b)\w+\s\d{1,2}[)}>?:;.])'
+            name = r'(\b(?!Jan(?:uary)?\b|Feb(?:ruary)?\b|Mar(?:ch)?\b|Apr(?:il)?\b|May|Jun(?:e)?\b|Jul(?:y)?\b|Aug(?:ust)?\b|Sep(?:tember)?\b|Oct(?:ober)?\b|Nov(?:ember)?\b|Dec(?:ember)?\b)[A-Za-z .(),\'-]+\s\d{1,2}[)}>?:;.])'
             names_votes = []
             for i in range(len(starts)):
                 if i != len(starts)-1: # if not last
