@@ -6,39 +6,58 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import sys
 
-# update_text - functions to update given page's text file with correct name
-# Includes dictionary to record changes
+# functions to record correct names for a given error
+# Includes dictionary to record changes and first names for given duplicates
 try:
    with open('name_changes.json', 'r') as f:
       name_changes = json.load(f)
 except FileNotFoundError:
    name_changes = {}
+try: 
+   with open('duplicate_dict.json', 'r') as f:
+      duplicate_dict = json.load(f)
+except FileNotFoundError:
+   duplicate_dict = {}
 
 # function to add correction to dictionary
 def add_correction(name_changes, corrections, congress, old_name, new_name):
    if congress not in name_changes: # check if changes includes given congress
       name_changes[congress] = {}   # if not - create new dictionary for given congress
-   # check if the last name appears more than once in said congress
    name_changes[congress][old_name] = new_name # add a new correction 
    # save file
    with open('name_changes.json', 'w') as f:
       json.dump(name_changes, f, indent = 4) # indent for readability
-   return corrections.append(new_name) # append to corrections list
+   corrections.append(new_name) # append to corrections list   
+   return corrections
 
 # function to get correction for a given name
 def get_correction(name_changes, congress, name):
    return name_changes.get(str(congress), {}).get(name, None) # returns empty dict, None for nonexistent congresses/Names
 
-#function to check and choose duplicate
-def check_duplicate(duplicates, info, data, congress, old_name, new_name):
-   if new_name in duplicates:
-      # get full names of senators with same last name 
-      dupes = (info[(info['congressNumber'] == congress) & (info['unaccentedFamilyName'].isin(duplicates))]['givenName'])
-      print(dupes)
-      d = input('Pick first name from list above: ')
-      data.loc[(data['NAME'] == old_name), ['first']] = dupes[d]
+#function to check and choose duplicate - record in dict. Should only run if new_name is a duplicate
+def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
+   # ADD IN DICTIONARY TO RECORD WHICH PAGE/CONGRESS INSTANCE OF EACH NAME MAPS TO EACH FIRST NAME TO AVOID REPEATING THIS
+   if congress not in dupe_dict:
+      dupe_dict[congress] = {}
+
+   first_name = get_correction(dupe_dict, congress, old_name)
+   # case where first name has already been given for this mistake
+   if first_name is not None: # first name is known
+      data.loc[(data['NAME'] == old_name), ['first']] = first_name # update data
       return data
-   else:
+   
+   else: # first name is unknown
+      print(data[data['NAME'] == name]) # print instances of old_name
+      # print first names of the duplicates
+      dupes = (info[(info['congressNumber'] == int(congress)) & (info['unaccentedFamilyName'] == new_name)]['givenName'])
+      print(dupes)
+      d = int(input('Pick correct first name from list above: (number 1 to n) '))
+      # remember this correction by adding the first name to firstname column in vote data
+      # this will allow for easy merging
+      data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]
+      dupe_dict[congress][old_name] = dupes.iloc[d-1] # add to dictionary
+      with open('duplicate_dict.json', 'w') as f: # save dictionary
+         json.dump(duplicate_dict, f, indent = 4) # indent for readability
       return data
 
 # read in info data
@@ -98,7 +117,7 @@ comb_all = pd.DataFrame() #empty dataframe
 skips  = pd.read_csv('skip_log.csv') # skippable names in a csv
 
 # READ IN VOTES AND COMBINE -- Check Nans
-vote_data = os.listdir('vote_data')
+vote_data = [file for file in os.listdir('vote_data') if file.endswith('.csv')]
 #print(vote_data)
 for congress in vote_data:
    data = pd.read_csv('vote_data/' + congress)
@@ -112,6 +131,7 @@ for congress in vote_data:
    # find duplicate names by finding all names that appear more than once for a given congress
    duplicates = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'].value_counts() > 1
    duplicates = duplicates[duplicates].index # save a list of these names
+   print(duplicates)
 
    # lowercase names
    data['NAME'] = data['NAME'].str.lower()
@@ -135,34 +155,40 @@ for congress in vote_data:
       correction = get_correction(name_changes, c[0], name)
       if correction: 
          corrections.append(correction) # append to corrections list
-         data = check_duplicate(duplicates, info, data, congress, name, new_name)
+         if correction in duplicates:
+            data = update_duplicate(info, data, c[1], name, correction, duplicate_dict)
 
       # find correction
       else:
          pgs = data[data['NAME'] == name]['PAGE'] # record page appearances of incorrect name
 
          closest_matches = process.extract(name, congress_names, limit = 2) # find 2 closest matches
-         # if the match score is above 90, append without asking
-         if closest_matches[0][1] > 90: # threshold needs to be high because we can't match S Foster to Foster etc.
+         # if the match score is above 80, append without asking
+         if closest_matches[0][1] > 80: # catches obvious matches
             new_name = closest_matches[0][0]
             # update corrections dictionary file
-            corrections = add_correction(name_changes, corrections, c[0], name, new_name) 
-            data = check_duplicate(duplicates, info, data, congress, name, new_name)
+            corrections = add_correction(name_changes, corrections, c[1], name, new_name) 
+            if new_name in duplicates:
+               data = update_duplicate(info, data, c[1], name, new_name, duplicate_dict)
          
          # else: ask for input to look at matches
          else:
             print(data[data['NAME'] == name]) # print mistake
             # open documents and ask for input
-            print('Pick closest match ' + name + str(closest_matches) + ' (1 or 2, 3 if wrong): ')
-            pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
-            os.system('start scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
+            look_q = input('Mistake above ^ - do you want to look at the documents? (y or n): ')
+            if look_q == 'y': # open documents
+               pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
+               os.system('start scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
                     + '&& notepad scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
+
+            print('Pick closest match ' + name + str(closest_matches) + ' (1 or 2, 3 if wrong): ')
             m = int(input())
             if m == 1 or m == 2:
                # append based on choice - 1 is index 0, 2 is index 1
                new_name = closest_matches[m-1][0]
-               corrections = add_correction(name_changes, corrections, c[0], name, new_name)
-               data = check_duplicate(duplicates, info, data, congress, name, new_name)
+               corrections = add_correction(name_changes, corrections, c[1], name, new_name)
+               if new_name in duplicates:
+                  data = update_duplicate(info, data, c[1], name, new_name, duplicate_dict)
 
             elif m == 3:
                # if no mistake, then delete nonmatch i from list, and add to file to skip in future
@@ -172,10 +198,13 @@ for congress in vote_data:
                   nonmatches = np.delete(nonmatches, i)
                   skips = skips.append(name)
                   skips.to_csv('skip_log.csv', index = False)
+
                elif int(q) == 2:
                   new_name = input('Corrected name: ')
-                  corrections = add_correction(name_changes, corrections, c[0], name, new_name)
-                  data = check_duplicate(duplicates, info, data, congress, name, new_name)
+                  corrections = add_correction(name_changes, corrections, c[1], name, new_name)
+                  if new_name in duplicates:
+                     data = update_duplicate(info, data, c[1], name, new_name, duplicate_dict)
+
                else: 
                   print('Something needs to be changed in the files, writing name to error file ....')
                   # writes wrong name and data to a log file
@@ -200,5 +229,10 @@ for congress in vote_data:
 
 
 # comb_all to csv
+# When merging, duplicate last names get 2 entries per entry 
+# (e.g. Stevens Mason also merges with Jonathan Mason because it's based on last name)
+# Remove entries here since most entries have nonetype first names in their data files
+# remove all entries where the first name is not equal to given name in info and not none
+comb_all = comb_all[~((comb_all['first'] != comb_all['givenName']) & ~(comb_all['first'].isna()))]
 comb_all.to_csv('Merged_Data/info_data_upto_congress_' + c[1] + '.csv', index=False)
 print('Data successfully merged, writing to file ...')
