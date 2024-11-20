@@ -103,9 +103,11 @@ for txt in texts:
             #print(committees[n], n)
             # Split the name-votes by ';'
                 n_names += [len(names_votes[n])] #append number of names for committee n
+                pattern = r'(\D+?)\s(\d+)' # get non-digit characters until a space before digits
                 for nv in names_votes[n]:
                     nv = nv.replace('\n', ' ')[:-1] #remove new line and end punctuation
-                    name, votes = nv.split(' ')
+                    matches = re.findall(pattern, nv)
+                    name, votes = matches[0][0], matches[0][1]
                     #print(name, votes)
                     df_data.append([name, votes, committees[n], cmte_types[n], month[n], day[n], year[n], congress, pg])
             print(' ')
