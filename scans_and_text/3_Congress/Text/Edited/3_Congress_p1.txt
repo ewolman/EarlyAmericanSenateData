@@ -20,7 +20,7 @@ Bradford 2; Brown 1; Burr 1; Cabot 2; Ellsworth 3; Foster 7;
 Frelinghuysen 4; King 1; Langdon 2; Livermore 1; Mitchill 1;
 Potts 3; Ross 2; Strong 3; Tazewell 2; Vining 4.
 
-Cmte on G’town lighthouse. Feb 9, 1795. Langdon, Jackson,
+Cmte on G'town lighthouse. Feb 9, 1795. Langdon, Jackson,
 
 Bradford 1; Burr 1; Cabot 3; Edwards 1; Ellsworth 1; Hawkins 8;
 Jackson 9; Izard 7; Langdon 11; Livermore 1; Mitchill 1; Morris 1.
@@ -51,7 +51,7 @@ Bradford 1; Bradley 1; Brown 3; Burr 1; Cabot 4; Ellsworth 4;
 Foster 1; Frelinghuysen 1; Hawkins 6; Jackson 5; Langdon 2;
 Livermore 1; Potts 2; Ross 1; Rutherfurd 9; Strong 4; Tazewell 2.
 
-Cmte on Z Allen’s petition. Jan 27, 1795. f astev, Hm, Ellswortl
+Cmte on Z Allen's petition. Jan 27, 1795. f astev, Hm, Ellswortl
 Bradford 2; Bradley 2; Burr 1; Cabot 3; Ellsworth 5; Foster 9;
 Hawkins 3; Izard 1; King 1; Langdon 4; Livermore 2; Mitchill 2;
 Morris 2; ross 1; Strong 6; Tazewell 1.

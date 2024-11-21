@@ -1,8 +1,9 @@
 13
 
-cmte on P.O. Feb 7, 1797. f2adj (i Hosen lourance, Boss, Bram Howard, Martin
+cmte on PO. Feb 7, 1797. f2adj (i Hosen lourance, Boss, Bram Howard, Martin
+
 Bingham 5; Bloodworth 2; Blount 5; Bradford 1; Brown 9; Cocke 3;
-Goodhue 3: gunn 6; Henry 2; Hillhouse 6; Howard 9; Hunter 2;
+Goodhue 3; gunn 6; Henry 2; Hillhouse 6; Howard 9; Hunter 2;
 Langdon 6; Latimer 2; Laurance 14; Livermore 3; Marshall 4;
 Martin 8; Mason 6; Paine 5; Read 18; Ross 14; Rutherfurd 6;
 Sedgwick 6; Stockton S; Tattnall 6; Tazewell 2; Tichenor 6; Tracy
@@ -12,7 +13,7 @@ Jt Cmte re arrangements for PUS. Feb 9, 1797. Sedgwick, Tazewell},
 
 Brown 4; Burr 1; Cocke 1; Foster 1; Henry 3; How 3; Lang 3; Lat 1; 
 Laur 6; Liver 1; Marshall 1; Martin 2; Paine 1; Read 8; Ross 1;
-Sedgwick 19; Stock. 4; Taz 9; Tracy 2; Vin 1.
+Sedgwick 19; Stock 4; Taz 9; Tracy 2; Vin 1.
 
 Cmte on bill for military establishment. Feb 9, 1797. Burr, Gunn
 
@@ -37,7 +38,7 @@ Paine 2; Read 3; Ross 3; Sedg 10; Taz 3; Tich 1; tracy 3; Vin 8.
 
 cmte on debtors to US. Feb 16, 1797. ead avedn Noss
 Brown 1; Burr 3; Good 1; Henry 4; Hill 1; Lang 7; Lat 1;
-Laur 4; Liver 6; Marsh 3: Read 15; Ross 4; Ruth 2; Tatt 1; Taz 3; Tracy 4.
+Laur 4; Liver 6; Marsh 3; Read 15; Ross 4; Ruth 2; Tatt 1; Taz 3; Tracy 4.
 
 
 Cmte to draft answer to VP's farewell address. Feb 16, 1797. Aes Sedgvoricke, Burr Tes

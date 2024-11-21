@@ -27,8 +27,7 @@ Pickering 2; Plumer 1; Is Smith 2; S Smith 5; J Smith 10; Stone
 Cmte on Nancy flinn. Feb 18, 1804 JSmtK, Logan, Brechnrulge
 
 Anderson 2; Baldwin 3; Bradley 2; Breckinridge 4; Condit 2;
-Dayton 2; Ellery 2; Franklin 1; Hillhouse 2; Logan 6; Potter 1;
-smith 17; S Smith 1; Stone 3; Sumter 2; Tracy 2; White 2.
+Dayton 2; Ellery 2; Franklin 1; Hillhouse 2; Logan 6; Potter 1; J smith 17; S Smith 1; Stone 3; Sumter 2; Tracy 2; White 2.
 
 
 GimKend meals bo

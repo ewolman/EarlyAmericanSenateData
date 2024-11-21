@@ -18,13 +18,13 @@ Sumter 1; Tracy 1; Worthington 1; Wright 1.
 
 Cmte on appropriation for impeachment trials bill. March 12, 1804 Wn kt,
 
-Adams 1; Anderson 1; Armstrong 1; Bradley 1; Cocke 2; Ellery 2; Logan,
+Adams 1; Anderson 1; Armstrong 1; Bradley 1; Cocke 2; Ellery 2;
 Logan 5; Nicholas 2; Pickering 2; Plumer 1; J Smith(NY) 1; S Smith 2; 
 Stone 1; Tracy 5; Venable 2; Wells 1; White 2; Wright 6.
 
 Cmte on bill supplemental to City of Washington. March 12, 1804 Wraht
 
-Anderson 1; Armstrong 1; Baldwin 1; Dayton 1; Hillhouse 2; Stn,
+Anderson 1; Armstrong 1; Baldwin 1; Dayton 1; Hillhouse 2;
 Jackson 1; Logan 2; Pickering 1; Plumer 1; Is Smith 1; S Smith 2;
 Stone 3; Sumter 2; Tracy 3; Venable 3; Wells 1; White 3; Wright 4.
 
@@ -36,7 +36,7 @@ Sumter 2; Tracy 1; White 2; Wright 1.
 
 Cmte on impeachment trial of Samuel Chase. March 13, 1804 Baldwin ,Aidevson,
 
-Adams 3; Anderson 6; Baldwin 8; Bradley 3; Breckinridge 5; Dayton Meholas
+Adams 3; Anderson 6; Baldwin 8; Bradley 3; Breckinridge 5; Dayton
 5; Jackson 4; Logan 2; Maclay 1; Nicholas 6; Is Smith 1; J Smith(OH) 1; S Smith 1; Stone 4; Sumter 1; Tracy 5; Venable 3; Wright 1.
 
 Cmte on public roads. March 13, 1804 Micha, sethucgbr, Dao

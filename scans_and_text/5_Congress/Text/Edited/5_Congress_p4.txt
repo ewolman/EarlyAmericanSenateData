@@ -29,7 +29,7 @@ Anderson 2; Bing 1; Blood 9; Chip 2; Foster 1; Greene 4; Lang 6;
 Laur 1; Lat 1; Liver 1; Marsh 2; Mart 3; Paine 2; Sedg 1; Taze 1;
 Tracy 3.
 
-Cmte on navigation commerce parts of PUS's speech. Nov 29, 1797. Goodhue’s motion. Goodhue, Laurance, Tracy, Bingham, Gunn.
+Cmte on navigation commerce parts of PUS's speech. Nov 29, 1797. Goodhue s motion. Goodhue, Laurance, Tracy, Bingham, Gunn.
 
 Anderson 3; Bing 4; Blood 1; Chip 2; Foster 2; Good 14; Greene 3;
 Gunn 4; Lang 4; Laur 13; Lat 2; Liver 4; Marsh 4; Mart 3; Paine
@@ -38,7 +38,7 @@ Gunn 4; Lang 4; Laur 13; Lat 2; Liver 4; Marsh 4; Mart 3; Paine
 Cmte on invalid bill. Dec 1, 1797. Tracy, Gunn, Paine. ~
 
 And 1; Blood 1; Chip 3; Foster 3; Greene 1; Gunn 9; Hill 1;
-Jackson 2; Lang 1; Laur. 2; Liver 2; Marsh 2; Mart 3; Paine 4;
+Jackson 2; Lang 1; Laur 2; Liver 2; Marsh 2; Mart 3; Paine 4;
 Tracy 12.
 
 Cmte on Leg of TN memorial. Dec 4, 1797. Anderson, Laurance ;\

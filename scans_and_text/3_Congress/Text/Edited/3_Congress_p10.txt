@@ -22,7 +22,8 @@ Martin 6; Monroe 5; Morris 7; Potts 6; Ross 2; Rutherfurd 6.
 Cmte on bill payment of interest. May 19, 1794. Colbot, leclsm, Homs, Potts,
 
 Bradford 3; Burr 1; Cabot 11; Edwards 1; Ellsworth 8; Foster 2; 
-Gunn 1; Hawkins 3; Henry 3; Jackson 9; Izard 8; King 5; Langdon 1; Livermore 7; Martin 3; Monroe 6; Morris 9; Potts 9: Robinson 1; 
+Gunn 1; Hawkins 3; Henry 3; Jackson 9; Izard 8; King 5; Langdon 1; Livermore 7; 
+Martin 3; Monroe 6; Morris 9; Potts 9; Robinson 1; 
 Ross 4; Rutherfurd 1; Vining 4. 
 
 
@@ -37,7 +38,7 @@ Bradford 1; Cabot 1; Edwards 1; Ellsworth 5; Foster 1; Gunn 3;
 Hawkins 5; Henry 5; Jackson 2; Izard 1; King 9; Langdon 5;
 Livermore 2; Martin 4; Potts 3; Robinson 1; Rutherfurd 2.
 
-Cmte on Ellsworth’s bill re circuit courts. May 12, 1794. Ellsworth
+Cmte on Ellsworth's bill re circuit courts. May 12, 1794. Ellsworth
 
 Brown 2; Burr 1; Ellsworth 9; Frelinghuysen 9; Henry 1; King 1;
 Langdon 2; Livermore 2; Martin 1; Monroe 4; potts 1; Ross 9.
@@ -46,7 +47,7 @@ Cmte on meeting of Congress. May 8, 1794. Uvermora, Jacksm, Monroe
 Bradford 1; Cabot 1; Ellsworth 1; Henry 2; Jackson 5; Izard 2;
 Langdon 2; Livermore 9; Monroe 3; Potts 1; Ross 2; Strong 3; Taylor 1.
 
-Cmte on Butler’s motion respecting embargo. May 7, 1794. Butler
+Cmte on Butler's motion respecting embargo. May 7, 1794. Butler
 
 Bradford 3; Brown 1; Burr 3; Butler 10; Cabot 3; Ellsworth 4;
 Frelinghuysen 2; Hawkins 2; Henry 1; Jackson 2; King 2; Livermore

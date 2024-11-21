@@ -32,7 +32,7 @@ Jackson 5; Logan 1; Maclay 2; Nicholas 2; Pickering 1; S Smith
 
 Cmte on salary bill. Nov 23, 1803 Bradlecg., Baldusm, S Smcth
 
-Adams 4; Bailey 5; Baldwin 8; Bradley 9; Breckinridge 1, Butler
+Adams 4; Bailey 5; Baldwin 8; Bradley 9; Breckinridge 1; Butler
 2; Condit 2; ellery 3; Franklin 5; Jackson 2; Logan 4; Maclay 1;
 Nicholas 3; Plumer 1; I Smith 4; S Smith 6; J Smith 1; Stone 4;
 Taylor 3; Tracy 4; Wells 2; Worthington 1.

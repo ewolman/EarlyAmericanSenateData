@@ -37,7 +37,7 @@ Tracy 1.
 rack
 Cmte on Shadrach Inman's petition. Dec 8. Rader sor , Foster fren
 
-And 11; Bald 1; Blood 2; Chip 2, Cocke 3; Day 2; TF 1; DF 5;
+And 11; Bald 1; Blood 2; Chip 2; Cocke 3; Day 2; TF 1; DF 5;
 Frank 1; Gunn 3; Lang 2; Liver 1; Marsh 1; STM 1; Nich 1; Paine
 3; Schur 2; Tracy 4; Wells 2.
 
@@ -49,7 +49,7 @@ Cmte on William Smith's nomination. Dec 10. Horns, thllhoue, Gunn
 And 2; Bald 1; Brown 2; Day 1; DF 1; Gunn 10; Hill 13; Lang 2;
 STM 2; Morris 15; Nich 6; Paine 2; Schur 1; Tracy 2; Wells 3.
 
-°
+ 
 cmte Robert Hooper's bill. Dec 17. D Foster, laughon, [lacy
 
 And 1; Bald 5; Cocke 1; DF 11; Frank 1; Greene 2; Gunn 2; Hill 2;

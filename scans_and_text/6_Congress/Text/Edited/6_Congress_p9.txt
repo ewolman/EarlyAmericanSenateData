@@ -14,7 +14,7 @@ And 18; Bald 2; Blood 1; Brown 2; Chip 7; Day 3; Frank 3; Greene
 1; gunn 1; Lang 1; Laur 1; Marsh 14; Mas 3; Nich 3; Paine 1;
 Pinck 1; Ross 2; Schur 1; Tracy 2; Wat 1.
 
-Cmte addition to R Sturgeon’s Bill. March 1. Water
+Cmte addition to R Sturgeon's Bill. March 1. Water
 
 And 2; Bing 2; Chip 1; Day 1; Foster 1; Liver 3; Lloyd 1; Mason
 1; Paine 1; Ross 2; Watson 4.
