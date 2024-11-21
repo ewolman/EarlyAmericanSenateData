@@ -122,7 +122,7 @@ Breckinridge,2,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Dayton,2,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Ellery,6,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Franklin,2,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
-Hillhouse,3,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
+Wel Hillhouse,3,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Logan,1,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Pickering,3,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
 Plumer,1,cmte on drawback on goods transported bill,,Feb,24,1804,8,10
@@ -171,7 +171,7 @@ Plumer,2,Cmte on GL Davidson,,Feb,29,1804,8,10
 Potter,2,Cmte on GL Davidson,,Feb,29,1804,8,10
 IsSmith,1,Cmte on GL Davidson,,Feb,29,1804,8,10
 J Smith(NY),1,Cmte on GL Davidson,,Feb,29,1804,8,10
-Smith(OH),1,Cmte on GL Davidson,,Feb,29,1804,8,10
+ Smith(OH),1,Cmte on GL Davidson,,Feb,29,1804,8,10
 Stone,1,Cmte on GL Davidson,,Feb,29,1804,8,10
 Tracy,10,Cmte on GL Davidson,,Feb,29,1804,8,10
 Venable,2,Cmte on GL Davidson,,Feb,29,1804,8,10
@@ -339,7 +339,7 @@ Hillhouse,1,Cmte on civil govt for LA,,Mar,5,1804,8,11
 Jackson,1,Cmte on civil govt for LA,,Mar,5,1804,8,11
 Nicholas,1,Cmte on civil govt for LA,,Mar,5,1804,8,11
 Is Smith,1,Cmte on civil govt for LA,,Mar,5,1804,8,11
-Smith(NY),1,Cmte on civil govt for LA,,Mar,5,1804,8,11
+J Smith(NY),1,Cmte on civil govt for LA,,Mar,5,1804,8,11
 J Smith(OH),1,Cmte on civil govt for LA,,Mar,5,1804,8,11
 S Smith,3,Cmte on civil govt for LA,,Mar,5,1804,8,11
 Stone,3,Cmte on civil govt for LA,,Mar,5,1804,8,11
@@ -521,7 +521,7 @@ Anderson,6,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Baldwin,8,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Bradley,3,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Breckinridge,5,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
-Dayton Meholas,5,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
+Dayton,5,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Jackson,4,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Logan,2,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
 Maclay,1,Cmte on impeachment trial of Samuel Chase,,Mar,13,1804,8,12
@@ -711,22 +711,22 @@ S Smith,16,Cmte on bill to register ships,,Mar,20,1804,8,13
 Stone,3,Cmte on bill to register ships,,Mar,20,1804,8,13
 Tracy,2,Cmte on bill to register ships,,Mar,20,1804,8,13
 Venable,1,Cmte on bill to register ships,,Mar,20,1804,8,13
-Armstrong,2,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Baldwin,5,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Bradley,3,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Cocke,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Dayton,2,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Ellery,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Hillhouse,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Jackson,4,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Logan,2,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Pickering,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-J Smith(NY),1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Smith,3,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Stone,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Tracy,7,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Venable,2,Cmte on Morris Young March 21,,Mar,21,1804,8,13
-Wright,1,Cmte on Morris Young March 21,,Mar,21,1804,8,13
+Armstrong,2,Cmte on Morris Young,,Mar,21,1804,8,13
+Baldwin,5,Cmte on Morris Young,,Mar,21,1804,8,13
+Bradley,3,Cmte on Morris Young,,Mar,21,1804,8,13
+Cocke,1,Cmte on Morris Young,,Mar,21,1804,8,13
+Dayton,2,Cmte on Morris Young,,Mar,21,1804,8,13
+Ellery,1,Cmte on Morris Young,,Mar,21,1804,8,13
+Hillhouse,1,Cmte on Morris Young,,Mar,21,1804,8,13
+Jackson,4,Cmte on Morris Young,,Mar,21,1804,8,13
+Logan,2,Cmte on Morris Young,,Mar,21,1804,8,13
+Pickering,1,Cmte on Morris Young,,Mar,21,1804,8,13
+J Smith(NY),1,Cmte on Morris Young,,Mar,21,1804,8,13
+S Smith,3,Cmte on Morris Young,,Mar,21,1804,8,13
+Stone,1,Cmte on Morris Young,,Mar,21,1804,8,13
+Tracy,7,Cmte on Morris Young,,Mar,21,1804,8,13
+Venable,2,Cmte on Morris Young,,Mar,21,1804,8,13
+Wright,1,Cmte on Morris Young,,Mar,21,1804,8,13
 Anderson,1,Cmte on Moses Hazen bill,,Mar,21,1804,8,14
 Armstrong,6,Cmte on Moses Hazen bill,,Mar,21,1804,8,14
 Baldwin,6,Cmte on Moses Hazen bill,,Mar,21,1804,8,14
@@ -1234,7 +1234,7 @@ Maclay,2,cmte on MD bill,,Feb,7,1805,8,17
 Mitchill,5,cmte on MD bill,,Feb,7,1805,8,17
 Moore,1,cmte on MD bill,,Feb,7,1805,8,17
 Pickering,1,cmte on MD bill,,Feb,7,1805,8,17
-Smith,15,cmte on MD bill,,Feb,7,1805,8,17
+S Smith,15,cmte on MD bill,,Feb,7,1805,8,17
 J Smith(NY),5,cmte on MD bill,,Feb,7,1805,8,17
 J Smith(OH),2,cmte on MD bill,,Feb,7,1805,8,17
 Is Smith,2,cmte on MD bill,,Feb,7,1805,8,17
@@ -1242,7 +1242,6 @@ Stone,3,cmte on MD bill,,Feb,7,1805,8,17
 Tracy,1,cmte on MD bill,,Feb,7,1805,8,17
 White,3,cmte on MD bill,,Feb,7,1805,8,17
 Wright,6,cmte on MD bill,,Feb,7,1805,8,17
-" Dayton, Suth",40,Cmte on ports & harbors bill,,Feb,7,1805,8,17
 Adams,4,Cmte on ports & harbors bill,,Feb,7,1805,8,17
 Anderson,3,Cmte on ports & harbors bill,,Feb,7,1805,8,17
 Baldwin,5,Cmte on ports & harbors bill,,Feb,7,1805,8,17
@@ -1458,7 +1457,8 @@ Jackson,2,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 Logan,1,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 Maclay,3,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 Nicholas,2,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
-", Potter",1,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
+Pickering,1,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
+Potter,1,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 I Smith,2,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 J Smith,1,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
 Stone,2,Cmte on British Treaty appropriations,,Nov,4,1803,8,2
@@ -1666,7 +1666,8 @@ Adams,4,Cmte on salary bill,,Nov,23,1803,8,3
 Bailey,5,Cmte on salary bill,,Nov,23,1803,8,3
 Baldwin,8,Cmte on salary bill,,Nov,23,1803,8,3
 Bradley,9,Cmte on salary bill,,Nov,23,1803,8,3
-", Butler",2,Cmte on salary bill,,Nov,23,1803,8,3
+Breckinridge,1,Cmte on salary bill,,Nov,23,1803,8,3
+Butler,2,Cmte on salary bill,,Nov,23,1803,8,3
 Condit,2,Cmte on salary bill,,Nov,23,1803,8,3
 ellery,3,Cmte on salary bill,,Nov,23,1803,8,3
 Franklin,5,Cmte on salary bill,,Nov,23,1803,8,3
@@ -1832,7 +1833,6 @@ S Smith,23,Cmte on protection of Am seamen,,Dec,12,1803,8,4
 J Smith,1,Cmte on protection of Am seamen,,Dec,12,1803,8,4
 Tracy,1,Cmte on protection of Am seamen,,Dec,12,1803,8,4
 Worthington,3,Cmte on protection of Am seamen,,Dec,12,1803,8,4
-" Wertlongion,",9,Cmte on bill for relief of certain officers,,Dec,14,1803,8,4
 Adams,3,Cmte on bill for relief of certain officers,,Dec,14,1803,8,4
 Armstrong,1,Cmte on bill for relief of certain officers,,Dec,14,1803,8,4
 Baldwin,1,Cmte on bill for relief of certain officers,,Dec,14,1803,8,4
@@ -1866,7 +1866,7 @@ Logan,1,Cmte on importation of certain persons,,Dec,16,1803,8,4
 Maclay,2,Cmte on importation of certain persons,,Dec,16,1803,8,4
 Pickering,1,Cmte on importation of certain persons,,Dec,16,1803,8,4
 Plumer,1,Cmte on importation of certain persons,,Dec,16,1803,8,4
-Smith,5,Cmte on importation of certain persons,,Dec,16,1803,8,4
+Is Smith,5,Cmte on importation of certain persons,,Dec,16,1803,8,4
 S Smith,5,Cmte on importation of certain persons,,Dec,16,1803,8,4
 J Smith,1,Cmte on importation of certain persons,,Dec,16,1803,8,4
 Venable,7,Cmte on importation of certain persons,,Dec,16,1803,8,4
@@ -2107,7 +2107,7 @@ Jackson,10,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 Nicholas,6,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 Plumer,1,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 Potter,1,Cmte on LA bill recommitted,,Jan,6,1804,8,6
-Smith,16,Cmte on LA bill recommitted,,Jan,6,1804,8,6
+S Smith,16,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 J Smith,4,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 Tracy,3,Cmte on LA bill recommitted,,Jan,6,1804,8,6
 Venable,6,Cmte on LA bill recommitted,,Jan,6,1804,8,6
@@ -2132,29 +2132,28 @@ Nicholas,8,Cmte on naval appropriations,,Jan,6,1804,8,6
 Pickering,3,Cmte on naval appropriations,,Jan,6,1804,8,6
 Plumer,1,Cmte on naval appropriations,,Jan,6,1804,8,6
 Potter,2,Cmte on naval appropriations,,Jan,6,1804,8,6
-Smith,2,Cmte on naval appropriations,,Jan,6,1804,8,6
+I Smith,2,Cmte on naval appropriations,,Jan,6,1804,8,6
 S Smith,3,Cmte on naval appropriations,,Jan,6,1804,8,6
 J Smith,1,Cmte on naval appropriations,,Jan,6,1804,8,6
 Tracy,4,Cmte on naval appropriations,,Jan,6,1804,8,6
 Venable,2,Cmte on naval appropriations,,Jan,6,1804,8,6
 Wells,1,Cmte on naval appropriations,,Jan,6,1804,8,6
 Worthington,1,Cmte on naval appropriations,,Jan,6,1804,8,6
-Cmte on PUS's message of Dec,21,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Adams,1,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Baldwin,9,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Bradley,20,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Breckinridge,2,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Brown,2,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Cocke,1,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Dayton,3,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Franklin,1,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Jackson,6,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Logan,3,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Maclay,4,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-S Smith,5,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Stone,3,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Tracy,3,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
-Venable,4,Cmte on PUS's message of Dec 21,,Jan,9,1804,8,6
+Adams,1,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Baldwin,9,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Bradley,20,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Breckinridge,2,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Brown,2,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Cocke,1,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Dayton,3,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Franklin,1,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Jackson,6,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Logan,3,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Maclay,4,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+S Smith,5,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Stone,3,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Tracy,3,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
+Venable,4,Cmte on PUS's message of Dec-21,,Jan,9,1804,8,6
 Adams,1,Cmte on marine vessels,,Jan,14,1804,8,6
 Anderson,1,Cmte on marine vessels,,Jan,14,1804,8,6
 Armstrong,1,Cmte on marine vessels,,Jan,14,1804,8,6
@@ -2209,7 +2208,7 @@ Nicholas,1,Cmte on naval pension fund,,Jan,18,1804,8,7
 Pickering,2,Cmte on naval pension fund,,Jan,18,1804,8,7
 Plumer,2,Cmte on naval pension fund,,Jan,18,1804,8,7
 Is Smith,1,Cmte on naval pension fund,,Jan,18,1804,8,7
-Smith,16,Cmte on naval pension fund,,Jan,18,1804,8,7
+S Smith,16,Cmte on naval pension fund,,Jan,18,1804,8,7
 J Smith,4,Cmte on naval pension fund,,Jan,18,1804,8,7
 Stone,1,Cmte on naval pension fund,,Jan,18,1804,8,7
 Venable,1,Cmte on naval pension fund,,Jan,18,1804,8,7
@@ -2559,7 +2558,7 @@ Franklin,1,Cmte on Nancy flinn,,Feb,18,1804,8,9
 Hillhouse,2,Cmte on Nancy flinn,,Feb,18,1804,8,9
 Logan,6,Cmte on Nancy flinn,,Feb,18,1804,8,9
 Potter,1,Cmte on Nancy flinn,,Feb,18,1804,8,9
-smith,17,Cmte on Nancy flinn,,Feb,18,1804,8,9
+J smith,17,Cmte on Nancy flinn,,Feb,18,1804,8,9
 S Smith,1,Cmte on Nancy flinn,,Feb,18,1804,8,9
 Stone,3,Cmte on Nancy flinn,,Feb,18,1804,8,9
 Sumter,2,Cmte on Nancy flinn,,Feb,18,1804,8,9
