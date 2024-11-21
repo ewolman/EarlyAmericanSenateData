@@ -49,9 +49,9 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
    else: # first name is unknown
       print(data[data['NAME'] == name]) # print instances of old_name
       # print first names of the duplicates
-      dupes = (info[(info['congressNumber'] == int(congress)) & (info['unaccentedFamilyName'] == new_name)]['givenName'])
+      dupes = (info[(info['congressNumber'] == int(congress)) & (info['unaccentedFamilyName'] == new_name)][['givenName','state']])
       print(dupes)
-      d = int(input('Pick correct first name from list above: (number 1 to n) '))
+      d = int(input('Pick correct first name (and state) from list above: (number 1 to n) '))
       # remember this correction by adding the first name to firstname column in vote data
       # this will allow for easy merging
       data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]
