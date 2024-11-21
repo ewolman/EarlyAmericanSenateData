@@ -37,10 +37,9 @@ Sumter 2; Tracy 1; White 2; Wright 1.
 Cmte on impeachment trial of Samuel Chase. March 13, 1804 Baldwin ,Aidevson,
 
 Adams 3; Anderson 6; Baldwin 8; Bradley 3; Breckinridge 5; Dayton Meholas
-5; Jackson 4; Logan 2; Maclay 1; Nicholas 6; Is Smith 1; 
-J Smith(OH) 1; S Smith 1; Stone 4; Sumter 1; Tracy 5; Venable 3; Wright 1.
+5; Jackson 4; Logan 2; Maclay 1; Nicholas 6; Is Smith 1; J Smith(OH) 1; S Smith 1; Stone 4; Sumter 1; Tracy 5; Venable 3; Wright 1.
 
-Cmte on public records. March 13, 1804 Micha, sethucgbr, Dao
+Cmte on public roads. March 13, 1804 Micha, sethucgbr, Dao
 
 Adams 1; Anderson 3; Baldwin 2; Bradley 1; Breckinridge 5; Cocke
 1; Dayton 6; Hillhouse 3; Jackson 3; Logan 3; Maclay 4; Nicholas

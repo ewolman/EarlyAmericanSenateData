@@ -34,7 +34,7 @@ Adams 2; Baldwin 2; Bradley 1; Cocke 1; Condit 3; Ellery 6; Giles
 1; Stone 4; Sumter 4; Tracy 2; White 2; Worthington 2; Wright 6.
 
 
-Cmte on nomination for surgeons for navy. Nov 22, 1804.
+Cmte on nomination for navy surgeons. Nov 22, 1804.
 
 Bradley 13; Cocke 4; Condit 6; Dayton 2; Giles 4; Logan 4; Maclay
 1; Moore 1; Pickering 1; Is Smith 1; J Smith(OH) 1; Stone 3;
@@ -50,7 +50,7 @@ Stone 11; Sumter 1; Tracy 3.
 
 Cmte on NC bill. Nov 29, 1804 Coelce ,
 
-Adams 3; Baldwin 3; Bayard 2 (0); Bradley 5 (7); Cocke 12;
+Adams 3; Baldwin 3; Bayard 2; Bradley 7; Cocke 12;
 Franklin 7; Giles 4; Hillhouse 4; Logan 1; Moore 2; Olcott 1;
 Pickering 3; Stone 6; Sumter 2; Tracy 4; Worthington l.
 
