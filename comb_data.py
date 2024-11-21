@@ -40,10 +40,13 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
    if congress not in dupe_dict:
       dupe_dict[congress] = {}
 
-   first_name = get_correction(dupe_dict, congress, old_name)
+   name_st = get_correction(dupe_dict, congress, old_name) # returns ['name', 'st']
+   #print(name_st)
    # case where first name has already been given for this mistake
-   if first_name is not None: # first name is known
-      data.loc[(data['NAME'] == old_name), ['first']] = first_name # update data
+   if name_st is not None: # first name is known
+      data.loc[(data['NAME'] == old_name), ['first']] = name_st[0] # update data
+      data.loc[(data['NAME'] == old_name), ['st']] = name_st[1]
+
       return data
    
    else: # first name is unknown
@@ -52,12 +55,13 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
       dupes = (info[(info['congressNumber'] == int(congress)) & (info['unaccentedFamilyName'] == new_name)][['givenName','state']])
       print(dupes)
       d = int(input('Pick correct first name (and state) from list above: (number 1 to n) '))
-      # remember this correction by adding the first name to firstname column in vote data
+      # remember this correction by adding the first name + st to vote data
       # this will allow for easy merging
-      data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]
-      dupe_dict[congress][old_name] = dupes.iloc[d-1] # add to dictionary
+      data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]['givenName']
+      data.loc[(data['NAME'] == old_name), ['st']] = dupes.iloc[d-1]['state']
+      dupe_dict[congress][old_name] = [val for val in dupes.iloc[d-1].values] # add to dictionary
       with open('duplicate_dict.json', 'w') as f: # save dictionary
-         json.dump(duplicate_dict, f, indent = 4) # indent for readability
+         json.dump(dupe_dict, f, indent = 4) # indent for readability
       return data
 
 # read in info data
@@ -130,21 +134,23 @@ for congress in vote_data:
 
    # find duplicate names by finding all names that appear more than once for a given congress
    duplicates = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'].value_counts() > 1
-   duplicates = duplicates[duplicates].index # save a list of these names
+   duplicates = [n for n in duplicates[duplicates].index] # save a list of these names
    print(duplicates)
 
    # lowercase names
    data['NAME'] = data['NAME'].str.lower()
-   data['first'] = None # create a first name column for cases of duplicate last name
+   data['first'] = None # create a first name + st column for cases of duplicate last name
+   data['st'] = None
    #print(data.head())
 
-   # check for mistakes in data and get a list of non_matches to the info csv
-   nonmatches = data['NAME'][~data['NAME'].isin(congress_names)].unique()
+   # check for mistakes in data and get a list of non_matches AND DUPLICATES to the info csv
+   nonmatches = data['NAME'][(~data['NAME'].isin(congress_names)) | (data['NAME'].isin(duplicates))].unique()
    corrections = [] # empty list to record corrections
    i = 0 # index
    for name in nonmatches: #iterate through unique nonmatches
       #print(name)
       # check if name can be skipped
+      print(name)
       if sum(skips.iloc[:,0].str.fullmatch(name)) > 0: #check if name is in skip csv
          print(name)
          print('we in the skip zone')
@@ -156,6 +162,7 @@ for congress in vote_data:
       if correction: 
          corrections.append(correction) # append to corrections list
          if correction in duplicates:
+            #print(name, correction)
             data = update_duplicate(info, data, c[1], name, correction, duplicate_dict)
 
       # find correction
@@ -232,7 +239,7 @@ for congress in vote_data:
 # When merging, duplicate last names get 2 entries per entry 
 # (e.g. Stevens Mason also merges with Jonathan Mason because it's based on last name)
 # Remove entries here since most entries have nonetype first names in their data files
-# remove all entries where the first name is not equal to given name in info and not none
-comb_all = comb_all[~((comb_all['first'] != comb_all['givenName']) & ~(comb_all['first'].isna()))]
+# remove all entries where the first name and state are equal to given name in info and state or are none (non-dupes)
+comb_all = comb_all[((comb_all['first'] == comb_all['givenName']) & (comb_all['st'] == comb_all['state'])) |  (comb_all['first'].isna())]
 comb_all.to_csv('Merged_Data/info_data_upto_congress_' + c[1] + '.csv', index=False)
 print('Data successfully merged, writing to file ...')

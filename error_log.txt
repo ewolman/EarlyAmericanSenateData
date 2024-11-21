@@ -1,1 +1,8 @@
 Names that don't show up in the Senate file w/ their committee data:
+               NAME  VOTES                                    COMMITTEE  CMTE_TYPE  ... CONGRESS  PAGE  first    st
+1833   wertlongion,      9  Cmte on bill for relief of certain officers        NaN  ...        8     4   None  None
+
+[1 rows x 11 columns]                              NAME  VOTES                        COMMITTEE  CMTE_TYPE  ... CONGRESS  PAGE  first    st
+2140  cmte on pus's message of dec     21  Cmte on PUS's message of Dec 21        NaN  ...        8     6   None  None
+
+[1 rows x 11 columns]

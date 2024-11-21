@@ -87,16 +87,21 @@ for txt in texts:
           #  cmte_types = re.findall(c_type, garbanzo)
         #else:
         cmte_types = [None]*len(committees)
-        
+
+        starts = [m.start(0) for m in indices] #record first index of each committee
+        newlines = [garbanzo.find('\n',start) for start in starts ] #record first new line after cmtes
+        if len(starts) != len(newlines): # should be a rare error, but in case this happens
+            n_dates += 100               # adding 100 to n_dates will avoid if block and open docs
+
         if n_dates == n_committees: #only process if equal
-            starts = [m.start(0) for m in indices] #record first index of each committee
-            name = r'(\b(?!Jan(?:uary)?\b|Feb(?:ruary)?\b|Mar(?:ch)?\b|Apr(?:il)?\b|May|Jun(?:e)?\b|Jul(?:y)?\b|Aug(?:ust)?\b|Sep(?:tember)?\b|Oct(?:ober)?\b|Nov(?:ember)?\b|Dec(?:ember)?\b)[A-Za-z .(),\'-]+\s\d{1,2}[)}>?:;.])'
+            
+            name = r'(\b(?!Jan(?:uary)?\b|Feb(?:ruary)?\b|Mar(?:ch)?\b|Apr(?:il)?\b|May|Jun(?:e)?\b|Jul(?:y)?\b|Aug(?:ust)?\b|Sep(?:tember)?\b|Oct(?:ober)?\b|Nov(?:ember)?\b|Dec(?:ember)?\b)[A-Za-z \n.():,\'-]+\s\d{1,2}[)}>?,:;.])'
             names_votes = []
             for i in range(len(starts)):
                 if i != len(starts)-1: # if not last
-                    names_votes += [re.findall(name, garbanzo[starts[i]:starts[i+1]])] #find all names and votes in the cmte range
+                    names_votes += [re.findall(name, garbanzo[newlines[i]:starts[i+1]])] #find all names and votes in the cmte range
                 else:
-                    names_votes += [re.findall(name, garbanzo[starts[i]:len(garbanzo)])] # for last committee just look to end
+                    names_votes += [re.findall(name, garbanzo[newlines[i]:len(garbanzo)])] # for last committee just look to end
 
             # Process the matches into a structured format
             for n in range(len(committees)):

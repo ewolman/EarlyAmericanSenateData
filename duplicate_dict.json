@@ -1,25 +1,176 @@
 {
     "6": {
-        "mas": "Stevens",
-        "fost": "Theodore",
-        "tfoster": "Theodore",
-        "dfoster": "Dwight",
-        "tf": "Theodore",
-        "stmason": "Stevens",
-        "df": "Dwight",
-        "stm": "Stevens",
-        "jmason": "Jonathan",
-        "jm": "Jonathan",
-        "sf": "Dwight",
-        "tr": "Theodore"
+        "mas": [
+            "Stevens",
+            "VA"
+        ],
+        "fost": [
+            "Theodore",
+            "RI"
+        ],
+        "tfoster": [
+            "Theodore",
+            "RI"
+        ],
+        "dfoster": [
+            "Dwight",
+            "MA"
+        ],
+        "tf": [
+            "Theodore",
+            "RI"
+        ],
+        "stmason": [
+            "Stevens",
+            "VA"
+        ],
+        "df": [
+            "Dwight",
+            "MA"
+        ],
+        "stm": [
+            "Stevens",
+            "VA"
+        ],
+        "jmason": [
+            "Jonathan",
+            "MA"
+        ],
+        "jm": [
+            "Jonathan",
+            "MA"
+        ],
+        "sf": [
+            "Dwight",
+            "MA"
+        ],
+        "tr": [
+            "Theodore",
+            "RI"
+        ],
+        "foster": [
+            "Theodore",
+            "RI"
+        ],
+        "mason": [
+            "Stevens",
+            "VA"
+        ]
     },
     "7": {
-        "tfoster": "Theodore",
-        "stmason": "Stevens",
-        "tfos": "Theodore",
-        "stm": "Stevens",
-        "tf": "Theodore",
-        "df": "Dwight",
-        "jm": "Jonathan"
+        "tfoster": [
+            "Theodore",
+            "RI"
+        ],
+        "stmason": [
+            "Stevens",
+            "VA"
+        ],
+        "tfos": [
+            "Theodore",
+            "RI"
+        ],
+        "stm": [
+            "Stevens",
+            "VA"
+        ],
+        "tf": [
+            "Theodore",
+            "RI"
+        ],
+        "df": [
+            "Dwight",
+            "MA"
+        ],
+        "jm": [
+            "Jonathan",
+            "MA"
+        ],
+        "j.mason": [
+            "Jonathan",
+            "MA"
+        ]
+    },
+    "8": {
+        "smithvt": [
+            "Israel",
+            "VT"
+        ],
+        "ismith": [
+            "Israel",
+            "VT"
+        ],
+        "ssmith": [
+            "Samuel",
+            "MD"
+        ],
+        "issmith": [
+            "Israel",
+            "VT"
+        ],
+        "smith(ny)": [
+            "John",
+            "NY"
+        ],
+        "jsmith(oh)": [
+            "John",
+            "OH"
+        ],
+        "j smith(ny)": [
+            "John",
+            "NY"
+        ],
+        "smith(oh)": [
+            "John",
+            "OH"
+        ],
+        "is smith": [
+            "Israel",
+            "VT"
+        ],
+        "j smith(oh)": [
+            "John",
+            "OH"
+        ],
+        "s smith": [
+            "Samuel",
+            "MD"
+        ],
+        " smith(ny)": [
+            "John",
+            "NY"
+        ],
+        "i smith": [
+            "Israel",
+            "VT"
+        ],
+        "s smith(ny)": [
+            "John",
+            "NY"
+        ],
+        "jo smith(oh)": [
+            "John",
+            "OH"
+        ],
+        "smith(md)": [
+            "Samuel",
+            "MD"
+        ],
+        "j smith": [
+            "John",
+            "OH"
+        ],
+        "john smith": [
+            "John",
+            "OH"
+        ],
+        "is": [
+            "Israel",
+            "VT"
+        ],
+        " smith(oh)": [
+            "John",
+            "OH"
+        ]
     }
 }
