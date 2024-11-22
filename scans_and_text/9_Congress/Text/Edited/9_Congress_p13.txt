@@ -39,7 +39,7 @@ Tracy 17; Turner 2; White 3; Worth 1; Wright 5.
 Cmte bill St Domingo commerce. Jan 16, 1806. lenge Bae
 
 Bald 7; Bradl 6; Gilm 7; Howl 1; Kit 3; Logan 17; Maclay 3; Mit
-2; Moore 2; MD 5; OH 1; VI 1; Sumter 4; Tracy 2; Turner 1; wright 7.
+2; Moore 2; MD 5; OH 1; Vt 1; Sumter 4; Tracy 2; Turner 1; wright 7.
 
 $5
 
@@ -71,7 +71,7 @@ Wright 8.
 cmte on MI govt. Jan 22, 1806. Maclay, Kitclrel , Smocth Late),
 
 Adair 1; Bald 3; Bradl 1; Cond 1; Gil 3; Howl 1; Kit 5; Maclay
-11; Moore 1; Plum 1; MD 2; NY 2; OH 4; TN 1; VI 4; Sum 2; Thrus
+11; Moore 1; Plum 1; MD 2; NY 2; OH 4; TN 1; Vt 4; Sum 2; Thrus
 2; Tracy 2; Turner 3; White 1; Worth 1; Wright 1.
 
 9th Congress
