@@ -1,8 +1,6 @@
 Names that don't show up in the Senate file w/ their committee data:
-               NAME  VOTES                                    COMMITTEE  CMTE_TYPE  ... CONGRESS  PAGE  first    st
-1833   wertlongion,      9  Cmte on bill for relief of certain officers        NaN  ...        8     4   None  None
-
-[1 rows x 11 columns]                              NAME  VOTES                        COMMITTEE  CMTE_TYPE  ... CONGRESS  PAGE  first    st
-2140  cmte on pus's message of dec     21  Cmte on PUS's message of Dec 21        NaN  ...        8     6   None  None
-
-[1 rows x 11 columns]
+      NAME  VOTES                              COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
+2489  lambert      1  cmte to notify PUS ready for business        NaN   Mar    4  1809        10    22  None  None       NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
+2498  brent      5  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None          NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
+2500  germaine      1  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None         NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
+2505  malbone      3  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None

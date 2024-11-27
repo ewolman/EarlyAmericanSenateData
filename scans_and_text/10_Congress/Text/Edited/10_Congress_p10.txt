@@ -37,7 +37,7 @@ Adams 2; And 2; Bradl 2; Cond 1; Frank 9; giles 3; Gregg 2; Kit
 Cmte on library. Feb 24, 1808. Hitelrall Adams, Gerla
 
 Adams 14; And 2; Bay 1; Bradl 3; Cond 1; Craw 1; Frank 1; Giles
-5; Gregg 1; Howl 1; Kit 1; Mall 1; Mit 15; Moore 1; NY 1; Thrus
+5; Gregg 1; Howl 1; Kit 1; Mill 1; Mit 15; Moore 1; NY 1; Thrus
 4; White 1.
 
 

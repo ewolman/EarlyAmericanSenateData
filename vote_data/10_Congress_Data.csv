@@ -102,7 +102,7 @@ Giles,5,Cmte on library,,Feb,24,1808,10,10
 Gregg,1,Cmte on library,,Feb,24,1808,10,10
 Howl,1,Cmte on library,,Feb,24,1808,10,10
 Kit,1,Cmte on library,,Feb,24,1808,10,10
-Mall,1,Cmte on library,,Feb,24,1808,10,10
+Mill,1,Cmte on library,,Feb,24,1808,10,10
 Mit,15,Cmte on library,,Feb,24,1808,10,10
 Moore,1,Cmte on library,,Feb,24,1808,10,10
 NY,1,Cmte on library,,Feb,24,1808,10,10
@@ -411,7 +411,7 @@ Frank,4,Cmte on sale lands,,Mar,11,1808,10,11
 Gaill,2,Cmte on sale lands,,Mar,11,1808,10,11
 Giles,1,Cmte on sale lands,,Mar,11,1808,10,11
 Gilm,2,Cmte on sale lands,,Mar,11,1808,10,11
-Food,1,Cmte on sale lands,,Mar,11,1808,10,11
+good,1,Cmte on sale lands,,Mar,11,1808,10,11
 Gregg,4,Cmte on sale lands,,Mar,11,1808,10,11
 Howl,2,Cmte on sale lands,,Mar,11,1808,10,11
 Kit,2,Cmte on sale lands,,Mar,11,1808,10,11
@@ -2479,36 +2479,6 @@ Thrus,1,Jt cmte to notify PUS of recess,,Mar,3,1809,10,22
 Tif,2,Jt cmte to notify PUS of recess,,Mar,3,1809,10,22
 Turner,3,Jt cmte to notify PUS of recess,,Mar,3,1809,10,22
 White,1,Jt cmte to notify PUS of recess,,Mar,3,1809,10,22
-And,8,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Bay,6,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Bradl,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Craw,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Frank,4,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Gail,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Gilm,2,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Gregg,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Kit,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Lambert,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Math,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Pick,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Pope,2,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-MD,5,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Thrus,1,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-Tif,4,cmte to notify PUS ready for business,,Mar,4,1809,10,22
-And,2,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Bay,19,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Brent,5,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Gaill,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Germaine,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Gilm,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Gregg,3,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Hill,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Leib,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Malbone,3,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Math,1,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Pope,3,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-Reed,7,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
-White,3,cmte on Sam Blair & Sam Honley,,Mar,7,1809,10,22
 Adams,4,cmte to wait on PUS,,Oct,26,1807,10,4
 And,13,cmte to wait on PUS,,Oct,26,1807,10,4
 Bradl,8,cmte to wait on PUS,,Oct,26,1807,10,4
@@ -3542,7 +3512,7 @@ Frank,2,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 Good,1,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 Gregg,3,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 Hill,1,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
-Rive,1,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
+kit,1,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 Moore,2,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 pick,2,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
 Pope,1,Cmte on Anderson's resolution - TN lands,,Feb,3,1808,10,8
