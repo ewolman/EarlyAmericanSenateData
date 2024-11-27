@@ -5,6 +5,7 @@ import os
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import sys
+import re
 
 # functions to record correct names for a given error
 # Includes dictionary to record changes and first names for given duplicates
@@ -122,11 +123,15 @@ skips  = pd.read_csv('skip_log.csv') # skippable names in a csv
 
 # READ IN VOTES AND COMBINE -- Check Nans
 vote_data = [file for file in os.listdir('vote_data') if file.endswith('.csv')]
+numbers = [] # to get latest congress
 #print(vote_data)
 for congress in vote_data:
    data = pd.read_csv('vote_data/' + congress)
    #read in as text so needs to be converted
-   c = int(congress[0]), congress[0] # int and str 
+   c_num = re.search(r'^\d{1,2}', congress)[0]
+   c = int(c_num), c_num # int and str
+   numbers += [c[0]] 
+   print('Congress -', c[1])
 
    # entries of correct names for given congress
    congress_names = info[info['congressNumber'] == c[0]]['unaccentedFamilyName'] 
@@ -150,7 +155,6 @@ for congress in vote_data:
    for name in nonmatches: #iterate through unique nonmatches
       #print(name)
       # check if name can be skipped
-      print(name)
       if sum(skips.iloc[:,0].str.fullmatch(name)) > 0: #check if name is in skip csv
          print(name)
          print('we in the skip zone')
@@ -241,5 +245,11 @@ for congress in vote_data:
 # Remove entries here since most entries have nonetype first names in their data files
 # remove all entries where the first name and state are equal to given name in info and state or are none (non-dupes)
 comb_all = comb_all[((comb_all['first'] == comb_all['givenName']) & (comb_all['st'] == comb_all['state'])) |  (comb_all['first'].isna())]
-comb_all.to_csv('Merged_Data/info_data_upto_congress_' + c[1] + '.csv', index=False)
+# lowercase and rename columns
+comb_all.columns = [c.lower() for c in comb_all.columns]
+comb_all = comb_all.rename(columns={'id' : 'senator_id', 'givenname' : 'first_name', 
+                            'unaccentedfamilyname' : 'last_name','parties' : 'party', 
+                            'cmte_type':'committee_type', 'birthyear': 'birth_year',
+                            'deathyear': 'death_year'})
+comb_all.to_csv('Merged_Data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
 print('Data successfully merged, writing to file ...')

@@ -2,20 +2,7 @@ import sqlite3, pandas as pd, os, re
 
 # block of code to open the most up to date file
 # list of 
-csvs = os.listdir('Merged_Data')
-num = re.compile(r'(?<=_)(\d{1,2}[.csv])')
-ns = []
-for c in csvs:
-    if len(re.findall(num, c)) >0:
-        ns += re.findall(num, c)
-    else:
-        ns += ['0.']
-# open highest number
-ns = [int(i[:-1]) for i in ns]
-file = csvs[ns.index(max(ns))]
-data = pd.read_csv('Merged_Data/' + file)
-
-
+                 
 def FillTable(TableName, Data, curs):
     '''Load data from a dataframe to a table, 
     assumes that the columns in the dataframe and the table have the same name'''
@@ -37,10 +24,26 @@ def FillTable(TableName, Data, curs):
             return 0
     return 1
 
-def Rebuild(data):
+def Rebuild():
     
     try:
-
+        # load in senator data
+        csvs = os.listdir('Merged_Data')
+        num = re.compile(r'(?<=_)(\d{1,2}[.csv])')
+        ns = []
+        for c in csvs:
+            if len(re.findall(num, c)) >0:
+                ns += re.findall(num, c)
+            else:
+                ns += ['0.']
+        
+        # open highest number
+        ns = [int(i[:-1]) for i in ns]
+        file = csvs[ns.index(max(ns))]
+        data = pd.read_csv('Merged_Data/' + file)
+        data['age'] = data['age'].astype('Int32')
+        tSenator = data[['senator_id', 'first_name', 'last_name', 'birth_year', 'death_year']]        
+        
         # Building the database
         conn = sqlite3.connect('data.db')
         curs = conn.cursor()
@@ -49,36 +52,42 @@ def Rebuild(data):
 
         curs.execute('DROP TABLE IF EXISTS tSenator')
         curs.execute("""CREATE TABLE tSenator(
-                        id TEXT PRIMARY KEY,
+                        senator_id TEXT PRIMARY KEY,
                         first_name TEXT NOT NULL,
                         last_name TEXT NOT NULL,
+                        birth_year INTEGER,
+                        death_year INTEGER);""")
+
+        curs.execute('DROP TABLE IF EXISTS tSenatorByCongress')
+        curs.execute("""CREATE TABLE tSenatorByCongress(
+                        senator_congress_id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        senator_id TEXT REFERENCES tSenator(senator_id),
                         congress INTEGER NOT NULL CHECK (congress < 17),
-                        age INTEGER,
-                        postion TEXT NOT NULL, 
+                        age INTEGER, 
                         state TEXT NOT NULL CHECK (length(state) == 2),
                         party TEXT);""")
-        
+
+#                        committee_type TEXT,
         curs.execute('DROP TABLE IF EXISTS tCommittee')
         curs.execute("""CREATE TABLE tCommittee(
-                        committee_id INTEGER PRIMARY KEY,
-                        committee TEXT NOT NULL,
-                        committee_type TEXT,
-                        month TEXT NOT NULL CHECK (month LIKE '___' OR 'n.d.'),
-                        day TEXT NOT NULL CHECK (day LIKE '__' OR 'n.d.'),
-                        year TEXT NOT NULL CHECK (length(year) == 4),
+                        committee_id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        committee_name TEXT NOT NULL,
+                        month TEXT NOT NULL CHECK ((month LIKE '___') OR (month = 'n.d.')),
+                        day TEXT NOT NULL CHECK ((length(day) < 3) OR (day = 'n.d.')),
+                        year TEXT NOT NULL CHECK (year LIKE '____' OR 'n.d.'),
                         congress INTEGER NOT NULL CHECK (congress < 17),
                         page TEXT NOT NULL CHECK ((length(page) < 3) OR (length(page) == 5)));""")
 
         curs.execute('DROP TABLE IF EXISTS tVotes')
         curs.execute("""CREATE TABLE tVotes(
-                        id TEXT REFERENCES tSenator(id),
+                        senator_id TEXT REFERENCES tSenator(senator_id),
+                        senator_congress_id INTEGER REFERENCES tSenatorByCongress(senator_congress_id),
                         votes INTEGER NOT NULL CHECK (votes < 100),
                         committee_id INTEGER REFERENCES tCommittee(committee_id));""")
-
-        FillTable('tState', tState, curs)
-        FillTable('tZip', tZip, curs)
-        FillTable('tProd', tProd, curs)
         
+        tSenator = tSenator.drop_duplicates(['senator_id'])
+        FillTable('tSenator', tSenator, curs) # Fill senator table
+
     except Exception as err:
         print(err)
         # Revert all changes, quit and return 0
@@ -87,3 +96,112 @@ def Rebuild(data):
     conn.commit()
     conn.close()
     return 1
+
+def GetSenatorCongressID(senator_id, congress, age, state, party, conn, curs):
+
+    sql = """SELECT senator_congress_id FROM tSenatorByCongress
+                WHERE senator_id = ?
+                AND congress = ?
+                AND age = ?
+                AND state = ?
+                AND party = ?;"""
+    
+    insert_sql = "INSERT INTO tSenatorByCongress (senator_id, congress, age, state, party)" + \
+                 " VALUES (:senator_id, :congress, :age, :state, :party);"
+    
+    row = {'senator_id': senator_id, 
+           'congress': congress, 
+           'age': age, 
+           'state': state,
+           'party': party}
+
+    # select senator_congress_id for given senator and congress
+    df = pd.read_sql(sql, conn, params = (senator_id,congress,age,state,party))
+    
+    # If the senator is not in the database (tSenatorByCongress)
+    if len(df) == 0:
+        curs.execute(insert_sql, row)
+    
+        sen_congress_id = pd.read_sql(sql,conn, params = (senator_id,congress,age,state,party))['senator_congress_id'][0]
+        
+    # Extract sen_congress_id
+    else:
+        sen_congress_id = df['senator_congress_id'][0]
+
+    return sen_congress_id
+
+def GetCmteID(cmte_name, month, day, year, congress, pg, conn, curs):
+
+#                AND committee_type = ?
+
+    sql = """SELECT committee_id FROM tCommittee
+                WHERE committee_name = ?
+                AND month = ?
+                AND day = ?
+                AND year = ?
+                AND congress = ?
+                AND page = ?;"""
+    
+    insert_sql = "INSERT INTO tCommittee (committee_name, month, day, year, congress, page)" + \
+                 " VALUES (:committee_name, :month, :day, :year, :congress, :page);"
+    
+    row = {'committee_name': cmte_name, 
+           'month': month, 
+           'day': day, 
+           'year': year,
+           'congress': congress,
+           'page': pg}
+
+    # Select cmte_id for the name -- nothing if it's not in already
+    df = pd.read_sql(sql, conn, params = (cmte_name, month, day, year, congress, pg))
+    #print('df:', df)
+    # If the committee is not in the database (tCommittee)
+    if len(df) == 0:
+        #print('no cmte found')
+        curs.execute(insert_sql, row)
+        #print('curs.execute ran')
+        cmte_id = pd.read_sql(sql,conn, params = (cmte_name, month, day, year, congress, pg))['committee_id'][0]
+        #print('cmte_id:', cmte_id)
+    # Extract cmte_id
+    else:
+        #print(df.loc[0])
+        cmte_id = df['committee_id'][0]
+    
+    return cmte_id
+    
+
+def LoadVoteData(data, conn, curs):
+
+    try:
+        i = 0
+        # read in row by row
+        for row in data.to_dict(orient = 'records'):
+            # Get senator and committee id
+            # insert committee into db if doesn't exist
+            senator_id = row['senator_id']
+            #print('senator_id:', senator_id)
+            sen_congress_id = GetSenatorCongressID(senator_id,row['congress'], row['age'], row['state'], row['party'], conn, curs)
+            #print('senator_congress_id: ', sen_congress_id)
+            cmte_id = GetCmteID(row['committee'], row['month'], row['day'], row['year'], row['congress'], row['page'], conn, curs)
+            #print(cmte_id)
+            insert_sql = "INSERT INTO tVotes (senator_id, senator_congress_id, votes, committee_id)" + \
+                            "VALUES (?,?,?,?);"
+
+            parameters = (senator_id, sen_congress_id, row['votes'], cmte_id)
+            #print(parameters)
+
+            curs.execute(insert_sql, parameters)
+            i += 1
+
+    except Exception as err:
+        print(err)
+        print(row)
+        print(i)
+        conn.rollback()
+        return 0
+    
+    conn.commit()
+    conn.close()
+    return 1
+
+Rebuild()
