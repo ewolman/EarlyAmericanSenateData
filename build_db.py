@@ -179,15 +179,15 @@ def LoadVoteData(data, conn, curs):
             # Get senator and committee id
             # insert committee into db if doesn't exist
             senator_id = row['senator_id']
-            #print('senator_id:', senator_id)
+            #print('senator_id, type:', senator_id, type(senator_id))
             sen_congress_id = GetSenatorCongressID(senator_id,row['congress'], row['age'], row['state'], row['party'], conn, curs)
-            #print('senator_congress_id: ', sen_congress_id)
+            #print('senator_congress_id, type: ', sen_congress_id, type(sen_congress_id))
             cmte_id = GetCmteID(row['committee'], row['month'], row['day'], row['year'], row['congress'], row['page'], conn, curs)
-            #print(cmte_id)
+            #print('committee id, type:', cmte_id, type(cmte_id))
             insert_sql = "INSERT INTO tVotes (senator_id, senator_congress_id, votes, committee_id)" + \
                             "VALUES (?,?,?,?);"
 
-            parameters = (senator_id, sen_congress_id, row['votes'], cmte_id)
+            parameters = (senator_id, int(sen_congress_id), row['votes'], int(cmte_id))
             #print(parameters)
 
             curs.execute(insert_sql, parameters)

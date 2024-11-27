@@ -22,9 +22,7 @@ for c in csvs:
 ns = [int(i[:-1]) for i in ns]
 file = csvs[ns.index(max(ns))]
 data = pd.read_csv('Merged_Data/' + file)
-
 conn = sqlite3.connect('data.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 
-conn.close()
