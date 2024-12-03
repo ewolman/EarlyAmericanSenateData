@@ -3,6 +3,7 @@ import build_db
 
 # delete db if exists
 if os.path.exists('data.db'):
+    print('it exists')
     os.remove('data.db')
 
 # Create the database

@@ -1,7 +1,5 @@
 import sqlite3, pandas as pd, os, re
 
-# block of code to open the most up to date file
-# list of 
                  
 def FillTable(TableName, Data, curs):
     '''Load data from a dataframe to a table, 
@@ -27,7 +25,7 @@ def FillTable(TableName, Data, curs):
 def Rebuild():
     
     try:
-        # load in senator data
+        # load in senator 
         csvs = os.listdir('Merged_Data')
         num = re.compile(r'(?<=_)(\d{1,2}[.csv])')
         ns = []
@@ -84,9 +82,44 @@ def Rebuild():
                         senator_congress_id INTEGER REFERENCES tSenatorByCongress(senator_congress_id),
                         votes INTEGER NOT NULL CHECK (votes < 100),
                         committee_id INTEGER REFERENCES tCommittee(committee_id));""")
-        
+    
         tSenator = tSenator.drop_duplicates(['senator_id'])
         FillTable('tSenator', tSenator, curs) # Fill senator table
+
+        # Views
+        curs.execute('DROP VIEW IF EXISTS vVotesBySenator')
+        curs.execute("""CREATE VIEW vVotesBySenator as 
+                WITH SenInfo AS
+                    (SELECT senator_id, senator_congress_id, first_name, last_name, age, congress, state, party
+                      FROM(tSenatorByCongress 
+                      LEFT JOIN tSenator
+                      USING(senator_id))) 
+                SELECT first_name, last_name, age, congress, state, party, votes, committee_name, senator_id, senator_congress_id, committee_id
+                  FROM(SELECT senator_congress_id, votes, committee_name, committee_id
+                        FROM tVotes
+                        LEFT JOIN tCommittee
+                        USING(committee_id))
+                        LEFT JOIN SenInfo
+                        USING(senator_congress_id);""")
+        
+        curs.execute('DROP VIEW IF EXISTS vTotalVotesByCongress')
+        curs.execute("""CREATE VIEW vTotalVotesByCongress as
+                         With VByC as
+                            (SELECT first_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
+                             FROM vVotesBySenator
+                             GROUP BY senator_congress_id
+                             ORDER BY TotalVotes DESC)
+                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VByC;""")
+
+        curs.execute('DROP VIEW IF EXISTS vTotalVotesAllTime')
+        curs.execute("""CREATE VIEW vTotalVotesAllTime as
+                        WITH VAT as
+                        (SELECT first_name, last_name, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
+                            FROM vVotesBySenator
+                            GROUP BY senator_id
+                            ORDER BY TotalVotes DESC)
+                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VAT;""")     
+        
 
     except Exception as err:
         print(err)
@@ -203,5 +236,3 @@ def LoadVoteData(data, conn, curs):
     conn.commit()
     conn.close()
     return 1
-
-Rebuild()
