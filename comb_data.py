@@ -190,8 +190,8 @@ for congress in vote_data:
             look_q = input('Mistake above ^ - do you want to look at the documents? (y or n): ')
             if look_q == 'y': # open documents
                pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
-               os.system('start scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
-                    + '&& notepad scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
+               os.system('start Data/scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
+                    + '&& notepad Data/scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
 
             print('Pick closest match ' + name + str(closest_matches) + ' (1 or 2, 3 if wrong): ')
             m = int(input())
