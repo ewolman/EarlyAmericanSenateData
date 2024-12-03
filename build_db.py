@@ -43,7 +43,7 @@ def Rebuild():
         tSenator = data[['senator_id', 'first_name', 'middle_name','last_name', 'birth_year', 'death_year']]        
         
         # Building the database
-        conn = sqlite3.connect('data.db')
+        conn = sqlite3.connect('database.db')
         curs = conn.cursor()
         curs.execute("PRAGMA foreign_keys=ON;")
         print(pd.read_sql("PRAGMA foreign_keys;", conn))
@@ -106,7 +106,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesByCongress')
         curs.execute("""CREATE VIEW vTotalVotesByCongress as
                          With VByC as
-                            (SELECT first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
+                            (SELECT first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
                              FROM vVotesBySenator
                              GROUP BY senator_congress_id
                              ORDER BY TotalVotes DESC)
@@ -115,7 +115,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesAllTime')
         curs.execute("""CREATE VIEW vTotalVotesAllTime as
                         WITH VAT as
-                        (SELECT first_name, middle_name, last_name, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
+                        (SELECT first_name, middle_name, last_name, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
                             FROM vVotesBySenator
                             GROUP BY senator_id
                             ORDER BY TotalVotes DESC)

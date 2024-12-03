@@ -2,9 +2,9 @@ import sqlite3, pandas as pd, os, numpy as np, re
 import build_db
 
 # delete db if exists
-if os.path.exists('data.db'):
+if os.path.exists('database.db'):
     print('it exists')
-    os.remove('data.db')
+    os.remove('database.db')
 
 # Create the database
 build_db.Rebuild()
@@ -23,7 +23,7 @@ for c in csvs:
 ns = [int(i[:-1]) for i in ns]
 file = csvs[ns.index(max(ns))]
 data = pd.read_csv('Merged_Data/' + file)
-conn = sqlite3.connect('data.db')
+conn = sqlite3.connect('database.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 

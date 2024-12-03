@@ -7,7 +7,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 print('Input Congress number:')
 number = input()
 
-main_path = 'scans_and_text/' + number +  '_Congress/'
+main_path = 'Data/scans_and_text/' + number +  '_Congress/'
 scans = os.listdir(main_path + 'Scans')
 print(scans)
 
