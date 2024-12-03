@@ -40,7 +40,7 @@ def Rebuild():
         file = csvs[ns.index(max(ns))]
         data = pd.read_csv('Merged_Data/' + file)
         data['age'] = data['age'].astype('Int32')
-        tSenator = data[['senator_id', 'first_name', 'last_name', 'birth_year', 'death_year']]        
+        tSenator = data[['senator_id', 'first_name', 'middle_name','last_name', 'birth_year', 'death_year']]        
         
         # Building the database
         conn = sqlite3.connect('data.db')
@@ -52,6 +52,7 @@ def Rebuild():
         curs.execute("""CREATE TABLE tSenator(
                         senator_id TEXT PRIMARY KEY,
                         first_name TEXT NOT NULL,
+                        middle_name TEXT,
                         last_name TEXT NOT NULL,
                         birth_year INTEGER,
                         death_year INTEGER);""")
@@ -90,11 +91,11 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vVotesBySenator')
         curs.execute("""CREATE VIEW vVotesBySenator as 
                 WITH SenInfo AS
-                    (SELECT senator_id, senator_congress_id, first_name, last_name, age, congress, state, party
+                    (SELECT senator_id, senator_congress_id, first_name, middle_name, last_name, age, congress, state, party
                       FROM(tSenatorByCongress 
                       LEFT JOIN tSenator
                       USING(senator_id))) 
-                SELECT first_name, last_name, age, congress, state, party, votes, committee_name, senator_id, senator_congress_id, committee_id
+                SELECT first_name, middle_name, last_name, age, congress, state, party, votes, committee_name, senator_id, senator_congress_id, committee_id
                   FROM(SELECT senator_congress_id, votes, committee_name, committee_id
                         FROM tVotes
                         LEFT JOIN tCommittee
@@ -105,7 +106,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesByCongress')
         curs.execute("""CREATE VIEW vTotalVotesByCongress as
                          With VByC as
-                            (SELECT first_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
+                            (SELECT first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
                              FROM vVotesBySenator
                              GROUP BY senator_congress_id
                              ORDER BY TotalVotes DESC)
@@ -114,7 +115,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesAllTime')
         curs.execute("""CREATE VIEW vTotalVotesAllTime as
                         WITH VAT as
-                        (SELECT first_name, last_name, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
+                        (SELECT first_name, middle_name, last_name, sum(votes) as TotalVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
                             FROM vVotesBySenator
                             GROUP BY senator_id
                             ORDER BY TotalVotes DESC)

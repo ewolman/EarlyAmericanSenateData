@@ -69,7 +69,7 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
 info = pd.read_csv('Info.csv')
 
 # Take only necessary cols from info
-info = info[['id','givenName','familyName','unaccentedFamilyName','birthYear','deathYear','congresses']]
+info = info[['id','givenName','middleName','unaccentedFamilyName','birthYear','deathYear','congresses']]
 
 # Process congresses column and split out into multiple cols
 beans = info['congresses']
@@ -110,8 +110,9 @@ info['age'] = info['congressYear'] - info['birthYear']
 
 # make names lowercase for easier matching
 info['unaccentedFamilyName'] = info['unaccentedFamilyName'].str.lower()
-# join first and last to create a full name column
-info['fullName'] = info['givenName'] + ' ' + info['unaccentedFamilyName']
+# join first (middle) and last to create a full name column
+info['middleName'] = info['middleName'].fillna('')
+info['fullName'] = info['givenName'] + ' ' + info['middleName'] + ' ' + info['unaccentedFamilyName']
 # take party out of its list format
 info['parties'] = [p[0] for p in info['parties']]
 
@@ -248,8 +249,8 @@ comb_all = comb_all[((comb_all['first'] == comb_all['givenName']) & (comb_all['s
 # lowercase and rename columns
 comb_all.columns = [c.lower() for c in comb_all.columns]
 comb_all = comb_all.rename(columns={'id' : 'senator_id', 'givenname' : 'first_name', 
-                            'unaccentedfamilyname' : 'last_name','parties' : 'party', 
-                            'cmte_type':'committee_type', 'birthyear': 'birth_year',
+                            'middlename' : 'middle_name', 'unaccentedfamilyname' : 'last_name',
+                            'parties' : 'party', 'cmte_type':'committee_type', 'birthyear': 'birth_year',
                             'deathyear': 'death_year'})
 comb_all = comb_all.sort_values(by=['congress', 'page','year'])
 comb_all.to_csv('Merged_Data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
