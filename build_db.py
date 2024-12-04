@@ -26,7 +26,7 @@ def Rebuild():
     
     try:
         # load in senator 
-        csvs = os.listdir('Merged_Data')
+        csvs = os.listdir('data/merged_data')
         num = re.compile(r'(?<=_)(\d{1,2}[.csv])')
         ns = []
         for c in csvs:
@@ -38,7 +38,7 @@ def Rebuild():
         # open highest number
         ns = [int(i[:-1]) for i in ns]
         file = csvs[ns.index(max(ns))]
-        data = pd.read_csv('Merged_Data/' + file)
+        data = pd.read_csv('data/merged_data/' + file)
         data['age'] = data['age'].astype('Int32')
         tSenator = data[['senator_id', 'first_name', 'middle_name','last_name', 'birth_year', 'death_year']]        
         
@@ -106,7 +106,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesByCongress')
         curs.execute("""CREATE VIEW vTotalVotesByCongress as
                          With VByC as
-                            (SELECT first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id, senator_congress_id
+                            (SELECT senator_id, senator_congress_id, first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees
                              FROM vVotesBySenator
                              GROUP BY senator_congress_id
                              ORDER BY TotalVotes DESC)
@@ -115,7 +115,7 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesAllTime')
         curs.execute("""CREATE VIEW vTotalVotesAllTime as
                         WITH VAT as
-                        (SELECT first_name, middle_name, last_name, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees, senator_id
+                        (SELECT senator_id, first_name, middle_name, last_name, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees
                             FROM vVotesBySenator
                             GROUP BY senator_id
                             ORDER BY TotalVotes DESC)

@@ -11,7 +11,7 @@ build_db.Rebuild()
 
 
 # Find the latest file in merged_data
-csvs = os.listdir('Merged_Data')
+csvs = os.listdir('data/merged_data')
 num = re.compile(r'(?<=_)(\d{1,2}[.csv])')
 ns = []
 for c in csvs:
@@ -22,8 +22,18 @@ for c in csvs:
 # open highest number
 ns = [int(i[:-1]) for i in ns]
 file = csvs[ns.index(max(ns))]
-data = pd.read_csv('Merged_Data/' + file)
+data = pd.read_csv('data/merged_data/' + file)
 conn = sqlite3.connect('database.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 
+
+# create spreadsheets of views for easy use
+conn = sqlite3.connect('database.db')  
+all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
+all_time.to_csv('useful_tables/TotalVotesAllTime.csv', index = False)
+congress = pd.read_sql('SELECT * FROM vTotalVotesByCongress;', conn)
+congress.to_csv('useful_tables/TotalVotesByCongress.csv', index = False)
+votes = pd.read_sql('SELECT * FROM vVotesBySenator;', conn)
+votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
+conn.close()

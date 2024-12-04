@@ -21,7 +21,7 @@ yrs_exist = input('''Do all the sheets have dates with years?
                     IF NO make sure there is a 'pg_years.csv' that has the years for each page!
                     (y or n - includes if only some pages have years): ''')
 
-main_path = 'Data/scans_and_text/' + folder
+main_path = 'data/scans_and_text/' + folder
 if edited == 'y':
     texts = [f for f in os.listdir(main_path + '/Text/Edited') if f.endswith('.txt')] #only edited .txt files
     path = main_path + '/Text/Edited/'
@@ -135,4 +135,4 @@ for txt in texts:
 print('Done processing, creating .csv file ....')
 # Create a DataFrame
 df = pd.DataFrame(df_data, columns=["NAME", "VOTES", "COMMITTEE", "CMTE_TYPE","MONTH", "DAY", "YEAR", "CONGRESS", "PAGE"])
-df.to_csv('Data/vote_data/' + folder + '_Data.csv', index=False)
+df.to_csv('data/vote_data/' + folder + '_Data.csv', index=False)

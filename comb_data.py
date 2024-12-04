@@ -10,7 +10,7 @@ import re
 # functions to record correct names for a given error
 # Includes dictionary to record changes and first names for given duplicates
 try:
-   with open('Data/name_changes.json', 'r') as f:
+   with open('data/name_changes.json', 'r') as f:
       name_changes = json.load(f)
 except FileNotFoundError:
    name_changes = {}
@@ -26,7 +26,7 @@ def add_correction(name_changes, corrections, congress, old_name, new_name):
       name_changes[congress] = {}   # if not - create new dictionary for given congress
    name_changes[congress][old_name] = new_name # add a new correction 
    # save file
-   with open('Data/name_changes.json', 'w') as f:
+   with open('data/name_changes.json', 'w') as f:
       json.dump(name_changes, f, indent = 4) # indent for readability
    corrections.append(new_name) # append to corrections list   
    return corrections
@@ -61,12 +61,12 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
       data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]['givenName']
       data.loc[(data['NAME'] == old_name), ['st']] = dupes.iloc[d-1]['state']
       dupe_dict[congress][old_name] = [val for val in dupes.iloc[d-1].values] # add to dictionary
-      with open('Data/duplicate_dict.json', 'w') as f: # save dictionary
+      with open('data/duplicate_dict.json', 'w') as f: # save dictionary
          json.dump(dupe_dict, f, indent = 4) # indent for readability
       return data
 
 # read in info data
-info = pd.read_csv('Data/Info.csv')
+info = pd.read_csv('data/Info.csv')
 
 # Take only necessary cols from info
 info = info[['id','givenName','middleName','unaccentedFamilyName','birthYear','deathYear','congresses']]
@@ -117,17 +117,17 @@ info['fullName'] = info['givenName'] + ' ' + info['middleName'] + ' ' + info['un
 info['parties'] = [p[0] for p in info['parties']]
 
 # write to csv
-info.to_csv('Data/info1st_16th.csv', index = False)
+info.to_csv('data/info1st_16th.csv', index = False)
 
 comb_all = pd.DataFrame() #empty dataframe
-skips  = pd.read_csv('Data/skip_log.csv') # skippable names in a csv
+skips  = pd.read_csv('data/skip_log.csv') # skippable names in a csv
 
 # READ IN VOTES AND COMBINE -- Check Nans
-vote_data = [file for file in os.listdir('Data/vote_data') if file.endswith('.csv')]
+vote_data = [file for file in os.listdir('data/vote_data') if file.endswith('.csv')]
 numbers = [] # to get latest congress
 #print(vote_data)
 for congress in vote_data:
-   data = pd.read_csv('Data/vote_data/' + congress)
+   data = pd.read_csv('data/vote_data/' + congress)
    #read in as text so needs to be converted
    c_num = re.search(r'^\d{1,2}', congress)[0]
    c = int(c_num), c_num # int and str
@@ -190,8 +190,8 @@ for congress in vote_data:
             look_q = input('Mistake above ^ - do you want to look at the documents? (y or n): ')
             if look_q == 'y': # open documents
                pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
-               os.system('start Data/scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
-                    + '&& notepad Data/scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
+               os.system('start data/scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
+                    + '&& notepad data/scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
 
             print('Pick closest match ' + name + str(closest_matches) + ' (1 or 2, 3 if wrong): ')
             m = int(input())
@@ -209,7 +209,7 @@ for congress in vote_data:
                if  int(q) == 1:
                   nonmatches = np.delete(nonmatches, i)
                   skips = skips.append(name)
-                  skips.to_csv('Data/skip_log.csv', index = False)
+                  skips.to_csv('data/skip_log.csv', index = False)
 
                elif int(q) == 2:
                   new_name = input('Corrected name: ')
@@ -220,7 +220,7 @@ for congress in vote_data:
                else: 
                   print('Something needs to be changed in the files, writing name to error file ....')
                   # writes wrong name and data to a log file
-                  with open('Data/error_log.txt', 'a') as e:
+                  with open('data/error_log.txt', 'a') as e:
                      e.write(str(data[data['NAME'] == name]))
             else:
                print('Something is wrong here')
@@ -229,7 +229,7 @@ for congress in vote_data:
    # replace incorrect nonmatches from data sheet and save in updated folder
    #print(nonmatches, corrections)   
    data = data.replace(nonmatches, corrections)
-   data.to_csv('Data/vote_data/updated/' + congress, index = False)
+   data.to_csv('data/vote_data/updated/' + congress, index = False)
 
 
 
@@ -253,5 +253,5 @@ comb_all = comb_all.rename(columns={'id' : 'senator_id', 'givenname' : 'first_na
                             'parties' : 'party', 'cmte_type':'committee_type', 'birthyear': 'birth_year',
                             'deathyear': 'death_year'})
 comb_all = comb_all.sort_values(by=['congress', 'page','year'])
-comb_all.to_csv('Data/Merged_Data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
+comb_all.to_csv('data/merged_data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
 print('Data successfully merged, writing to file ...')
