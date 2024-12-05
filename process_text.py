@@ -36,7 +36,7 @@ else:
 
 df_data = [] # empty list to append data
 for txt in texts:
-  pg = re.search(r'\d{1,2}(?=.txt)', txt)[0] # numbers @ end of string
+  pg = re.search(r'(\d{1,2}|Extra)(?=.txt)', txt)[0] # numbers @ end of string
   congress = re.search(r'^\d{1,2}', txt)[0] # numbers @ beginning of string 
   n_dates = 0
   n_committees = 1 #initialize as unequal

@@ -27,7 +27,7 @@ conn = sqlite3.connect('database.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 
-
+print('Generating spreadsheets ...')
 # create spreadsheets of views for easy use
 conn = sqlite3.connect('database.db')  
 all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
