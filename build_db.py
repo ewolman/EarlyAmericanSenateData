@@ -119,7 +119,13 @@ def Rebuild():
                             FROM vVotesBySenator
                             GROUP BY senator_id
                             ORDER BY TotalVotes DESC)
-                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VAT;""")     
+                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VAT;""")
+
+        curs.execute('DROP VIEW IF EXISTS vVotesByParty')
+        curs.execute("""CREATE VIEW vVotesByParty as
+                            SELECT congress, party, sum(Votes) as TotalVotes FROM vVotesBySenator 
+                            GROUP BY party, congress
+                            ORDER BY congress asc""")     
         
 
     except Exception as err:
