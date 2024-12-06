@@ -134,5 +134,16 @@ for txt in texts:
     
 print('Done processing, creating .csv file ....')
 # Create a DataFrame
-df = pd.DataFrame(df_data, columns=["NAME", "VOTES", "COMMITTEE", "CMTE_TYPE","MONTH", "DAY", "YEAR", "CONGRESS", "PAGE"])
+df = pd.DataFrame(df_data, columns=["name", "votes", "committee", "cmte_type","month", "day", "year", "congress", "page"])
+# Convert month, day, year to numerical date format - remove n.d. observations first
+df_nd = df.loc[df['day'] == 'n.d.'].copy() # make a copied df of no date observations
+df_nd['date'] = 'n.d.' # set their date to n.d.
+df = df.loc[df['day'] != 'n.d.']
+m_dict = {'Jan':1,'Feb':2,'Mar':3,'Apr':4,'May':5,'Jun':6,'Jul':7,'Aug':8,'Sep':9,'Oct':10,'Nov':11,'Dec':12}
+df['month'] = df['month'].replace(m_dict) # replace months with numbers
+df['date'] = df['month'].astype(str) +'/' + df['day'].astype(str) + '/' +df['year'].astype(str) # combine to create date
+df['date'] = pd.to_datetime(df['date'], format="%m/%d/%Y").dt.date # convert to datetime datatype
+df = pd.concat([df, df_nd]) # add back n.d. committees
+df = df[["name", "votes", "committee", "cmte_type","date", "congress", "page"]]
+df = df.sort_values(by=['date','page']) # sort by date, page
 df.to_csv('data/vote_data/' + folder + '_Data.csv', index=False)

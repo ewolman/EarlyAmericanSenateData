@@ -45,21 +45,21 @@ def update_duplicate(info, data, congress, old_name, new_name, dupe_dict):
    #print(name_st)
    # case where first name has already been given for this mistake
    if name_st is not None: # first name is known
-      data.loc[(data['NAME'] == old_name), ['first']] = name_st[0] # update data
-      data.loc[(data['NAME'] == old_name), ['st']] = name_st[1]
+      data.loc[(data['name'] == old_name), ['first']] = name_st[0] # update data
+      data.loc[(data['name'] == old_name), ['st']] = name_st[1]
 
       return data
    
    else: # first name is unknown
-      print(data[data['NAME'] == name]) # print instances of old_name
+      print(data[data['name'] == name]) # print instances of old_name
       # print first names of the duplicates
       dupes = (info[(info['congressNumber'] == int(congress)) & (info['unaccentedFamilyName'] == new_name)][['givenName','state']])
       print(dupes)
       d = int(input('Pick correct first name (and state) from list above: (number 1 to n) '))
       # remember this correction by adding the first name + st to vote data
       # this will allow for easy merging
-      data.loc[(data['NAME'] == old_name), ['first']] = dupes.iloc[d-1]['givenName']
-      data.loc[(data['NAME'] == old_name), ['st']] = dupes.iloc[d-1]['state']
+      data.loc[(data['name'] == old_name), ['first']] = dupes.iloc[d-1]['givenName']
+      data.loc[(data['name'] == old_name), ['st']] = dupes.iloc[d-1]['state']
       dupe_dict[congress][old_name] = [val for val in dupes.iloc[d-1].values] # add to dictionary
       with open('data/duplicate_dict.json', 'w') as f: # save dictionary
          json.dump(dupe_dict, f, indent = 4) # indent for readability
@@ -144,13 +144,13 @@ for congress in vote_data:
    print(duplicates)
 
    # lowercase names
-   data['NAME'] = data['NAME'].str.lower()
+   data['name'] = data['name'].str.lower()
    data['first'] = None # create a first name + st column for cases of duplicate last name
    data['st'] = None
    #print(data.head())
 
    # check for mistakes in data and get a list of non_matches AND DUPLICATES to the info csv
-   nonmatches = data['NAME'][(~data['NAME'].isin(congress_names)) | (data['NAME'].isin(duplicates))].unique()
+   nonmatches = data['name'][(~data['name'].isin(congress_names)) | (data['name'].isin(duplicates))].unique()
    corrections = [] # empty list to record corrections
    i = 0 # index
    for name in nonmatches: #iterate through unique nonmatches
@@ -172,7 +172,7 @@ for congress in vote_data:
 
       # find correction
       else:
-         pgs = data[data['NAME'] == name]['PAGE'] # record page appearances of incorrect name
+         pgs = data[data['name'] == name]['page'] # record page appearances of incorrect name
 
          closest_matches = process.extract(name, congress_names, limit = 2) # find 2 closest matches
          # if the match score is above 80, append without asking
@@ -185,11 +185,11 @@ for congress in vote_data:
          
          # else: ask for input to look at matches
          else:
-            print(data[data['NAME'] == name]) # print mistake
+            print(data[data['name'] == name]) # print mistake
             # open documents and ask for input
             look_q = input('Mistake above ^ - do you want to look at the documents? (y or n): ')
             if look_q == 'y': # open documents
-               pg = str(data[data['NAME'] == name]['PAGE'].iloc[0])
+               pg = str(data[data['name'] == name]['page'].iloc[0])
                os.system('start data/scans_and_text/' +  c[1] + '_Congress/Scans/' + c[1] + '_Congress_p' + pg + '.png' 
                     + '&& notepad data/scans_and_text/' + c[1] + '_Congress/Text/Edited/' + c[1] + '_Congress_p' + pg) 
 
@@ -221,7 +221,7 @@ for congress in vote_data:
                   print('Something needs to be changed in the files, writing name to error file ....')
                   # writes wrong name and data to a log file
                   with open('data/error_log.txt', 'a') as e:
-                     e.write(str(data[data['NAME'] == name]))
+                     e.write(str(data[data['name'] == name]))
             else:
                print('Something is wrong here')
                sys.exit(1)
@@ -236,7 +236,7 @@ for congress in vote_data:
    # merge using info from given congress, c. 
    # Left join to include all votes and committees
    comb = pd.merge(data, info[info['congressNumber'] == c[0]], how = 'left', 
-                   left_on='NAME', right_on='unaccentedFamilyName')
+                   left_on='name', right_on='unaccentedFamilyName')
    comb_all = pd.concat([comb_all, comb])   
 
 
@@ -244,7 +244,7 @@ for congress in vote_data:
 # When merging, duplicate last names get 2 entries per entry 
 # (e.g. Stevens Mason also merges with Jonathan Mason because it's based on last name)
 # Remove entries here since most entries have nonetype first names in their data files
-# remove all entries where the first name and state are equal to given name in info and state or are none (non-dupes)
+# select all entries where the first name and state are equal to given name in info and state or are none (non-dupes)
 comb_all = comb_all[((comb_all['first'] == comb_all['givenName']) & (comb_all['st'] == comb_all['state'])) |  (comb_all['first'].isna())]
 # lowercase and rename columns
 comb_all.columns = [c.lower() for c in comb_all.columns]
@@ -252,6 +252,6 @@ comb_all = comb_all.rename(columns={'id' : 'senator_id', 'givenname' : 'first_na
                             'middlename' : 'middle_name', 'unaccentedfamilyname' : 'last_name',
                             'parties' : 'party', 'cmte_type':'committee_type', 'birthyear': 'birth_year',
                             'deathyear': 'death_year'})
-comb_all = comb_all.sort_values(by=['congress', 'page','year'])
+comb_all = comb_all.sort_values(by=['congress', 'date','page'])
 comb_all.to_csv('data/merged_data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
 print('Data successfully merged, writing to file ...')

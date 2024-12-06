@@ -71,9 +71,7 @@ def Rebuild():
         curs.execute("""CREATE TABLE tCommittee(
                         committee_id INTEGER PRIMARY KEY AUTOINCREMENT,
                         committee_name TEXT NOT NULL,
-                        month TEXT NOT NULL CHECK ((month LIKE '___') OR (month = 'n.d.')),
-                        day TEXT NOT NULL CHECK ((length(day) < 3) OR (day = 'n.d.')),
-                        year TEXT NOT NULL CHECK (year LIKE '____' OR 'n.d.'),
+                        date TEXT NOT NULL CHECK (date LIKE '____-__-__' OR date LIKE 'n.d.'),
                         congress INTEGER NOT NULL CHECK (congress < 17),
                         page TEXT NOT NULL CHECK ((length(page) < 3) OR (length(page) == 5)));""")
 
@@ -170,37 +168,43 @@ def GetSenatorCongressID(senator_id, congress, age, state, party, conn, curs):
 
     return sen_congress_id
 
-def GetCmteID(cmte_name, month, day, year, congress, pg, conn, curs):
+def GetCmteID(cmte_name, date, congress, pg, conn, curs):
 
 #                AND committee_type = ?
 
     sql = """SELECT committee_id FROM tCommittee
                 WHERE committee_name = ?
-                AND month = ?
-                AND day = ?
-                AND year = ?
+                AND date = ?
                 AND congress = ?
                 AND page = ?;"""
     
-    insert_sql = "INSERT INTO tCommittee (committee_name, month, day, year, congress, page)" + \
-                 " VALUES (:committee_name, :month, :day, :year, :congress, :page);"
+    insert_sql = "INSERT INTO tCommittee (committee_name, date, congress, page)" + \
+                 " VALUES (:committee_name, :date, :congress, :page);"
     
     row = {'committee_name': cmte_name, 
-           'month': month, 
-           'day': day, 
-           'year': year,
+           'date': date,
            'congress': congress,
            'page': pg}
-
+    # checks on date numbers
+    if date == 'n.d.':
+        pass
+    else:
+        if not(1789 < int(date[:4]) < 1822): #year
+            print('error for commitee year:', row)
+        if not(0 < int(date[5:7]) < 13):
+            print('error for committee month:', row) #month
+        if not(0 < int(date[8:]) < 32): #day
+            print('error for committee day:', row)
+        
     # Select cmte_id for the name -- nothing if it's not in already
-    df = pd.read_sql(sql, conn, params = (cmte_name, month, day, year, congress, pg))
+    df = pd.read_sql(sql, conn, params = (cmte_name, date, congress, pg))
     #print('df:', df)
     # If the committee is not in the database (tCommittee)
     if len(df) == 0:
         #print('no cmte found')
         curs.execute(insert_sql, row)
         #print('curs.execute ran')
-        cmte_id = pd.read_sql(sql,conn, params = (cmte_name, month, day, year, congress, pg))['committee_id'][0]
+        cmte_id = pd.read_sql(sql,conn, params = (cmte_name, date, congress, pg))['committee_id'][0]
         #print('cmte_id:', cmte_id)
     # Extract cmte_id
     else:
@@ -222,7 +226,7 @@ def LoadVoteData(data, conn, curs):
             #print('senator_id, type:', senator_id, type(senator_id))
             sen_congress_id = GetSenatorCongressID(senator_id,row['congress'], row['age'], row['state'], row['party'], conn, curs)
             #print('senator_congress_id, type: ', sen_congress_id, type(sen_congress_id))
-            cmte_id = GetCmteID(row['committee'], row['month'], row['day'], row['year'], row['congress'], row['page'], conn, curs)
+            cmte_id = GetCmteID(row['committee'], row['date'], row['congress'], row['page'], conn, curs)
             #print('committee id, type:', cmte_id, type(cmte_id))
             insert_sql = "INSERT INTO tVotes (senator_id, senator_congress_id, votes, committee_id)" + \
                             "VALUES (?,?,?,?);"
