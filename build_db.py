@@ -86,15 +86,15 @@ def Rebuild():
         FillTable('tSenator', tSenator, curs) # Fill senator table
 
         # Views
-        curs.execute('DROP VIEW IF EXISTS vVotesBySenator')
-        curs.execute("""CREATE VIEW vVotesBySenator as 
+        curs.execute('DROP VIEW IF EXISTS vIndividualVotes')
+        curs.execute("""CREATE VIEW vIndividualVotes as 
                 WITH SenInfo AS
                     (SELECT senator_id, senator_congress_id, first_name, middle_name, last_name, age, congress, state, party
                       FROM(tSenatorByCongress 
                       LEFT JOIN tSenator
                       USING(senator_id))) 
-                SELECT first_name, middle_name, last_name, age, congress, state, party, votes, committee_name, senator_id, senator_congress_id, committee_id
-                  FROM(SELECT senator_congress_id, votes, committee_name, committee_id
+                SELECT first_name, middle_name, last_name, age, congress, state, party, votes, committee_name, date, senator_id, senator_congress_id, committee_id
+                  FROM(SELECT senator_congress_id, votes, committee_name, date, committee_id
                         FROM tVotes
                         LEFT JOIN tCommittee
                         USING(committee_id))
@@ -105,7 +105,7 @@ def Rebuild():
         curs.execute("""CREATE VIEW vTotalVotesByCongress as
                          With VByC as
                             (SELECT senator_id, senator_congress_id, first_name, middle_name, last_name, age, congress, state, party, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees
-                             FROM vVotesBySenator
+                             FROM vIndividualVotes
                              GROUP BY senator_congress_id
                              ORDER BY TotalVotes DESC)
                         SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VByC;""")
@@ -113,15 +113,15 @@ def Rebuild():
         curs.execute('DROP VIEW IF EXISTS vTotalVotesAllTime')
         curs.execute("""CREATE VIEW vTotalVotesAllTime as
                         WITH VAT as
-                        (SELECT senator_id, first_name, middle_name, last_name, sum(votes) as TotalVotes, max(votes) as MaxVotes, COUNT(DISTINCT committee_id) as TotalCommittees
-                            FROM vVotesBySenator
+                        (SELECT senator_id, first_name, middle_name, last_name, sum(votes) as TotalVotes, COUNT(DISTINCT congress) as TotalCongresses, COUNT(DISTINCT committee_id) as TotalCommittees, max(votes) as MaxVotes
+                            FROM vIndividualVotes
                             GROUP BY senator_id
                             ORDER BY TotalVotes DESC)
-                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte FROM VAT;""")
+                        SELECT *, (TotalVotes*1.0 / TotalCommittees) as VotesPerCmte, (TotalVotes*1.0 / TotalCongresses) as VotesPerCongress FROM VAT;""")
 
         curs.execute('DROP VIEW IF EXISTS vVotesByParty')
         curs.execute("""CREATE VIEW vVotesByParty as
-                            SELECT congress, party, sum(Votes) as TotalVotes FROM vVotesBySenator 
+                            SELECT congress, party, sum(Votes) as TotalVotes FROM vIndividualVotes 
                             GROUP BY party, congress
                             ORDER BY congress asc""")     
         

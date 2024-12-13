@@ -30,12 +30,26 @@ build_db.LoadVoteData(data, conn, curs)
 print('Generating spreadsheets ...')
 # create spreadsheets of views for easy use
 conn = sqlite3.connect('database.db')  
-all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
-all_time.to_csv('useful_tables/TotalVotesAllTime.csv', index = False)
-congress = pd.read_sql('SELECT * FROM vTotalVotesByCongress;', conn)
-congress.to_csv('useful_tables/TotalVotesByCongress.csv', index = False)
-votes = pd.read_sql('SELECT * FROM vVotesBySenator;', conn)
+votes = pd.read_sql('SELECT * FROM vIndividualVotes;', conn)
 votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
+
+all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
+all_time['VotesPerCmte'] = all_time['VotesPerCmte'].round(2)
+all_time['VotesPerCongress'] = all_time['VotesPerCongress'].round(2)
+all_time.to_csv('useful_tables/TotalVotesAllTime.csv', index = False)
+
+congress = pd.read_sql('SELECT * FROM vTotalVotesByCongress;', conn)
+congress['VotesPerCmte'] = congress['VotesPerCmte'].round(2)
+congress.to_csv('useful_tables/TotalVotesByCongress.csv', index = False)
+
 party_votes = pd.read_sql('SELECT * FROM vVotesByParty;', conn)
 party_votes.to_csv('useful_tables/VotesByParty.csv', index = False)
+
+# votes per year per party
+all_t = votes[votes['date'] != 'n.d.']
+all_t['year'] = [i[0] for i in all_t['date'].str.split('-')] 
+party_year_votes = all_t.groupby(by = ['year','party'],as_index=False).sum('votes')
+party_year_votes = party_year_votes[['year','party','votes']]
+party_year_votes.to_csv('useful_tables/VotesByPartyByYear.csv', index = False)
+
 conn.close()
