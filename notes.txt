@@ -1,21 +1,28 @@
 3_Congress -
+
 Albert Gallatin served on 7 committees and then was removed from Congress because he was not a citizen
 Added his information in with bioguide id - "G000020"
 
+
 6_Congress -
+
 Stevens Mason was the only Mason in Congress until Dec 19, 1800.
 Theodore Foster was the only Foster in Congress until Nov 21, 1800.
 sf maps to Dwight foster (tf has votes recorded for "cmte on report from ratification ..., 
                             and s and d are next to each other on keyboard)
 
+
 8_Congress - 
+
 John Smith (0H) was the only John Smith in Congress until Feb 23, 1804.
 8_Congress_pg6 - Cmte on NC Acts. Jan 5, 1804
 Condit ?; Dayton ?; - votes unknown
 
+
 9_Congress - 
 
 Cmte on bill naval appropriation. Dec 30, 1806. - Baldwin 8 votes - excused
+
 
 10_Congress - 
 
@@ -24,9 +31,22 @@ Bayard absent; Gail absent; Giles absent; Goodrich absent; Smith(OH) absent
 
 Cmte on Lighthouse port Judith. Feb 3, 1808. - TORN
 
+
 11_Congress -
 
 Added Edward Tiffin to 11th Congress because he participated in a special session - 
 cmte to notify PUS ready for business. March 4, 1809
 
 From Apr 24, 1810 - Campbell absent with leave for remainder of session
+
+
+13_Congress - 
+
+George Bibb of KY resigned Aug 23, 1813 - only present during the first session
+William Bibb of GA took seat Dec 13, 1813. Was not a member during the first session (May 24, 1813 - Aug 2, 1813)
+
+
+14_Congress -
+
+Jeremiah Mason of NH was only Mason present in Dec 1815, Jan 1816
+Waller Taylor of IN was not present until Dec 11, 1816.

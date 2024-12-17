@@ -286,5 +286,49 @@
             "John",
             "NY"
         ]
+    },
+    "13": {
+        "bibb(ky)": [
+            "George",
+            "KY"
+        ],
+        "bibb(ga)": [
+            "William",
+            "GA"
+        ]
+    },
+    "14": {
+        "mason": [
+            "Jeremiah",
+            "NH"
+        ],
+        "tay": [
+            "John",
+            "SC"
+        ],
+        "taylor": [
+            "John",
+            "SC"
+        ],
+        "mas(nh)": [
+            "Jeremiah",
+            "NH"
+        ],
+        "mason(nh)": [
+            "Jeremiah",
+            "NH"
+        ],
+        "mason(va)": [
+            "Armistead",
+            "VA"
+        ],
+        "mas(va)": [
+            "Armistead",
+            "VA"
+        ],
+        "mas (va)": [
+            "Armistead",
+            "VA"
+        ]
     }
 }

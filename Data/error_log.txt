@@ -3,4 +3,4 @@ Names that don't show up in the Senate file w/ their committee data:
 2489  lambert      1  cmte to notify PUS ready for business        NaN   Mar    4  1809        10    22  None  None       NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
 2498  brent      5  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None          NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
 2500  germaine      1  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None         NAME  VOTES                       COMMITTEE  CMTE_TYPE MONTH  DAY  YEAR  CONGRESS  PAGE first    st
-2505  malbone      3  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None
+2505  malbone      3  cmte on Sam Blair & Sam Honley        NaN   Mar    7  1809        10    22  None  None     name  votes                                   committee  cmte_type        date  congress  page first    st

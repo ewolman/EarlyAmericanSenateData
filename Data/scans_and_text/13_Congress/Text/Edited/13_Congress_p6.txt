@@ -58,7 +58,7 @@ and 13; Brent 1; Brown 1; Bull 5; Camp 7; Dana 2; Germ 1; Golds
 
 Cmte on petition of Charles Minifie. June 2, 1813. Oren, Lede Dana.
 
-Bibb 3; Brent 22; Bull 3; Cutts 2; Dana 4; Gaill 3; Gilm 3; Golds
+Bibb(KY) 3; Brent 22; Bull 3; Cutts 2; Dana 4; Gaill 3; Gilm 3; Golds
 1; Horsey 1; Hunter 2; Leib 10; Rob 2; Smith 1; Stone 2; Tait 4;
 Taylor 3; Varn 2.
 
