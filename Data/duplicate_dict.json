@@ -330,5 +330,23 @@
             "Armistead",
             "VA"
         ]
+    },
+    "15": {
+        "w(tn)": [
+            "John",
+            "TN"
+        ],
+        "w(ms)": [
+            "Thomas",
+            "MS"
+        ],
+        "williams(ms)": [
+            "Thomas",
+            "MS"
+        ],
+        "williams(tn)": [
+            "John",
+            "TN"
+        ]
     }
 }
