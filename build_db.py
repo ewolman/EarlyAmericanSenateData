@@ -1,4 +1,4 @@
-import sqlite3, pandas as pd, os, re
+import sqlite3, pandas as pd, os, re, math
 
                  
 def FillTable(TableName, Data, curs):
@@ -39,7 +39,10 @@ def Rebuild():
         ns = [int(i[:-1]) for i in ns]
         file = csvs[ns.index(max(ns))]
         data = pd.read_csv('data/merged_data/' + file)
-        data['age'] = data['age'].astype('Int32')
+        data.loc[data['age'].isna(), 'age'] = None
+        data.loc[data['birth_year'].isna(), 'birth_year'] = None
+        data.loc[data['death_year'].isna(), 'death_year'] = None
+
         tSenator = data[['senator_id', 'first_name', 'middle_name','last_name', 'birth_year', 'death_year']]        
         
         # Building the database
@@ -220,13 +223,22 @@ def LoadVoteData(data, conn, curs):
         i = 0
         # read in row by row
         for row in data.to_dict(orient = 'records'):
+            testsenid = 'no'
+            testcmteid = 'no'
+            testvotes = 'no'
             # Get senator and committee id
             # insert committee into db if doesn't exist
             senator_id = row['senator_id']
             #print('senator_id, type:', senator_id, type(senator_id))
+            # check if age is nan - if true change value to None for database
+            if math.isnan(row['age']):
+               row['age'] = -1
+            params = [senator_id,row['congress'], row['age'], row['state'], row['party']]
             sen_congress_id = GetSenatorCongressID(senator_id,row['congress'], row['age'], row['state'], row['party'], conn, curs)
+            testsenid = 'yes'
             #print('senator_congress_id, type: ', sen_congress_id, type(sen_congress_id))
             cmte_id = GetCmteID(row['committee'], row['date'], row['congress'], row['page'], conn, curs)
+            testcmteid = 'yes'
             #print('committee id, type:', cmte_id, type(cmte_id))
             insert_sql = "INSERT INTO tVotes (senator_id, senator_congress_id, votes, committee_id)" + \
                             "VALUES (?,?,?,?);"
@@ -235,12 +247,16 @@ def LoadVoteData(data, conn, curs):
             #print(parameters)
 
             curs.execute(insert_sql, parameters)
+            testvotes = 'yes'
             i += 1
 
     except Exception as err:
+        print(senator_id)
+        print(params)
         print(err)
         print(row)
         print(i)
+        print( testsenid, testcmteid, testvotes)
         conn.rollback()
         return 0
     

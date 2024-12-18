@@ -89,8 +89,10 @@ M000155,192,Humphrey,,marshall,39,6,KY,Federalist,378,19,116,3.26
 P000473,84,Richard,,potts,40,3,MD,Pro-Administration,377,17,99,3.81
 M000155,157,Humphrey,,marshall,37,5,KY,Federalist,374,18,120,3.12
 S000955,307,David,,stone,35,9,NC,Democratic Republican,371,14,113,3.28
+M000034,492,Nathaniel,,macon,60,15,NC,Democratic Republican,368,27,52,7.08
 B000249,365,James,Asheton,bayard,42,11,DE,Federalist,363,22,81,4.48
 J000017,79,James,,jackson,36,3,GA,Anti-Administration,363,15,102,3.56
+K000212,491,Rufus,,king,62,15,NY,Federalist,362,30,47,7.7
 P000026,197,Elijah,,paine,42,6,VT,Federalist,362,15,119,3.04
 H000508,116,John,,henry,45,4,MD,Pro-Administration,360,15,101,3.56
 G000526,190,James,,gunn,46,6,GA,Federalist,356,18,111,3.21
@@ -101,10 +103,12 @@ G000286,180,Benjamin,,goodhue,51,6,MA,Federalist,348,17,78,4.46
 B001133,58,Aaron,,burr,37,3,NY,Anti-Administration,347,16,83,4.18
 L000067,66,John,,langdon,52,3,NH,Anti-Administration,342,14,96,3.56
 M000633,394,Return,Jonathan,meigs,45,11,OH,Democratic Republican,341,21,88,3.88
+S000609,434,Samuel,,smith,61,13,MD,Democratic Republican,339,22,53,6.4
 T000423,320,James,,turner,39,9,NC,Democratic Republican,339,14,136,2.49
 B000802,380,Richard,,brent,52,11,VA,Democratic Republican,337,17,87,3.87
 F000344,262,Jesse,,franklin,43,8,NC,Democratic Republican,337,17,95,3.55
 G000293,388,Chauncey,,goodrich,50,11,CT,Federalist,335,11,123,2.72
+D000002,488,David,,daggett,53,15,CT,Federalist,332,19,55,6.04
 B001133,27,Aaron,,burr,35,2,NY,Anti-Administration,332,21,54,6.15
 C000369,164,Nathaniel,,chipman,45,5,VT,Federalist,331,17,126,2.63
 H000841,136,John,Eager,howard,45,5,MD,Federalist,328,24,106,3.09
@@ -123,12 +127,17 @@ G000427,196,Ray,,greene,34,6,RI,Federalist,302,13,119,2.54
 W000392,301,Samuel,,white,35,9,DE,Federalist,301,17,124,2.43
 S000955,256,David,,stone,33,8,NC,Democratic Republican,299,17,95,3.15
 R000125,355,Philip,,reed,47,10,MD,Democratic Republican,296,16,83,3.57
+V000074,411,Joseph,Bradley,varnum,63,13,MA,Democratic Republican,293,26,65,4.51
 B000929,82,John,,brown,36,3,KY,Anti-Administration,292,18,104,2.81
 M000712,329,John,,milledge,50,10,GA,Democratic Republican,291,15,97,3.0
 L000067,94,John,,langdon,54,4,NH,Democratic Republican,289,12,96,3.01
+B001137,486,James,,burrill,45,15,RI,Federalist,287,24,53,5.42
 G000215,328,Nicholas,,gilman,52,10,NH,Democratic Republican,287,15,119,2.41
 M000891,314,Andrew,,moore,53,9,VA,Democratic Republican,287,11,140,2.05
+D000308,489,Mahlon,,dickerson,47,15,NJ,Democratic Republican,286,29,48,5.96
 T000423,345,James,,turner,41,10,NC,Democratic Republican,286,12,136,2.1
+T000085,422,John,,taylor,43,13,SC,Democratic Republican,284,19,59,4.81
+K000212,419,Rufus,,king,58,13,NY,Federalist,284,24,52,5.46
 A000041,270,John,Quincy,adams,36,8,MA,Federalist,282,19,85,3.32
 B000474,89,William,,bingham,43,4,PA,Federalist,282,15,69,4.09
 R000550,105,John,,rutherfurd,35,4,NJ,Pro-Administration,281,16,92,3.05
@@ -149,8 +158,10 @@ H000368,64,Benjamin,,hawkins,39,3,NC,Pro-Administration,264,15,85,3.11
 M000985,44,Robert,,morris,57,2,PA,Pro-Administration,263,18,59,4.46
 L000377,166,James,,lloyd,41,5,MD,Federalist,257,21,85,3.02
 I000053,45,Ralph,,izard,50,2,SC,Pro-Administration,257,15,68,3.78
+B000127,485,James,,barbour,42,15,VA,Anti-Democrat,256,29,34,7.53
 B000739,81,William,,bradford,64,3,RI,Pro-Administration,253,10,105,2.41
 C000671,290,John,,condit,50,9,NJ,Democratic Republican,252,9,134,1.88
+L000011,505,Abner,,lacock,47,15,PA,Democratic Republican,250,23,41,6.1
 W000392,386,Samuel,,white,39,11,DE,Federalist,249,17,73,3.41
 S000222,128,Theodore,,sedgwick,49,4,MA,Federalist,248,19,38,6.53
 W000750,266,Thomas,,worthington,30,8,OH,Democratic Republican,246,19,62,3.97
@@ -163,29 +174,40 @@ P000324,375,Timothy,,pickering,64,11,MA,Federalist,235,21,98,2.4
 G000005,349,John,,gaillard,42,10,SC,Democratic Republican,235,18,104,2.26
 T000249,308,Buckner,,thruston,42,9,KY,Democratic Republican,233,16,108,2.16
 H000368,32,Benjamin,,hawkins,37,2,NC,Pro-Administration,231,13,62,3.73
+G000183,433,William,Branch,giles,51,13,VA,Democratic Republican,230,26,35,6.57
 B001186,28,Pierce,,butler,47,2,SC,Anti-Administration,230,15,56,4.11
 M000976,207,Gouverneur,,morris,47,6,NY,Federalist,229,15,52,4.4
+W000516,511,John,,williams,39,15,TN,Democratic Republican,228,27,47,4.85
 L000120,124,John,,laurance,45,4,NY,Federalist,228,16,45,5.07
 G000526,85,James,,gunn,40,3,GA,Anti-Administration,226,20,49,4.61
 M000166,68,Alexander,,martin,53,3,NC,Anti-Administration,226,11,96,2.35
 B000745,73,Stephen,Row,bradley,39,3,VT,Anti-Administration,224,16,79,2.84
+R000313,494,Jonathan,,roberts,46,15,PA,Democratic Republican,223,27,40,5.58
 T000348,222,Uriah,,tracy,46,7,CT,Federalist,223,22,34,6.56
 C000482,403,Henry,,clay,32,11,KY,Democratic Republican,222,19,60,3.7
 V000083,279,Abraham,Bedford,venable,45,8,VA,Democratic Republican,222,17,72,3.08
+M001003,520,Jeremiah,,morrow,46,15,OH,Democratic Republican,221,25,40,5.52
 G000136,381,Obadiah,,german,43,11,NY,Democratic Republican,221,16,92,2.4
 C000009,91,George,,cabot,43,4,MA,Pro-Administration,221,14,56,3.95
 T000086,78,John,,taylor,40,3,VA,Anti-Administration,221,14,45,4.91
+R000313,458,Jonathan,,roberts,44,14,PA,Democratic Republican,219,14,48,4.56
 W000768,269,Robert,,wright,51,8,MD,Democratic Republican,219,16,65,3.37
 B000563,154,Timothy,,bloodworth,61,5,NC,Democratic Republican,219,9,108,2.03
 G000286,121,Benjamin,,goodhue,47,4,MA,Federalist,218,24,41,5.32
+K000212,476,Rufus,,king,60,14,NY,Federalist,217,22,47,4.62
 R000550,37,John,,rutherfurd,31,2,NJ,Pro-Administration,217,16,58,3.74
+D000024,426,Samuel,Whittlesey,dana,53,13,CT,Federalist,216,20,52,4.15
 P000473,118,Richard,,potts,42,4,MD,Pro-Administration,216,15,58,3.72
 E000147,4,Oliver,,ellsworth,44,1,CT,Pro-Administration,216,18,30,7.2
 S000150,199,James,,schureman,43,6,NJ,Federalist,213,11,94,2.27
+E000197,502,John,Wayles,eppes,44,15,VA,Democratic Republican,210,24,38,5.53
+V000074,473,Joseph,Bradley,varnum,65,14,MA,Democratic Republican,209,18,51,4.1
 N000086,254,Wilson,Cary,nicholas,42,8,VA,Democratic Republican,207,20,57,3.63
+A000197,430,Joseph,Inslee,anderson,56,13,TN,Democratic Republican,206,25,44,4.68
 G000005,369,John,,gaillard,44,11,SC,Democratic Republican,206,15,92,2.24
 M000226,206,Stevens,Thomson,mason,39,6,VA,Democratic Republican,204,10,94,2.17
 E000147,92,Oliver,,ellsworth,50,4,CT,Pro-Administration,204,19,28,7.29
+G000264,504,Robert,Henry,goldsborough,38,15,MD,Federalist,202,22,42,4.81
 G000005,291,John,,gaillard,40,9,SC,Democratic Republican,202,11,96,2.1
 M000155,106,Humphrey,,marshall,35,4,KY,Federalist,200,16,77,2.6
 L000401,253,George,,logan,50,8,PA,Democratic Republican,198,7,90,2.2
@@ -193,18 +215,24 @@ B000563,114,Timothy,,bloodworth,59,4,NC,Democratic Republican,198,13,84,2.36
 M000985,12,Robert,,morris,55,1,PA,Pro-Administration,198,21,24,8.25
 M000891,352,Andrew,,moore,55,10,VA,Democratic Republican,197,14,104,1.89
 S000524,348,Daniel,,smith,59,10,TN,Democratic Republican,196,10,102,1.92
+H000991,407,William,,hunter,39,13,RI,Federalist,194,25,47,4.13
+S000052,495,Nathan,,sanford,40,15,NY,Democratic Republican,192,27,36,5.33
 H000841,202,John,Eager,howard,47,6,MD,Federalist,192,16,77,2.49
 F000313,195,Theodore,,foster,47,6,RI,Federalist,192,11,102,1.88
 M000029,341,Samuel,,maclay,66,10,PA,Democratic Republican,191,21,78,2.45
+M001003,457,Jeremiah,,morrow,44,14,OH,Democratic Republican,190,17,44,4.32
 K000212,9,Rufus,,king,34,1,NY,Pro-Administration,190,15,28,6.79
+D000002,465,David,,daggett,51,14,CT,Federalist,189,16,58,3.26
 B000563,203,Timothy,,bloodworth,63,6,NC,Democratic Republican,188,15,86,2.19
 R000091,36,George,,read,58,2,DE,Pro-Administration,188,13,68,2.76
 W000202,187,James,,watson,49,6,NY,Federalist,187,16,52,3.6
+C000325,405,Dudley,,chase,42,13,VT,Democratic Republican,185,18,60,3.08
 L000378,361,James,,lloyd,38,10,MA,Federalist,183,20,52,3.52
 B000249,353,James,Asheton,bayard,40,10,DE,Federalist,183,21,53,3.45
 S001009,16,Caleb,,strong,44,1,MA,Pro-Administration,183,18,28,6.54
 C000671,336,John,,condit,52,10,NJ,Democratic Republican,182,13,101,1.8
 A000282,277,John,,armstrong,45,8,NY,Democratic Republican,181,19,58,3.12
+T000015,497,Charles,,tait,49,15,GA,Democratic Republican,180,24,34,5.29
 K000246,340,Aaron,,kitchell,63,10,NJ,Democratic Republican,180,8,101,1.78
 W000202,171,James,,watson,47,5,NY,Federalist,180,15,41,4.39
 G000526,51,James,,gunn,38,2,GA,Anti-Administration,180,17,45,4.0
@@ -212,25 +240,41 @@ T000423,391,James,,turner,43,11,NC,Democratic Republican,179,15,83,2.16
 S000524,306,Daniel,,smith,57,9,TN,Democratic Republican,179,17,86,2.08
 H000618,310,James,,hillhouse,51,9,CT,Federalist,178,15,93,1.91
 C000572,261,William,,cocke,55,8,TN,Democratic Republican,178,13,81,2.2
+N000118,514,James,,noble,32,15,IN,Democratic Republican,177,21,36,4.92
 S000566,351,John,,smith,55,10,NY,Democratic Republican,177,6,103,1.72
 B001186,90,Pierce,,butler,51,4,SC,Democratic Republican,177,16,44,4.02
+W000595,499,James,Jefferson,wilson,42,15,NJ,Democratic Republican,176,21,37,4.76
 P000324,296,Timothy,,pickering,60,9,MA,Federalist,176,16,89,1.98
 A000026,315,John,,adair,48,9,KY,Democratic Republican,175,13,80,2.19
 E000114,252,Christopher,,ellery,35,8,RI,Democratic Republican,175,12,81,2.16
 S000154,14,Philip,John,schuyler,56,1,NY,Pro-Administration,175,13,28,6.25
+B000802,436,Richard,,brent,56,13,VA,Democratic Republican,174,22,32,5.44
 F000313,149,Theodore,,foster,45,5,RI,Federalist,174,14,105,1.66
 F000368,75,Frederick,,frelinghuysen,40,3,NJ,Pro-Administration,174,10,63,2.76
+W000595,463,James,Jefferson,wilson,40,14,NJ,Democratic Republican,173,14,42,4.12
 F000344,204,Jesse,,franklin,39,6,NC,Democratic Republican,173,11,95,1.82
+R000500,507,Benjamin,,ruggles,34,15,OH,Democratic Republican,171,23,34,5.03
+D000002,415,David,,daggett,49,13,CT,Federalist,171,18,46,3.72
 M000240,374,Elisha,,mathewson,42,11,RI,Democratic Republican,171,9,84,2.04
 R000346,333,Jonathan,,robinson,51,10,VT,Democratic Republican,171,11,76,2.25
 P000324,331,Timothy,,pickering,62,10,MA,Federalist,171,15,89,1.92
 P000026,104,Elijah,,paine,38,4,VT,Federalist,171,12,74,2.31
+O000127,493,Harrison,Gray,otis,52,15,MA,Federalist,170,21,47,3.62
+L000229,429,Michael,,leib,53,13,PA,Democratic Republican,170,19,41,4.15
 W000633,41,Paine,,wingate,52,2,NH,Anti-Administration,170,12,58,2.93
+C000912,501,John,Jordan,crittenden,31,15,KY,Democratic Republican,169,22,41,4.12
+M000966,506,David,Lawrence,morril,45,15,NH,Democratic Republican,167,23,35,4.77
+B000921,412,James,,brown,47,13,LA,Democratic Republican,167,15,46,3.63
+M000034,469,Nathaniel,,macon,58,14,NC,Democratic Republican,165,13,55,3.0
 L000067,46,John,,langdon,50,2,NH,Pro-Administration,163,10,56,2.91
+W000750,424,Thomas,,worthington,40,13,OH,Democratic Republican,162,19,39,4.15
 C000482,323,Henry,,clay,28,9,KY,Democratic Republican,162,19,38,4.26
 G000293,356,Chauncey,,goodrich,48,10,CT,Federalist,160,8,90,1.78
+W000540,516,Thomas,Hill,williams,44,15,MS,Democratic Republican,159,23,32,4.97
 P000324,263,Timothy,,pickering,58,8,MA,Federalist,158,9,80,1.98
+L000011,468,Abner,,lacock,45,14,PA,Democratic Republican,157,14,34,4.62
 V000104,80,John,,vining,35,3,DE,Pro-Administration,157,11,53,2.96
+B001051,413,William,Bellinger,bulloch,36,13,GA,Democratic Republican,155,22,37,4.19
 S001073,398,Thomas,,sumter,75,11,SC,Democratic Republican,155,12,69,2.25
 C000671,392,John,,condit,54,11,NJ,Democratic Republican,155,8,78,1.99
 R000346,390,Jonathan,,robinson,53,11,VT,Democratic Republican,155,9,79,1.96
@@ -238,12 +282,19 @@ G000526,110,James,,gunn,42,4,GA,Anti-Administration,154,14,53,2.91
 B000084,241,Abraham,,baldwin,47,7,GA,Democratic Republican,152,16,27,5.63
 J000017,217,James,,jackson,44,7,GA,Democratic Republican,152,16,31,4.9
 S000567,319,John,,smith,70,9,OH,Democratic Republican,151,18,54,2.8
+T000102,498,Waller,,taylor,31,15,IN,Democratic Republican,150,23,33,4.55
+W000516,462,John,,williams,37,14,TN,Democratic Republican,150,17,42,3.57
 S000567,275,John,,smith,68,8,OH,Democratic Republican,150,17,70,2.14
 H000508,33,John,,henry,41,2,MD,Pro-Administration,150,10,56,2.68
 A000197,212,Joseph,Inslee,anderson,44,7,TN,Democratic Republican,148,16,29,5.1
 M000828,69,Stephen,Mix,mitchell,50,3,CT,Pro-Administration,148,12,62,2.39
+T000015,410,Charles,,tait,45,13,GA,Democratic Republican,147,17,48,3.06
+S000628,496,William,,smith,55,15,SC,Democratic Republican,145,20,40,3.62
 C000572,200,William,,cocke,51,6,TN,Democratic Republican,145,7,82,1.77
+G000322,437,Christopher,,gore,55,13,MA,Federalist,144,27,46,3.13
+F000389,454,Eligius,,fromentin,-1,14,LA,Democratic Republican,143,17,39,3.67
 M000221,209,Jonathan,,mason,43,6,MA,Federalist,143,13,36,3.97
+G000136,432,Obadiah,,german,47,13,NY,Democratic Republican,142,17,40,3.55
 F000100,31,William,,few,43,2,GA,Anti-Administration,142,21,48,2.96
 L000115,198,Henry,,latimer,47,6,DE,Federalist,140,13,73,1.92
 S000941,125,Richard,,stockton,31,4,NJ,Federalist,140,14,37,3.78
@@ -252,9 +303,18 @@ W000392,276,Samuel,,white,33,8,DE,Federalist,138,14,59,2.34
 M000029,272,Samuel,,maclay,62,8,PA,Democratic Republican,138,11,67,2.06
 M000226,97,Stevens,Thomson,mason,35,4,VA,Democratic Republican,138,10,53,2.6
 C000076,401,Alexander,,campbell,30,11,OH,Democratic Republican,137,17,44,3.11
+F000389,519,Eligius,,fromentin,-1,15,LA,Democratic Republican,136,18,40,3.4
 B000787,213,John,,breckinridge,41,7,KY,Democratic Republican,136,21,31,4.39
+T000017,515,Isham,,talbot,44,15,KY,Democratic Republican,134,20,32,4.19
+H000991,467,William,,hunter,41,14,RI,Federalist,134,15,50,2.68
+B000127,450,James,,barbour,40,14,VA,Anti-Democrat,133,18,25,5.32
 F000301,208,Dwight,,foster,42,6,MA,Federalist,133,19,36,3.69
 L000201,52,Richard,Henry,lee,59,2,VA,Anti-Administration,133,12,29,4.59
+C000083,487,George,Washington,campbell,48,15,TN,Democratic Republican,132,26,20,6.6
+L000011,428,Abner,,lacock,43,13,PA,Democratic Republican,132,14,41,3.22
+H000795,417,Outerbridge,,horsey,36,13,DE,Federalist,132,18,41,3.22
+S000949,518,Montfort,,stokes,55,15,NC,Democratic Republican,131,22,33,3.97
+S000955,409,David,,stone,43,13,NC,Democratic Republican,129,10,43,3.0
 B000929,278,John,,brown,46,8,KY,Democratic Republican,129,8,41,3.15
 S000566,397,John,,smith,57,11,NY,Democratic Republican,128,9,70,1.83
 L000377,184,James,,lloyd,43,6,MD,Federalist,127,7,61,2.08
@@ -262,83 +322,126 @@ P000393,297,William,,plumer,46,9,NH,Federalist,126,4,92,1.37
 P000067,342,Nahum,,parker,47,10,NH,Democratic Republican,125,7,77,1.62
 N000086,220,Wilson,Cary,nicholas,40,7,VA,Democratic Republican,125,15,32,3.91
 M000858,70,James,,monroe,35,3,VA,Anti-Administration,125,8,45,2.78
+C000325,452,Dudley,,chase,44,14,VT,Democratic Republican,124,16,36,3.44
 G000183,282,William,Branch,giles,41,8,VA,Democratic Republican,123,19,24,5.12
 W000768,230,Robert,,wright,49,7,MD,Democratic Republican,123,13,27,4.56
+L000177,513,Walter,,leake,55,15,MS,Democratic Republican,122,21,33,3.7
+H000795,455,Outerbridge,,horsey,38,14,DE,Federalist,122,18,49,2.49
 S000609,305,Samuel,,smith,53,9,MD,Democratic Republican,122,19,23,5.3
+B000554,404,Jesse,,bledsoe,37,13,KY,Democratic Republican,121,14,33,3.67
 T000015,400,Charles,,tait,41,11,GA,Democratic Republican,121,6,66,1.83
 F000313,42,Theodore,,foster,39,2,RI,Pro-Administration,121,11,48,2.52
 M000858,11,James,,monroe,31,1,VA,Anti-Administration,121,12,26,4.65
 F000313,74,Theodore,,foster,41,3,RI,Pro-Administration,119,10,59,2.02
 L000401,218,George,,logan,48,7,PA,Democratic Republican,118,15,27,4.37
 L000067,10,John,,langdon,48,1,NH,Pro-Administration,118,15,26,4.54
+T000264,509,Isaac,,tichenor,63,15,VT,Federalist,115,24,30,3.83
+C000083,414,George,Washington,campbell,44,13,TN,Democratic Republican,114,22,35,3.26
 H000870,317,Benjamin,,howland,50,9,RI,Democratic Republican,114,4,78,1.46
 H000841,129,John,Eager,howard,43,4,MD,Federalist,114,15,34,3.35
+T000085,461,John,,taylor,45,14,SC,Democratic Republican,112,12,42,2.67
 H000982,146,John,,hunter,45,5,SC,Democratic Republican,111,8,54,2.06
 T000052,153,Josiah,,tattnall,35,5,GA,Democratic Republican,108,6,50,2.16
 H000618,122,James,,hillhouse,41,4,CT,Federalist,108,14,41,2.63
+S000972,508,Clement,,storer,57,15,NH,Democratic Republican,107,21,26,4.12
 P000393,264,William,,plumer,44,8,NH,Federalist,106,3,72,1.47
+S000052,460,Nathan,,sanford,38,14,NY,Democratic Republican,104,13,33,3.15
 T000052,119,Josiah,,tattnall,33,4,GA,Democratic Republican,104,8,51,2.04
 T000389,102,Jonathan,,trumbull,55,4,CT,Federalist,104,7,57,1.82
+G000005,427,John,,gaillard,48,13,SC,Democratic Republican,103,11,29,3.55
 P000354,201,Charles,,pinckney,42,6,SC,Democratic Republican,103,20,40,2.58
 N000142,169,William,,north,42,5,NY,Federalist,103,13,29,3.55
+M000217,456,Jeremiah,,mason,47,14,NH,Federalist,102,8,42,2.43
 I000053,8,Ralph,,izard,48,1,SC,Pro-Administration,102,14,20,5.1
+R000313,421,Jonathan,,roberts,42,13,PA,Democratic Republican,101,13,39,2.59
 F000313,109,Theodore,,foster,43,4,RI,Federalist,101,11,52,1.94
+H000795,490,Outerbridge,,horsey,40,15,DE,Federalist,100,22,25,4.0
+B000921,451,James,,brown,49,14,LA,Democratic Republican,100,10,39,2.56
 H000508,145,John,,henry,47,5,MD,Pro-Administration,100,15,20,5.0
+R000500,459,Benjamin,,ruggles,32,14,OH,Democratic Republican,99,12,46,2.15
+G000215,416,Nicholas,,gilman,58,13,NH,Democratic Republican,99,11,40,2.48
+M000213,483,Armistead,Thomson,mason,28,14,VA,Democratic Republican,98,23,30,3.27
 T000249,378,Buckner,,thruston,46,11,KY,Democratic Republican,98,18,31,3.16
 E000075,61,John,,edwards,45,3,KY,Anti-Administration,98,9,54,1.81
+B000434,478,William,Wyatt,bibb,34,14,GA,Democratic Republican,97,14,33,2.94
 M000240,358,Elisha,,mathewson,40,10,RI,Democratic Republican,96,12,63,1.52
 E000114,226,Christopher,,ellery,33,7,RI,Democratic Republican,96,14,31,3.1
 V000104,117,John,,vining,37,4,DE,Pro-Administration,95,18,32,2.97
 B001186,2,Pierce,,butler,45,1,SC,Pro-Administration,95,13,25,3.8
 B000226,53,Richard,,bassett,46,2,DE,Anti-Administration,93,11,41,2.27
+H000991,517,William,,hunter,43,15,RI,Federalist,92,16,27,3.41
+F000389,435,Eligius,,fromentin,-1,13,LA,Democratic Republican,92,17,28,3.29
+G000264,406,Robert,Henry,goldsborough,34,13,MD,Federalist,92,21,35,2.63
 P000067,389,Nahum,,parker,49,11,NH,Democratic Republican,92,4,55,1.67
 L000115,111,Henry,,latimer,43,4,DE,Federalist,92,4,60,1.53
 R000091,13,George,,read,56,1,DE,Pro-Administration,92,13,25,3.68
+T000017,482,Isham,,talbot,42,14,KY,Democratic Republican,91,22,28,3.25
+T000382,510,George,Michael,troup,37,15,GA,Democratic Republican,90,27,16,5.62
 T000086,55,John,,taylor,38,2,VA,Anti-Administration,89,10,23,3.87
 S001073,280,Thomas,,sumter,69,8,SC,Democratic Republican,87,11,43,2.02
 B001186,260,Pierce,,butler,59,8,SC,Democratic Republican,86,28,19,4.53
 S000955,238,David,,stone,31,7,NC,Democratic Republican,86,12,30,2.87
 H000841,225,John,Eager,howard,49,7,MD,Federalist,86,11,31,2.77
+T000015,471,Charles,,tait,47,14,GA,Democratic Republican,85,8,36,2.36
+T000423,423,James,,turner,47,13,NC,Democratic Republican,84,13,48,1.75
 C000572,224,William,,cocke,53,7,TN,Democratic Republican,84,12,31,2.71
 B000929,54,John,,brown,34,2,KY,Anti-Administration,84,7,30,2.8
 H000870,347,Benjamin,,howland,52,10,RI,Democratic Republican,83,4,64,1.3
 M000712,322,John,,milledge,48,9,GA,Democratic Republican,83,12,38,2.18
 C000671,250,John,,condit,48,8,NJ,Democratic Republican,83,6,50,1.66
+E000024,525,John,Henry,eaton,27,15,TN,Democratic Republican,82,21,18,4.56
 H000368,5,Benjamin,,hawkins,35,1,NC,Pro-Administration,82,12,21,3.9
+B000192,474,William,Taylor,barry,31,14,KY,Democratic Republican,81,17,29,2.79
 W000287,265,William,Hill,wells,34,8,DE,Federalist,81,9,44,1.84
 W000287,173,William,Hill,wells,28,5,DE,Federalist,81,22,28,2.89
+D000024,479,Samuel,Whittlesey,dana,55,14,CT,Federalist,80,12,35,2.29
+M001003,408,Jeremiah,,morrow,42,13,OH,Democratic Republican,80,13,31,2.58
+W000287,438,William,Hill,wells,44,13,DE,Federalist,79,13,20,3.95
 B001186,59,Pierce,,butler,49,3,SC,Anti-Administration,79,10,20,3.95
 C000185,49,Charles,,carroll,54,2,MD,Pro-Administration,79,8,31,2.55
 W000633,18,Paine,,wingate,50,1,NH,Anti-Administration,79,13,27,2.93
 T000264,127,Isaac,,tichenor,41,4,VT,Federalist,78,10,34,2.29
 A000282,211,John,,armstrong,41,6,NY,Democratic Republican,76,9,30,2.53
 T000107,88,Henry,,tazewell,40,3,VA,Anti-Administration,76,13,22,3.45
+J000137,524,Henry,,johnson,34,15,LA,Democratic Republican,75,19,22,3.41
+V000037,521,Nicholas,,van dyke,47,15,DE,Federalist,75,19,28,2.68
 M000976,237,Gouverneur,,morris,49,7,NY,Federalist,75,15,24,3.12
+H000865,418,Jeremiah,Brown,howell,42,13,RI,Democratic Republican,73,19,19,3.84
 D000165,236,Jonathan,,dayton,41,7,NJ,Federalist,71,15,18,3.94
 B000745,214,Stephen,Row,bradley,47,7,VT,Democratic Republican,70,10,17,4.12
+G000264,475,Robert,Henry,goldsborough,36,14,MD,Federalist,68,8,27,2.52
 F000074,311,James,,fenner,34,9,RI,Democratic Republican,68,5,48,1.42
 M000831,284,Samuel,Latham,mitchill,39,8,NY,Democratic Republican,68,11,16,4.25
 F000368,103,Frederick,,frelinghuysen,42,4,NJ,Pro-Administration,68,9,30,2.27
 R000350,83,Moses,,robinson,52,3,VT,Anti-Administration,68,3,46,1.48
 M000031,22,William,,maclay,52,1,PA,Anti-Administration,67,10,21,3.19
+M000217,440,Jeremiah,,mason,45,13,NH,Federalist,66,19,20,3.3
 H000508,86,John,,henry,43,3,MD,Pro-Administration,66,5,37,1.78
+M000636,526,Prentiss,,mellen,53,15,MA,Federalist,65,12,20,3.25
 C000289,399,Christopher,Grant,champlin,41,11,RI,Federalist,65,9,31,2.1
 L000036,373,John,,lambert,63,11,NJ,Democratic Republican,65,16,43,1.51
 D000069,172,Franklin,,davenport,42,5,NJ,Federalist,65,16,27,2.41
 S000805,38,Joseph,,stanton,52,2,RI,Anti-Administration,65,7,37,1.76
 D000324,30,Philemon,,dickinson,52,2,NJ,Pro-Administration,65,4,44,1.48
+P000045,527,William,Adams,palmer,36,15,VT,Democratic Republican,64,15,20,3.2
+B000434,442,William,Wyatt,bibb,32,13,GA,Democratic Republican,64,18,14,4.57
 W000392,229,Samuel,,white,31,7,DE,Federalist,64,10,29,2.21
 W000114,115,George,,walton,46,4,GA,Federalist,64,13,16,4.0
+T000423,472,James,,turner,49,14,NC,Democratic Republican,63,4,40,1.58
+C000671,453,John,,condit,60,14,NJ,Democratic Republican,63,7,35,1.8
 S000566,281,John,,smith,51,8,NY,Democratic Republican,63,5,30,2.1
 C000525,244,De,Witt,clinton,32,7,NY,Democratic Republican,63,9,19,3.32
 R000550,152,John,,rutherfurd,37,5,NJ,Pro-Administration,63,14,21,3.0
 J000017,312,James,,jackson,48,9,GA,Democratic Republican,62,8,20,3.1
 B000739,133,William,,bradford,68,5,RI,Pro-Administration,62,17,20,3.1
+T000220,481,Thomas,Weston,thompson,49,14,NH,Federalist,60,10,34,1.76
 F000313,216,Theodore,,foster,49,7,RI,Federalist,60,9,26,2.31
+E000078,529,Ninian,,edwards,42,15,IL,Democratic Republican,59,27,6,9.83
 S001073,240,Thomas,,sumter,67,7,SC,Democratic Republican,59,12,17,3.47
 W000287,223,William,Hill,wells,32,7,DE,Federalist,59,8,25,2.36
 B000226,1,Richard,,bassett,44,1,DE,Anti-Administration,59,5,27,2.19
 C000185,25,Charles,,carroll,52,1,MD,Pro-Administration,58,8,17,3.41
+F000154,503,James,,fisk,54,15,VT,Democratic Republican,57,21,13,4.38
 R000448,242,James,,ross,39,7,PA,Federalist,57,9,20,2.85
 C000497,168,Joshua,,clayton,53,5,DE,Federalist,57,8,28,2.04
 H000508,23,John,,henry,39,1,MD,Pro-Administration,57,7,19,3.0
@@ -347,8 +450,10 @@ P000468,274,Samuel,John,potter,50,8,RI,Democratic Republican,55,10,35,1.57
 M000226,219,Stevens,Thomson,mason,41,7,VA,Democratic Republican,54,8,18,3.0
 B000570,120,William,,blount,46,4,TN,Democratic Republican,54,15,20,2.7
 D000324,17,Philemon,,dickinson,50,1,NJ,Pro-Administration,54,9,24,2.25
+C000671,431,John,,condit,58,13,NJ,Democratic Republican,53,11,21,2.52
 H000618,232,James,,hillhouse,47,7,CT,Federalist,53,14,23,2.3
 M000221,227,Jonathan,,mason,45,7,MA,Federalist,53,6,19,2.79
+A000317,500,Eli,Porter,ashmun,47,15,MA,Federalist,52,19,17,3.06
 R000350,48,Moses,,robinson,50,2,VT,Anti-Administration,52,5,29,1.79
 J000198,7,Samuel,,johnston,56,1,NC,Pro-Administration,52,7,22,2.36
 G000526,24,James,,gunn,36,1,GA,Anti-Administration,51,15,12,4.25
@@ -357,6 +462,7 @@ O000060,273,Simeon,,olcott,68,8,NH,Federalist,50,7,33,1.52
 M000076,384,Francis,,malbone,50,11,RI,Federalist,49,10,12,4.08
 C000369,215,Nathaniel,,chipman,49,7,VT,Federalist,48,14,15,3.2
 D000013,3,Tristram,,dalton,51,1,MA,Pro-Administration,48,9,16,3.0
+W000287,477,William,Hill,wells,46,14,DE,Federalist,47,15,21,2.24
 H000795,402,Outerbridge,,horsey,32,11,DE,Federalist,47,9,34,1.38
 J000005,165,Andrew,,jackson,30,5,TN,Democratic Republican,46,6,28,1.64
 C000572,126,William,,cocke,47,4,TN,Democratic Republican,45,5,30,1.5
@@ -365,9 +471,12 @@ T000086,257,John,,taylor,50,8,VA,Democratic Republican,44,7,16,2.75
 O000060,221,Simeon,,olcott,66,7,NH,Federalist,44,7,22,2.0
 T000264,159,Isaac,,tichenor,43,5,VT,Federalist,44,15,16,2.75
 F000100,19,William,,few,41,1,GA,Anti-Administration,44,7,18,2.44
+H000225,484,Robert,Goodloe,harper,50,14,MD,Federalist,42,18,10,4.2
 P000473,57,Richard,,potts,38,2,MD,Pro-Administration,42,5,15,2.8
 F000313,21,Theodore,,foster,37,1,RI,Pro-Administration,42,10,20,2.1
 B000929,239,John,,brown,44,7,KY,Democratic Republican,41,14,10,4.1
+H000176,522,Alexander,Contee,hanson,31,15,MD,Federalist,40,12,14,2.86
+C000083,464,George,Washington,campbell,46,14,TN,Democratic Republican,40,5,20,2.0
 C000525,249,De,Witt,clinton,34,8,NY,Democratic Republican,38,22,4,9.5
 R000350,113,Moses,,robinson,54,4,VT,Anti-Administration,38,6,25,1.52
 B000049,259,Theodorus,,bailey,45,8,NY,Democratic Republican,37,5,19,1.95
@@ -377,27 +486,45 @@ C000627,235,John,Ewing,colhoun,52,7,SC,Democratic Republican,36,16,8,4.5
 H000661,167,John,Sloss,hobart,59,5,NY,Federalist,36,10,14,2.57
 V000104,144,John,,vining,39,5,DE,Pro-Administration,36,16,11,3.27
 B000249,285,James,Asheton,bayard,36,8,DE,Federalist,35,11,11,3.18
+G000005,523,John,,gaillard,52,15,SC,Democratic Republican,34,8,7,4.86
 G000489,396,Stanley,,griswold,46,11,OH,Democratic Republican,34,7,21,1.62
 L000229,363,Michael,,leib,47,10,PA,Democratic Republican,34,10,12,2.83
+T000264,470,Isaac,,tichenor,61,14,VT,Federalist,32,8,18,1.78
+C001031,425,Charles,,cutts,44,13,NH,Democratic Republican,31,10,13,2.38
 H000629,210,William,,hindman,56,6,MD,Federalist,31,7,18,1.72
+B000127,446,James,,barbour,38,13,VA,Anti-Democrat,30,18,6,5.0
 R000125,324,Philip,,reed,45,9,MD,Democratic Republican,30,4,19,1.58
 F000301,231,Dwight,,foster,44,7,MA,Federalist,30,7,11,2.73
 M000891,283,Andrew,,moore,51,8,VA,Democratic Republican,29,6,15,1.93
+F000284,528,John,,forsyth,37,15,GA,Democratic Republican,28,7,7,4.0
 L000201,26,Richard,Henry,lee,57,1,VA,Anti-Administration,28,11,8,3.5
 O000041,233,Aaron,,ogden,45,7,NJ,Federalist,25,6,10,2.5
 G000020,63,Albert,,gallatin,32,3,PA,Anti-Administration,25,11,7,3.57
+B000433,439,George,Mortimer,bibb,37,13,KY,Democratic Republican,23,4,14,1.64
 E000075,56,John,,edwards,43,2,KY,Anti-Administration,23,10,10,2.3
 J000220,339,George,,jones,41,10,GA,Democratic Republican,19,6,10,1.9
 P000393,243,William,,plumer,42,7,NH,Federalist,19,5,11,1.73
+H000865,466,Jeremiah,Brown,howell,44,14,RI,Democratic Republican,18,4,14,1.29
+T000017,449,Isham,,talbot,40,13,KY,Democratic Republican,18,6,6,3.0
+L000036,420,John,,lambert,67,13,NJ,Democratic Republican,17,3,12,1.42
+D000024,512,Samuel,Whittlesey,dana,57,15,CT,Federalist,16,4,10,1.6
+T000220,444,Thomas,Weston,thompson,47,13,NH,Federalist,15,5,7,2.14
 H000870,286,Benjamin,,howland,48,8,RI,Democratic Republican,13,3,10,1.3
 G000005,287,John,,gaillard,38,8,SC,Democratic Republican,11,3,7,1.57
 B000570,132,William,,blount,48,5,TN,Democratic Republican,11,4,6,1.83
+G000322,480,Christopher,,gore,57,14,MA,Federalist,10,3,7,1.43
 C000572,155,William,,cocke,49,5,TN,Democratic Republican,10,3,7,1.43
+W000324,445,Jesse,,wharton,31,13,TN,Democratic Republican,9,6,4,2.25
+T000171,530,Jesse,Burgess,thomas,40,15,IL,Democratic Republican,8,3,5,1.6
 E000155,20,Jonathan,,elmer,44,1,NJ,Pro-Administration,7,1,7,1.0
+B000192,448,William,Taylor,barry,29,13,KY,Democratic Republican,6,2,5,1.2
+W000053,443,George,,walker,50,13,KY,Democratic Republican,6,3,3,2.0
 F000344,234,Jesse,,franklin,41,7,NC,Democratic Republican,6,2,5,1.2
 H000982,130,John,,hunter,43,4,SC,Democratic Republican,6,2,5,1.2
+R000346,441,Jonathan,,robinson,57,13,VT,Democratic Republican,4,2,3,1.33
 T000268,379,Edward,,tiffin,43,11,OH,Democratic Republican,4,4,1,4.0
 S000805,15,Joseph,,stanton,50,1,RI,Anti-Administration,4,1,4,1.0
+K000141,447,Joseph,,kerr,48,13,OH,Democratic Republican,3,1,3,1.0
 B000084,360,Abraham,,baldwin,53,10,GA,Democratic Republican,3,2,2,1.5
 S000524,170,Daniel,,smith,49,5,TN,Democratic Republican,3,2,2,1.5
 K000246,372,Aaron,,kitchell,65,11,NJ,Democratic Republican,1,1,1,1.0

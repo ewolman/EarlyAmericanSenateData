@@ -48,7 +48,9 @@ party_votes.to_csv('useful_tables/VotesByParty.csv', index = False)
 # votes per year per party
 all_t = votes[votes['date'] != 'n.d.']
 all_t['year'] = [i[0] for i in all_t['date'].str.split('-')] 
+print(all_t.head())
 party_year_votes = all_t.groupby(by = ['year','party'],as_index=False).sum('votes')
+print(party_year_votes.head())
 party_year_votes = party_year_votes[['year','party','votes']]
 party_year_votes.to_csv('useful_tables/VotesByPartyByYear.csv', index = False)
 
