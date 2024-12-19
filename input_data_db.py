@@ -48,10 +48,21 @@ party_votes.to_csv('useful_tables/VotesByParty.csv', index = False)
 # votes per year per party
 all_t = votes[votes['date'] != 'n.d.']
 all_t['year'] = [i[0] for i in all_t['date'].str.split('-')] 
-print(all_t.head())
-party_year_votes = all_t.groupby(by = ['year','party'],as_index=False).sum('votes')
-print(party_year_votes.head())
-party_year_votes = party_year_votes[['year','party','votes']]
+party_year_votes = all_t.groupby(by = ['year','party'],as_index=False).agg({'votes':'sum', 'committee_id':'nunique'})
+party_year_votes['VotesPerCmte'] = (party_year_votes['votes']/party_year_votes['committee_id']).round(2)
+
+# get vote share
+totals = party_year_votes.groupby(by = 'year', as_index=False).sum('votes')
+shares = []
+for year in totals['year']:
+    total = totals.loc[totals['year'] == year]['votes'].values[0]
+    #print(total)
+    that_year = party_year_votes[party_year_votes['year'] == year]
+    #print(that_year)
+    shares += [round(party/total*100, 2) for party in that_year['votes']]
+party_year_votes['VoteShare (%)'] = shares
+
+party_year_votes.columns = ['year','party','NumVotes', 'NumCommittees', 'VotesPerCmte', 'VoteShare']
 party_year_votes.to_csv('useful_tables/VotesByPartyByYear.csv', index = False)
 
 conn.close()
