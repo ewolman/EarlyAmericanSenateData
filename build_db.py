@@ -42,7 +42,7 @@ def Rebuild():
         data.loc[data['age'].isna(), 'age'] = None
         data.loc[data['birth_year'].isna(), 'birth_year'] = None
         data.loc[data['death_year'].isna(), 'death_year'] = None
-
+        data['last_name'] = data['last_name'].str.title() # capitalize last names
         tSenator = data[['senator_id', 'first_name', 'middle_name','last_name', 'birth_year', 'death_year']]        
         
         # Building the database

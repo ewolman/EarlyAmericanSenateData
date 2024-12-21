@@ -39,8 +39,16 @@ all_time['VotesPerCongress'] = all_time['VotesPerCongress'].round(2)
 all_time.to_csv('useful_tables/TotalVotesAllTime.csv', index = False)
 
 congress = pd.read_sql('SELECT * FROM vTotalVotesByCongress;', conn)
+congress['middle_name'] = congress['middle_name'].fillna('')
+congress['full_name_st'] = (congress['first_name'] + ' ' + congress['middle_name'] + ' ' + 
+                            congress['last_name'] + ' (' + congress['state'] + ')').str.replace('  ',' ')
 congress['VotesPerCmte'] = congress['VotesPerCmte'].round(2)
 congress.to_csv('useful_tables/TotalVotesByCongress.csv', index = False)
+# more than 3 congresses (full term)
+count_congress = congress.groupby(by = 'senator_id', as_index=False).agg({'congress':'nunique'})
+full_term = congress[congress['senator_id'].isin(count_congress[count_congress['congress'] >= 3]['senator_id'])]
+full_term.to_csv('useful_tables/TotalVotesByCongress_FullTerm.csv', index = False)
+
 
 party_votes = pd.read_sql('SELECT * FROM vVotesByParty;', conn)
 party_votes.to_csv('useful_tables/VotesByParty.csv', index = False)
