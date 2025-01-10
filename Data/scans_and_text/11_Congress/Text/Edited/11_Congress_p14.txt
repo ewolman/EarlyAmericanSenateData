@@ -6,7 +6,7 @@ And 1; Bradl 1; Craw 7; Frank 1; Gaill 2; Germ 1; Lloyd 1; Pick
 1; Rob 1; Tait 5; Turner 8.
 
 
-Cmte on recommitment Bill B Lee. April 2, 1810. Brent, Crawford, Cle
+Cmte on recommitment Bill Richard B Lee. April 2, 1810. Brent, Crawford, Cle
 
 And 3; Bay 1; Bradl 1; Brent 15; Champ 1; Clay 10; Craw 11; Frank
 3; Gilm 1; Good 2; Hill 1; Horsey 1; Lamb 1; Lloyd 1; Pick 1;
@@ -62,7 +62,7 @@ Germ 1; Giles 18; Good 1; Gregg 1; Hill 4; Meigs 1; pick 2; Pope
 2; Rob 1; Sumter 1; Tait 1; Whites 1.
 
 
-cmte on nomination of Jones & others. April 9, 1810.Leb, Auduson, Condit.
+cmte on nomination of Jones & others for navy. April 9, 1810.Leb, Auduson, Condit.
 
 and 5; Bay 1; Camp 3; Condit 4; Craw 1; Good 1; Gregg 3; Leib 9;
 Math 1; Reed 4; Rob 2; MD 1; NY 1; Sumter 1.
