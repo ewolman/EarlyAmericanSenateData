@@ -13,21 +13,21 @@ Read,10,Cmte notify PUS quorum,,1799-12-02,6,3
 Tracy,3,Cmte notify PUS quorum,,1799-12-02,6,3
 Watson,2,Cmte notify PUS quorum,,1799-12-02,6,3
 Wells,1,Cmte notify PUS quorum,,1799-12-02,6,3
-And,1,Cmte on PUS's message,,1799-12-03,6,3
-Bald,1,Cmte on PUS's message,,1799-12-03,6,3
-Bing,4,Cmte on PUS's message,,1799-12-03,6,3
-Brown,1,Cmte on PUS's message,,1799-12-03,6,3
-Dexter,7,Cmte on PUS's message,,1799-12-03,6,3
-Good,2,Cmte on PUS's message,,1799-12-03,6,3
-Gunn,2,Cmte on PUS's message,,1799-12-03,6,3
-Hill,1,Cmte on PUS's message,,1799-12-03,6,3
-Lang,2,Cmte on PUS's message,,1799-12-03,6,3
-Laur,2,Cmte on PUS's message,,1799-12-03,6,3
-Marsh,2,Cmte on PUS's message,,1799-12-03,6,3
-Read,12,Cmte on PUS's message,,1799-12-03,6,3
-Ross,13,Cmte on PUS's message,,1799-12-03,6,3
-Tracy,10,Cmte on PUS's message,,1799-12-03,6,3
-Watson,1,Cmte on PUS's message,,1799-12-03,6,3
+And,1,Cmte on PUS's message reply,,1799-12-03,6,3
+Bald,1,Cmte on PUS's message reply,,1799-12-03,6,3
+Bing,4,Cmte on PUS's message reply,,1799-12-03,6,3
+Brown,1,Cmte on PUS's message reply,,1799-12-03,6,3
+Dexter,7,Cmte on PUS's message reply,,1799-12-03,6,3
+Good,2,Cmte on PUS's message reply,,1799-12-03,6,3
+Gunn,2,Cmte on PUS's message reply,,1799-12-03,6,3
+Hill,1,Cmte on PUS's message reply,,1799-12-03,6,3
+Lang,2,Cmte on PUS's message reply,,1799-12-03,6,3
+Laur,2,Cmte on PUS's message reply,,1799-12-03,6,3
+Marsh,2,Cmte on PUS's message reply,,1799-12-03,6,3
+Read,12,Cmte on PUS's message reply,,1799-12-03,6,3
+Ross,13,Cmte on PUS's message reply,,1799-12-03,6,3
+Tracy,10,Cmte on PUS's message reply,,1799-12-03,6,3
+Watson,1,Cmte on PUS's message reply,,1799-12-03,6,3
 And,10,Cmte on petition of Sam Glass & others,,1799-12-05,6,3
 Brown,2,Cmte on petition of Sam Glass & others,,1799-12-05,6,3
 Dayton,1,Cmte on petition of Sam Glass & others,,1799-12-05,6,3
@@ -271,27 +271,6 @@ Ross,15,Cmte to address PUS on death of GW,,1799-12-19,6,4
 Tracy,1,Cmte to address PUS on death of GW,,1799-12-19,6,4
 Wat,1,Cmte to address PUS on death of GW,,1799-12-19,6,4
 Wells,3,Cmte to address PUS on death of GW,,1799-12-19,6,4
-And,1,Cmte on bill WHH,,1799-12-22,6,5
-Bald,3,Cmte on bill WHH,,1799-12-22,6,5
-Brown,3,Cmte on bill WHH,,1799-12-22,6,5
-Chip,1,Cmte on bill WHH,,1799-12-22,6,5
-Cocke,3,Cmte on bill WHH,,1799-12-22,6,5
-Dayton,4,Cmte on bill WHH,,1799-12-22,6,5
-Foster,2,Cmte on bill WHH,,1799-12-22,6,5
-Greene,4,Cmte on bill WHH,,1799-12-22,6,5
-Gunn,1,Cmte on bill WHH,,1799-12-22,6,5
-Hill,1,Cmte on bill WHH,,1799-12-22,6,5
-How,2,Cmte on bill WHH,,1799-12-22,6,5
-Lang,1,Cmte on bill WHH,,1799-12-22,6,5
-Lat,1,Cmte on bill WHH,,1799-12-22,6,5
-Laur,2,Cmte on bill WHH,,1799-12-22,6,5
-Lloyd,1,Cmte on bill WHH,,1799-12-22,6,5
-Paine,2,Cmte on bill WHH,,1799-12-22,6,5
-Read,1,Cmte on bill WHH,,1799-12-22,6,5
-Ross,7,Cmte on bill WHH,,1799-12-22,6,5
-Tracy,7,Cmte on bill WHH,,1799-12-22,6,5
-Watson,6,Cmte on bill WHH,,1799-12-22,6,5
-Wells,1,Cmte on bill WHH,,1799-12-22,6,5
 Bing,3,Cmte on bill valuation,,1799-12-23,6,4
 Brown,3,Cmte on bill valuation,,1799-12-23,6,4
 Chip,2,Cmte on bill valuation,,1799-12-23,6,4
@@ -350,6 +329,27 @@ Ross,6,Cmte on Petition of Thos Burling & others,,1799-12-24,6,5
 Schur,1,Cmte on Petition of Thos Burling & others,,1799-12-24,6,5
 Tracy,15,Cmte on Petition of Thos Burling & others,,1799-12-24,6,5
 Wells,1,Cmte on Petition of Thos Burling & others,,1799-12-24,6,5
+And,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Bald,3,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Brown,3,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Chip,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Cocke,3,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Dayton,4,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Foster,2,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Greene,4,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Gunn,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Hill,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+How,2,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Lang,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Lat,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Laur,2,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Lloyd,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Paine,2,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Read,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Ross,7,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Tracy,7,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Watson,6,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
+Wells,1,Cmte on bill franking privilege to WHH delegate from NW Territory,,1799-12-24,6,5
 Blood,1,Cmte on petition of E Brainard,,1799-12-31,6,4
 Brown,2,Cmte on petition of E Brainard,,1799-12-31,6,4
 Chip,2,Cmte on petition of E Brainard,,1799-12-31,6,4
@@ -401,45 +401,45 @@ Read,1,Cmte amend to bill prisoners for debt,,1800-01-01,6,5
 Ross,5,Cmte amend to bill prisoners for debt,,1800-01-01,6,5
 Tracy,7,Cmte amend to bill prisoners for debt,,1800-01-01,6,5
 Wells,2,Cmte amend to bill prisoners for debt,,1800-01-01,6,5
-Bald,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Brown,5,Cmte on petition of R Butler,,1800-01-07,6,5
-Chip,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Cocke,1,Cmte on petition of R Butler,,1800-01-07,6,5
-Day,3,Cmte on petition of R Butler,,1800-01-07,6,5
-Dexter,3,Cmte on petition of R Butler,,1800-01-07,6,5
-Foster,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Good,1,Cmte on petition of R Butler,,1800-01-07,6,5
-Gunn,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Hill,3,Cmte on petition of R Butler,,1800-01-07,6,5
-Lang,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Lat,1,Cmte on petition of R Butler,,1800-01-07,6,5
-Laur,1,Cmte on petition of R Butler,,1800-01-07,6,5
-Liver,4,Cmte on petition of R Butler,,1800-01-07,6,5
-Lloyd,1,Cmte on petition of R Butler,,1800-01-07,6,5
-Marsh,2,Cmte on petition of R Butler,,1800-01-07,6,5
-Nicholas,4,Cmte on petition of R Butler,,1800-01-07,6,5
-Paine,3,Cmte on petition of R Butler,,1800-01-07,6,5
-Read,5,Cmte on petition of R Butler,,1800-01-07,6,5
-Ross,14,Cmte on petition of R Butler,,1800-01-07,6,5
-Tracy,8,Cmte on petition of R Butler,,1800-01-07,6,5
-Bald,2,emte bill peace with Indians,,1800-01-08,6,5
-Brown,8,emte bill peace with Indians,,1800-01-08,6,5
-Chip,4,emte bill peace with Indians,,1800-01-08,6,5
-Cocke,4,emte bill peace with Indians,,1800-01-08,6,5
-Dayton,3,emte bill peace with Indians,,1800-01-08,6,5
-Dexter,2,emte bill peace with Indians,,1800-01-08,6,5
-Frank,1,emte bill peace with Indians,,1800-01-08,6,5
-Gunn,5,emte bill peace with Indians,,1800-01-08,6,5
-Hill,11,emte bill peace with Indians,,1800-01-08,6,5
-Lang,3,emte bill peace with Indians,,1800-01-08,6,5
-Laur,1,emte bill peace with Indians,,1800-01-08,6,5
-Liver,4,emte bill peace with Indians,,1800-01-08,6,5
-Lloyd,2,emte bill peace with Indians,,1800-01-08,6,5
-Nicholas,4,emte bill peace with Indians,,1800-01-08,6,5
-Paine,3,emte bill peace with Indians,,1800-01-08,6,5
-Read,1,emte bill peace with Indians,,1800-01-08,6,5
-Ross,7,emte bill peace with Indians,,1800-01-08,6,5
-Tracy,1,emte bill peace with Indians,,1800-01-08,6,5
+Bald,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Brown,5,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Chip,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Cocke,1,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Day,3,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Dexter,3,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Foster,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Good,1,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Gunn,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Hill,3,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Lang,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Lat,1,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Laur,1,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Liver,4,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Lloyd,1,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Marsh,2,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Nicholas,4,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Paine,3,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Read,5,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Ross,14,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Tracy,8,Cmte on petition of Richard Butler to bring slaves to MS territory,,1800-01-07,6,5
+Bald,2,Cmte bill peace with Indians,,1800-01-08,6,5
+Brown,8,Cmte bill peace with Indians,,1800-01-08,6,5
+Chip,4,Cmte bill peace with Indians,,1800-01-08,6,5
+Cocke,4,Cmte bill peace with Indians,,1800-01-08,6,5
+Dayton,3,Cmte bill peace with Indians,,1800-01-08,6,5
+Dexter,2,Cmte bill peace with Indians,,1800-01-08,6,5
+Frank,1,Cmte bill peace with Indians,,1800-01-08,6,5
+Gunn,5,Cmte bill peace with Indians,,1800-01-08,6,5
+Hill,11,Cmte bill peace with Indians,,1800-01-08,6,5
+Lang,3,Cmte bill peace with Indians,,1800-01-08,6,5
+Laur,1,Cmte bill peace with Indians,,1800-01-08,6,5
+Liver,4,Cmte bill peace with Indians,,1800-01-08,6,5
+Lloyd,2,Cmte bill peace with Indians,,1800-01-08,6,5
+Nicholas,4,Cmte bill peace with Indians,,1800-01-08,6,5
+Paine,3,Cmte bill peace with Indians,,1800-01-08,6,5
+Read,1,Cmte bill peace with Indians,,1800-01-08,6,5
+Ross,7,Cmte bill peace with Indians,,1800-01-08,6,5
+Tracy,1,Cmte bill peace with Indians,,1800-01-08,6,5
 Bald,1,Cmte on Keziah Underwood,,1800-01-09,6,5
 Blood,1,Cmte on Keziah Underwood,,1800-01-09,6,5
 Chip,2,Cmte on Keziah Underwood,,1800-01-09,6,5
@@ -544,32 +544,32 @@ Read,1,Cmte motion for compensation to members,,1800-01-22,6,6
 Schur,1,Cmte motion for compensation to members,,1800-01-22,6,6
 Tracy,7,Cmte motion for compensation to members,,1800-01-22,6,6
 Wat,4,Cmte motion for compensation to members,,1800-01-22,6,6
-And,6,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Bald,6,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Bing,2,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Blood,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Brown,5,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Chip,6,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Dext,12,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Frank,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Greene,4,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Gunn,2,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Hill,2,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-How,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Lang,4,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Laur,16,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Liver,9,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Lloyd,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Mas,2,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Nich,5,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Paine,9,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Pinckney,11,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Read,9,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Ross,22,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Schur,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Tracy,9,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Wat,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
-Wells,1,Cmte on motion re PUS & VP election,,1800-01-24,6,6
+And,6,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Bald,6,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Bing,2,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Blood,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Brown,5,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Chip,6,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Dext,12,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Frank,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Greene,4,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Gunn,2,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Hill,2,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+How,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Lang,4,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Laur,16,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Liver,9,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Lloyd,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Mas,2,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Nich,5,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Paine,9,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Pinckney,11,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Read,9,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Ross,22,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Schur,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Tracy,9,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Wat,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
+Wells,1,Cmte on motion re PUS & VP disputed elections,,1800-01-24,6,6
 And,2,Cmte on bill cease enlistment,,1800-01-27,6,6
 Bald,1,Cmte on bill cease enlistment,,1800-01-27,6,6
 Brown,3,Cmte on bill cease enlistment,,1800-01-27,6,6
@@ -997,51 +997,51 @@ Dayton,1,cmte of Conference bill United Brethren,,1800-02-25,6,8
 Laur,1,cmte of Conference bill United Brethren,,1800-02-25,6,8
 Ross,24,cmte of Conference bill United Brethren,,1800-02-25,6,8
 Tracy,4,cmte of Conference bill United Brethren,,1800-02-25,6,8
-And,7,emte on privileges,,1800-02-26,6,8
-Bald,9,emte on privileges,,1800-02-26,6,8
-Bing,4,emte on privileges,,1800-02-26,6,8
-Blood,3,emte on privileges,,1800-02-26,6,8
-Brown,10,emte on privileges,,1800-02-26,6,8
-Chip,12,emte on privileges,,1800-02-26,6,8
-Cocke,1,emte on privileges,,1800-02-26,6,8
-Dayton,16,emte on privileges,,1800-02-26,6,8
-Foster,2,emte on privileges,,1800-02-26,6,8
-Frank,1,emte on privileges,,1800-02-26,6,8
-Greene,2,emte on privileges,,1800-02-26,6,8
-Gunn,3,emte on privileges,,1800-02-26,6,8
-Hill,1,emte on privileges,,1800-02-26,6,8
-How,1,emte on privileges,,1800-02-26,6,8
-Lang,2,emte on privileges,,1800-02-26,6,8
-Lat,13,emte on privileges,,1800-02-26,6,8
-Laur,8,emte on privileges,,1800-02-26,6,8
-Liver,3,emte on privileges,,1800-02-26,6,8
-Lloyd,1,emte on privileges,,1800-02-26,6,8
-Marsh,9,emte on privileges,,1800-02-26,6,8
-Mason,3,emte on privileges,,1800-02-26,6,8
-Nich,3,emte on privileges,,1800-02-26,6,8
-Paine,3,emte on privileges,,1800-02-26,6,8
-Pinck,3,emte on privileges,,1800-02-26,6,8
-Ross,5,emte on privileges,,1800-02-26,6,8
-Tracy,16,emte on privileges,,1800-02-26,6,8
-Wat,4,emte on privileges,,1800-02-26,6,8
-And,4,Cmte on bill New Orleans,,1800-02-27,6,8
-Bald,4,Cmte on bill New Orleans,,1800-02-27,6,8
-Bing,9,Cmte on bill New Orleans,,1800-02-27,6,8
-Brown,5,Cmte on bill New Orleans,,1800-02-27,6,8
-Day,2,Cmte on bill New Orleans,,1800-02-27,6,8
-Good,5,Cmte on bill New Orleans,,1800-02-27,6,8
-Gunn,2,Cmte on bill New Orleans,,1800-02-27,6,8
-How,1,Cmte on bill New Orleans,,1800-02-27,6,8
-Lang,2,Cmte on bill New Orleans,,1800-02-27,6,8
-Laur,4,Cmte on bill New Orleans,,1800-02-27,6,8
-Liver,2,Cmte on bill New Orleans,,1800-02-27,6,8
-Lloyd,2,Cmte on bill New Orleans,,1800-02-27,6,8
-Marsh,4,Cmte on bill New Orleans,,1800-02-27,6,8
-Nich,4,Cmte on bill New Orleans,,1800-02-27,6,8
-Paine,1,Cmte on bill New Orleans,,1800-02-27,6,8
-Pinck,1,Cmte on bill New Orleans,,1800-02-27,6,8
-Tracy,3,Cmte on bill New Orleans,,1800-02-27,6,8
-Wat,7,Cmte on bill New Orleans,,1800-02-27,6,8
+And,7,Cmte of standing committee of privileges,,1800-02-26,6,8
+Bald,9,Cmte of standing committee of privileges,,1800-02-26,6,8
+Bing,4,Cmte of standing committee of privileges,,1800-02-26,6,8
+Blood,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Brown,10,Cmte of standing committee of privileges,,1800-02-26,6,8
+Chip,12,Cmte of standing committee of privileges,,1800-02-26,6,8
+Cocke,1,Cmte of standing committee of privileges,,1800-02-26,6,8
+Dayton,16,Cmte of standing committee of privileges,,1800-02-26,6,8
+Foster,2,Cmte of standing committee of privileges,,1800-02-26,6,8
+Frank,1,Cmte of standing committee of privileges,,1800-02-26,6,8
+Greene,2,Cmte of standing committee of privileges,,1800-02-26,6,8
+Gunn,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Hill,1,Cmte of standing committee of privileges,,1800-02-26,6,8
+How,1,Cmte of standing committee of privileges,,1800-02-26,6,8
+Lang,2,Cmte of standing committee of privileges,,1800-02-26,6,8
+Lat,13,Cmte of standing committee of privileges,,1800-02-26,6,8
+Laur,8,Cmte of standing committee of privileges,,1800-02-26,6,8
+Liver,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Lloyd,1,Cmte of standing committee of privileges,,1800-02-26,6,8
+Marsh,9,Cmte of standing committee of privileges,,1800-02-26,6,8
+Mason,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Nich,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Paine,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Pinck,3,Cmte of standing committee of privileges,,1800-02-26,6,8
+Ross,5,Cmte of standing committee of privileges,,1800-02-26,6,8
+Tracy,16,Cmte of standing committee of privileges,,1800-02-26,6,8
+Wat,4,Cmte of standing committee of privileges,,1800-02-26,6,8
+And,4,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Bald,4,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Bing,9,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Brown,5,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Day,2,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Good,5,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Gunn,2,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+How,1,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Lang,2,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Laur,4,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Liver,2,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Lloyd,2,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Marsh,4,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Nich,4,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Paine,1,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Pinck,1,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Tracy,3,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
+Wat,7,Cmte on bill exports to New Orleans to collect duties and tonnage,,1800-02-27,6,8
 And,1,Cmte on bill to continue law for US fisheries,,1800-02-27,6,8
 Bald,6,Cmte on bill to continue law for US fisheries,,1800-02-27,6,8
 Bing,2,Cmte on bill to continue law for US fisheries,,1800-02-27,6,8
@@ -1637,25 +1637,25 @@ Mas,1,Cmte on Marine Corps bill,,1800-04-01,6,12
 Paine,2,Cmte on Marine Corps bill,,1800-04-01,6,12
 Read,1,Cmte on Marine Corps bill,,1800-04-01,6,12
 Tracy,4,Cmte on Marine Corps bill,,1800-04-01,6,12
-And,3,Cmte on bill NW Territory,,1800-04-01,6,12
-Bald,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Brown,9,Cmte on bill NW Territory,,1800-04-01,6,12
-Chip,2,Cmte on bill NW Territory,,1800-04-01,6,12
-Cocke,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Day,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Dext,3,Cmte on bill NW Territory,,1800-04-01,6,12
-Good,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Greene,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Gunn,5,Cmte on bill NW Territory,,1800-04-01,6,12
-Hill,2,Cmte on bill NW Territory,,1800-04-01,6,12
-Lang,2,Cmte on bill NW Territory,,1800-04-01,6,12
-Laur,2,Cmte on bill NW Territory,,1800-04-01,6,12
-Liver,3,Cmte on bill NW Territory,,1800-04-01,6,12
-Marsh,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Paine,2,Cmte on bill NW Territory,,1800-04-01,6,12
-Read,1,Cmte on bill NW Territory,,1800-04-01,6,12
-Ross,8,Cmte on bill NW Territory,,1800-04-01,6,12
-Tracy,3,Cmte on bill NW Territory,,1800-04-01,6,12
+And,3,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Bald,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Brown,9,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Chip,2,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Cocke,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Day,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Dext,3,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Good,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Greene,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Gunn,5,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Hill,2,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Lang,2,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Laur,2,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Liver,3,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Marsh,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Paine,2,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Read,1,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Ross,8,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
+Tracy,3,Cmte on bill NW Territory divide into two governments,,1800-04-01,6,12
 Bing,9,Cmte inquire state of mint,,1800-04-02,6,12
 Blood,1,Cmte inquire state of mint,,1800-04-02,6,12
 Cocke,1,Cmte inquire state of mint,,1800-04-02,6,12
@@ -1983,26 +1983,26 @@ Ross,1,Cmte on bill Arsenals,,1800-04-17,6,13
 Sch,1,Cmte on bill Arsenals,,1800-04-17,6,13
 Tracy,7,Cmte on bill Arsenals,,1800-04-17,6,13
 Wells,1,Cmte on bill Arsenals,,1800-04-17,6,13
-And,5,Cmte compensation Bill,,1800-04-18,6,13
-Bald,1,Cmte compensation Bill,,1800-04-18,6,13
-Bing,1,Cmte compensation Bill,,1800-04-18,6,13
-Blood,1,Cmte compensation Bill,,1800-04-18,6,13
-Brown,3,Cmte compensation Bill,,1800-04-18,6,13
-Cocke,1,Cmte compensation Bill,,1800-04-18,6,13
-Dayton,1,Cmte compensation Bill,,1800-04-18,6,13
-Dexter,1,Cmte compensation Bill,,1800-04-18,6,13
-Frank,5,Cmte compensation Bill,,1800-04-18,6,13
-Good,4,Cmte compensation Bill,,1800-04-18,6,13
-Gunn,5,Cmte compensation Bill,,1800-04-18,6,13
-Hill,3,Cmte compensation Bill,,1800-04-18,6,13
-Lang,2,Cmte compensation Bill,,1800-04-18,6,13
-Lat,9,Cmte compensation Bill,,1800-04-18,6,13
-liver,10,Cmte compensation Bill,,1800-04-18,6,13
-Mas,1,Cmte compensation Bill,,1800-04-18,6,13
-Nich,1,Cmte compensation Bill,,1800-04-18,6,13
-Read,1,Cmte compensation Bill,,1800-04-18,6,13
-Schur,2,Cmte compensation Bill,,1800-04-18,6,13
-Tracy,3,Cmte compensation Bill,,1800-04-18,6,13
+And,5,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Bald,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Bing,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Blood,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Brown,3,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Cocke,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Dayton,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Dexter,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Frank,5,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Good,4,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Gunn,5,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Hill,3,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Lang,2,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Lat,9,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+liver,10,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Mas,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Nich,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Read,1,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Schur,2,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
+Tracy,3,Cmte compensation for officers of congress Bill,,1800-04-18,6,13
 Bald,3,Cmte on NC land cession to replace Chipman,,1800-04-19,6,13
 Bing,1,Cmte on NC land cession to replace Chipman,,1800-04-19,6,13
 Dext,3,Cmte on NC land cession to replace Chipman,,1800-04-19,6,13
@@ -2055,25 +2055,25 @@ Ross,4,Cmte bill for valuations of unseated land,,1800-04-24,6,14
 Schur,4,Cmte bill for valuations of unseated land,,1800-04-24,6,14
 Tracy,3,Cmte bill for valuations of unseated land,,1800-04-24,6,14
 Wells,1,Cmte bill for valuations of unseated land,,1800-04-24,6,14
-Bald,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Bing,3,Cmte bill Kennebunk,,1800-04-24,6,14
-Brown,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Cocke,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Dexter,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Foster,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Frank,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Good,12,Cmte bill Kennebunk,,1800-04-24,6,14
-Greene,4,Cmte bill Kennebunk,,1800-04-24,6,14
-Hillhouse,7,Cmte bill Kennebunk,,1800-04-24,6,14
-Lang,6,Cmte bill Kennebunk,,1800-04-24,6,14
-Lat,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Liver,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Mas,2,Cmte bill Kennebunk,,1800-04-24,6,14
-Nich,9,Cmte bill Kennebunk,,1800-04-24,6,14
-Read,2,Cmte bill Kennebunk,,1800-04-24,6,14
-Ross,2,Cmte bill Kennebunk,,1800-04-24,6,14
-Sch,1,Cmte bill Kennebunk,,1800-04-24,6,14
-Tracy,3,Cmte bill Kennebunk,,1800-04-24,6,14
+Bald,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Bing,3,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Brown,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Cocke,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Dexter,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Foster,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Frank,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Good,12,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Greene,4,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Hillhouse,7,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Lang,6,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Lat,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Liver,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Mas,2,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Nich,9,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Read,2,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Ross,2,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Sch,1,Cmte bill establish Kennebunk district,,1800-04-24,6,14
+Tracy,3,Cmte bill establish Kennebunk district,,1800-04-24,6,14
 And,3,Cmte on amendment to bill limits GA,,1800-04-28,6,14
 Bald,2,Cmte on amendment to bill limits GA,,1800-04-28,6,14
 Bing,1,Cmte on amendment to bill limits GA,,1800-04-28,6,14
@@ -2101,28 +2101,28 @@ How,1,Cmte of conference on bill to amend act providing sale of land above mouth
 Marshall,5,Cmte of conference on bill to amend act providing sale of land above mouth of KY River,,1800-04-28,6,14
 Ross,18,Cmte of conference on bill to amend act providing sale of land above mouth of KY River,,1800-04-28,6,14
 Tracy,3,Cmte of conference on bill to amend act providing sale of land above mouth of KY River,,1800-04-28,6,14
-And,1,Cmte on Finance,,1800-04-28,6,14
-Bald,2,Cmte on Finance,,1800-04-28,6,14
-Bing,11,Cmte on Finance,,1800-04-28,6,14
-Brown,2,Cmte on Finance,,1800-04-28,6,14
-Dayt,3,Cmte on Finance,,1800-04-28,6,14
-Dext,8,Cmte on Finance,,1800-04-28,6,14
-Foster,1,Cmte on Finance,,1800-04-28,6,14
-Goodh,2,Cmte on Finance,,1800-04-28,6,14
-Greene,2,Cmte on Finance,,1800-04-28,6,14
-Gunn,2,Cmte on Finance,,1800-04-28,6,14
-Hill,18,Cmte on Finance,,1800-04-28,6,14
-How,1,Cmte on Finance,,1800-04-28,6,14
-Lang,1,Cmte on Finance,,1800-04-28,6,14
-Lat,1,Cmte on Finance,,1800-04-28,6,14
-Liver,2,Cmte on Finance,,1800-04-28,6,14
-Mason,2,Cmte on Finance,,1800-04-28,6,14
-Nich,3,Cmte on Finance,,1800-04-28,6,14
-Read,5,Cmte on Finance,,1800-04-28,6,14
-Ross,4,Cmte on Finance,,1800-04-28,6,14
-Schureman,1,Cmte on Finance,,1800-04-28,6,14
-Tracy,1,Cmte on Finance,,1800-04-28,6,14
-Wells,2,Cmte on Finance,,1800-04-28,6,14
+And,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Bald,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Bing,11,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Brown,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Dayt,3,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Dext,8,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Foster,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Goodh,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Greene,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Gunn,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Hill,18,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+How,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Lang,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Lat,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Liver,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Mason,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Nich,3,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Read,5,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Ross,4,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Schureman,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Tracy,1,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
+Wells,2,Cmte on Finance regarding organization of Treasury dept and powers of Secretary,,1800-04-28,6,14
 And,5,cmte on bill William Tazewell,,1800-04-28,6,14
 Bald,1,cmte on bill William Tazewell,,1800-04-28,6,14
 Bing,3,cmte on bill William Tazewell,,1800-04-28,6,14
@@ -2190,25 +2190,25 @@ Read,2,Cmte on bill Patents,,1800-04-28,6,14
 Ross,3,Cmte on bill Patents,,1800-04-28,6,14
 Schur,3,Cmte on bill Patents,,1800-04-28,6,14
 Tracy,1,Cmte on bill Patents,,1800-04-28,6,14
-And,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Bald,3,Cmte on bill Miami Lands,,1800-04-29,6,14
-Brown,10,Cmte on bill Miami Lands,,1800-04-29,6,14
-Dayton,4,Cmte on bill Miami Lands,,1800-04-29,6,14
-Frank,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Good,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Greene,2,Cmte on bill Miami Lands,,1800-04-29,6,14
-Gunn,2,Cmte on bill Miami Lands,,1800-04-29,6,14
-Hill,4,Cmte on bill Miami Lands,,1800-04-29,6,14
-Lat,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Liver,6,Cmte on bill Miami Lands,,1800-04-29,6,14
-Marsh,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Mas,3,Cmte on bill Miami Lands,,1800-04-29,6,14
-Nich,2,Cmte on bill Miami Lands,,1800-04-29,6,14
-Read,5,Cmte on bill Miami Lands,,1800-04-29,6,14
-Ross,12,Cmte on bill Miami Lands,,1800-04-29,6,14
-Schur,3,Cmte on bill Miami Lands,,1800-04-29,6,14
-Tracy,1,Cmte on bill Miami Lands,,1800-04-29,6,14
-Wells,1,Cmte on bill Miami Lands,,1800-04-29,6,14
+And,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Bald,3,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Brown,10,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Dayton,4,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Frank,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Good,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Greene,2,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Gunn,2,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Hill,4,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Lat,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Liver,6,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Marsh,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Mas,3,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Nich,2,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Read,5,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Ross,12,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Schur,3,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Tracy,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
+Wells,1,Cmte on bill lands on Miami river ,,1800-04-29,6,14
 Bing,1,Cmte of conference on Division of NW territory,,1800-04-29,6,15
 Brown,13,Cmte of conference on Division of NW territory,,1800-04-29,6,15
 Dayton,4,Cmte of conference on Division of NW territory,,1800-04-29,6,15
@@ -2282,57 +2282,57 @@ Read,2,Cmte on motion next meeting of Congress,,1800-05-03,6,15
 Ross,1,Cmte on motion next meeting of Congress,,1800-05-03,6,15
 Schur,1,Cmte on motion next meeting of Congress,,1800-05-03,6,15
 Tracy,5,Cmte on motion next meeting of Congress,,1800-05-03,6,15
-And,3,Cmte on bill surveyor districts,,1800-05-06,6,15
-Bing,3,Cmte on bill surveyor districts,,1800-05-06,6,15
-Blood,2,Cmte on bill surveyor districts,,1800-05-06,6,15
-Brown,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Cocke,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Day,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Foster,2,Cmte on bill surveyor districts,,1800-05-06,6,15
-Frank,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Good,5,Cmte on bill surveyor districts,,1800-05-06,6,15
-Greene,4,Cmte on bill surveyor districts,,1800-05-06,6,15
-Gunn,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Hill,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Lang,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Lat,2,Cmte on bill surveyor districts,,1800-05-06,6,15
-Laur,3,Cmte on bill surveyor districts,,1800-05-06,6,15
-Liver,7,Cmte on bill surveyor districts,,1800-05-06,6,15
-Marsh,2,Cmte on bill surveyor districts,,1800-05-06,6,15
-Mas,4,Cmte on bill surveyor districts,,1800-05-06,6,15
-Morris,2,Cmte on bill surveyor districts,,1800-05-06,6,15
-Nich,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Pinck,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Read,3,Cmte on bill surveyor districts,,1800-05-06,6,15
-Ross,1,Cmte on bill surveyor districts,,1800-05-06,6,15
-Schur,5,Cmte on bill surveyor districts,,1800-05-06,6,15
-Wells,6,Cmte on bill surveyor districts,,1800-05-06,6,15
-And,1,Cmte on bill public minister,,1800-05-06,6,15
-Bald,3,Cmte on bill public minister,,1800-05-06,6,15
-Bing,8,Cmte on bill public minister,,1800-05-06,6,15
-Brown,1,Cmte on bill public minister,,1800-05-06,6,15
-Cocke,2,Cmte on bill public minister,,1800-05-06,6,15
-Day,3,Cmte on bill public minister,,1800-05-06,6,15
-Dext,2,Cmte on bill public minister,,1800-05-06,6,15
-Frank,2,Cmte on bill public minister,,1800-05-06,6,15
-Good,1,Cmte on bill public minister,,1800-05-06,6,15
-Greene,1,Cmte on bill public minister,,1800-05-06,6,15
-Gunn,1,Cmte on bill public minister,,1800-05-06,6,15
-Hill,1,Cmte on bill public minister,,1800-05-06,6,15
-How,3,Cmte on bill public minister,,1800-05-06,6,15
-Lang,2,Cmte on bill public minister,,1800-05-06,6,15
-Lat,1,Cmte on bill public minister,,1800-05-06,6,15
-Laur,5,Cmte on bill public minister,,1800-05-06,6,15
-Liver,1,Cmte on bill public minister,,1800-05-06,6,15
-Marsh,3,Cmte on bill public minister,,1800-05-06,6,15
-Mas,7,Cmte on bill public minister,,1800-05-06,6,15
-Morris,10,Cmte on bill public minister,,1800-05-06,6,15
-Nich,1,Cmte on bill public minister,,1800-05-06,6,15
-Pinck,3,Cmte on bill public minister,,1800-05-06,6,15
-Read,3,Cmte on bill public minister,,1800-05-06,6,15
-Ross,1,Cmte on bill public minister,,1800-05-06,6,15
-Schur,4,Cmte on bill public minister,,1800-05-06,6,15
-Tracy,1,Cmte on bill public minister,,1800-05-06,6,15
+And,3,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Bing,3,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Blood,2,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Brown,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Cocke,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Day,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Foster,2,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Frank,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Good,5,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Greene,4,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Gunn,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Hill,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Lang,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Lat,2,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Laur,3,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Liver,7,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Marsh,2,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Mas,4,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Morris,2,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Nich,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Pinck,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Read,3,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Ross,1,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Schur,5,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+Wells,6,Cmte on bill surveyor of revenue districts,,1800-05-06,6,15
+And,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Bald,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Bing,8,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Brown,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Cocke,2,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Day,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Dext,2,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Frank,2,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Good,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Greene,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Gunn,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Hill,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+How,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Lang,2,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Lat,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Laur,5,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Liver,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Marsh,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Mas,7,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Morris,10,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Nich,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Pinck,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Read,3,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Ross,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Schur,4,Cmte on bill compensation for public ministers,,1800-05-06,6,15
+Tracy,1,Cmte on bill compensation for public ministers,,1800-05-06,6,15
 And,9,Cmte on bill Indian Treaty,,1800-05-06,6,15
 Bald,2,Cmte on bill Indian Treaty,,1800-05-06,6,15
 Blood,1,Cmte on bill Indian Treaty,,1800-05-06,6,15
@@ -2697,23 +2697,23 @@ Morris,15,Cmte on translation of French papers,,1800-12-19,6,18
 Nich,4,Cmte on translation of French papers,,1800-12-19,6,18
 Tracy,10,Cmte on translation of French papers,,1800-12-19,6,18
 Wells,1,Cmte on translation of French papers,,1800-12-19,6,18
-And,2,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Bald,2,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Blood,1,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Brown,8,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Chip,1,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Day,4,Cmte on nomination of A St Clair,,1800-12-30,6,18
- Frank,1,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Hill,2,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Lang,2,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Lat,3,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Liver,14,Cmte on nomination of A St Clair,,1800-12-30,6,18
-STM,3,Cmte on nomination of A St Clair,,1800-12-30,6,18
-JM,1,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Morris,3,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Paine,6,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Schur,2,Cmte on nomination of A St Clair,,1800-12-30,6,18
-Tracy,1,Cmte on nomination of A St Clair,,1800-12-30,6,18
+And,2,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Bald,2,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Blood,1,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Brown,8,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Chip,1,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Day,4,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+ Frank,1,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Hill,2,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Lang,2,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Lat,3,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Liver,14,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+STM,3,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+JM,1,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Morris,3,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Paine,6,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Schur,2,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
+Tracy,1,Cmte on nomination of A St Clair as Governor of NW Territory,,1800-12-30,6,18
 And,1,cmte on GW's Mausoluem,,1801-01-06,6,18
 Bald,2,cmte on GW's Mausoluem,,1801-01-06,6,18
 Blood,1,cmte on GW's Mausoluem,,1801-01-06,6,18
@@ -2990,46 +2990,46 @@ Ross,7,Cmte on petition of Joseph Nourse,,1801-02-03,6,19
 Schur,2,Cmte on petition of Joseph Nourse,,1801-02-03,6,19
 Tracy,12,Cmte on petition of Joseph Nourse,,1801-02-03,6,19
 Wells,4,Cmte on petition of Joseph Nourse,,1801-02-03,6,19
-Arm,1,cmte bill Biddleford & c,,1801-02-05,6,19
-Bing,1,cmte bill Biddleford & c,,1801-02-05,6,19
-Blood,2,cmte bill Biddleford & c,,1801-02-05,6,19
-Chip,2,cmte bill Biddleford & c,,1801-02-05,6,19
-Cocke,1,cmte bill Biddleford & c,,1801-02-05,6,19
-DF,7,cmte bill Biddleford & c,,1801-02-05,6,19
-Greene,4,cmte bill Biddleford & c,,1801-02-05,6,19
-Hill,2,cmte bill Biddleford & c,,1801-02-05,6,19
-How,3,cmte bill Biddleford & c,,1801-02-05,6,19
-Lang,7,cmte bill Biddleford & c,,1801-02-05,6,19
-Lat,1,cmte bill Biddleford & c,,1801-02-05,6,19
-Liver,1,cmte bill Biddleford & c,,1801-02-05,6,19
-STM,1,cmte bill Biddleford & c,,1801-02-05,6,19
-JM,6,cmte bill Biddleford & c,,1801-02-05,6,19
-Paine,3,cmte bill Biddleford & c,,1801-02-05,6,19
-Read,1,cmte bill Biddleford & c,,1801-02-05,6,19
-Tracy,2,cmte bill Biddleford & c,,1801-02-05,6,19
-Wells,3,cmte bill Biddleford & c,,1801-02-05,6,19
-And,2,Cmte on Mines & metals,,1801-02-05,6,19
-Bald,1,Cmte on Mines & metals,,1801-02-05,6,19
-Bing,8,Cmte on Mines & metals,,1801-02-05,6,19
-Blood,2,Cmte on Mines & metals,,1801-02-05,6,19
-Brown,1,Cmte on Mines & metals,,1801-02-05,6,19
-Chip,1,Cmte on Mines & metals,,1801-02-05,6,19
-Day,6,Cmte on Mines & metals,,1801-02-05,6,19
-Greene,1,Cmte on Mines & metals,,1801-02-05,6,19
-Gunn,1,Cmte on Mines & metals,,1801-02-05,6,19
-Hill,2,Cmte on Mines & metals,,1801-02-05,6,19
-Lang,1,Cmte on Mines & metals,,1801-02-05,6,19
-Lat,1,Cmte on Mines & metals,,1801-02-05,6,19
-Liver,1,Cmte on Mines & metals,,1801-02-05,6,19
-JM,7,Cmte on Mines & metals,,1801-02-05,6,19
-Morris,10,Cmte on Mines & metals,,1801-02-05,6,19
-Nich,1,Cmte on Mines & metals,,1801-02-05,6,19
-Paine,4,Cmte on Mines & metals,,1801-02-05,6,19
-Read,9,Cmte on Mines & metals,,1801-02-05,6,19
-Ross,12,Cmte on Mines & metals,,1801-02-05,6,19
-Schur,1,Cmte on Mines & metals,,1801-02-05,6,19
-Tracy,13,Cmte on Mines & metals,,1801-02-05,6,19
-Wells,2,Cmte on Mines & metals,,1801-02-05,6,19
+Arm,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Bing,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Blood,2,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Chip,2,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Cocke,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+DF,7,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Greene,4,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Hill,2,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+How,3,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Lang,7,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Lat,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Liver,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+STM,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+JM,6,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Paine,3,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Read,1,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Tracy,2,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+Wells,3,cmte bill Biddleford & Pepperelborough ports of entry,,1801-02-05,6,19
+And,2,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Bald,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Bing,8,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Blood,2,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Brown,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Chip,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Day,6,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Greene,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Gunn,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Hill,2,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Lang,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Lat,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Liver,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+JM,7,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Morris,10,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Nich,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Paine,4,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Read,9,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Ross,12,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Schur,1,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Tracy,13,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
+Wells,2,Cmte to incorporate a Mines & metals company,,1801-02-05,6,19
 And,3,Cmte bill John C Symmes,,1801-02-06,6,19
 Blood,1,Cmte bill John C Symmes,,1801-02-06,6,19
 Brown,8,Cmte bill John C Symmes,,1801-02-06,6,19
@@ -3184,24 +3184,24 @@ Read,1,Cmte bill MD,,1801-02-24,6,20
 Ross,3,Cmte bill MD,,1801-02-24,6,20
 Tracy,4,Cmte bill MD,,1801-02-24,6,20
 Wells,1,Cmte bill MD,,1801-02-24,6,20
-Bald,4,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Blood,13,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Brown,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Cocke,4,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Day,6,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-TF,3,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Frank,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Greene,3,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Hill,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Lang,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Liver,2,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-JM,5,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Morris,5,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Nich,3,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Paine,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Schur,11,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Tracy,1,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
-Wells,13,Cmte on Wells's motion to settle accounts,,1801-02-24,6,20
+Bald,4,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Blood,13,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Brown,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Cocke,4,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Day,6,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+TF,3,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Frank,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Greene,3,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Hill,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Lang,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Liver,2,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+JM,5,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Morris,5,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Nich,3,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Paine,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Schur,11,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Tracy,1,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
+Wells,13,Cmte on Wells's motion to settle accounts between US and states,,1801-02-24,6,20
 And,3,Cmte on AH Dohrman's bill,,1801-02-24,6,20
 Arm,4,Cmte on AH Dohrman's bill,,1801-02-24,6,20
 Bald,3,Cmte on AH Dohrman's bill,,1801-02-24,6,20

@@ -29,7 +29,7 @@ Adair 2; Adams 1; Bald 6; Bay 2; Bradl 1; Cond 1; Gaill 1; Gilm
 1; TN 2; vt 2; stone 4; Sumt 2; Thrus 2; Tracy 7; Turner 3; Worth 7.
 
 
-Cmte on NC bill. Feb 5, 1806. Adaw, Stone (Thiiston
+Cmte on bill time of NC circuit court meetings. Feb 5, 1806. Adaw, Stone (Thiiston
 
 Adair 13; Adams 3; Bald 2; Bay 2; Bradl 2; Cond 1; Fenn 1; Hill
 1; Howl 1; Moore 1; TN 2; VT 1; Stone 10; Thrus 8; Tracy 6;
@@ -50,14 +50,14 @@ Kit 2; Logan 1; Maclay 4; Moore 3; MD 1; NY 2; VT 2; Stone 2;
 Sumt 2; Thrus 1; Tracy 8; Turner 3; Worth 1.
 
 
-cmte on NC. Feb 11, 1806. Bradley, Andeyson Tra
+cmte on bill consent NC Law. Feb 11, 1806. Bradley, Andeyson Tra
 
 Adair 1; Adams 4; And 7; Bald 1; Bay 1; Bra 12; Cond 1; Gaill 1;
 Gilm 1; Hill 2; Howl 1; Logan 1; Maclay 3; Moore 1; Pick 1; Plum
 2; MD 3; NY 1; TN 1; Stone 4; Sum 2; Tracy 6; Turner 5; Wright 1.
 
 
-cmte on SC bill. Feb 11, 1806. Jasle2,Stme Alas
+cmte on SC bill to allow Charleston to collect duty on tonnage. Feb 11, 1806. Jasle2,Stme Alas
 
 Adair 1; Adams 5; Bald 5; Bay 1; Cond 1; Gail 9; Kit 1; Maclay 2;
 Mit 2; Moore 1; Pick 1; Plum 2; MD 3; VT 1; Stone 8; Sum 4; Tracy

@@ -4,7 +4,7 @@ Bradford 2; Brown 2; Burr 2; Cabot 1; Edwards 1; Ellsworth 1;
 Foster 1; Hawkins 5; Langdon 2; Livermore 2; Martin 1; Mitchill
 1; Potts 2; Robinson 1; Ross 13; Rutherfurd 3; Strong 1; Tazewell 1.
 
-Cmte on bill drawback ship Enterprise. Feb 5, 1795. Langdon)
+Cmte on bill drawback ship Enterprise. Feb 5, 1795.  
 
 Bradford 2; Bradley 1; Brown 1; Burr 3; Cabot 3; Ellsworth 3;
 Hawkins 4; Jackson 2; Izard 2; Langdon 5; Livermore 1; Martin 2;
@@ -34,7 +34,7 @@ Izard 5; Langdon 7; Livermore 3; Martin 1; Mitchill 2; Morris 5;
 Potts 4; Ross 2; Rutherfurd 3; Strong 4; Tazewell 7.
 
 
-Cmte PUS's message on GA business. Feb 18, 1795. King, Ellsworth),
+Cmte PUS's message on GA laws. Feb 18, 1795.
 
 Bradford 1; Bradley 1; Brown 3; Burr 6; Cabot 2; Ellsworth 18;
 Frelinghuysen 5; Hawkins 4; Jackson 4; Izard 1; King 21; Langdon

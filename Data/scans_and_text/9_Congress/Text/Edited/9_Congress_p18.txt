@@ -41,7 +41,7 @@ And 1; Bald 3; Bay 1; Bradl 12; Hill 3; Mit 7; Plum 1; MD 5; NY
 3; Stone 1; Tracy 7; Worth 1; Wright 1.
 
 
-Cmte on report of Sec of War. March 18, 1806, (acy. , Bradley, Baldusim,
+Cmte on report of Sec of War on rations for army officers. March 18, 1806, (acy. , Bradley, Baldusim,
 
 Adams 1; And 4; Bald 5; Bradl 8; Gil 2; Hill 1; Maclay 1; Mitch
 1; Moore 1; Pick 2; NY 1; VT 1; Stone 2; Sumt 5; Tracy 17; Turner

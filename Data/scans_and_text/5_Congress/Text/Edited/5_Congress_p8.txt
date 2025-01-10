@@ -22,7 +22,7 @@ good 6; Greene 3; Hill 2; Hobart 1; Hunt 3; Jack 2; Lang 1; Lat
 2; Laur 2; Liver 2; Lloyd 2; Mart 6; Mas 1; Paine 3; Read 5; Sedg
 5; Tatt 1; Taze 6; Tracy 2.
 
-emte bill S Cornwell. March 12, 1798. Greene, Goodhue, Tracy.\
+Cmte HR bill for relief of Sylvanus Crowell. March 12, 1798. 
 
 And 1; Bing 3; Blood 2; Chip 1; good 5; Greene 6; Hunt 2; Jack 1;
 Lang 2; Laur 1; Liver 2. Lloyd 2; Marsh 2; Mart 1; Paine 3; Read

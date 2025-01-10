@@ -9,7 +9,7 @@ And 3; Bing 2; Brown 1; Chip 3; Fost 1; Good 1; Lat 3; Laur 15;
 Liver 7; Lloyd 1; Marsh 1; Mart 2; Mas 2; North 3; Paine 3; Read
 4; Stock 7; Taz 5; Tracy 2.
 
-Cmte on bill Valuation. June 15, 1798. Keed8, Paing Stoelehm, Ledvmew tll house
+Cmte on bill Valuation of lands and houses. June 15, 1798.  
 
 And 4; Bing 2; Blood 1; Chip 2; Fos 2; Hill 10; howard 3; Lang 3;
 Lat 11; Laur 4; Liver 5; Lloyd 3; Marsh 4; Mart 2; Mas 5; North
@@ -41,7 +41,8 @@ And 4; Bing 6; Brown 4; Chip 5; Foster 3; Hill 5; How 3; Lang 1;
 Lat 3; Laur 9; Liver 7; Lloyd 3; Mas 2; North 8; Paine 9; Read
 10; Sedg 5; Stock 6; Taz 5; Tracy 7.
 
-Cmte on message of PUS of 27th & documents. June 27, 1798. Boshau, Stocleton
+Cmte on message of PUS of 27th & documents regarding letter from PA Governor Miflin. June 27, 1798.
+
 And 1; Bing 14; Brown 2; Good 1; How 6; Lang 1; Laur 9; Liver 1;
 Lloyd 1; Mason 1; North 2; Read 8; Stock 9; Taz 3; Tracy 4.
 

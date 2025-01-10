@@ -14,12 +14,12 @@ def get_dates_w_years(txt):
 
     return month, day, year, dates
 
-
-folder = input('Input Congress number: ') + '_Congress'
+congress = input('Input Congress number: ')
+folder = congress + '_Congress'
 edited = input('Have the text files been edited already? (y or n): ')
-yrs_exist = input('''Do all the sheets have dates with years? 
-                    IF NO make sure there is a 'pg_years.csv' that has the years for each page!
-                    (y or n - includes if only some pages have years): ''')
+#yrs_exist = input('''Do all the sheets have dates with years? 
+ #                   IF NO make sure there is a 'pg_years.csv' that has the years for each page!
+  #                  (y or n - includes if only some pages have years): ''')
 
 main_path = 'data/scans_and_text/' + folder
 if edited == 'y':
@@ -29,15 +29,14 @@ else:
     texts = [f for f in os.listdir(main_path + '/Text') if f.endswith('.txt')] #only .txt files
     path = main_path + '/Text/'
 
-if yrs_exist == 'y':
-    pass
-else:
+if int(congress) == 6: # only necessary for 6th congress - hence no input statement needed (line 20)
     yrs_exist_csv = pd.read_csv(main_path + '/pg_years.csv')
+else:
+    pass
 
 df_data = [] # empty list to append data
 for txt in texts:
   pg = re.search(r'(\d{1,2}|Extra)(?=.txt)', txt)[0] # numbers @ end of string
-  congress = re.search(r'^\d{1,2}', txt)[0] # numbers @ beginning of string 
   n_dates = 0
   n_committees = 1 #initialize as unequal
   n_names = [] #empty list to collect number of names for each sheet
@@ -55,12 +54,8 @@ for txt in texts:
         indices = re.finditer(cmte, garbanzo) #iterative object for each instance
         #print(len(committees), committees)
 
-        # when years exist run get_dates function
-        if yrs_exist == 'y':
-            month, day, year, dates = get_dates_w_years(garbanzo)
-
-        # when we don't have years -- NEEDS TO BE SOLVED want to get the year based on page, some condition for yes
-        else:
+        # when we don't have years -- want to get the year based on page, w/ some condition for yes
+        if int(congress) == 6:
             yr = yrs_exist_csv[(yrs_exist_csv['congress'] == int(congress)) & (yrs_exist_csv['pg'] == int(pg))]['year'].item()
             if yr == 'y': # run the years function if we have on this page
                 print('running the function instead')
@@ -72,10 +67,13 @@ for txt in texts:
                 month = [d[:3] if len(d) > 4 else d for d in dates] #first 3 letters of month
                 day = [re.findall(r'(\d{1,2}$)', d)[0] if len(d)>4 else d for d in dates]  # day
                 year = [yr] * len(dates)
-    
+
+        # when years exist run get_dates function
+        else:
+            month, day, year, dates = get_dates_w_years(garbanzo)
+        
         n_dates = len(dates)
 
-    
         #print(date[:5])
         print('I found', n_committees, 'committees and', n_dates, 'dates!')
         #print(dates)

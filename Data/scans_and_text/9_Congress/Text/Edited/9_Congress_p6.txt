@@ -6,7 +6,7 @@ Adams 3; Anderson 1; Baldwin 2; Bradley 11; Clay 1; Condit 4;
 Giles 6; Hill 2; Logan 1; Maclay 1; Mill 3; Mit 2; Plumer 2; S(NY) 1; S(VT) 1; Sumter 1; Turner 1; White 1; worth 4.
 
 
-cmte on petition of Laurient Bazadon. Jan 6, 1807. ¢ Bradley, Giles,
+cmte on petition of Laurient Bazadon. Jan 6, 1807. ï¿½ Bradley, Giles,
 
 adams 1; Bald 2; Bradl 4; Clay 16; Condit 2; Fenner 1; Giles 3;
 Gilm 1; Kit 1; Logan 2; Maclay 1; Mill 1; Mit 2; Moore 2; S(MD)
@@ -55,7 +55,7 @@ Adams 2; Bald 5; Bay 16; Bradl 3; Gaill 3; Giles 1; Gilm 1; Hill
 1; Logan 5; Maclay 2; Mill 1; Mit 6; Moore 1; Plumer 1; Reid 1; S(MD) 1; S(NY) 3; S(VT) 6; Sumter 1; Tracy 1; Turner 2; White 1.
 
 
-emte on NC Courts. Jan 14, 1807. lurney, dved
+Cmte on NC Courts meeting times. Jan 14, 1807. lurney, dved
 
 Adams 1; Bald 1; Brad 1; Giles 4; Gilm 1; Howl 3; Maclay
 1; Moore 3; Plumer 2; Stone 1; Tracy 2; Turner 12; White 1; Worth 2.

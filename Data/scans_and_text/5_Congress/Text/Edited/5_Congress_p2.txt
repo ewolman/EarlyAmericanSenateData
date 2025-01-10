@@ -5,7 +5,7 @@ Blood 4; Brad 2; Brown 5; Good 1; Hunter 1; Lang 3; Laur 3; Liver
 3; Paine 1; Read 14; Ross 18; Sedg 4; Stock 3; Taze 3; Tracy 4;
 Vining 2.
 
-Cmte on message of PUS. June 12, 1797. Tracy, Brown, Ross \V
+Cmte on message of PUS treaty with Spain FL boundary. June 14, 1797. Tracy, Brown, Ross \V
 Blount 4; Brad 1; Brown 9; Henry 1; Hill 1; Hunter 1; Lang 2; Lat
 1; Laur 1; Liver 2; Marsh 2; Mart 1; Paine 3; Ross 9; Ruthe 3;
 Sedg 1; Stockt 2; Tatt 1; Taze 8; Tracy 12.
@@ -40,7 +40,7 @@ Hill 3; Hunter 1; Lang 9; Laur 10; Livermore 11; Marsh 3; Mason
 1; Read 7; Ross 6; Ruth 5; Sedg 1; Stock 1; Taze 14; Tich 3;
 Tracy 15.
 
-Cmte on message of PUS. June 27, 1797. Tracy, Goodhue, Langdon
+Cmte on message of PUS on ships for Dey of Algiers. June 27, 1797. Tracy, Goodhue, Langdon
 Bing 5; Brad 6; Brown 2; Cocke 1; Goodh 10; Henry 2; Hill 1; lang
 7; Liver 5; Marsh 1; Mason 1; Paine 4; Read 2; Ross 6; Ruth 1;
 Stock 2; Taze 6; Tich 3; Tracy 16.

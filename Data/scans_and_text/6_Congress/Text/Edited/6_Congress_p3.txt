@@ -6,7 +6,7 @@ And 2; Bing 4; Brown 2; Chip 3; Dexter 1; Goodhue 1; Hill 2;
 Laurance 2; Livermore 1; Lloyd 1; Read 10; Tracy 3; Watson 2;
 Wells 1.
 
-Cmte on PUS's message. Dec 3, 1799 Loss, Read (mer.
+Cmte on PUS's message reply. Dec 3, 1799 Loss, Read (mer.
 
 And 1; Bald 1; Bing 4; Brown 1; Dexter 7; Good 2; Gunn 2; Hill 1;
 Lang 2; Laur 2; Marsh 2; Read 12; Ross 13; Tracy 10; Watson 1.

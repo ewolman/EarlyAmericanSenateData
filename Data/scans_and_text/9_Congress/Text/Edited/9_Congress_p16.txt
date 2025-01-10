@@ -5,7 +5,7 @@ Adair 3; And 2; Bald 3; Bradl 3; Gail 1; Kit 2; Mit 1; Moore 1;
 NY 2; TN 3; VT 2; Stone 1; Sumt 1; Thrus 3; Tracy 2; turner 2;
 White 1; Worth 11; Wright 2.
 
-Cmte on Pennsylvania Law. Feb 14, 1806. eee, Hiteladll, Logan
+Cmte on consent to Pennsylvania Law. Feb 14, 1806. eee, Hiteladll, Logan
 
 Adair 2; Adams 2; And 3; Bald 2; Bradl 2; Hill 1; Howl 2; Kit 1;
 Logan 4; Maclay 6; Mit 6; Plum 1; MD 3; NY 3; Stone 1; Sumt 1;
@@ -26,7 +26,7 @@ Adair 1; Adams 2; Bald 4; Bradl 3; Cond 3; Howl 2; Kit 2; Maclay
 2; Turner 3; Worth 7.
 
 
-emte on bill repay town NJ. Feb 19, 1806. Kitelel, Adams, Conde
+Cmte on bill to make Jersey NJ port of entry and erect lighthouse in MA. Feb 19, 1806. Kitelel, Adams, Conde
 
 Adams 6; And 2; Cond 4; Fenn 2; Gail 1; gilm 1; Kit 12; Logan 3;
 Maclay 3; Mit 3; Pick 1; Md 1; VT 1; Stone 2; Sumter 1; Thrus 1;

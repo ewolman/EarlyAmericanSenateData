@@ -6,7 +6,7 @@ Foster 1; Frelinghuysen 6; Hawkins 1; Jackson 2; King 7; Langdon
 2; Livermore 1; Martin 2; Potts 1; Robinson 1; Ross 2; Rutherfurd 1; 
 Strong 5; Vining 2.
 
-Cmte on Pickering’s treaty with 6 Nations. Jan 7, 1795. Strong. Morris.
+Cmte on Pickering's treaty with 6 Nations. Jan 7, 1795. Strong. Morris.
 
 Bradford 1; Bradley 3; Brown 4; Ellsworth 3; Hawkins 4; Jackson
 1; King 4; Langdon 1; Livermore 2; Mitchill 4; Morris 5; Potts 3;
@@ -47,12 +47,14 @@ Bradford 2; Bradley 3; Brown 2; Cabot 1; Edwards 3; Ellsworth 2;
 Hawkins 2; Izard 2; Langdon 2; Livermore 1; Mitchill 3; Morris 2;
 Robinson 1; Rutherfurd 1; Strong 9.
 
-Cmte on PUS' message. Dec 11, 1794. Strong, Felinghtysoa, Cohet
+Cmte on PUS' message on officer to manage public supplies. Dec 11, 1794.
+
 Bradford 1; Bradley 1; Brown 1; Burr 3; Cabot 4; Ellsworth 4;
 Frelinghuysen 6; Jackson 1; Izard 1; Langdon 4; Livermore 3;
 Martin 1; Morris 1; Ross 3; Strong 8.
 
-Cmte on HR bill for Peter Covenhoven. Dec 9, 1794. Jackson, Rutherfur®, Bure 
+
+Cmte on HR bill for Peter Covenhoven. Dec 9, 1794. Jackson, Rutherfurï¿½, Bure 
 
 Bradford 3; Bradley 1; Burr 4; Cabot 2; Ellsworth 4; Foster 1;
 Hawkins 2; Jackson 7; Langdon 2; Livermore 1; Morris 1; Potts 2;

@@ -1,7 +1,7 @@
 Joo
 
 a
-cmte on NW Territory. Jan 23, 1807. Caer Brac Worlisertin
+cmte on NW Territory to divide into 2 governments. Jan 23, 1807. Caer Brac Worlisertin
 
 Bald 1; Bay 2; Bradl 4; Clay 2; Cand 1;
 Fenner 1; Gaill 1; Giles 1; Gilm 1; Howl 1; Kit 2; Maclay 1; Mit
@@ -15,7 +15,7 @@ Adams 1; Bald 2; Brad 2; Clay 2; Cond 2; Fenner 5; Gaill 2; Gilm
 1; NY 1; VT 1; Stone 5; Sumter 3; Tracy 3; Turner 2; Worth 1.
 
 
-Cmte on NW Territory, replace Tracy. Jan 23, 1807. B aye
+Cmte on NW Territory to divide into 2 governments replace Tracy. Jan 23, 1807. B aye
 
 Bay 15; Clay 2; VT 3; White 1.
  
@@ -39,7 +39,7 @@ Adams 4; Bald 2; Bradl 8; Clay 2; Cond 3; Giles 2; Gilm 2; Hill
 Sumter 3; Tracy 1.
 
 
-Cmte on PUS's message this & former communication. Jan 26, 1807.4
+Cmte on PUS's message this & former communication Burr Conspiracy. Jan 26, 1807.4
 
 Adams 11; Bald 2; Bay 16; Bradl 7; Clay 1; giles
 23; Gilm 1; Hill 1; Kit 1; Mit 2; Moore 1; MD 3; NY 1; IN 1; VT
@@ -53,7 +53,7 @@ Adams 3; Bald 2; Bay 3; Brad 6; Clay 6; Cond 2; Fenner 1; Giles
 Stone 7; Thrus 2; Tracy 4; White 1; Worth 1.
 
 
-Cmte on amendment to NC bill. Jan 27, 1807. lWuyney, Bradley, Sous,
+Cmte on amendment to NC bill on meeting times of courts. Jan 27, 1807. lWuyney, Bradley, Sous,
 
 Adams 2; Bald 1; Bradl 13; Clay 1; Cond 2; Gail 1; Kit 1; Maclay
 1; Moore 1; Pick 1; Reid 4; TN 1; Stone 5; Sumter 1; Thrus 1;
