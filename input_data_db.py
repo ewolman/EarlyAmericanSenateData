@@ -33,6 +33,9 @@ conn = sqlite3.connect('database.db')
 votes = pd.read_sql('SELECT * FROM vIndividualVotes;', conn)
 votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
 
+cmtes = pd.read_sql('SELECT * FROM tCommittee;', conn)
+cmtes.to_csv('useful_tables/Committees.csv', index = False)
+
 all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
 all_time['VotesPerCmte'] = all_time['VotesPerCmte'].round(2)
 all_time['VotesPerCongress'] = all_time['VotesPerCongress'].round(2)

@@ -33,7 +33,7 @@ And 5; Bing 1; Brown 1; Clay 2; Foster 1; Greene 1; How 11;
 Hunt 1; Lang 1; Lat 1; Laur 1; Liver 1; Mart 2; Mas 2; Read 1;
 Sedg 1; Stock 1; Tatt 3; Taz 4; Tracy 13.
 
-Cmte on report of Sec of T. May 3, 1798. Brom, Stecktu, Masro�
+Cmte on report of Sec of T on state of western lands. May 3, 1798.
 And 2; Bing 2; Brown 15; How 1; Hunt 1; Lang 1; Lat 1; liver 3;
 Mart 1; Mason 6; Read 1; Sedg 1; Stock 11; Taz 3; Tracy 5.
 

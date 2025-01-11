@@ -143,5 +143,5 @@ df['date'] = df['month'].astype(str) +'/' + df['day'].astype(str) + '/' +df['yea
 df['date'] = pd.to_datetime(df['date'], format="%m/%d/%Y").dt.date # convert to datetime datatype
 df = pd.concat([df, df_nd]) # add back n.d. committees
 df = df[["name", "votes", "committee", "cmte_type","date", "congress", "page"]]
-df = df.sort_values(by=['date','page']) # sort by date, page
+df = df.sort_values(by=['date','page', 'committee']) # sort by date, page
 df.to_csv('data/vote_data/' + folder + '_Data.csv', index=False)

@@ -252,6 +252,6 @@ comb_all = comb_all.rename(columns={'id' : 'senator_id', 'givenname' : 'first_na
                             'middlename' : 'middle_name', 'unaccentedfamilyname' : 'last_name',
                             'parties' : 'party', 'cmte_type':'committee_type', 'birthyear': 'birth_year',
                             'deathyear': 'death_year'})
-comb_all = comb_all.sort_values(by=['congress', 'date','page'])
+comb_all = comb_all.sort_values(by=['congress', 'date','page', 'committee'])
 comb_all.to_csv('data/merged_data/info_data_upto_congress_' + str(max(numbers)) + '.csv', index=False)
 print('Data successfully merged, writing to file ...')
