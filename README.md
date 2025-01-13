@@ -61,5 +61,5 @@ Strong 2; Wingate 6.
     - Here we have `cmte on foreign officers`
   - **Dates** - any patterns which contain a month or first 3 letters of a month, then a one or 2 digit number then `,`, then 4 digit number (`Mon(th) DD, YYYY`)
     - Here we have `Feb 12, 1791`
-  - **Senator and Vote** - the pattern, name + 1 or 2 digit number followed by punctuation. This should be `;` for ease of use, but the program can pick up other forms of punctuation or characters - `)}>?,:;.` in case there is a character recognition mistake. This pattern excludes months and dates. Parsing for names and votes starts is only for the range starting at the beginning of the line below each committee to the line of the next committee.
+  - **Senator and Vote** - the pattern, name + 1 or 2 digit number followed by punctuation. This should be `;` for ease of use, but the program can pick up other forms of punctuation or characters - `)}>?,:;.` in case there is a character recognition mistake. This pattern excludes months and dates. Parsing for names and votes is only for the range starting at the beginning of the line below each committee to the line of the next committee.
     - This pattern collects all name and vote combinations in a list 
