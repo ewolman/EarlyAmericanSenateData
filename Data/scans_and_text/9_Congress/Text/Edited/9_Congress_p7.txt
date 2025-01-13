@@ -48,7 +48,7 @@ Bay 3; Clay 1; Cond 1; Gilm 5; Hill 1; Kit 1; Moore 3; VT 1;
 Stone 6; Sumter 2; White 1.
 
 
-emte on bill St Domingo. Jan 21, 1807. saad, Hetclull, Mars
+Cmte on bill St Domingo. Jan 21, 1807. saad, Hetclull, Mars
 
 Adams 6; Bay 1; Bradl 6; Cond 5; Fenner 1; Giles 2; Gilm 2; Hill
 1; Howl 1; Kit 2; Logan 7; Maclay 2; Mill 1; Mit 12; Moore 3;

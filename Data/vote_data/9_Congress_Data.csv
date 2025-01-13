@@ -1,19 +1,19 @@
 name,votes,committee,cmte_type,date,congress,page
-Baldwin,3,Jt cmte PUS,,1805-12-02,9,3
-Bradley,2,Jt cmte PUS,,1805-12-02,9,3
-Condit,1,Jt cmte PUS,,1805-12-02,9,3
-Gaillard,1,Jt cmte PUS,,1805-12-02,9,3
-Gilman,1,Jt cmte PUS,,1805-12-02,9,3
-Logan,1,Jt cmte PUS,,1805-12-02,9,3
-Maclay,1,Jt cmte PUS,,1805-12-02,9,3
-Mitchill,7,Jt cmte PUS,,1805-12-02,9,3
-Pickering,2,Jt cmte PUS,,1805-12-02,9,3
-Plumer,1,Jt cmte PUS,,1805-12-02,9,3
-Smith(Vt),1,Jt cmte PUS,,1805-12-02,9,3
-Sumter,8,Jt cmte PUS,,1805-12-02,9,3
-Tracy,6,Jt cmte PUS,,1805-12-02,9,3
-White,2,Jt cmte PUS,,1805-12-02,9,3
-Worthington,1,Jt cmte PUS,,1805-12-02,9,3
+Baldwin,3,Jt cmte to wait on PUS,,1805-12-02,9,3
+Bradley,2,Jt cmte to wait on PUS,,1805-12-02,9,3
+Condit,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Gaillard,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Gilman,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Logan,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Maclay,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Mitchill,7,Jt cmte to wait on PUS,,1805-12-02,9,3
+Pickering,2,Jt cmte to wait on PUS,,1805-12-02,9,3
+Plumer,1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Smith(Vt),1,Jt cmte to wait on PUS,,1805-12-02,9,3
+Sumter,8,Jt cmte to wait on PUS,,1805-12-02,9,3
+Tracy,6,Jt cmte to wait on PUS,,1805-12-02,9,3
+White,2,Jt cmte to wait on PUS,,1805-12-02,9,3
+Worthington,1,Jt cmte to wait on PUS,,1805-12-02,9,3
 Adams,1,Cmte on naval appropriation,,1805-12-05,9,3
 Anderson,4,Cmte on naval appropriation,,1805-12-05,9,3
 Baldwin,4,Cmte on naval appropriation,,1805-12-05,9,3
@@ -103,6 +103,26 @@ Stone,1,Cmte on Treaty at Fort Industry with Wyandot etc,,1805-12-16,9,10
 Thurs,1,Cmte on Treaty at Fort Industry with Wyandot etc,,1805-12-16,9,10
 Tracy,16,Cmte on Treaty at Fort Industry with Wyandot etc,,1805-12-16,9,10
 Worth,15,Cmte on Treaty at Fort Industry with Wyandot etc,,1805-12-16,9,10
+Adair,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Adams,4,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+And,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Bald,8,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Hill,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Jack,7,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Kit,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Logan,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Maclay,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Mit,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Moore,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Pick,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+MD,4,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Tn,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+VT,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Stone,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Tracy,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+White,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Worth,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
+Wright,10,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
 Adair,1,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
 Adams,4,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
 And,5,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
@@ -124,26 +144,6 @@ Stone,2,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
 Tracy,3,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
 White,2,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
 Worth,8,cmte on Treaty at Grouseland IN with Delawares etc,,1805-12-16,9,10
-Adair,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Adams,4,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-And,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Bald,8,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Hill,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Jack,7,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Kit,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Logan,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Maclay,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Mit,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Moore,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Pick,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-MD,4,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Tn,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-VT,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Stone,1,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Tracy,3,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-White,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Worth,2,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
-Wright,10,Cmte on treaty at Washington with Creek,,1805-12-16,9,10
 Adair,2,Cmte on short treaty with Cherokee,,1805-12-16,9,11
 Adams,6,Cmte on short treaty with Cherokee,,1805-12-16,9,11
 And,20,Cmte on short treaty with Cherokee,,1805-12-16,9,11
@@ -210,6 +210,23 @@ Pick,1,Cmte on bill Theododrick Armistead,,1805-12-19,9,11
 MD,1,Cmte on bill Theododrick Armistead,,1805-12-19,9,11
 Sumter,1,Cmte on bill Theododrick Armistead,,1805-12-19,9,11
 Tracy,17,Cmte on bill Theododrick Armistead,,1805-12-19,9,11
+Adair,1,Cmte on Canada refugees,,1805-12-20,9,11
+Adams,2,Cmte on Canada refugees,,1805-12-20,9,11
+Bald,5,Cmte on Canada refugees,,1805-12-20,9,11
+Brad,8,Cmte on Canada refugees,,1805-12-20,9,11
+Cond,1,Cmte on Canada refugees,,1805-12-20,9,11
+Fenn,1,Cmte on Canada refugees,,1805-12-20,9,11
+Gilm,1,Cmte on Canada refugees,,1805-12-20,9,11
+Hill,1,Cmte on Canada refugees,,1805-12-20,9,11
+Howl,1,Cmte on Canada refugees,,1805-12-20,9,11
+Logan,4,Cmte on Canada refugees,,1805-12-20,9,11
+Maclay,3,Cmte on Canada refugees,,1805-12-20,9,11
+Mit,3,Cmte on Canada refugees,,1805-12-20,9,11
+Moore,2,Cmte on Canada refugees,,1805-12-20,9,11
+NY,2,Cmte on Canada refugees,,1805-12-20,9,11
+VT,2,Cmte on Canada refugees,,1805-12-20,9,11
+Sumter,2,Cmte on Canada refugees,,1805-12-20,9,11
+Tracy,5,Cmte on Canada refugees,,1805-12-20,9,11
 Adair,2,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
 And,12,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
 Bald,7,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
@@ -230,23 +247,6 @@ Sumter,1,Cmte on bill invalids as resullt of military service pensions,,1805-12-
 Thrus,1,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
 Tracy,8,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
 Worth,1,Cmte on bill invalids as resullt of military service pensions,,1805-12-20,9,11
-Adair,1,Cmte on Canada refugees,,1805-12-20,9,11
-Adams,2,Cmte on Canada refugees,,1805-12-20,9,11
-Bald,5,Cmte on Canada refugees,,1805-12-20,9,11
-Brad,8,Cmte on Canada refugees,,1805-12-20,9,11
-Cond,1,Cmte on Canada refugees,,1805-12-20,9,11
-Fenn,1,Cmte on Canada refugees,,1805-12-20,9,11
-Gilm,1,Cmte on Canada refugees,,1805-12-20,9,11
-Hill,1,Cmte on Canada refugees,,1805-12-20,9,11
-Howl,1,Cmte on Canada refugees,,1805-12-20,9,11
-Logan,4,Cmte on Canada refugees,,1805-12-20,9,11
-Maclay,3,Cmte on Canada refugees,,1805-12-20,9,11
-Mit,3,Cmte on Canada refugees,,1805-12-20,9,11
-Moore,2,Cmte on Canada refugees,,1805-12-20,9,11
-NY,2,Cmte on Canada refugees,,1805-12-20,9,11
-VT,2,Cmte on Canada refugees,,1805-12-20,9,11
-Sumter,2,Cmte on Canada refugees,,1805-12-20,9,11
-Tracy,5,Cmte on Canada refugees,,1805-12-20,9,11
 Adair,1,Cmte bill foreign coins,,1805-12-22,9,11
 Adams,4,Cmte bill foreign coins,,1805-12-22,9,11
 Anderson,6,Cmte bill foreign coins,,1805-12-22,9,11
@@ -271,26 +271,6 @@ Sumter,2,Cmte bill foreign coins,,1805-12-22,9,11
 Thrus,2,Cmte bill foreign coins,,1805-12-22,9,11
 Tracy,5,Cmte bill foreign coins,,1805-12-22,9,11
 White,1,Cmte bill foreign coins,,1805-12-22,9,11
-Adair,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Adams,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-And,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Bald,7,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Bradl,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Fenner,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Gilm,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Jack,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Maciay,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Mit,4,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Moore,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Pick,3,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Plum,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-MD,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-NY,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-OH,3,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-VT,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-thrus,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Tracy,16,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
-Worth,8,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
 Adams,4,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
 And,19,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
 Bald,12,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
@@ -317,6 +297,26 @@ Thrus,4,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
 Tracy,8,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
 White,2,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
 Worth,9,Cmte on LA nomination for territorial courts,,1805-12-23,9,11
+Adair,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Adams,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+And,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Bald,7,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Bradl,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Fenner,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Gilm,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Jack,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Maciay,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Mit,4,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Moore,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Pick,3,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Plum,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+MD,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+NY,1,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+OH,3,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+VT,2,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+thrus,5,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Tracy,16,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
+Worth,8,Cmte on message of PUS on state of MI Territory and papers,,1805-12-23,9,11
 Adair,2,cmte on bill French claims,,1805-12-23,9,11
 Adams,1,cmte on bill French claims,,1805-12-23,9,11
 Bald,4,cmte on bill French claims,,1805-12-23,9,11
@@ -446,26 +446,26 @@ Sumter,1,Cmte on lighthouse bill,,1806-01-02,9,12
 Tray,2,Cmte on lighthouse bill,,1806-01-02,9,12
 White,2,Cmte on lighthouse bill,,1806-01-02,9,12
 Wright,1,Cmte on lighthouse bill,,1806-01-02,9,12
-Adair,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Adams,6,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-And,6,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Bald,4,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Bradl,5,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Jack,8,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Logan,3,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Maclay,3,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Mit,4,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Moore,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Pick,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-MD,10,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-OH,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-TN,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-VT,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Sumter,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Thrus,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Tracy,8,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-White,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
-Worth,7,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,,1806-01-03,9,11
+Adair,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Adams,6,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+And,6,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Bald,4,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Bradl,5,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Jack,8,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Logan,3,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Maclay,3,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Mit,4,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Moore,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Pick,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+MD,10,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+OH,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+TN,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+VT,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Sumter,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Thrus,2,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Tracy,8,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+White,1,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
+Worth,7,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,,1806-01-03,9,11
 Adams,10,Cmte on report of Sec of Treasury bill,,1806-01-03,9,12
 And,5,Cmte on report of Sec of Treasury bill,,1806-01-03,9,12
 Bald,7,Cmte on report of Sec of Treasury bill,,1806-01-03,9,12
@@ -515,26 +515,6 @@ Tracy,10,Cmte on NY merchants memorial- 5 members,,1806-01-06,9,12
 White,1,Cmte on NY merchants memorial- 5 members,,1806-01-06,9,12
 Worth,2,Cmte on NY merchants memorial- 5 members,,1806-01-06,9,12
 Wright,5,Cmte on NY merchants memorial- 5 members,,1806-01-06,9,12
-Adair,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-And,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Bald,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Bradl,8,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Gaill,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Hill,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Howl,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Kit,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Logan,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Maclay,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Pick,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Plum,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-MD,11,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-OH,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-VT,3,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Thru,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Tracy,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-White,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Worth,8,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
-Wright,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
 Adams,3,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
 And,2,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
 Bald,3,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
@@ -555,6 +535,26 @@ VT,2,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
 Sum,1,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
 Thrus,1,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
 White,1,Cmte on memorial of Trustees of Academy Washington,,1806-01-06,9,12
+Adair,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+And,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Bald,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Bradl,8,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Gaill,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Hill,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Howl,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Kit,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Logan,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Maclay,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Pick,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Plum,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+MD,11,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+OH,2,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+VT,3,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Thru,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Tracy,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+White,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Worth,8,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
+Wright,1,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,,1806-01-06,9,12
 Adair,1,Cmte on petition of Levis & Maxwell sell copies of Journals of Confederation Congress,,1806-01-08,9,12
 Bald,3,Cmte on petition of Levis & Maxwell sell copies of Journals of Confederation Congress,,1806-01-08,9,12
 Bradl,4,Cmte on petition of Levis & Maxwell sell copies of Journals of Confederation Congress,,1806-01-08,9,12
@@ -619,32 +619,32 @@ turner,1,cmte on bill for regulating the army,,1806-01-13,9,13
 White,13,cmte on bill for regulating the army,,1806-01-13,9,13
 Worth,1,cmte on bill for regulating the army,,1806-01-13,9,13
 Wright,10,cmte on bill for regulating the army,,1806-01-13,9,13
-Adair,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Adams,11,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-And,11,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Bald,14,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Bradl,8,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Cond,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Gilm,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Jack,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Logan,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Maclay,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Mit,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Moore,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Pick,2,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Plumer,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-MD,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-NY,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-OH,7,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-TN,2,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-VT,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Sumter,8,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Thrus,5,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Tracy,7,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Turner,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-White,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Worth,4,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
-Wright,5,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,,1806-01-13,9,13
+Adair,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Adams,11,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+And,11,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Bald,14,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Bradl,8,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Cond,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Gilm,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Jack,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Logan,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Maclay,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Mit,6,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Moore,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Pick,2,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Plumer,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+MD,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+NY,1,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+OH,7,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+TN,2,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+VT,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Sumter,8,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Thrus,5,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Tracy,7,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Turner,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+White,3,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Worth,4,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
+Wright,5,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,,1806-01-13,9,13
 Adair,4,Cmte on petition of Galliopolis,,1806-01-14,9,13
 Adams,1,Cmte on petition of Galliopolis,,1806-01-14,9,13
 And,3,Cmte on petition of Galliopolis,,1806-01-14,9,13
@@ -844,29 +844,6 @@ OH,2,Cmte to recommit George Rapp,,1806-01-22,9,14
 Tracy,2,Cmte to recommit George Rapp,,1806-01-22,9,14
 White,1,Cmte to recommit George Rapp,,1806-01-22,9,14
 Worth,21,Cmte to recommit George Rapp,,1806-01-22,9,14
-Adair,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Bald,4,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Bradl,21,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Cond,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Fenner,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Gail,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Gilm,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Hill,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Kit,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Logan,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Maclay,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Mit,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Pick,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-MD,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-NY,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-OH,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-TN,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-VT,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Sumt,5,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Thrus,4,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Tracy,7,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Turner,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
-Wright,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
 Adair,13,Cmte on militia bill,,1806-01-23,9,14
 Adams,1,Cmte on militia bill,,1806-01-23,9,14
 And,7,Cmte on militia bill,,1806-01-23,9,14
@@ -893,6 +870,29 @@ Turn,2,Cmte on militia bill,,1806-01-23,9,14
 White,5,Cmte on militia bill,,1806-01-23,9,14
 Worth,1,Cmte on militia bill,,1806-01-23,9,14
 Wright,3,Cmte on militia bill,,1806-01-23,9,14
+Adair,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Bald,4,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Bradl,21,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Cond,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Fenner,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Gail,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Gilm,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Hill,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Kit,3,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Logan,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Maclay,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Mit,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Pick,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+MD,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+NY,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+OH,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+TN,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+VT,1,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Sumt,5,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Thrus,4,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Tracy,7,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Turner,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
+Wright,2,Cmte on petition of Seth Harding for pension,,1806-01-23,9,14
 Adair,1,Cmte on Anderson's motion respecting appropriations for 1806,,1806-01-28,9,14
 Adams,3,Cmte on Anderson's motion respecting appropriations for 1806,,1806-01-28,9,14
 And,14,Cmte on Anderson's motion respecting appropriations for 1806,,1806-01-28,9,14
@@ -941,27 +941,6 @@ Thrus,1,cmte on petition of DE Canal,,1806-01-28,9,14
 Tracy,4,cmte on petition of DE Canal,,1806-01-28,9,14
 Turner,3,cmte on petition of DE Canal,,1806-01-28,9,14
 Wright,2,cmte on petition of DE Canal,,1806-01-28,9,14
-Adams,4,Cmte on bill state courts,,1806-01-29,9,14
-And,3,Cmte on bill state courts,,1806-01-29,9,14
-Bald,7,Cmte on bill state courts,,1806-01-29,9,14
-Bay,4,Cmte on bill state courts,,1806-01-29,9,14
-Bradl,6,Cmte on bill state courts,,1806-01-29,9,14
-Gaill,2,Cmte on bill state courts,,1806-01-29,9,14
-Hill,1,Cmte on bill state courts,,1806-01-29,9,14
-How,1,Cmte on bill state courts,,1806-01-29,9,14
-Kit,1,Cmte on bill state courts,,1806-01-29,9,14
-Logan,2,Cmte on bill state courts,,1806-01-29,9,14
-Maclay,1,Cmte on bill state courts,,1806-01-29,9,14
-Mit,8,Cmte on bill state courts,,1806-01-29,9,14
-Moore,2,Cmte on bill state courts,,1806-01-29,9,14
-Plumer,2,Cmte on bill state courts,,1806-01-29,9,14
-NY,3,Cmte on bill state courts,,1806-01-29,9,14
-VT,6,Cmte on bill state courts,,1806-01-29,9,14
-Thrus,3,Cmte on bill state courts,,1806-01-29,9,14
-Tracy,8,Cmte on bill state courts,,1806-01-29,9,14
-Turner,3,Cmte on bill state courts,,1806-01-29,9,14
-White,1,Cmte on bill state courts,,1806-01-29,9,14
-Worth,1,Cmte on bill state courts,,1806-01-29,9,14
 Adair,4,Cmte bill 100000 militia,,1806-01-29,9,14
 Adams,2,Cmte bill 100000 militia,,1806-01-29,9,14
 And,2,Cmte bill 100000 militia,,1806-01-29,9,14
@@ -986,6 +965,27 @@ Turner,1,Cmte bill 100000 militia,,1806-01-29,9,14
 White,3,Cmte bill 100000 militia,,1806-01-29,9,14
 Worth,3,Cmte bill 100000 militia,,1806-01-29,9,14
 Wright,1,Cmte bill 100000 militia,,1806-01-29,9,14
+Adams,4,Cmte on bill state courts,,1806-01-29,9,14
+And,3,Cmte on bill state courts,,1806-01-29,9,14
+Bald,7,Cmte on bill state courts,,1806-01-29,9,14
+Bay,4,Cmte on bill state courts,,1806-01-29,9,14
+Bradl,6,Cmte on bill state courts,,1806-01-29,9,14
+Gaill,2,Cmte on bill state courts,,1806-01-29,9,14
+Hill,1,Cmte on bill state courts,,1806-01-29,9,14
+How,1,Cmte on bill state courts,,1806-01-29,9,14
+Kit,1,Cmte on bill state courts,,1806-01-29,9,14
+Logan,2,Cmte on bill state courts,,1806-01-29,9,14
+Maclay,1,Cmte on bill state courts,,1806-01-29,9,14
+Mit,8,Cmte on bill state courts,,1806-01-29,9,14
+Moore,2,Cmte on bill state courts,,1806-01-29,9,14
+Plumer,2,Cmte on bill state courts,,1806-01-29,9,14
+NY,3,Cmte on bill state courts,,1806-01-29,9,14
+VT,6,Cmte on bill state courts,,1806-01-29,9,14
+Thrus,3,Cmte on bill state courts,,1806-01-29,9,14
+Tracy,8,Cmte on bill state courts,,1806-01-29,9,14
+Turner,3,Cmte on bill state courts,,1806-01-29,9,14
+White,1,Cmte on bill state courts,,1806-01-29,9,14
+Worth,1,Cmte on bill state courts,,1806-01-29,9,14
 Adair,1,Cmte on Bill LA by Worthington,,1806-01-30,9,14
 And,1,Cmte on Bill LA by Worthington,,1806-01-30,9,14
 Bald,3,Cmte on Bill LA by Worthington,,1806-01-30,9,14
@@ -1072,24 +1072,6 @@ tracy,9,Cmte on Bill american seamen,,1806-01-31,9,15
 turner,5,Cmte on Bill american seamen,,1806-01-31,9,15
 White,1,Cmte on Bill american seamen,,1806-01-31,9,15
 Wright,20,Cmte on Bill american seamen,,1806-01-31,9,15
-Adair,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Adams,5,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Bald,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Bradl,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Cond,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Fenn,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Gail,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Howl,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Maclay,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Mit,14,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Pick,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-MD,4,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-TN,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-VT,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Stone,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Sumt,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Tracy,4,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
-Turner,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
 Adair,1,Cmte on bill counterfeit coins US,,1806-02-03,9,15
 Adams,1,Cmte on bill counterfeit coins US,,1806-02-03,9,15
 Bay,10,Cmte on bill counterfeit coins US,,1806-02-03,9,15
@@ -1110,6 +1092,24 @@ Stone,1,Cmte on bill counterfeit coins US,,1806-02-03,9,15
 Thrus,1,Cmte on bill counterfeit coins US,,1806-02-03,9,15
 Tracy,5,Cmte on bill counterfeit coins US,,1806-02-03,9,15
 Turner,1,Cmte on bill counterfeit coins US,,1806-02-03,9,15
+Adair,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Adams,5,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Bald,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Bradl,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Cond,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Fenn,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Gail,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Howl,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Maclay,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Mit,14,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Pick,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+MD,4,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+TN,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+VT,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Stone,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Sumt,1,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Tracy,4,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
+Turner,2,Cmte on memorial of Governors NY hospital,,1806-02-03,9,15
 Adair,2,Cmte on bill evidence of debts,,1806-02-04,9,15
 Adams,1,Cmte on bill evidence of debts,,1806-02-04,9,15
 Bald,6,Cmte on bill evidence of debts,,1806-02-04,9,15
@@ -1195,6 +1195,58 @@ Thrus,1,Cmte on bill compensation officers of Senate,,1806-02-11,9,15
 Tracy,8,Cmte on bill compensation officers of Senate,,1806-02-11,9,15
 Turner,3,Cmte on bill compensation officers of Senate,,1806-02-11,9,15
 Worth,1,Cmte on bill compensation officers of Senate,,1806-02-11,9,15
+Adair,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Adams,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+And,6,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Bald,15,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Bay,6,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Brad,12,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Gilm,12,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Hill,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Logan,13,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Mit,2,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+MD,4,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+NY,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Stone,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Tracy,7,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+wright,2,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
+Adair,4,Cmte on resolution TN land office,,1806-02-11,9,15
+Adams,1,Cmte on resolution TN land office,,1806-02-11,9,15
+And,11,Cmte on resolution TN land office,,1806-02-11,9,15
+Bald,3,Cmte on resolution TN land office,,1806-02-11,9,15
+Bay,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Bradl,20,Cmte on resolution TN land office,,1806-02-11,9,15
+Hill,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Kit,2,Cmte on resolution TN land office,,1806-02-11,9,15
+Moore,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Pick,2,Cmte on resolution TN land office,,1806-02-11,9,15
+Plum,1,Cmte on resolution TN land office,,1806-02-11,9,15
+OH,1,Cmte on resolution TN land office,,1806-02-11,9,15
+VT,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Stone,2,Cmte on resolution TN land office,,1806-02-11,9,15
+Sumt,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Thrus,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Tracy,15,Cmte on resolution TN land office,,1806-02-11,9,15
+turner,1,Cmte on resolution TN land office,,1806-02-11,9,15
+Adair,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Adams,5,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Bald,5,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Bay,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Cond,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Gail,9,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Kit,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Maclay,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Mit,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Moore,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Pick,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Plum,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+MD,3,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+VT,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Stone,8,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Sum,4,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Tracy,4,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+Turner,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
+White,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
 Adair,1,cmte on bill consent NC Law,,1806-02-11,9,15
 Adams,4,cmte on bill consent NC Law,,1806-02-11,9,15
 And,7,cmte on bill consent NC Law,,1806-02-11,9,15
@@ -1219,58 +1271,6 @@ Sum,2,cmte on bill consent NC Law,,1806-02-11,9,15
 Tracy,6,cmte on bill consent NC Law,,1806-02-11,9,15
 Turner,5,cmte on bill consent NC Law,,1806-02-11,9,15
 Wright,1,cmte on bill consent NC Law,,1806-02-11,9,15
-Adair,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Adams,5,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Bald,5,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Bay,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Cond,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Gail,9,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Kit,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Maclay,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Mit,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Moore,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Pick,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Plum,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-MD,3,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-VT,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Stone,8,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Sum,4,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Tracy,4,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Turner,2,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-White,1,cmte on SC bill to allow Charleston to collect duty on tonnage,,1806-02-11,9,15
-Adair,4,Cmte on resolution TN land office,,1806-02-11,9,15
-Adams,1,Cmte on resolution TN land office,,1806-02-11,9,15
-And,11,Cmte on resolution TN land office,,1806-02-11,9,15
-Bald,3,Cmte on resolution TN land office,,1806-02-11,9,15
-Bay,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Bradl,20,Cmte on resolution TN land office,,1806-02-11,9,15
-Hill,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Kit,2,Cmte on resolution TN land office,,1806-02-11,9,15
-Moore,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Pick,2,Cmte on resolution TN land office,,1806-02-11,9,15
-Plum,1,Cmte on resolution TN land office,,1806-02-11,9,15
-OH,1,Cmte on resolution TN land office,,1806-02-11,9,15
-VT,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Stone,2,Cmte on resolution TN land office,,1806-02-11,9,15
-Sumt,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Thrus,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Tracy,15,Cmte on resolution TN land office,,1806-02-11,9,15
-turner,1,Cmte on resolution TN land office,,1806-02-11,9,15
-Adair,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Adams,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-And,6,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Bald,15,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Bay,6,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Brad,12,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Gilm,12,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Hill,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Logan,13,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Mit,2,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-MD,4,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-NY,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Stone,1,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-Tracy,7,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
-wright,2,Cmte on bill to suspend trade with St Domingo recommitted,,1806-02-11,9,15
 Adair,3,Cmte on treaty with Pinkeshaw - made Dec-13-1805,,1806-02-11,9,16
 And,2,Cmte on treaty with Pinkeshaw - made Dec-13-1805,,1806-02-11,9,16
 Bald,3,Cmte on treaty with Pinkeshaw - made Dec-13-1805,,1806-02-11,9,16
@@ -1550,6 +1550,34 @@ Thrus,1,Cmte on Brigt Henrick,,1806-02-27,9,17
 Tracy,3,Cmte on Brigt Henrick,,1806-02-27,9,17
 Turn,2,Cmte on Brigt Henrick,,1806-02-27,9,17
 White,1,Cmte on Brigt Henrick,,1806-02-27,9,17
+Adair,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Adams,17,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+And,14,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Bald,20,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Bay,22,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Bradl,16,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Cond,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Fenn,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Gail,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Gilm,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Hill,4,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Kit,4,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Logan,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Maclay,5,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Mit,10,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Moore,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Pick,8,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Plumer,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+MD,21,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+NY,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+VT,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Stone,8,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Sum,6,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Tracy,5,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Turner,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+White,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Worth,7,Cmte of 7 on bill American seamen,,1806-02-28,9,17
+Wright,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
 Adair,1,Cmte on Peter Landais,,1806-02-28,9,17
 Adams,1,Cmte on Peter Landais,,1806-02-28,9,17
 Bald,4,Cmte on Peter Landais,,1806-02-28,9,17
@@ -1590,34 +1618,6 @@ Stone,1,Cmte on bill land warrants,,1806-02-28,9,17
 Sum,3,Cmte on bill land warrants,,1806-02-28,9,17
 Turner,3,Cmte on bill land warrants,,1806-02-28,9,17
 Worth,6,Cmte on bill land warrants,,1806-02-28,9,17
-Adair,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Adams,17,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-And,14,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Bald,20,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Bay,22,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Bradl,16,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Cond,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Fenn,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Gail,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Gilm,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Hill,4,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Kit,4,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Logan,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Maclay,5,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Mit,10,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Moore,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Pick,8,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Plumer,1,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-MD,21,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-NY,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-VT,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Stone,8,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Sum,6,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Tracy,5,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Turner,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-White,3,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Worth,7,Cmte of 7 on bill American seamen,,1806-02-28,9,17
-Wright,2,Cmte of 7 on bill American seamen,,1806-02-28,9,17
 Bald,15,Cmte on amendment to bill State courts & judges,,1806-03-03,9,17
 Bradl,4,Cmte on amendment to bill State courts & judges,,1806-03-03,9,17
 Cond,1,Cmte on amendment to bill State courts & judges,,1806-03-03,9,17
@@ -1787,16 +1787,6 @@ Gilm,1,Cmte on funeral of James Jackson,,1806-03-19,9,18
 Moore,1,Cmte on funeral of James Jackson,,1806-03-19,9,18
 Sumt,23,Cmte on funeral of James Jackson,,1806-03-19,9,18
 Wright,13,Cmte on funeral of James Jackson,,1806-03-19,9,18
-And,2,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Bald,14,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Bradl,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Gilm,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Kit,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Stone,2,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Sumt,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Tracy,14,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Turner,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
-Worth,11,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
 Adair,1,Cmte on Gen Eaton township,,1806-03-21,9,18
 Adams,1,Cmte on Gen Eaton township,,1806-03-21,9,18
 And,3,Cmte on Gen Eaton township,,1806-03-21,9,18
@@ -1816,6 +1806,16 @@ Tracy,5,Cmte on Gen Eaton township,,1806-03-21,9,18
 Turner,2,Cmte on Gen Eaton township,,1806-03-21,9,18
 White,4,Cmte on Gen Eaton township,,1806-03-21,9,18
 Wright,6,Cmte on Gen Eaton township,,1806-03-21,9,18
+And,2,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Bald,14,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Bradl,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Gilm,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Kit,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Stone,2,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Sumt,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Tracy,14,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Turner,1,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
+Worth,11,Cmte on bill to repeal laws for public debt,,1806-03-21,9,18
 Adair,2,Cmte on Bridge over Potomac - 5 members,,1806-03-24,9,18
 Adams,5,Cmte on Bridge over Potomac - 5 members,,1806-03-24,9,18
 And,10,Cmte on Bridge over Potomac - 5 members,,1806-03-24,9,18
@@ -1860,6 +1860,27 @@ Tracy,6,cmte on report of Sec of War GC Russel,,1806-03-24,9,18
 Turner,2,cmte on report of Sec of War GC Russel,,1806-03-24,9,18
 White,1,cmte on report of Sec of War GC Russel,,1806-03-24,9,18
 Worth,2,cmte on report of Sec of War GC Russel,,1806-03-24,9,18
+Adams,9,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+And,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Bald,11,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Bradl,12,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Cond,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Gail,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Gilm,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Hill,10,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Howl,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Logan,12,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Maclay,3,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Mit,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Moore,11,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Plumer,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+VT,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Stone,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Sumt,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+turner,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+White,3,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Worth,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
+Wright,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
 Adams,4,Cmte on amendments to marshal bill,,1806-03-24,9,19
 Bald,5,Cmte on amendments to marshal bill,,1806-03-24,9,19
 Bay,11,Cmte on amendments to marshal bill,,1806-03-24,9,19
@@ -1896,27 +1917,6 @@ Turner,3,cmte on amendment to OH bill,,1806-03-24,9,19
 White,2,cmte on amendment to OH bill,,1806-03-24,9,19
 worth,9,cmte on amendment to OH bill,,1806-03-24,9,19
 Wright,15,cmte on amendment to OH bill,,1806-03-24,9,19
-Adams,9,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-And,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Bald,11,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Bradl,12,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Cond,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Gail,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Gilm,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Hill,10,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Howl,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Logan,12,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Maclay,3,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Mit,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Moore,11,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Plumer,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-VT,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Stone,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Sumt,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-turner,2,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-White,3,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Worth,1,Cmte on National academy bill - 5 members,,1806-03-24,9,19
-Wright,7,Cmte on National academy bill - 5 members,,1806-03-24,9,19
 Adair,2,Cmte on Bill to survey NC coast,,1806-03-25,9,19
 Bald,7,Cmte on Bill to survey NC coast,,1806-03-25,9,19
 Bradl,4,Cmte on Bill to survey NC coast,,1806-03-25,9,19
@@ -1946,6 +1946,17 @@ Tracy,16,Conference cmte on compensation of officers - both houses bill,,1806-03
 Turner,1,Conference cmte on compensation of officers - both houses bill,,1806-03-25,9,19
 Worth,2,Conference cmte on compensation of officers - both houses bill,,1806-03-25,9,19
 Wright,2,Conference cmte on compensation of officers - both houses bill,,1806-03-25,9,19
+And,14,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Bald,4,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Bradl,4,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Kit,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Pick,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+NY,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+VT,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Stone,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Sumt,5,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Tracy,7,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
+Wright,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
 Adair,1,Cmte on laws District of Columbia,,1806-03-26,9,19
 Adams,15,Cmte on laws District of Columbia,,1806-03-26,9,19
 And,2,Cmte on laws District of Columbia,,1806-03-26,9,19
@@ -1966,17 +1977,6 @@ Sumt,1,Cmte on laws District of Columbia,,1806-03-26,9,19
 Tracy,4,Cmte on laws District of Columbia,,1806-03-26,9,19
 turner,1,Cmte on laws District of Columbia,,1806-03-26,9,19
 Wright,5,Cmte on laws District of Columbia,,1806-03-26,9,19
-And,14,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Bald,4,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Bradl,4,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Kit,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Pick,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-NY,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-VT,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Stone,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Sumt,5,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Tracy,7,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
-Wright,1,Cmte of conference on bill articles of war - Last amendment insisted,,1806-03-26,9,19
 Adair,5,Cmte bill non-importation - 5 members,,1806-03-28,9,19
 Adams,5,Cmte bill non-importation - 5 members,,1806-03-28,9,19
 And,5,Cmte bill non-importation - 5 members,,1806-03-28,9,19
@@ -2061,6 +2061,25 @@ Turner,1,Cmte on suspend sale of IN & OH lands,,1806-03-31,9,19
 White,4,Cmte on suspend sale of IN & OH lands,,1806-03-31,9,19
 Worth,1,Cmte on suspend sale of IN & OH lands,,1806-03-31,9,19
 Wright,4,Cmte on suspend sale of IN & OH lands,,1806-03-31,9,19
+Adams,15,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+And,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Hill,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Kit,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Logan,1,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Pick,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+OH,5,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Stone,4,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Sum,17,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+White,4,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
+Adair,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+And,2,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+Bradl,4,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+Cond,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+Moore,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+NY,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+Tracy,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+White,4,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
+Wright,2,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
 Adams,4,Cmte on Territorial courts,,1806-04-03,9,20
 And,3,Cmte on Territorial courts,,1806-04-03,9,20
 Bald,3,Cmte on Territorial courts,,1806-04-03,9,20
@@ -2079,46 +2098,6 @@ Turner,4,Cmte on Territorial courts,,1806-04-03,9,20
 White,3,Cmte on Territorial courts,,1806-04-03,9,20
 Worth,1,Cmte on Territorial courts,,1806-04-03,9,20
 Wright,1,Cmte on Territorial courts,,1806-04-03,9,20
-Adair,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-And,2,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Bradl,4,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Cond,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Moore,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-NY,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Tracy,1,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-White,4,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Wright,2,Cmte in place of Smith(MD) on 100000 militia bill,,1806-04-03,9,20
-Adams,15,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-And,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Hill,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Kit,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Logan,1,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Pick,2,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-OH,5,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Stone,4,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Sum,17,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-White,4,Additional members for cmte on bill for relief of Hamet Bashaw,,1806-04-03,9,20
-Adair,4,Cmte on military appropriations,,1806-04-04,9,20
-Adams,3,Cmte on military appropriations,,1806-04-04,9,20
-And,3,Cmte on military appropriations,,1806-04-04,9,20
-Bald,1,Cmte on military appropriations,,1806-04-04,9,20
-Bay,7,Cmte on military appropriations,,1806-04-04,9,20
-Bradl,1,Cmte on military appropriations,,1806-04-04,9,20
-Cond,1,Cmte on military appropriations,,1806-04-04,9,20
-Gaill,1,Cmte on military appropriations,,1806-04-04,9,20
-Gilm,2,Cmte on military appropriations,,1806-04-04,9,20
-kit,2,Cmte on military appropriations,,1806-04-04,9,20
-Logan,1,Cmte on military appropriations,,1806-04-04,9,20
-Maclay,4,Cmte on military appropriations,,1806-04-04,9,20
-Moore,2,Cmte on military appropriations,,1806-04-04,9,20
-TN,2,Cmte on military appropriations,,1806-04-04,9,20
-VT,1,Cmte on military appropriations,,1806-04-04,9,20
-Stone,8,Cmte on military appropriations,,1806-04-04,9,20
-Sumt,4,Cmte on military appropriations,,1806-04-04,9,20
-Tracy,4,Cmte on military appropriations,,1806-04-04,9,20
-White,1,Cmte on military appropriations,,1806-04-04,9,20
-Worth,4,Cmte on military appropriations,,1806-04-04,9,20
-Wright,1,Cmte on military appropriations,,1806-04-04,9,20
 Adair,2,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
 Adams,2,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
 And,1,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
@@ -2140,6 +2119,44 @@ Tracy,5,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
 turner,4,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
 Worth,6,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
 Wright,4,Cmte on Bill to divide IN into 2 territories,,1806-04-04,9,20
+Adair,4,Cmte on military appropriations,,1806-04-04,9,20
+Adams,3,Cmte on military appropriations,,1806-04-04,9,20
+And,3,Cmte on military appropriations,,1806-04-04,9,20
+Bald,1,Cmte on military appropriations,,1806-04-04,9,20
+Bay,7,Cmte on military appropriations,,1806-04-04,9,20
+Bradl,1,Cmte on military appropriations,,1806-04-04,9,20
+Cond,1,Cmte on military appropriations,,1806-04-04,9,20
+Gaill,1,Cmte on military appropriations,,1806-04-04,9,20
+Gilm,2,Cmte on military appropriations,,1806-04-04,9,20
+kit,2,Cmte on military appropriations,,1806-04-04,9,20
+Logan,1,Cmte on military appropriations,,1806-04-04,9,20
+Maclay,4,Cmte on military appropriations,,1806-04-04,9,20
+Moore,2,Cmte on military appropriations,,1806-04-04,9,20
+TN,2,Cmte on military appropriations,,1806-04-04,9,20
+VT,1,Cmte on military appropriations,,1806-04-04,9,20
+Stone,8,Cmte on military appropriations,,1806-04-04,9,20
+Sumt,4,Cmte on military appropriations,,1806-04-04,9,20
+Tracy,4,Cmte on military appropriations,,1806-04-04,9,20
+White,1,Cmte on military appropriations,,1806-04-04,9,20
+Worth,4,Cmte on military appropriations,,1806-04-04,9,20
+Wright,1,Cmte on military appropriations,,1806-04-04,9,20
+Adair,2,Cmte on bill French claim,,1806-04-07,9,20
+Adams,5,Cmte on bill French claim,,1806-04-07,9,20
+And,5,Cmte on bill French claim,,1806-04-07,9,20
+Bald,3,Cmte on bill French claim,,1806-04-07,9,20
+Bradl,3,Cmte on bill French claim,,1806-04-07,9,20
+Cond,2,Cmte on bill French claim,,1806-04-07,9,20
+Kit,2,Cmte on bill French claim,,1806-04-07,9,20
+Logan,2,Cmte on bill French claim,,1806-04-07,9,20
+Maclay,1,Cmte on bill French claim,,1806-04-07,9,20
+Mit,6,Cmte on bill French claim,,1806-04-07,9,20
+Moore,6,Cmte on bill French claim,,1806-04-07,9,20
+Pick,1,Cmte on bill French claim,,1806-04-07,9,20
+Plumer,3,Cmte on bill French claim,,1806-04-07,9,20
+NY,1,Cmte on bill French claim,,1806-04-07,9,20
+TN,1,Cmte on bill French claim,,1806-04-07,9,20
+VT,2,Cmte on bill French claim,,1806-04-07,9,20
+Tracy,3,Cmte on bill French claim,,1806-04-07,9,20
 Adair,1,Cmte on post roads,,1806-04-07,9,20
 Adams,2,Cmte on post roads,,1806-04-07,9,20
 And,10,Cmte on post roads,,1806-04-07,9,20
@@ -2162,23 +2179,6 @@ Tracy,2,Cmte on post roads,,1806-04-07,9,20
 Turner,3,Cmte on post roads,,1806-04-07,9,20
 White,7,Cmte on post roads,,1806-04-07,9,20
 Worth,1,Cmte on post roads,,1806-04-07,9,20
-Adair,2,Cmte on bill French claim,,1806-04-07,9,20
-Adams,5,Cmte on bill French claim,,1806-04-07,9,20
-And,5,Cmte on bill French claim,,1806-04-07,9,20
-Bald,3,Cmte on bill French claim,,1806-04-07,9,20
-Bradl,3,Cmte on bill French claim,,1806-04-07,9,20
-Cond,2,Cmte on bill French claim,,1806-04-07,9,20
-Kit,2,Cmte on bill French claim,,1806-04-07,9,20
-Logan,2,Cmte on bill French claim,,1806-04-07,9,20
-Maclay,1,Cmte on bill French claim,,1806-04-07,9,20
-Mit,6,Cmte on bill French claim,,1806-04-07,9,20
-Moore,6,Cmte on bill French claim,,1806-04-07,9,20
-Pick,1,Cmte on bill French claim,,1806-04-07,9,20
-Plumer,3,Cmte on bill French claim,,1806-04-07,9,20
-NY,1,Cmte on bill French claim,,1806-04-07,9,20
-TN,1,Cmte on bill French claim,,1806-04-07,9,20
-VT,2,Cmte on bill French claim,,1806-04-07,9,20
-Tracy,3,Cmte on bill French claim,,1806-04-07,9,20
 Adams,2,Cmte on conference bill public debt,,1806-04-08,9,20
 Bald,10,Cmte on conference bill public debt,,1806-04-08,9,20
 Bradl,1,Cmte on conference bill public debt,,1806-04-08,9,20
@@ -2209,6 +2209,24 @@ Stone,7,Cmte on lighthouses in MA etc,,1806-04-09,9,20
 Sumt,2,Cmte on lighthouses in MA etc,,1806-04-09,9,20
 Tracy,5,Cmte on lighthouses in MA etc,,1806-04-09,9,20
 turner,13,Cmte on lighthouses in MA etc,,1806-04-09,9,20
+Adams,14,Cmte on bill lands S TN,,1806-04-10,9,20
+And,3,Cmte on bill lands S TN,,1806-04-10,9,20
+Bald,5,Cmte on bill lands S TN,,1806-04-10,9,20
+Bradl,2,Cmte on bill lands S TN,,1806-04-10,9,20
+Gilm,1,Cmte on bill lands S TN,,1806-04-10,9,20
+Kit,2,Cmte on bill lands S TN,,1806-04-10,9,20
+Moore,2,Cmte on bill lands S TN,,1806-04-10,9,20
+OH,3,Cmte on bill lands S TN,,1806-04-10,9,20
+TN,3,Cmte on bill lands S TN,,1806-04-10,9,20
+VT,3,Cmte on bill lands S TN,,1806-04-10,9,20
+Stone,5,Cmte on bill lands S TN,,1806-04-10,9,20
+Sumt,1,Cmte on bill lands S TN,,1806-04-10,9,20
+Thrus,2,Cmte on bill lands S TN,,1806-04-10,9,20
+Tracy,2,Cmte on bill lands S TN,,1806-04-10,9,20
+Turner,1,Cmte on bill lands S TN,,1806-04-10,9,20
+White,2,Cmte on bill lands S TN,,1806-04-10,9,20
+Worth,1,Cmte on bill lands S TN,,1806-04-10,9,20
+Wright,1,Cmte on bill lands S TN,,1806-04-10,9,20
 Adams,2,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
 And,3,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
 Bald,4,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
@@ -2230,24 +2248,27 @@ Tracy,2,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
 turn,1,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
 White,2,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
 Wright,3,Cmte sec of Treasury report on John Chester,,1806-04-10,9,20
-Adams,14,Cmte on bill lands S TN,,1806-04-10,9,20
-And,3,Cmte on bill lands S TN,,1806-04-10,9,20
-Bald,5,Cmte on bill lands S TN,,1806-04-10,9,20
-Bradl,2,Cmte on bill lands S TN,,1806-04-10,9,20
-Gilm,1,Cmte on bill lands S TN,,1806-04-10,9,20
-Kit,2,Cmte on bill lands S TN,,1806-04-10,9,20
-Moore,2,Cmte on bill lands S TN,,1806-04-10,9,20
-OH,3,Cmte on bill lands S TN,,1806-04-10,9,20
-TN,3,Cmte on bill lands S TN,,1806-04-10,9,20
-VT,3,Cmte on bill lands S TN,,1806-04-10,9,20
-Stone,5,Cmte on bill lands S TN,,1806-04-10,9,20
-Sumt,1,Cmte on bill lands S TN,,1806-04-10,9,20
-Thrus,2,Cmte on bill lands S TN,,1806-04-10,9,20
-Tracy,2,Cmte on bill lands S TN,,1806-04-10,9,20
-Turner,1,Cmte on bill lands S TN,,1806-04-10,9,20
-White,2,Cmte on bill lands S TN,,1806-04-10,9,20
-Worth,1,Cmte on bill lands S TN,,1806-04-10,9,20
-Wright,1,Cmte on bill lands S TN,,1806-04-10,9,20
+Adair,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Adams,1,Cmte on Indian trading houses,,1806-04-10,9,21
+And,8,Cmte on Indian trading houses,,1806-04-10,9,21
+Bald,5,Cmte on Indian trading houses,,1806-04-10,9,21
+Bradl,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Cond,2,Cmte on Indian trading houses,,1806-04-10,9,21
+Gaill,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Gilm,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Hill,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Howl,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Kit,2,Cmte on Indian trading houses,,1806-04-10,9,21
+Moore,3,Cmte on Indian trading houses,,1806-04-10,9,21
+NY,1,Cmte on Indian trading houses,,1806-04-10,9,21
+OH,6,Cmte on Indian trading houses,,1806-04-10,9,21
+TN,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Stone,5,Cmte on Indian trading houses,,1806-04-10,9,21
+Sumt,4,Cmte on Indian trading houses,,1806-04-10,9,21
+Thrus,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Tracy,3,Cmte on Indian trading houses,,1806-04-10,9,21
+Turner,1,Cmte on Indian trading houses,,1806-04-10,9,21
+Wright,1,Cmte on Indian trading houses,,1806-04-10,9,21
 Adams,2,cmte on imports & tonnage,,1806-04-10,9,21
 And,2,cmte on imports & tonnage,,1806-04-10,9,21
 Bald,6,cmte on imports & tonnage,,1806-04-10,9,21
@@ -2270,27 +2291,30 @@ Tracy,1,cmte on imports & tonnage,,1806-04-10,9,21
 Turner,1,cmte on imports & tonnage,,1806-04-10,9,21
 White,2,cmte on imports & tonnage,,1806-04-10,9,21
 Wright,1,cmte on imports & tonnage,,1806-04-10,9,21
-Adair,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Adams,1,Cmte on Indian trading houses,,1806-04-10,9,21
-And,8,Cmte on Indian trading houses,,1806-04-10,9,21
-Bald,5,Cmte on Indian trading houses,,1806-04-10,9,21
-Bradl,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Cond,2,Cmte on Indian trading houses,,1806-04-10,9,21
-Gaill,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Gilm,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Hill,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Howl,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Kit,2,Cmte on Indian trading houses,,1806-04-10,9,21
-Moore,3,Cmte on Indian trading houses,,1806-04-10,9,21
-NY,1,Cmte on Indian trading houses,,1806-04-10,9,21
-OH,6,Cmte on Indian trading houses,,1806-04-10,9,21
-TN,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Stone,5,Cmte on Indian trading houses,,1806-04-10,9,21
-Sumt,4,Cmte on Indian trading houses,,1806-04-10,9,21
-Thrus,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Tracy,3,Cmte on Indian trading houses,,1806-04-10,9,21
-Turner,1,Cmte on Indian trading houses,,1806-04-10,9,21
-Wright,1,Cmte on Indian trading houses,,1806-04-10,9,21
+And,6,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
+Bald,13,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
+Mit,1,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
+Stone,2,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
+Tracy,18,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
+Adair,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Adams,5,Cmte on bill respecting court record,,1806-04-14,9,21
+And,7,Cmte on bill respecting court record,,1806-04-14,9,21
+Bald,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Cond,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Hill,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Maclay,2,Cmte on bill respecting court record,,1806-04-14,9,21
+Mit,6,Cmte on bill respecting court record,,1806-04-14,9,21
+Moore,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Plumer,1,Cmte on bill respecting court record,,1806-04-14,9,21
+NY,1,Cmte on bill respecting court record,,1806-04-14,9,21
+VT,6,Cmte on bill respecting court record,,1806-04-14,9,21
+Stone,6,Cmte on bill respecting court record,,1806-04-14,9,21
+Sumt,1,Cmte on bill respecting court record,,1806-04-14,9,21
+Thrus,1,Cmte on bill respecting court record,,1806-04-14,9,21
+tracy,2,Cmte on bill respecting court record,,1806-04-14,9,21
+Turner,5,Cmte on bill respecting court record,,1806-04-14,9,21
+White,4,Cmte on bill respecting court record,,1806-04-14,9,21
+Wright,5,Cmte on bill respecting court record,,1806-04-14,9,21
 Adair,2,Cmte on naval appropriations,,1806-04-14,9,21
 Adams,3,Cmte on naval appropriations,,1806-04-14,9,21
 And,2,Cmte on naval appropriations,,1806-04-14,9,21
@@ -2315,30 +2339,6 @@ Turner,2,Cmte on naval appropriations,,1806-04-14,9,21
 White,1,Cmte on naval appropriations,,1806-04-14,9,21
 Worth,2,Cmte on naval appropriations,,1806-04-14,9,21
 Wright,1,Cmte on naval appropriations,,1806-04-14,9,21
-Adair,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Adams,5,Cmte on bill respecting court record,,1806-04-14,9,21
-And,7,Cmte on bill respecting court record,,1806-04-14,9,21
-Bald,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Cond,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Hill,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Maclay,2,Cmte on bill respecting court record,,1806-04-14,9,21
-Mit,6,Cmte on bill respecting court record,,1806-04-14,9,21
-Moore,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Plumer,1,Cmte on bill respecting court record,,1806-04-14,9,21
-NY,1,Cmte on bill respecting court record,,1806-04-14,9,21
-VT,6,Cmte on bill respecting court record,,1806-04-14,9,21
-Stone,6,Cmte on bill respecting court record,,1806-04-14,9,21
-Sumt,1,Cmte on bill respecting court record,,1806-04-14,9,21
-Thrus,1,Cmte on bill respecting court record,,1806-04-14,9,21
-tracy,2,Cmte on bill respecting court record,,1806-04-14,9,21
-Turner,5,Cmte on bill respecting court record,,1806-04-14,9,21
-White,4,Cmte on bill respecting court record,,1806-04-14,9,21
-Wright,5,Cmte on bill respecting court record,,1806-04-14,9,21
-And,6,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
-Bald,13,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
-Mit,1,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
-Stone,2,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
-Tracy,18,Cmte of conference appropriation for navy bill,,1806-04-14,9,21
 Adams,2,Cmte to carry out Indian treaties,,1806-04-14,9,21
 And,12,Cmte to carry out Indian treaties,,1806-04-14,9,21
 Bald,4,Cmte to carry out Indian treaties,,1806-04-14,9,21
@@ -2362,23 +2362,6 @@ Turner,2,Cmte to carry out Indian treaties,,1806-04-14,9,21
 White,1,Cmte to carry out Indian treaties,,1806-04-14,9,21
 Worth,1,Cmte to carry out Indian treaties,,1806-04-14,9,21
 Wright,4,Cmte to carry out Indian treaties,,1806-04-14,9,21
-Adams,4,Cmte on Merch vessels,,1806-04-15,9,21
-Bald,10,Cmte on Merch vessels,,1806-04-15,9,21
-Gail,4,Cmte on Merch vessels,,1806-04-15,9,21
-Gil,2,Cmte on Merch vessels,,1806-04-15,9,21
-Hill,1,Cmte on Merch vessels,,1806-04-15,9,21
-Kit,2,Cmte on Merch vessels,,1806-04-15,9,21
-Logan,2,Cmte on Merch vessels,,1806-04-15,9,21
-Mit,6,Cmte on Merch vessels,,1806-04-15,9,21
-Moore,4,Cmte on Merch vessels,,1806-04-15,9,21
-Plumer,1,Cmte on Merch vessels,,1806-04-15,9,21
-NY,1,Cmte on Merch vessels,,1806-04-15,9,21
-VT,1,Cmte on Merch vessels,,1806-04-15,9,21
-Stone,4,Cmte on Merch vessels,,1806-04-15,9,21
-Sumter,6,Cmte on Merch vessels,,1806-04-15,9,21
-Tracy,10,Cmte on Merch vessels,,1806-04-15,9,21
-White,1,Cmte on Merch vessels,,1806-04-15,9,21
-Wright,1,Cmte on Merch vessels,,1806-04-15,9,21
 Adair,1,Cmte claims to land State of OH,,1806-04-15,9,21
 Adams,3,Cmte claims to land State of OH,,1806-04-15,9,21
 And,1,Cmte claims to land State of OH,,1806-04-15,9,21
@@ -2400,6 +2383,39 @@ Sumter,1,Cmte claims to land State of OH,,1806-04-15,9,21
 Tracy,1,Cmte claims to land State of OH,,1806-04-15,9,21
 Turner,2,Cmte claims to land State of OH,,1806-04-15,9,21
 Worth,4,Cmte claims to land State of OH,,1806-04-15,9,21
+Adams,4,Cmte on Merch vessels,,1806-04-15,9,21
+Bald,10,Cmte on Merch vessels,,1806-04-15,9,21
+Gail,4,Cmte on Merch vessels,,1806-04-15,9,21
+Gil,2,Cmte on Merch vessels,,1806-04-15,9,21
+Hill,1,Cmte on Merch vessels,,1806-04-15,9,21
+Kit,2,Cmte on Merch vessels,,1806-04-15,9,21
+Logan,2,Cmte on Merch vessels,,1806-04-15,9,21
+Mit,6,Cmte on Merch vessels,,1806-04-15,9,21
+Moore,4,Cmte on Merch vessels,,1806-04-15,9,21
+Plumer,1,Cmte on Merch vessels,,1806-04-15,9,21
+NY,1,Cmte on Merch vessels,,1806-04-15,9,21
+VT,1,Cmte on Merch vessels,,1806-04-15,9,21
+Stone,4,Cmte on Merch vessels,,1806-04-15,9,21
+Sumter,6,Cmte on Merch vessels,,1806-04-15,9,21
+Tracy,10,Cmte on Merch vessels,,1806-04-15,9,21
+White,1,Cmte on Merch vessels,,1806-04-15,9,21
+Wright,1,Cmte on Merch vessels,,1806-04-15,9,21
+Adams,3,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+And,5,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Bald,8,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Cond,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Gilm,3,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Kit,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Logan,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Mit,9,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Moore,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Plum,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+NY,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+VT,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Sumter,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Tracy,14,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Turn,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Worth,7,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
 Adair,1,Cmte bill next session of Congress,,1806-04-17,9,21
 Adams,4,Cmte bill next session of Congress,,1806-04-17,9,21
 And,12,Cmte bill next session of Congress,,1806-04-17,9,21
@@ -2417,22 +2433,20 @@ Tracy,8,Cmte bill next session of Congress,,1806-04-17,9,21
 turner,5,Cmte bill next session of Congress,,1806-04-17,9,21
 White,2,Cmte bill next session of Congress,,1806-04-17,9,21
 Wright,1,Cmte bill next session of Congress,,1806-04-17,9,21
-Adams,3,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-And,5,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Bald,8,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Cond,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Gilm,3,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Kit,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Logan,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Mit,9,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Moore,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Plum,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-NY,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-VT,2,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Sumter,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Tracy,14,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Turn,1,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
-Worth,7,Cmte bill gunboats - fortify ports & harbors in 3d reading,,1806-04-17,9,21
+Adams,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+And,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Bald,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Kit,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Maclay,3,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Mit,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Moore,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+NY,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+OH,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Vt,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Tracy,19,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Turner,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+White,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Wright,12,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
 Adams,3,Cmte on petition of Ira Allen,,1806-04-18,9,21
 Bald,4,Cmte on petition of Ira Allen,,1806-04-18,9,21
 Cond,1,Cmte on petition of Ira Allen,,1806-04-18,9,21
@@ -2449,20 +2463,22 @@ VT,12,Cmte on petition of Ira Allen,,1806-04-18,9,21
 Tracy,2,Cmte on petition of Ira Allen,,1806-04-18,9,21
 Turner,4,Cmte on petition of Ira Allen,,1806-04-18,9,21
 White,1,Cmte on petition of Ira Allen,,1806-04-18,9,21
-Adams,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-And,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Bald,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Kit,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Maclay,3,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Mit,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Moore,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-NY,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-OH,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Vt,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Tracy,19,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Turner,2,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-White,1,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
-Wright,12,Cmte of conference on bill Chase's witnesses,,1806-04-18,9,21
+Adair,3,cmte on PUS message of same day,,1806-04-18,9,22
+Adams,6,cmte on PUS message of same day,,1806-04-18,9,22
+And,7,cmte on PUS message of same day,,1806-04-18,9,22
+Bald,8,cmte on PUS message of same day,,1806-04-18,9,22
+Gilm,1,cmte on PUS message of same day,,1806-04-18,9,22
+Hill,1,cmte on PUS message of same day,,1806-04-18,9,22
+Howl,2,cmte on PUS message of same day,,1806-04-18,9,22
+Kit,2,cmte on PUS message of same day,,1806-04-18,9,22
+Logan,7,cmte on PUS message of same day,,1806-04-18,9,22
+Mit,8,cmte on PUS message of same day,,1806-04-18,9,22
+VT,8,cmte on PUS message of same day,,1806-04-18,9,22
+Stone,1,cmte on PUS message of same day,,1806-04-18,9,22
+Sumt,4,cmte on PUS message of same day,,1806-04-18,9,22
+Tracy,3,cmte on PUS message of same day,,1806-04-18,9,22
+Turner,1,cmte on PUS message of same day,,1806-04-18,9,22
+White,4,cmte on PUS message of same day,,1806-04-18,9,22
 Adair,2,cmte on Salt bill,,1806-04-18,9,22
 Adams,1,cmte on Salt bill,,1806-04-18,9,22
 And,4,cmte on Salt bill,,1806-04-18,9,22
@@ -2483,22 +2499,6 @@ Sumter,2,cmte on Salt bill,,1806-04-18,9,22
 Tracy,7,cmte on Salt bill,,1806-04-18,9,22
 Turner,2,cmte on Salt bill,,1806-04-18,9,22
 Wright,3,cmte on Salt bill,,1806-04-18,9,22
-Adair,3,cmte on PUS message of same day,,1806-04-18,9,22
-Adams,6,cmte on PUS message of same day,,1806-04-18,9,22
-And,7,cmte on PUS message of same day,,1806-04-18,9,22
-Bald,8,cmte on PUS message of same day,,1806-04-18,9,22
-Gilm,1,cmte on PUS message of same day,,1806-04-18,9,22
-Hill,1,cmte on PUS message of same day,,1806-04-18,9,22
-Howl,2,cmte on PUS message of same day,,1806-04-18,9,22
-Kit,2,cmte on PUS message of same day,,1806-04-18,9,22
-Logan,7,cmte on PUS message of same day,,1806-04-18,9,22
-Mit,8,cmte on PUS message of same day,,1806-04-18,9,22
-VT,8,cmte on PUS message of same day,,1806-04-18,9,22
-Stone,1,cmte on PUS message of same day,,1806-04-18,9,22
-Sumt,4,cmte on PUS message of same day,,1806-04-18,9,22
-Tracy,3,cmte on PUS message of same day,,1806-04-18,9,22
-Turner,1,cmte on PUS message of same day,,1806-04-18,9,22
-White,4,cmte on PUS message of same day,,1806-04-18,9,22
 Adair,2,Cmte on naval peace establishment,,1806-04-19,9,22
 Adams,7,Cmte on naval peace establishment,,1806-04-19,9,22
 And,2,Cmte on naval peace establishment,,1806-04-19,9,22
@@ -2521,18 +2521,6 @@ turn,12,Cmte on naval peace establishment,,1806-04-19,9,22
 White,4,Cmte on naval peace establishment,,1806-04-19,9,22
 Worth,2,Cmte on naval peace establishment,,1806-04-19,9,22
 Wright,1,Cmte on naval peace establishment,,1806-04-19,9,22
-Adams,2,Cmte on conference salt bill,,1806-04-21,9,17
-Bald,1,Cmte on conference salt bill,,1806-04-21,9,17
-Mit,10,Cmte on conference salt bill,,1806-04-21,9,17
-Moore,1,Cmte on conference salt bill,,1806-04-21,9,17
-NY,1,Cmte on conference salt bill,,1806-04-21,9,17
-OH,3,Cmte on conference salt bill,,1806-04-21,9,17
-VT,5,Cmte on conference salt bill,,1806-04-21,9,17
-Thrus,1,Cmte on conference salt bill,,1806-04-21,9,17
-Tracy,6,Cmte on conference salt bill,,1806-04-21,9,17
-turner,2,Cmte on conference salt bill,,1806-04-21,9,17
-White,1,Cmte on conference salt bill,,1806-04-21,9,17
-Worth,2,Cmte on conference salt bill,,1806-04-21,9,17
 Adams,1,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
 Bald,1,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
 Cond,1,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
@@ -2548,6 +2536,18 @@ tracy,6,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
 Turner,1,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
 White,3,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
 Wright,8,Cmte on conference bill naval peace establishment,,1806-04-21,9,17
+Adams,2,Cmte on conference salt bill,,1806-04-21,9,17
+Bald,1,Cmte on conference salt bill,,1806-04-21,9,17
+Mit,10,Cmte on conference salt bill,,1806-04-21,9,17
+Moore,1,Cmte on conference salt bill,,1806-04-21,9,17
+NY,1,Cmte on conference salt bill,,1806-04-21,9,17
+OH,3,Cmte on conference salt bill,,1806-04-21,9,17
+VT,5,Cmte on conference salt bill,,1806-04-21,9,17
+Thrus,1,Cmte on conference salt bill,,1806-04-21,9,17
+Tracy,6,Cmte on conference salt bill,,1806-04-21,9,17
+turner,2,Cmte on conference salt bill,,1806-04-21,9,17
+White,1,Cmte on conference salt bill,,1806-04-21,9,17
+Worth,2,Cmte on conference salt bill,,1806-04-21,9,17
 Adair,1,Cmte to wait on PUS,,1806-04-21,9,17
 Adams,5,Cmte to wait on PUS,,1806-04-21,9,17
 Bald,1,Cmte to wait on PUS,,1806-04-21,9,17
@@ -2750,6 +2750,23 @@ Giles,11,Cmte bill Gunboats,,1806-12-16,9,4
 Gilman,5,Cmte bill Gunboats,,1806-12-16,9,4
 Mitch,13,Cmte bill Gunboats,,1806-12-16,9,4
 S(VT),1,Cmte bill Gunboats,,1806-12-16,9,4
+Adams,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Baldwin,7,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Bradley,9,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Condit,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Giles,6,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Gilman,2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Howl,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Kit,2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Logan,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Maclay,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Mill,4,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Pick,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+S(TN),1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+S(VT),2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Tracy,8,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+Turner,3,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
+White,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
 Adams,16,cmte Library,,1806-12-17,9,4
 Bald,16,cmte Library,,1806-12-17,9,4
 Bradl,1,cmte Library,,1806-12-17,9,4
@@ -2769,23 +2786,6 @@ S(TN),5,cmte on Bradley's motion to inquire into necessary measures for land gra
 S(VT),1,cmte on Bradley's motion to inquire into necessary measures for land grants in TN,,1806-12-17,9,4
 Thrus,6,cmte on Bradley's motion to inquire into necessary measures for land grants in TN,,1806-12-17,9,4
 Tracy,7,cmte on Bradley's motion to inquire into necessary measures for land grants in TN,,1806-12-17,9,4
-Adams,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Baldwin,7,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Bradley,9,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Condit,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Giles,6,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Gilman,2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Howl,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Kit,2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Logan,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Maclay,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Mill,4,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Pick,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-S(TN),1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-S(VT),2,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Tracy,8,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-Turner,3,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
-White,1,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,,1806-12-17,9,4
 Adams,1,cmte Potomac bridge bill,,1806-12-18,9,4
 Bald,3,cmte Potomac bridge bill,,1806-12-18,9,4
 Bradl,5,cmte Potomac bridge bill,,1806-12-18,9,4
@@ -2803,14 +2803,6 @@ S(NY),1,cmte Potomac bridge bill,,1806-12-18,9,4
 S(VT),15,cmte Potomac bridge bill,,1806-12-18,9,4
 tracy,1,cmte Potomac bridge bill,,1806-12-18,9,4
 White,10,cmte Potomac bridge bill,,1806-12-18,9,4
-Logan,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-Mill,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-Pick,1,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-S(TN),2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-Thrus,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-Tracy,4,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-Turner,5,Cmte on slave bill to replace Stone,,1806-12-19,9,4
-White,1,Cmte on slave bill to replace Stone,,1806-12-19,9,4
 Adams,3,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
 Bald,4,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
 Bradl,3,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
@@ -2831,6 +2823,14 @@ S(VT),2,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
 Thrus,2,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
 Tracy,10,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
 White,1,Cmte bill mint - Tracy's motion,,1806-12-19,9,4
+Logan,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+Mill,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+Pick,1,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+S(TN),2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+Thrus,2,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+Tracy,4,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+Turner,5,Cmte on slave bill to replace Stone,,1806-12-19,9,4
+White,1,Cmte on slave bill to replace Stone,,1806-12-19,9,4
 Adams,3,Cmte on public lands in Indiana,,1806-12-23,9,5
 Bald,4,Cmte on public lands in Indiana,,1806-12-23,9,5
 Bradl,3,Cmte on public lands in Indiana,,1806-12-23,9,5
@@ -2885,6 +2885,24 @@ Tracy,4,cmte on Worthington's motion about territorial governments,,1806-12-24,9
 Turner,2,cmte on Worthington's motion about territorial governments,,1806-12-24,9,5
 White,1,cmte on Worthington's motion about territorial governments,,1806-12-24,9,5
 Worth,8,cmte on Worthington's motion about territorial governments,,1806-12-24,9,5
+Adams,7,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Bayard,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Bradl,6,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Gail,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Giles,3,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Gilm,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+kit,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Logan,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Maclay,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Mill,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Moore,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Pick,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Sm(MD),17,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+S(NY),2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Sm(TN),1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Sm(VT),3,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+Thrus,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
+White,4,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
 Adams,1,Cmte on bill naval appropriation,,1806-12-30,9,5
 Bald,8,Cmte on bill naval appropriation,,1806-12-30,9,5
 Bradl,1,Cmte on bill naval appropriation,,1806-12-30,9,5
@@ -2904,24 +2922,6 @@ S(Vt),2,Cmte on bill naval appropriation,,1806-12-30,9,5
 Thrus,2,Cmte on bill naval appropriation,,1806-12-30,9,5
 Tracy,1,Cmte on bill naval appropriation,,1806-12-30,9,5
 turner,2,Cmte on bill naval appropriation,,1806-12-30,9,5
-Adams,7,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Bayard,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Bradl,6,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Gail,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Giles,3,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Gilm,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-kit,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Logan,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Maclay,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Mill,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Moore,2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Pick,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Sm(MD),17,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-S(NY),2,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Sm(TN),1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Sm(VT),3,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-Thrus,1,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
-White,4,Cmte on Samuel Smith's motion about rules for army,,1806-12-30,9,5
 Adams,3,Cmte bill military appropriations,,1806-12-31,9,5
 Bradl,9,Cmte bill military appropriations,,1806-12-31,9,5
 Clay,2,Cmte bill military appropriations,,1806-12-31,9,5
@@ -3078,26 +3078,24 @@ S(VT),3,cmte report of the postmaster general,,1807-01-07,9,6
 Thurs,3,cmte report of the postmaster general,,1807-01-07,9,6
 Tracy,10,cmte report of the postmaster general,,1807-01-07,9,6
 Worthington,1,cmte report of the postmaster general,,1807-01-07,9,6
-Adams,7,cemte George Little Bill,,1807-01-08,9,6
-Bald,1,cemte George Little Bill,,1807-01-08,9,6
-Bradley,2,cemte George Little Bill,,1807-01-08,9,6
-Clay,1,cemte George Little Bill,,1807-01-08,9,6
-Condit,9,cemte George Little Bill,,1807-01-08,9,6
-giles,6,cemte George Little Bill,,1807-01-08,9,6
-Gilm,2,cemte George Little Bill,,1807-01-08,9,6
-Howl,1,cemte George Little Bill,,1807-01-08,9,6
-Kit,1,cemte George Little Bill,,1807-01-08,9,6
-Macl,10,cemte George Little Bill,,1807-01-08,9,6
-Mill,1,cemte George Little Bill,,1807-01-08,9,6
-Mit,1,cemte George Little Bill,,1807-01-08,9,6
-Moore,1,cemte George Little Bill,,1807-01-08,9,6
-S(MD),6,cemte George Little Bill,,1807-01-08,9,6
-S(NY),1,cemte George Little Bill,,1807-01-08,9,6
-S(TN),1,cemte George Little Bill,,1807-01-08,9,6
-s(vT),4,cemte George Little Bill,,1807-01-08,9,6
-Tracy,7,cemte George Little Bill,,1807-01-08,9,6
-Turner,1,cemte George Little Bill,,1807-01-08,9,6
-White,1,cemte George Little Bill,,1807-01-08,9,6
+Adams,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Bald,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Brad,6,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Cond,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Fenner,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Giles,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Gilm,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Hill,11,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Howl,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Kit,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Maclay,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Moore,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+S(MD),1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+S(NY),5,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Sumter,3,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Tracy,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Turner,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+White,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
 Adams,4,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
 Bald,4,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
 Clay,2,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
@@ -3119,24 +3117,26 @@ Sumter,1,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
 Tracy,8,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
 Tuner,2,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
 Worth,2,Cmte on discharging William Hearn from imprisonment,,1807-01-08,9,6
-Adams,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Bald,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Brad,6,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Cond,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Fenner,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Giles,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Gilm,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Hill,11,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Howl,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Kit,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Maclay,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Moore,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-S(MD),1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-S(NY),5,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Sumter,3,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Tracy,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-Turner,1,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
-White,2,Cmte Petition of John Chester w/ report of Sec,,1807-01-08,9,6
+Adams,7,cemte George Little Bill,,1807-01-08,9,6
+Bald,1,cemte George Little Bill,,1807-01-08,9,6
+Bradley,2,cemte George Little Bill,,1807-01-08,9,6
+Clay,1,cemte George Little Bill,,1807-01-08,9,6
+Condit,9,cemte George Little Bill,,1807-01-08,9,6
+giles,6,cemte George Little Bill,,1807-01-08,9,6
+Gilm,2,cemte George Little Bill,,1807-01-08,9,6
+Howl,1,cemte George Little Bill,,1807-01-08,9,6
+Kit,1,cemte George Little Bill,,1807-01-08,9,6
+Macl,10,cemte George Little Bill,,1807-01-08,9,6
+Mill,1,cemte George Little Bill,,1807-01-08,9,6
+Mit,1,cemte George Little Bill,,1807-01-08,9,6
+Moore,1,cemte George Little Bill,,1807-01-08,9,6
+S(MD),6,cemte George Little Bill,,1807-01-08,9,6
+S(NY),1,cemte George Little Bill,,1807-01-08,9,6
+S(TN),1,cemte George Little Bill,,1807-01-08,9,6
+s(vT),4,cemte George Little Bill,,1807-01-08,9,6
+Tracy,7,cemte George Little Bill,,1807-01-08,9,6
+Turner,1,cemte George Little Bill,,1807-01-08,9,6
+White,1,cemte George Little Bill,,1807-01-08,9,6
 Adams,19,cmte on judges,,1807-01-12,9,6
 Bald,3,cmte on judges,,1807-01-12,9,6
 Bay,3,cmte on judges,,1807-01-12,9,6
@@ -3256,6 +3256,30 @@ Tracy,2,Cmte on Worthington motion School land,,1807-01-16,9,7
 Turner,3,Cmte on Worthington motion School land,,1807-01-16,9,7
 White,1,Cmte on Worthington motion School land,,1807-01-16,9,7
 Worthington,11,Cmte on Worthington motion School land,,1807-01-16,9,7
+Bald,4,Cmte on OH schools bill,,1807-01-19,9,7
+Bradl,5,Cmte on OH schools bill,,1807-01-19,9,7
+Clay,3,Cmte on OH schools bill,,1807-01-19,9,7
+Fenner,1,Cmte on OH schools bill,,1807-01-19,9,7
+Giles,5,Cmte on OH schools bill,,1807-01-19,9,7
+Gilm,1,Cmte on OH schools bill,,1807-01-19,9,7
+Kit,2,Cmte on OH schools bill,,1807-01-19,9,7
+Logan,3,Cmte on OH schools bill,,1807-01-19,9,7
+Maclay,3,Cmte on OH schools bill,,1807-01-19,9,7
+Mit,1,Cmte on OH schools bill,,1807-01-19,9,7
+Moore,1,Cmte on OH schools bill,,1807-01-19,9,7
+Pick,1,Cmte on OH schools bill,,1807-01-19,9,7
+Plumer,1,Cmte on OH schools bill,,1807-01-19,9,7
+Reid,1,Cmte on OH schools bill,,1807-01-19,9,7
+S(MD),1,Cmte on OH schools bill,,1807-01-19,9,7
+S(NY),4,Cmte on OH schools bill,,1807-01-19,9,7
+S(tN),3,Cmte on OH schools bill,,1807-01-19,9,7
+S(VT),3,Cmte on OH schools bill,,1807-01-19,9,7
+Stone,3,Cmte on OH schools bill,,1807-01-19,9,7
+Sumter,2,Cmte on OH schools bill,,1807-01-19,9,7
+Thrus,3,Cmte on OH schools bill,,1807-01-19,9,7
+Tracy,2,Cmte on OH schools bill,,1807-01-19,9,7
+Turner,1,Cmte on OH schools bill,,1807-01-19,9,7
+Worth,15,Cmte on OH schools bill,,1807-01-19,9,7
 Adams,1,cmte on bill to accept service of army volunteers,,1807-01-19,9,7
 Bald,4,cmte on bill to accept service of army volunteers,,1807-01-19,9,7
 Bay,1,cmte on bill to accept service of army volunteers,,1807-01-19,9,7
@@ -3298,39 +3322,6 @@ Sumter,2,cmte on state debt,,1807-01-19,9,7
 Thrus,3,cmte on state debt,,1807-01-19,9,7
 Tracy,14,cmte on state debt,,1807-01-19,9,7
 Turner,3,cmte on state debt,,1807-01-19,9,7
-Bald,4,Cmte on OH schools bill,,1807-01-19,9,7
-Bradl,5,Cmte on OH schools bill,,1807-01-19,9,7
-Clay,3,Cmte on OH schools bill,,1807-01-19,9,7
-Fenner,1,Cmte on OH schools bill,,1807-01-19,9,7
-Giles,5,Cmte on OH schools bill,,1807-01-19,9,7
-Gilm,1,Cmte on OH schools bill,,1807-01-19,9,7
-Kit,2,Cmte on OH schools bill,,1807-01-19,9,7
-Logan,3,Cmte on OH schools bill,,1807-01-19,9,7
-Maclay,3,Cmte on OH schools bill,,1807-01-19,9,7
-Mit,1,Cmte on OH schools bill,,1807-01-19,9,7
-Moore,1,Cmte on OH schools bill,,1807-01-19,9,7
-Pick,1,Cmte on OH schools bill,,1807-01-19,9,7
-Plumer,1,Cmte on OH schools bill,,1807-01-19,9,7
-Reid,1,Cmte on OH schools bill,,1807-01-19,9,7
-S(MD),1,Cmte on OH schools bill,,1807-01-19,9,7
-S(NY),4,Cmte on OH schools bill,,1807-01-19,9,7
-S(tN),3,Cmte on OH schools bill,,1807-01-19,9,7
-S(VT),3,Cmte on OH schools bill,,1807-01-19,9,7
-Stone,3,Cmte on OH schools bill,,1807-01-19,9,7
-Sumter,2,Cmte on OH schools bill,,1807-01-19,9,7
-Thrus,3,Cmte on OH schools bill,,1807-01-19,9,7
-Tracy,2,Cmte on OH schools bill,,1807-01-19,9,7
-Turner,1,Cmte on OH schools bill,,1807-01-19,9,7
-Worth,15,Cmte on OH schools bill,,1807-01-19,9,7
-Bay,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Bradl,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Cond,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Fenner,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Mit,6,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Moore,3,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-S(VT),1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-Stone,2,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
-White,2,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
 Bay,3,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
 Clay,1,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
 Cond,1,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
@@ -3342,31 +3333,6 @@ VT,1,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
 Stone,6,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
 Sumter,2,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
 White,1,Cmte bill public debt - replace Tracy,,1807-01-21,9,7
-Adams,6,emte on bill St Domingo,,1807-01-21,9,7
-Bay,1,emte on bill St Domingo,,1807-01-21,9,7
-Bradl,6,emte on bill St Domingo,,1807-01-21,9,7
-Cond,5,emte on bill St Domingo,,1807-01-21,9,7
-Fenner,1,emte on bill St Domingo,,1807-01-21,9,7
-Giles,2,emte on bill St Domingo,,1807-01-21,9,7
-Gilm,2,emte on bill St Domingo,,1807-01-21,9,7
-Hill,1,emte on bill St Domingo,,1807-01-21,9,7
-Howl,1,emte on bill St Domingo,,1807-01-21,9,7
-Kit,2,emte on bill St Domingo,,1807-01-21,9,7
-Logan,7,emte on bill St Domingo,,1807-01-21,9,7
-Maclay,2,emte on bill St Domingo,,1807-01-21,9,7
-Mill,1,emte on bill St Domingo,,1807-01-21,9,7
-Mit,12,emte on bill St Domingo,,1807-01-21,9,7
-Moore,3,emte on bill St Domingo,,1807-01-21,9,7
-Pick,1,emte on bill St Domingo,,1807-01-21,9,7
-reid,1,emte on bill St Domingo,,1807-01-21,9,7
-MD,7,emte on bill St Domingo,,1807-01-21,9,7
-NY,2,emte on bill St Domingo,,1807-01-21,9,7
-Vt,3,emte on bill St Domingo,,1807-01-21,9,7
-Stone,3,emte on bill St Domingo,,1807-01-21,9,7
-Sumter,1,emte on bill St Domingo,,1807-01-21,9,7
-Tracy,1,emte on bill St Domingo,,1807-01-21,9,7
-Turner,4,emte on bill St Domingo,,1807-01-21,9,7
-White,3,emte on bill St Domingo,,1807-01-21,9,7
 Adams,4,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
 Bald,1,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
 Bay,5,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
@@ -3393,6 +3359,31 @@ Tracy,1,Cmte on John Griffin & others judges in IN Territory extra work in setti
 Turner,2,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
 White,4,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
 Worth,2,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,,1807-01-21,9,7
+Adams,6,Cmte on bill St Domingo,,1807-01-21,9,7
+Bay,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Bradl,6,Cmte on bill St Domingo,,1807-01-21,9,7
+Cond,5,Cmte on bill St Domingo,,1807-01-21,9,7
+Fenner,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Giles,2,Cmte on bill St Domingo,,1807-01-21,9,7
+Gilm,2,Cmte on bill St Domingo,,1807-01-21,9,7
+Hill,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Howl,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Kit,2,Cmte on bill St Domingo,,1807-01-21,9,7
+Logan,7,Cmte on bill St Domingo,,1807-01-21,9,7
+Maclay,2,Cmte on bill St Domingo,,1807-01-21,9,7
+Mill,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Mit,12,Cmte on bill St Domingo,,1807-01-21,9,7
+Moore,3,Cmte on bill St Domingo,,1807-01-21,9,7
+Pick,1,Cmte on bill St Domingo,,1807-01-21,9,7
+reid,1,Cmte on bill St Domingo,,1807-01-21,9,7
+MD,7,Cmte on bill St Domingo,,1807-01-21,9,7
+NY,2,Cmte on bill St Domingo,,1807-01-21,9,7
+Vt,3,Cmte on bill St Domingo,,1807-01-21,9,7
+Stone,3,Cmte on bill St Domingo,,1807-01-21,9,7
+Sumter,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Tracy,1,Cmte on bill St Domingo,,1807-01-21,9,7
+Turner,4,Cmte on bill St Domingo,,1807-01-21,9,7
+White,3,Cmte on bill St Domingo,,1807-01-21,9,7
 Adams,8,Cmte on bill Surveying the coasts,,1807-01-21,9,7
 Bald,3,Cmte on bill Surveying the coasts,,1807-01-21,9,7
 Bay,2,Cmte on bill Surveying the coasts,,1807-01-21,9,7
@@ -3420,6 +3411,15 @@ Sumter,2,Cmte on bill Surveying the coasts,,1807-01-21,9,7
 Tracy,5,Cmte on bill Surveying the coasts,,1807-01-21,9,7
 Turner,2,Cmte on bill Surveying the coasts,,1807-01-21,9,7
 White,1,Cmte on bill Surveying the coasts,,1807-01-21,9,7
+Bay,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Bradl,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Cond,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Fenner,1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Mit,6,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Moore,3,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+S(VT),1,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+Stone,2,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
+White,2,Cmte on bill whole public debt - replace Baldwin,,1807-01-21,9,7
 Adams,19,cmte to suspend habeas corpus,,1807-01-23,9,7
 Bald,1,cmte to suspend habeas corpus,,1807-01-23,9,7
 Bay,9,cmte to suspend habeas corpus,,1807-01-23,9,7
@@ -3434,27 +3434,10 @@ MD,14,cmte to suspend habeas corpus,,1807-01-23,9,7
 Vt,1,cmte to suspend habeas corpus,,1807-01-23,9,7
 Sumter,3,cmte to suspend habeas corpus,,1807-01-23,9,7
 Thrus,2,cmte to suspend habeas corpus,,1807-01-23,9,7
-Bald,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Bay,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Bradl,4,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Clay,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Cand,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Fenner,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Gaill,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Giles,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Gilm,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Howl,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Kit,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Maclay,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Mit,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Moore,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-NY,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-VT,3,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Stone,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Tracy,6,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Turner,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-White,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
-Worth,4,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Bay,15,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
+Clay,2,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
+VT,3,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
+White,1,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
 Adams,1,Cmte on light houses,,1807-01-23,9,8
 Bald,2,Cmte on light houses,,1807-01-23,9,8
 Brad,2,Cmte on light houses,,1807-01-23,9,8
@@ -3478,10 +3461,12 @@ Sumter,3,Cmte on light houses,,1807-01-23,9,8
 Tracy,3,Cmte on light houses,,1807-01-23,9,8
 Turner,2,Cmte on light houses,,1807-01-23,9,8
 Worth,1,Cmte on light houses,,1807-01-23,9,8
-Bay,15,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
-Clay,2,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
-VT,3,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
-White,1,Cmte on NW Territory to divide into 2 governments replace Tracy,,1807-01-23,9,8
+Adams,5,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
+Giles,5,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
+Hill,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
+Mill,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
+Mit,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
+MD,15,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
 Bald,1,cmte on MS judges,,1807-01-23,9,8
 Bay,4,cmte on MS judges,,1807-01-23,9,8
 Bradl,3,cmte on MS judges,,1807-01-23,9,8
@@ -3500,30 +3485,27 @@ Stone,1,cmte on MS judges,,1807-01-23,9,8
 Tracy,6,cmte on MS judges,,1807-01-23,9,8
 Turner,3,cmte on MS judges,,1807-01-23,9,8
 Worth,9,cmte on MS judges,,1807-01-23,9,8
-Adams,5,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-Giles,5,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-Hill,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-Mill,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-Mit,1,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-MD,15,Cmte to deliver habeas corpus bill to the House,,1807-01-23,9,8
-Adams,4,cmte on Edmund Briggs,,1807-01-26,9,8
-Bald,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Bradl,8,cmte on Edmund Briggs,,1807-01-26,9,8
-Clay,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Cond,3,cmte on Edmund Briggs,,1807-01-26,9,8
-Giles,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Gilm,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Hill,1,cmte on Edmund Briggs,,1807-01-26,9,8
-Howl,1,cmte on Edmund Briggs,,1807-01-26,9,8
-Kit,1,cmte on Edmund Briggs,,1807-01-26,9,8
-Maclay,1,cmte on Edmund Briggs,,1807-01-26,9,8
-Mill,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Mit,4,cmte on Edmund Briggs,,1807-01-26,9,8
-Pick,1,cmte on Edmund Briggs,,1807-01-26,9,8
-Reid,2,cmte on Edmund Briggs,,1807-01-26,9,8
-NY,2,cmte on Edmund Briggs,,1807-01-26,9,8
-Sumter,3,cmte on Edmund Briggs,,1807-01-26,9,8
-Tracy,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Bald,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Bay,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Bradl,4,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Clay,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Cand,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Fenner,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Gaill,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Giles,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Gilm,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Howl,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Kit,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Maclay,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Mit,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Moore,2,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+NY,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+VT,3,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Stone,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Tracy,6,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Turner,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+White,1,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
+Worth,4,cmte on NW Territory to divide into 2 governments,,1807-01-23,9,8
 Adams,11,Cmte on PUS's message this & former communication Burr Conspiracy,,1807-01-26,9,8
 Bald,2,Cmte on PUS's message this & former communication Burr Conspiracy,,1807-01-26,9,8
 Bay,16,Cmte on PUS's message this & former communication Burr Conspiracy,,1807-01-26,9,8
@@ -3564,6 +3546,24 @@ Thrus,2,Cmte on bill injunction judges,,1807-01-26,9,8
 Tracy,4,Cmte on bill injunction judges,,1807-01-26,9,8
 White,1,Cmte on bill injunction judges,,1807-01-26,9,8
 Worth,1,Cmte on bill injunction judges,,1807-01-26,9,8
+Adams,4,cmte on Edmund Briggs,,1807-01-26,9,8
+Bald,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Bradl,8,cmte on Edmund Briggs,,1807-01-26,9,8
+Clay,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Cond,3,cmte on Edmund Briggs,,1807-01-26,9,8
+Giles,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Gilm,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Hill,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Howl,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Kit,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Maclay,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Mill,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Mit,4,cmte on Edmund Briggs,,1807-01-26,9,8
+Pick,1,cmte on Edmund Briggs,,1807-01-26,9,8
+Reid,2,cmte on Edmund Briggs,,1807-01-26,9,8
+NY,2,cmte on Edmund Briggs,,1807-01-26,9,8
+Sumter,3,cmte on Edmund Briggs,,1807-01-26,9,8
+Tracy,1,cmte on Edmund Briggs,,1807-01-26,9,8
 Adams,2,Cmte on amendment to NC bill on meeting times of courts,,1807-01-27,9,8
 Bald,1,Cmte on amendment to NC bill on meeting times of courts,,1807-01-27,9,8
 Bradl,13,Cmte on amendment to NC bill on meeting times of courts,,1807-01-27,9,8
@@ -3670,39 +3670,6 @@ TN,14,Cmte to recommit bill unauthorized settlers lands,,1807-02-03,9,9
 VT,1,Cmte to recommit bill unauthorized settlers lands,,1807-02-03,9,9
 Stone,2,Cmte to recommit bill unauthorized settlers lands,,1807-02-03,9,9
 Tracy,6,Cmte to recommit bill unauthorized settlers lands,,1807-02-03,9,9
-Bald,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Brad,9,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Cond,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Giles,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Howl,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Maclay,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Mit,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Moore,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Pick,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-VT,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Stone,2,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Tracy,3,Cmte on petition of Ira Allen,,1807-02-04,9,9
-turner,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Worth,3,Cmte on petition of Ira Allen,,1807-02-04,9,9
-Adams,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Bay,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Bradl,6,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Clay,12,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Cond,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Giles,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Kit,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Maclay,3,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Mit,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Moore,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Reid,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-TN,3,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-VT,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Stone,4,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Sumter,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Thrus,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Tracy,6,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-White,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
-Worth,4,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
 Adams,2,Cmte on Bill trade with St Domingo,,1807-02-04,9,9
 Bald,1,Cmte on Bill trade with St Domingo,,1807-02-04,9,9
 Bay,2,Cmte on Bill trade with St Domingo,,1807-02-04,9,9
@@ -3736,6 +3703,55 @@ Stone,2,Cmte on mint bill,,1807-02-04,9,9
 Sumter,1,Cmte on mint bill,,1807-02-04,9,9
 Tracy,17,Cmte on mint bill,,1807-02-04,9,9
 White,1,Cmte on mint bill,,1807-02-04,9,9
+Bald,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Brad,9,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Cond,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Giles,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Howl,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Maclay,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Mit,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Moore,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Pick,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+VT,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Stone,2,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Tracy,3,Cmte on petition of Ira Allen,,1807-02-04,9,9
+turner,1,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Worth,3,Cmte on petition of Ira Allen,,1807-02-04,9,9
+Adams,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Bay,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Bradl,6,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Clay,12,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Cond,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Giles,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Kit,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Maclay,3,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Mit,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Moore,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Reid,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+TN,3,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+VT,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Stone,4,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Sumter,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Thrus,1,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Tracy,6,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+White,2,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Worth,4,cmte on Clay's motion - if provision necessary to secure citizens who suffer from Indian depredations,,1807-02-04,9,9
+Adams,4,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Bald,5,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Bay,24,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Bradl,3,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Clay,6,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Giles,15,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Logan,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+maclay,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Pick,4,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Reid,2,Cmte on Chesapeake Canal,,1807-02-05,9,9
+NY,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+TN,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Stone,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Thrus,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
+White,2,Cmte on Chesapeake Canal,,1807-02-05,9,9
+Worth,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
 Adams,1,Cmte on message Cumberland road,,1807-02-05,9,9
 Bay,1,Cmte on message Cumberland road,,1807-02-05,9,9
 Brad,6,Cmte on message Cumberland road,,1807-02-05,9,9
@@ -3760,22 +3776,6 @@ Tracy,11,Cmte on message Cumberland road,,1807-02-05,9,9
 Turner,1,Cmte on message Cumberland road,,1807-02-05,9,9
 White,1,Cmte on message Cumberland road,,1807-02-05,9,9
 Worth,16,Cmte on message Cumberland road,,1807-02-05,9,9
-Adams,4,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Bald,5,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Bay,24,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Bradl,3,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Clay,6,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Giles,15,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Logan,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-maclay,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Pick,4,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Reid,2,Cmte on Chesapeake Canal,,1807-02-05,9,9
-NY,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-TN,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Stone,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Thrus,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
-White,2,Cmte on Chesapeake Canal,,1807-02-05,9,9
-Worth,1,Cmte on Chesapeake Canal,,1807-02-05,9,9
 Adams,17,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
 Bald,2,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
 Bay,2,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
@@ -3793,6 +3793,27 @@ Sumter,1,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
 Tracy,2,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
 Turner,2,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
 White,2,Jt cmte on Adams's motion on properly enrolled bills,,1807-02-06,9,10
+Bald,3,Cmte on MI bill on land grants,,1807-02-06,9,9
+Brad,14,Cmte on MI bill on land grants,,1807-02-06,9,9
+Clay,2,Cmte on MI bill on land grants,,1807-02-06,9,9
+Kit,1,Cmte on MI bill on land grants,,1807-02-06,9,9
+Maclay,11,Cmte on MI bill on land grants,,1807-02-06,9,9
+Stone,1,Cmte on MI bill on land grants,,1807-02-06,9,9
+Turn,1,Cmte on MI bill on land grants,,1807-02-06,9,9
+Worth,14,Cmte on MI bill on land grants,,1807-02-06,9,9
+Adams,3,Cmte on motion jurors,,1807-02-06,9,9
+Bald,3,Cmte on motion jurors,,1807-02-06,9,9
+Bay,12,Cmte on motion jurors,,1807-02-06,9,9
+Bradl,13,Cmte on motion jurors,,1807-02-06,9,9
+Clay,3,Cmte on motion jurors,,1807-02-06,9,9
+Cond,1,Cmte on motion jurors,,1807-02-06,9,9
+Hill,1,Cmte on motion jurors,,1807-02-06,9,9
+Mill,2,Cmte on motion jurors,,1807-02-06,9,9
+Plumer,1,Cmte on motion jurors,,1807-02-06,9,9
+VT,2,Cmte on motion jurors,,1807-02-06,9,9
+Stone,2,Cmte on motion jurors,,1807-02-06,9,9
+Sumter,1,Cmte on motion jurors,,1807-02-06,9,9
+White,1,Cmte on motion jurors,,1807-02-06,9,9
 Adams,2,cmte on message Beaumarchais,,1807-02-06,9,9
 Bald,5,cmte on message Beaumarchais,,1807-02-06,9,9
 Bay,7,cmte on message Beaumarchais,,1807-02-06,9,9
@@ -3819,27 +3840,6 @@ Tracy,1,cmte on message Beaumarchais,,1807-02-06,9,9
 Turn,1,cmte on message Beaumarchais,,1807-02-06,9,9
 White,1,cmte on message Beaumarchais,,1807-02-06,9,9
 Worth,1,cmte on message Beaumarchais,,1807-02-06,9,9
-Bald,3,Cmte on MI bill on land grants,,1807-02-06,9,9
-Brad,14,Cmte on MI bill on land grants,,1807-02-06,9,9
-Clay,2,Cmte on MI bill on land grants,,1807-02-06,9,9
-Kit,1,Cmte on MI bill on land grants,,1807-02-06,9,9
-Maclay,11,Cmte on MI bill on land grants,,1807-02-06,9,9
-Stone,1,Cmte on MI bill on land grants,,1807-02-06,9,9
-Turn,1,Cmte on MI bill on land grants,,1807-02-06,9,9
-Worth,14,Cmte on MI bill on land grants,,1807-02-06,9,9
-Adams,3,Cmte on motion jurors,,1807-02-06,9,9
-Bald,3,Cmte on motion jurors,,1807-02-06,9,9
-Bay,12,Cmte on motion jurors,,1807-02-06,9,9
-Bradl,13,Cmte on motion jurors,,1807-02-06,9,9
-Clay,3,Cmte on motion jurors,,1807-02-06,9,9
-Cond,1,Cmte on motion jurors,,1807-02-06,9,9
-Hill,1,Cmte on motion jurors,,1807-02-06,9,9
-Mill,2,Cmte on motion jurors,,1807-02-06,9,9
-Plumer,1,Cmte on motion jurors,,1807-02-06,9,9
-VT,2,Cmte on motion jurors,,1807-02-06,9,9
-Stone,2,Cmte on motion jurors,,1807-02-06,9,9
-Sumter,1,Cmte on motion jurors,,1807-02-06,9,9
-White,1,Cmte on motion jurors,,1807-02-06,9,9
 Adams,1,cmte on nomination of Julian Poydrass asmember of legislative council of Orleans,,1807-02-09,9,10
 Bald,6,cmte on nomination of Julian Poydrass asmember of legislative council of Orleans,,1807-02-09,9,10
 Bay,3,cmte on nomination of Julian Poydrass asmember of legislative council of Orleans,,1807-02-09,9,10
@@ -3874,6 +3874,28 @@ Reid,3,cmte bill on Washington DC Jurors,,1807-02-11,9,10
 VT,1,cmte bill on Washington DC Jurors,,1807-02-11,9,10
 Thrus,2,cmte bill on Washington DC Jurors,,1807-02-11,9,10
 Tracy,4,cmte bill on Washington DC Jurors,,1807-02-11,9,10
+Adams,4,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Bald,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Bay,17,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Brad,8,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Fenner,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Clay,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+giles,4,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Gilm,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Howl,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Kit,3,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Maclay,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Mit,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Moore,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Pick,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Reid,3,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+MD,5,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+VT,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Stone,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Sumter,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+Tracy,5,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+turn,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
+worth,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
 Adams,4,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
 Bald,1,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
 Bay,1,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
@@ -3897,28 +3919,6 @@ Thurs,1,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
 Tracy,1,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
 turner,3,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
 White,1,cmte on memorial of Philadelphia merchants drawback,,1807-02-12,9,10
-Adams,4,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Bald,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Bay,17,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Brad,8,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Fenner,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Clay,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-giles,4,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Gilm,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Howl,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Kit,3,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Maclay,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Mit,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Moore,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Pick,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Reid,3,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-MD,5,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-VT,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Stone,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Sumter,1,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-Tracy,5,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-turn,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
-worth,2,Cmte on Bayard's motion re banks & insurance companies,,1807-02-12,9,10
 Adams,2,Cmte on amendment to bill to prohibit importation of slaves,,1807-02-19,9,10
 Bald,10,Cmte on amendment to bill to prohibit importation of slaves,,1807-02-19,9,10
 Bay,2,Cmte on amendment to bill to prohibit importation of slaves,,1807-02-19,9,10

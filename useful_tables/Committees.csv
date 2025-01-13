@@ -795,7 +795,7 @@ committee_id,committee_name,date,congress,page
 794,Cmte on bill on powers over Washington DC,1800-12-05,6,17
 795,Cmte on Shadrach Inman's petition,1800-12-08,6,17
 796,Cmte on petition of Paul McDermott,1800-12-08,6,18
-797,Cmte on William Smith's nomination,1800-12-10,6,17
+797,Cmte on William Smith's nomination to navy,1800-12-10,6,17
 798,cmte on enrolled bills,1800-12-10,6,17
 799,cmte Robert Hooper's bill,1800-12-17,6,17
 800,Cmte on petitions of John Pitchlynn,1800-12-18,6,17
@@ -894,7 +894,7 @@ committee_id,committee_name,date,congress,page
 893,Cmte on memorial of Joseph Harrison part of IN territory separate government,1803-10-21,8,1
 894,Cmte on amendment to the constitution PUS elections,1803-10-22,8,1
 895,Cmte on revisal & unfinished business,1803-10-22,8,1
-896,Cmte on LA Bill,1803-10-24,8,1
+896,Cmte on LA Purchase Bill,1803-10-24,8,1
 897,Cmte on petition of Martha Seamans,1803-10-27,8,1
 898,Cmte on enrolled bills,1803-10-29,8,1
 899,Conference cmte on LA Bill,1803-10-29,8,1
@@ -1019,7 +1019,7 @@ committee_id,committee_name,date,congress,page
 1018,Cmte to examine enabling law for Ohio,1804-12-03,8,16
 1019,Cmte on New Orleans drawback bill,1804-12-05,8,16
 1020,Cmte on petitions James May and others to divide IN territory,1804-12-05,8,16
-1021,Cmte on JQA'a motion to print impeachment proceedings,1805-01-24,8,16
+1021,Cmte on JQA's motion to print impeachment proceedings,1805-01-24,8,16
 1022,Cmte on Alex Murray,1805-01-25,8,16
 1023,Cmte to whom recommit bill for articles of war and rules for army,1805-01-25,8,16
 1024,Cmte on John York,1805-01-30,8,16
@@ -1035,7 +1035,7 @@ committee_id,committee_name,date,congress,page
 1034,Cmte on land warrants bill,1805-02-20,8,18
 1035,Jt Cmte on necessary business session,1805-02-20,8,18
 1036,Bill on disposal of public lands in Indiana,1805-03-02,8,18
-1037,Jt cmte PUS,1805-12-02,9,3
+1037,Jt cmte to wait on PUS,1805-12-02,9,3
 1038,Cmte on naval appropriation,1805-12-05,9,3
 1039,cmte on Library,1805-12-06,9,3
 1040,Cmte on bill to prohibit export of arms,1805-12-13,9,10
@@ -1057,7 +1057,7 @@ committee_id,committee_name,date,congress,page
 1056,Cmte on petition of Philip Jones and others for compensations as judges in New Orleans,1805-12-31,9,12
 1057,Cmte on petitions New Orleans land titles (5 members),1805-12-31,9,12
 1058,Cmte on lighthouse bill,1806-01-02,9,12
-1059,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace WDC,1806-01-03,9,11
+1059,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,1806-01-03,9,11
 1060,Cmte on report of Sec of Treasury bill,1806-01-03,9,12
 1061,Cmte on NY merchants memorial- 5 members,1806-01-06,9,12
 1062,Cmte on memorial of Trustees of Academy Washington,1806-01-06,9,12
@@ -1065,7 +1065,7 @@ committee_id,committee_name,date,congress,page
 1064,Cmte on petition of Levis & Maxwell sell copies of Journals of Confederation Congress,1806-01-08,9,12
 1065,Cmte on rules - 5 members,1806-01-10,9,13
 1066,cmte on bill for regulating the army,1806-01-13,9,13
-1067,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members ,1806-01-13,9,13
+1067,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,1806-01-13,9,13
 1068,Cmte on petition of Galliopolis,1806-01-14,9,13
 1069,Cmte on Philadelphia merchant's memorial on neutral commerce,1806-01-15,9,13
 1070,Cmte bill St Domingo commerce,1806-01-16,9,13
@@ -1213,9 +1213,9 @@ committee_id,committee_name,date,congress,page
 1212,cmte on state debt,1807-01-19,9,7
 1213,Cmte bill public debt - replace Tracy,1807-01-21,9,7
 1214,Cmte on John Griffin & others judges in IN Territory extra work in setting up courts in LA,1807-01-21,9,7
-1215,Cmte on bill Surveying the coasts,1807-01-21,9,7
-1216,Cmte on bill whole public debt - replace Baldwin,1807-01-21,9,7
-1217,emte on bill St Domingo,1807-01-21,9,7
+1215,Cmte on bill St Domingo,1807-01-21,9,7
+1216,Cmte on bill Surveying the coasts,1807-01-21,9,7
+1217,Cmte on bill whole public debt - replace Baldwin,1807-01-21,9,7
 1218,cmte to suspend habeas corpus,1807-01-23,9,7
 1219,Cmte on NW Territory to divide into 2 governments replace Tracy,1807-01-23,9,8
 1220,Cmte on light houses,1807-01-23,9,8
@@ -1282,7 +1282,7 @@ committee_id,committee_name,date,congress,page
 1281,Cmte on bill fortifications from Nov-16 - Additional 2 members,1807-12-28,10,7
 1282,Cmte on bill A Bonchfrie,1807-12-29,10,7
 1283,cmte on bill TN lands,1807-12-30,10,7
-1284,Cmte on bill embargo - No 2,1808-01-05,10,7
+1284,Cmte on bill embargo - No 2 Enforcement,1808-01-05,10,7
 1285,Cmte on bill Mediterranean fund,1808-01-08,10,7
 1286,Cmte on bill salaries,1808-01-08,10,7
 1287,Cmte on expenses for Samuel Chase's impeachment trial,1808-01-13,10,7
@@ -1366,88 +1366,88 @@ committee_id,committee_name,date,congress,page
 1365,Cmte to wait on president,1808-11-07,10,16
 1366,cmte on Reed's motion on Senate chamber,1808-11-09,10,16
 1367,Cmte to revise militia laws - Motion by Gen Smith,1808-11-11,10,16
-1368,Cmte on nominations various,1808-11-15,10,16
-1369,Cmte on resolution of legislature of IN territory separation into 2 government,1808-11-15,10,16
-1370,Cmte on enrolled bills,1808-11-16,10,16
-1371,cmte on Bradley's motion - re Dey Algiers,1808-11-17,10,16
-1372,Cmte on bill documents franking privilege,1808-11-22,10,16
-1373,Cmte on bill of Andrew Joseph Villard,1808-11-22,10,17
-1374,Cmte on Roads & Canals,1808-11-28,10,17
-1375,Cmte on 22nd rule on engrossed bills,1808-12-02,10,17
-1376,Cmte on petition of Lemuel Taylor & others for Post Road,1808-12-05,10,17
-1377,cmte on district judge - 5 members,1808-12-05,10,17
-1378,Cmte on public buildings,1808-12-08,10,17
-1379,Cmte on nomination made Dec-8 various,1808-12-09,10,17
-1380,Cmte on Revolutionary officers petition,1808-12-12,10,17
-1381,Cmte on bill revenue cutters Embargo,1808-12-13,10,17
-1382,cmte on Lloyd's motion public buildings,1808-12-13,10,17
-1383,Cmte on petition officers Marine Corps,1808-12-14,10,18
-1384,Addition Cmte embargo,1808-12-19,10,18
-1385,cmte on Eunice Hunt Petition,1808-12-21,10,18
-1386,cmte on bill on lots in Washington DC,1808-12-21,10,18
-1387,Cmte on bill squares Washington,1808-12-22,10,18
-1388,Cmte on bill William White & others,1808-12-23,10,18
-1389,cmte on petition of William Brown,1808-12-28,10,14
-1390,Cmte on marine insurance company of Alexandria,1808-12-29,10,14
-1391,cmte on Barbary powers,1808-12-29,10,14
-1392,Cmte on Augustin Serry,1808-12-30,10,15
-1393,Cmte on Message Alibama Indians,1808-12-30,10,15
-1394,Cmte on bill Naval officer,1808-12-30,10,15
-1395,Cmte on bill Wings Capitol 3rd reading & recommitted generally,1808-12-30,10,15
-1396,Cmte to amend bill on revenue bonds,1808-12-30,10,15
-1397,Additional Cmte Rev officers,1809-01-03,10,15
-1398,Cmte on Revolutionary officers,1809-01-03,10,15
-1399,Cmte on sick seamen,1809-01-03,10,15
-1400,cmte on message PUS on fortifications,1809-01-06,10,15
-1401,cmte on petition of Richard Bland Lee - committed on Giles's motion,1809-01-06,10,15
-1402,Addition to cmte on fortifications,1809-01-10,10,15
-1403,Cmte on nominations in Paper C for 2nd Lieutenants in regiment of Artillerists,1809-01-10,10,16
-1404,cmte on petition of Ebenezer Platt,1809-01-10,10,16
-1405,Cmte bill corps of engineers,1809-01-16,10,16
-1406,Cmte on nominations in Marine Corps and Navy,1809-01-17,10,14
-1407,cmte on petition of William Hardy,1809-01-17,10,14
-1408,Cmte bill TN Circuit Courts and district courts in KY TN OH,1809-01-17,10,18
-1409,Cmte on sick seamen,1809-01-17,10,18
-1410,conference cmte on bill naval establishment,1809-01-17,10,18
-1411,cmte on petition of people OH purchasers of lands,1809-01-19,10,18
-1412,Cmte on Brown petition Baptist Church,1809-01-20,10,18
-1413,Cmte on bill E Beaumont,1809-01-20,10,18
-1414,Addition to cmte of Nov-15 Indiana bill,1809-01-20,10,19
-1415,Cmte on nomination of Johnson & others in Army,1809-01-25,10,19
-1416,Cmte on motion inquiring nomination of Henry Dearborn as Collector at Boston,1809-01-26,10,19
-1417,cmte on Bayard's motion to bring bill on provisions for support of judges incapable of serving,1809-01-30,10,19
-1418,cmte to continue authority of commissioners of Kaskaskia,1809-01-30,10,19
-1419,Cmte on military nominations,1809-01-31,10,19
-1420,Cmte on bill uninumerated services officers judicial courts,1809-02-01,10,19
-1421,cmte on Washington Canal,1809-02-02,10,19
-1422,cmte on bill physicians and surgeons employed in public service,1809-02-03,10,19
-1423,cmte on election of PUS,1809-02-03,10,19
-1424,cmte on Alexandria Turnpike,1809-02-07,10,19
-1425,Cmte on nominations for custom house officers,1809-02-07,10,20
-1426,Teller for PUS & VP,1809-02-07,10,20
-1427,Cmte on appropriations,1809-02-11,10,20
-1428,Cmte on Giles's resolution to repeal embargo,1809-02-14,10,20
-1429,Cmte on Hillhouse's motion to examine and report provisions necessary to check allowance of extravagant claims,1809-02-14,10,20
-1430,Cmte on Spanish land grants in Mississippi,1809-02-15,10,20
-1431,Jt Cmte to wait on PUS re furnishing House,1809-02-15,10,20
-1432,cmte on Dan Cotton,1809-02-15,10,20
-1433,cmte on suffrage IN,1809-02-15,10,20
-1434,Cmte on Charter Georgetown,1809-02-17,10,20
-1435,Cmte to confer surveyor public bldgs on accomodations for the Senate,1809-02-17,10,20
-1436,Addition to cmte on bill duties,1809-02-18,10,20
-1437,cmte on petition of French inhabitants of Michigan for laws in French Language,1809-02-18,10,21
-1438,Cmte on Giles's motion on judicial Courts,1809-02-21,10,21
-1439,Cmte on amendment to AL Indian,1809-02-23,10,21
-1440,Cmte on bill William White & others,1809-02-27,10,21
-1441,Cmte on library,1809-02-27,10,21
-1442,Cmte on bill to amend laws for regulation of Treasury War and Navy depts - and making appropriations for support of military and navy,1809-02-28,10,21
-1443,cmte on Amos Whittemore,1809-02-28,10,21
-1444,Cmte on Invalid pensions,1809-03-01,10,21
-1445,Cmte on nomination Surgeons,1809-03-02,10,21
-1446,Cmte on arrangements for reception of PUS on his inauguration,1809-03-03,10,21
-1447,Conference Cmte on bill to amend laws for regulation of Treasury War and Navy depts,1809-03-03,10,21
-1448,Jt cmte to notify PUS of recess,1809-03-03,10,22
-1449,cmte on Giles's motion amend embargo,1809-11-11,10,16
+1368,cmte on Giles's motion amend embargo,1808-11-11,10,16
+1369,Cmte on nominations various,1808-11-15,10,16
+1370,Cmte on resolution of legislature of IN territory separation into 2 government,1808-11-15,10,16
+1371,Cmte on enrolled bills,1808-11-16,10,16
+1372,cmte on Bradley's motion - re Dey Algiers,1808-11-17,10,16
+1373,Cmte on bill documents franking privilege,1808-11-22,10,16
+1374,Cmte on bill of Andrew Joseph Villard,1808-11-22,10,17
+1375,Cmte on Roads & Canals,1808-11-28,10,17
+1376,Cmte on 22nd rule on engrossed bills,1808-12-02,10,17
+1377,Cmte on petition of Lemuel Taylor & others for Post Road,1808-12-05,10,17
+1378,cmte on district judge - 5 members,1808-12-05,10,17
+1379,Cmte on public buildings,1808-12-08,10,17
+1380,Cmte on nomination made Dec-8 various,1808-12-09,10,17
+1381,Cmte on Revolutionary officers petition pensions land,1808-12-12,10,17
+1382,Cmte on bill revenue cutters Embargo,1808-12-13,10,17
+1383,cmte on Lloyd's motion public buildings,1808-12-13,10,17
+1384,Cmte on petition officers Marine Corps,1808-12-14,10,18
+1385,Addition Cmte embargo,1808-12-19,10,18
+1386,cmte on Eunice Hunt Petition,1808-12-21,10,18
+1387,cmte on bill on lots in Washington DC,1808-12-21,10,18
+1388,Cmte on bill squares Washington,1808-12-22,10,18
+1389,Cmte on bill William White & others,1808-12-23,10,18
+1390,cmte on petition of William Brown,1808-12-28,10,14
+1391,Cmte on marine insurance company of Alexandria,1808-12-29,10,14
+1392,cmte on Barbary powers,1808-12-29,10,14
+1393,Cmte on Augustin Serry,1808-12-30,10,15
+1394,Cmte on Message Alibama Indians,1808-12-30,10,15
+1395,Cmte on bill Naval officer,1808-12-30,10,15
+1396,Cmte on bill Wings Capitol 3rd reading & recommitted generally,1808-12-30,10,15
+1397,Cmte to amend bill on revenue bonds,1808-12-30,10,15
+1398,Additional Cmte Rev officers,1809-01-03,10,15
+1399,Cmte on Revolutionary officers,1809-01-03,10,15
+1400,Cmte on sick seamen,1809-01-03,10,15
+1401,cmte on message PUS on fortifications,1809-01-06,10,15
+1402,cmte on petition of Richard Bland Lee - committed on Giles's motion,1809-01-06,10,15
+1403,Addition to cmte on fortifications,1809-01-10,10,15
+1404,Cmte on nominations in Paper C for 2nd Lieutenants in regiment of Artillerists,1809-01-10,10,16
+1405,cmte on petition of Ebenezer Platt,1809-01-10,10,16
+1406,Cmte bill corps of engineers,1809-01-16,10,16
+1407,Cmte on nominations in Marine Corps and Navy,1809-01-17,10,14
+1408,cmte on petition of William Hardy,1809-01-17,10,14
+1409,Cmte bill TN Circuit Courts and district courts in KY TN OH,1809-01-17,10,18
+1410,Cmte on sick seamen,1809-01-17,10,18
+1411,conference cmte on bill naval establishment,1809-01-17,10,18
+1412,cmte on petition of people OH purchasers of lands,1809-01-19,10,18
+1413,Cmte on Brown petition Baptist Church,1809-01-20,10,18
+1414,Cmte on bill E Beaumont,1809-01-20,10,18
+1415,Addition to cmte of Nov-15 Indiana bill,1809-01-20,10,19
+1416,Cmte on nomination of Johnson & others in Army,1809-01-25,10,19
+1417,Cmte on motion inquiring nomination of Henry Dearborn as Collector at Boston,1809-01-26,10,19
+1418,cmte on Bayard's motion to bring bill on provisions for support of judges incapable of serving,1809-01-30,10,19
+1419,cmte to continue authority of commissioners of Kaskaskia,1809-01-30,10,19
+1420,Cmte on military nominations,1809-01-31,10,19
+1421,Cmte on bill uninumerated services officers judicial courts,1809-02-01,10,19
+1422,cmte on Washington Canal,1809-02-02,10,19
+1423,cmte on bill physicians and surgeons employed in public service,1809-02-03,10,19
+1424,cmte on election of PUS,1809-02-03,10,19
+1425,cmte on Alexandria Turnpike,1809-02-07,10,19
+1426,Cmte on nominations for custom house officers,1809-02-07,10,20
+1427,Teller for PUS & VP,1809-02-07,10,20
+1428,Cmte on appropriations,1809-02-11,10,20
+1429,Cmte on Giles's resolution to repeal embargo,1809-02-14,10,20
+1430,Cmte on Hillhouse's motion to examine and report provisions necessary to check allowance of extravagant claims,1809-02-14,10,20
+1431,Cmte on Spanish land grants in Mississippi,1809-02-15,10,20
+1432,Jt Cmte to wait on PUS re furnishing House,1809-02-15,10,20
+1433,cmte on Dan Cotton,1809-02-15,10,20
+1434,cmte on suffrage IN,1809-02-15,10,20
+1435,Cmte on Charter Georgetown,1809-02-17,10,20
+1436,Cmte to confer surveyor public bldgs on accomodations for the Senate,1809-02-17,10,20
+1437,Addition to cmte on bill duties,1809-02-18,10,20
+1438,cmte on petition of French inhabitants of Michigan for laws in French Language,1809-02-18,10,21
+1439,Cmte on Giles's motion on judicial Courts,1809-02-21,10,21
+1440,Cmte on amendment to AL Indian,1809-02-23,10,21
+1441,Cmte on bill William White & others,1809-02-27,10,21
+1442,Cmte on library,1809-02-27,10,21
+1443,Cmte on bill to amend laws for regulation of Treasury War and Navy depts - and making appropriations for support of military and navy,1809-02-28,10,21
+1444,cmte on Amos Whittemore,1809-02-28,10,21
+1445,Cmte on Invalid pensions,1809-03-01,10,21
+1446,Cmte on nomination Surgeons,1809-03-02,10,21
+1447,Cmte on arrangements for reception of PUS on his inauguration,1809-03-03,10,21
+1448,Conference Cmte on bill to amend laws for regulation of Treasury War and Navy depts,1809-03-03,10,21
+1449,Jt cmte to notify PUS of recess,1809-03-03,10,22
 1450,cmte to notify PUS ready for business,1809-03-04,11,Extra
 1451,cmte on Sam Blair & Sam Honley to be surgeon's mates in Navy,1809-03-07,11,Extra
 1452,Cmte to wait on PUS,1809-05-22,11,2
@@ -1633,7 +1633,7 @@ committee_id,committee_name,date,congress,page
 1632,Cmte on Anderson's motion - re message military establishment - 5 members,1813-05-27,13,7
 1633,Cmte on Campbell's motion as amended on so much of PUS's message on foreign relations,1813-05-27,13,7
 1634,Cmte on naval affairs - 5 members,1813-05-27,13,7
-1635,Cmte on Petition of Phoenix,1813-05-31,13,7
+1635,Cmte on Petition of Alexander Phoenix discharged from prison for debt,1813-05-31,13,7
 1636,Cmte on petition of Thomas Shaw and others - natives of GB asking to be admitted as citizens- Lacock move,1813-05-31,13,7
 1637,Cmte on bill for calling out the militia - Gen Smith move - 5 members,1813-06-01,13,6
 1638,Cmte on petition of Charles Minifie,1813-06-02,13,6
@@ -1645,7 +1645,7 @@ committee_id,committee_name,date,congress,page
 1644,Cmte on Joshua Barney - Giles moves,1813-06-07,13,6
 1645,Cmte on President's accommodation - Brent moves,1813-06-07,13,6
 1646,Cmte on petition of JB Nickolls - Brent moves,1813-06-07,13,6
-1647,cmte on Farmer's Bank of Alexander - Brent move,1813-06-07,13,6
+1647,cmte on Farmer's Bank of Alexandria - Brent move,1813-06-07,13,6
 1648,Cmte on Tait's bill to alter times of district court in 6th district,1813-06-08,13,5
 1649,Cmte on recommitted bill to amend law for calling forth the Militia - Worthington move,1813-06-08,13,5
 1650,cmte on fisheries - Dana moves,1813-06-08,13,5
