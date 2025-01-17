@@ -3,18 +3,18 @@ This repository contains data related to early American Senate activities, focus
 
 ## 📜 Overview
 
-This first part contains the main information about how we put all this information together. [Skip this and read about how to look at and use the data here](#look-at-the-data)
+This first part contains the main information about how we put all this data together. [Skip this and read about how to look at and use the data here](#look-at-the-data)
     
 ### Where is the data from and how did this come together?
-- **Source**: The main data originates from historical records of the United States Senate. These records document committee votes, attendance, and dates from all Congresses from the 1<sup>st</sup> to 15<sup>th</sup> except for the 12<sup>th</sup>. Biographical data (including state, age, party, etc.) come from the [*Biographical Directory of the United States Congress*](https://bioguide.congress.gov/)
+- **Source**: The main data originates from historical records of the United States Senate. These records document ballotting for committees from all Congresses from the 1<sup>st</sup> to 15<sup>th</sup> except for the 12<sup>th</sup>. Biographical data (including state, age, party, etc.) come from the [*Biographical Directory of the United States Congress*](https://bioguide.congress.gov/)
 - Notes on the data can be found in the [`notes.txt` file](https://github.com/ewolman/EarlyAmericanSenateData/blob/main/notes.txt)
 
 - **Format**: The main raw data and tables generated for the database are in the `Data` folder. 
     - **`scans_and_text`** - The raw data - scanned images of notes and text files containing the raw text from the notes
          - The text files were created using the python package [pytesseract](https://pypi.org/project/pytesseract/) to turn the scans into text files, which in turn could be formed into a dataset (`process_scans.py`)
          - The files are split up into folders by congress. You can see the scans, the unedited text files, and the edited text files. The text needed to be in a specific format to be processed by the `process_text.py` file, ([*see below*](#how-i-parsed-the-text-files)), so each text had to be edited and checked for mistakes since the *pytesseract* package is not mistake-free. However, using this tool is much faster than transcribing all the scanned files.
-    - **`vote_data`** - The end product of `process_text.py`, which turns the text from each page into a table, which lists the number of votes each Senator receives, for each committee. They also include the congres, date of committee, and page number from the notes. The files in the `updated` folder have corrected names (for any misspellings which weren't caught or spelling differences updated to match the Congressional Database).
-    - **`Merged_Data`** - The end product of `comb_data.py`. These are the csv files from `vote_data` merged with biographical data (`Info.csv`). These sheets contain all congresses up to the congress in the file name and contain the same columns from `vote_data` plus more in-depth biographical data including state, party, age, full name, etc.
+    - **`vote_data`** - The end product of `process_text.py`, which turns the text from each page into a table, which lists the number of votes each Senator receives, for each committee. They also include the congress, date of committee, and page number from the notes. The files in the `updated` folder have corrected names (for any misspellings which weren't caught or spelling differences updated to match the Congressional Database).
+    - **`Merged_Data`** - The end product of `comb_data.py`. This data is from the csv files in `vote_data` merged with biographical data (`Info.csv`). This sheet contain all congresses and the same columns from `vote_data` plus more in-depth biographical data including state, party, age, full name, etc.
     - **Other files** - These are files used to store any name changes that needed to be made due to spelling errors or people with same last name. These are for efficiency so any name changes did not need to be added repeatedly. There is also the biographical data.
 
 - The `database.db` file is a SQL database containing 4 tables:
@@ -34,7 +34,7 @@ This first part contains the main information about how we put all this informat
      -  `TotalVotesByCongress_FullTerm.csv` - Same as above, but only those who served in more than 3 congresses (if continuous, this would be a full term)
      -  `VotesByParty.csv` - The number of votes that the members of each party received by Congress
      -  `VotesByPartyByYear.csv` - Same as above but split up by year instead of Congress
-     -  `tCommittee.csv` - All committees and their pertinent information (date, congress, page)
+     -  `Committees.csv` - All committees and their pertinent information (date, congress, page)
 - [**Tableau Dashboard** - A Tableau Public Dashboard where you can compare Senators based on the votes they received in each Congress.](https://public.tableau.com/app/profile/elias.wolman/viz/SenatorDashboard/Dashboard1?publish=yes)
 ## How I parsed the text files
 
