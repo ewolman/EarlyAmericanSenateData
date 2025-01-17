@@ -36,6 +36,7 @@ This first part contains the main information about how we put all this data tog
      -  `VotesByPartyByYear.csv` - Same as above but split up by year instead of Congress
      -  `Committees.csv` - All committees and their pertinent information (date, congress, page)
 - [**Tableau Dashboard** - A Tableau Public Dashboard where you can compare Senators based on the votes they received in each Congress.](https://public.tableau.com/app/profile/elias.wolman/viz/SenatorDashboard/Dashboard1?publish=yes)
+- [Graph of party performance over time](https://github.com/ewolman/EarlyAmericanSenateData/blob/main/visualizations/VotesByYearByParty.png) - A graph showing vote share by party each year
 ## How I parsed the text files
 
 The `process_text.py` file is the main part of this project. It processes each text file for a given congress, creating tables of each senator's votes by committee by page and creating a final table with all the votes for that congress. I used the regular expression (`re`) package in python to capture patterns of text to identify committee names, dates, and senator-vote combinations.
