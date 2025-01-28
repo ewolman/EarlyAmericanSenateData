@@ -18,8 +18,8 @@ And 4; Arm 1; Bing 1; Brown 2; Day 5; DF 1; Greene 1; Hill 1;
 Lang 8; Liver 3; STM 2; JM 3; Nich 8; Paine 3; Read 2; Ross 4;
 Tracy 5.
 
- ne Theo casus Fowley
-Cmte on HR resolution re Theodosius Fowler. Feb 26. Tracy, Armstrong, D Foster.
+
+Cmte on HR resolution re Theodosius Fowler. Feb 27. Tracy, Armstrong, D Foster.
 
 Arm 5; Bald 2; Brown 3; Dayton 3; DF 4; Frank 1; Gunn 3; Hill 3;
 Hind 1; How 2; Lang 2; Liver 2; STM 1; JM 2; Morris 4; Nicholas

@@ -16,7 +16,7 @@ And 2; Bald 2; Blood 1; Brown 8; Chip 1; Day 4; DF 7 Frank 1;
 Hill 2; Lang 2; Lat 3; Liver 14; STM 3; JM 1; Morris 3; Paine 6;
 Schur 2; Tracy 1.
 
-cmte on GW's Mausoluem. Jan 6, 1801. Mekolass, D Faster, Tracy
+Cmte on George Washington's Mausoleum. Jan 6, 1801. Mekolass, D Faster, Tracy
 
 And 1; Bald 2; Blood 1; Brown 1; Cocke 1; Day 2; TF 7; DF 8; Hill
 2; Hindman 1; How 5; Lang 2; Liver 1; JM 1; Morris 3; Nich 9;

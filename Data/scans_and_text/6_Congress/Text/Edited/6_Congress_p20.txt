@@ -35,7 +35,7 @@ And 4; Arm 3; Bald 2; Bing 3; Blood 2; Brown 4; TF 2; DF 5; Frank
 1; Hill 1; Hind 1; Lang 5; Lat 1; Liver 4; Marsh 1; STM 4; JM 5;
 Nich 2; Paine 1; Read 5; Tracy 3; Wells 3.
 
-Cmte bill MD. Feb 24. Langdon, Binghan, wraeyo
+Cmte on bill consent to Maryland law for health officer. Feb 24. Langdon, Binghan, wraeyo
 
 And 1; Arm 2; Bald 2; Bing 5; Blood 3; Brown 1; Cocke 2; Day 2;
 TF 1; Frank 1; Greene 3; Hind 2; How 3; Lang 6; Liver 1; Mich 1;

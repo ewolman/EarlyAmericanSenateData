@@ -42,11 +42,13 @@ And 5; Bald 1; Bing 3; Blood 1; Brown 7; Dayt 3; Dext 2; Foster
 1; Frank 2; Gunn 4; Hillh 3; How 2; Lang 2; Lat 1; Laur 1; Liver
 5; Marsh 3; Mas 3; Nich 4; Read 1; Ross 2; Schur 2; Tracy 5.
 
-Cmte on bill thomas Johnson. April 28. Tracy, anderson, Dayton
+
+Cmte on bill for payment of militia commanded by Major Thomas Johnson. April 28. Tracy, anderson, Dayton
 
 And 7; Bald 1; Brown 3; Day 6; Dext 5; Foster 1; Frank 2; Good 3;
 Greene 3; Gunn 5; Hill 4; How 1; Lang 1; Lat 1; Liver 3; Marsh 1;
 Mas 1; Nich 1; Read 1; Ross 1; Schur 2; Tracy 9.
+
 
 Cmte on bill Patents. April 28. Dexter, Marshall, Greene.~
 

@@ -13,9 +13,8 @@ Adams 3; Bald 3; Bradl 14; Condit 1; Giles 6; Gil 1; Howl 1; Kit
 1; Mill 2; Moore 3; Plumer 1; S(MD) 8; S(TN) 1; S(VT) 3; Thrus 1;
 Tracy 1; Turner 3; White 1.
 
-itey a2 sats
 
-cmte on Worthington's motion about territorial governments. Dec 24, 1806. e ua Worthington Baldor, Here
+cmte on Worthington's motion about territorial governments sent laws adopted to federal government. Dec 24, 1806. e ua Worthington Baldor, Here
 
 Adams 2; Bald 4; Gail 1; Giles 2; Gilm 2; Hill 1; Howl 1; Kit 2;
 Maclay 2; Mill 1; Moore 4; Plumer 2; Sm(MD) 1; S(NY) 2; S(TN) 1; S(VT) 1; Thrus 4; Tracy 4; Turner 2; White 1; Worth 8.

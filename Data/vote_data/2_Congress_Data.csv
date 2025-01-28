@@ -1,19 +1,33 @@
 name,votes,committee,cmte_type,date,congress,page
-Burr,4,cmte Elections,,1791-11-01,2,8
-Butler,4,cmte Elections,,1791-11-01,2,8
-Cabot,1,cmte Elections,,1791-11-01,2,8
-Dickerson,1,cmte Elections,,1791-11-01,2,8
-Few,4,cmte Elections,,1791-11-01,2,8
-Hawkins,1,cmte Elections,,1791-11-01,2,8
-Henry,4,cmte Elections,,1791-11-01,2,8
-Johnston,1,cmte Elections,,1791-11-01,2,8
-King,2,cmte Elections,,1791-11-01,2,8
-Read,4,cmte Elections,,1791-11-01,2,8
-Rutherfurd,7,cmte Elections,,1791-11-01,2,8
-Stanton,1,cmte Elections,,1791-11-01,2,8
-Sherman,5,cmte Elections,,1791-11-01,2,8
-Strong,3,cmte Elections,,1791-11-01,2,8
-Wingate,2,cmte Elections,,1791-11-01,2,8
+Burr,2,Cmte of Senate Consuls,,1791-11-01,2,8
+Butler,4,Cmte of Senate Consuls,,1791-11-01,2,8
+Cabot,7,Cmte of Senate Consuls,,1791-11-01,2,8
+Carroll,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Dickinson,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Ellsworth,6,Cmte of Senate Consuls,,1791-11-01,2,8
+Hawkins,5,Cmte of Senate Consuls,,1791-11-01,2,8
+Johnston,3,Cmte of Senate Consuls,,1791-11-01,2,8
+King,6,Cmte of Senate Consuls,,1791-11-01,2,8
+Langdon,2,Cmte of Senate Consuls,,1791-11-01,2,8
+Morris,13,Cmte of Senate Consuls,,1791-11-01,2,8
+Read,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Rutherfurd,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Stanton,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Strong,1,Cmte of Senate Consuls,,1791-11-01,2,8
+Burr,3,Cmte on coins,,1791-11-01,2,8
+Butler,1,Cmte on coins,,1791-11-01,2,8
+Cabot,3,Cmte on coins,,1791-11-01,2,8
+Henry,2,Cmte on coins,,1791-11-01,2,8
+Johnston,1,Cmte on coins,,1791-11-01,2,8
+Izard,9,Cmte on coins,,1791-11-01,2,8
+King,7,Cmte on coins,,1791-11-01,2,8
+Langdon,5,Cmte on coins,,1791-11-01,2,8
+Monroe,9,Cmte on coins,,1791-11-01,2,8
+Morris,5,Cmte on coins,,1791-11-01,2,8
+Rutherfurd,1,Cmte on coins,,1791-11-01,2,8
+Sherman,2,Cmte on coins,,1791-11-01,2,8
+Strong,2,Cmte on coins,,1791-11-01,2,8
+Wingate,1,Cmte on coins,,1791-11-01,2,8
 Butler,3,Officers of Judicial courts,,1791-11-01,2,8
 Cabot,1,Officers of Judicial courts,,1791-11-01,2,8
 Dickinson,2,Officers of Judicial courts,,1791-11-01,2,8
@@ -30,20 +44,21 @@ Stanton,1,Officers of Judicial courts,,1791-11-01,2,8
 Sherman,2,Officers of Judicial courts,,1791-11-01,2,8
 Strong,8,Officers of Judicial courts,,1791-11-01,2,8
 Wingate,2,Officers of Judicial courts,,1791-11-01,2,8
-Burr,3,Cmte on coins,,1791-11-01,2,8
-Butler,1,Cmte on coins,,1791-11-01,2,8
-Cabot,3,Cmte on coins,,1791-11-01,2,8
-Henry,2,Cmte on coins,,1791-11-01,2,8
-Johnston,1,Cmte on coins,,1791-11-01,2,8
-Izard,9,Cmte on coins,,1791-11-01,2,8
-King,7,Cmte on coins,,1791-11-01,2,8
-Langdon,5,Cmte on coins,,1791-11-01,2,8
-Monroe,9,Cmte on coins,,1791-11-01,2,8
-Morris,5,Cmte on coins,,1791-11-01,2,8
-Rutherfurd,1,Cmte on coins,,1791-11-01,2,8
-Sherman,2,Cmte on coins,,1791-11-01,2,8
-Strong,2,Cmte on coins,,1791-11-01,2,8
-Wingate,1,Cmte on coins,,1791-11-01,2,8
+Burr,4,cmte Elections,,1791-11-01,2,8
+Butler,4,cmte Elections,,1791-11-01,2,8
+Cabot,1,cmte Elections,,1791-11-01,2,8
+Dickerson,1,cmte Elections,,1791-11-01,2,8
+Few,4,cmte Elections,,1791-11-01,2,8
+Hawkins,1,cmte Elections,,1791-11-01,2,8
+Henry,4,cmte Elections,,1791-11-01,2,8
+Johnston,1,cmte Elections,,1791-11-01,2,8
+King,2,cmte Elections,,1791-11-01,2,8
+Read,4,cmte Elections,,1791-11-01,2,8
+Rutherfurd,7,cmte Elections,,1791-11-01,2,8
+Stanton,1,cmte Elections,,1791-11-01,2,8
+Sherman,5,cmte Elections,,1791-11-01,2,8
+Strong,3,cmte Elections,,1791-11-01,2,8
+Wingate,2,cmte Elections,,1791-11-01,2,8
 Burr,3,cmte on land office,,1791-11-01,2,8
 Butler,6,cmte on land office,,1791-11-01,2,8
 Cabot,3,cmte on land office,,1791-11-01,2,8
@@ -63,21 +78,6 @@ Robinson,2,cmte on land office,,1791-11-01,2,8
 Sherman,6,cmte on land office,,1791-11-01,2,8
 Strong,10,cmte on land office,,1791-11-01,2,8
 Wingate,1,cmte on land office,,1791-11-01,2,8
-Burr,2,Cmte of Senate Consuls,,1791-11-01,2,8
-Butler,4,Cmte of Senate Consuls,,1791-11-01,2,8
-Cabot,7,Cmte of Senate Consuls,,1791-11-01,2,8
-Carroll,1,Cmte of Senate Consuls,,1791-11-01,2,8
-Dickinson,1,Cmte of Senate Consuls,,1791-11-01,2,8
-Ellsworth,6,Cmte of Senate Consuls,,1791-11-01,2,8
-Hawkins,5,Cmte of Senate Consuls,,1791-11-01,2,8
-Johnston,3,Cmte of Senate Consuls,,1791-11-01,2,8
-King,6,Cmte of Senate Consuls,,1791-11-01,2,8
-Langdon,2,Cmte of Senate Consuls,,1791-11-01,2,8
-Morris,13,Cmte of Senate Consuls,,1791-11-01,2,8
-Read,1,Cmte of Senate Consuls,,1791-11-01,2,8
-Rutherfurd,1,Cmte of Senate Consuls,,1791-11-01,2,8
-Stanton,1,Cmte of Senate Consuls,,1791-11-01,2,8
-Strong,1,Cmte of Senate Consuls,,1791-11-01,2,8
 Burr,14,cmte on Rules,,1791-11-01,2,9
 Butler,6,cmte on Rules,,1791-11-01,2,9
 Cabot,2,cmte on Rules,,1791-11-01,2,9
@@ -258,27 +258,27 @@ Monroe,2,Cmte added to the cmte IL land Co,,1791-12-15,2,5
 Read,2,Cmte added to the cmte IL land Co,,1791-12-15,2,5
 Rutherfurd,3,Cmte added to the cmte IL land Co,,1791-12-15,2,5
 Wingate,1,Cmte added to the cmte IL land Co,,1791-12-15,2,5
-Burr,4,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Butler,4,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Cabot,4,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Ellsworth,6,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Few,1,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-foster,1,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Gunn,3,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Hawkins,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Henry,4,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Johnston,3,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Izard,1,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-King,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Langdon,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Monroe,3,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Morris,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Read,3,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Robinson,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Rutherfurd,2,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Sherman,8,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Strong,9,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
-Wingate,3,cmte on petition of Il & Wabash Co,,1791-12-15,2,5
+Burr,4,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Butler,4,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Cabot,4,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Ellsworth,6,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Few,1,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+foster,1,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Gunn,3,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Hawkins,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Henry,4,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Johnston,3,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Izard,1,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+King,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Langdon,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Monroe,3,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Morris,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Read,3,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Robinson,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Rutherfurd,2,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Sherman,8,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Strong,9,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
+Wingate,3,Cmte on memorial of Illinois and Ouabache Land Cos,,1791-12-15,2,5
 Bradley,5,cmte on Fisheries,,1791-12-22,2,6
 Burr,5,cmte on Fisheries,,1791-12-22,2,6
 Butler,5,cmte on Fisheries,,1791-12-22,2,6
@@ -361,30 +361,30 @@ Read,1,Cmte on widows & orphans bill,,1792-01-10,2,5
 Sherman,1,Cmte on widows & orphans bill,,1792-01-10,2,5
 Strong,15,Cmte on widows & orphans bill,,1792-01-10,2,5
 Wingate,3,Cmte on widows & orphans bill,,1792-01-10,2,5
-Bassett,5,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Bradley,2,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Butler,15,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Cabot,5,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Carroll,5,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Ellsworth,6,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Few,1,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Foster,2,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Gunn,1,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Hawkins,3,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Henry,7,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Izard,3,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Johnston,5,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-King,7,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Langdon,3,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Lee,6,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Monroe,4,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Morris,2,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Read,5,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Rutherfurd,2,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Sherman,8,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Stanton,2,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Strong,10,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
-Wingate,1,Cmte on Indian affairs wrt Seneca chief,,1792-01-18,2,5
+Bassett,5,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Bradley,2,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Butler,15,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Cabot,5,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Carroll,5,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Ellsworth,6,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Few,1,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Foster,2,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Gunn,1,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Hawkins,3,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Henry,7,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Izard,3,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Johnston,5,Cmte on speech of Seneca chief,,1792-01-18,2,5
+King,7,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Langdon,3,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Lee,6,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Monroe,4,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Morris,2,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Read,5,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Rutherfurd,2,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Sherman,8,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Stanton,2,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Strong,10,Cmte on speech of Seneca chief,,1792-01-18,2,5
+Wingate,1,Cmte on speech of Seneca chief,,1792-01-18,2,5
 Bassett,4,Cmte on Half-pay & to invalids bill,,1792-01-30,2,5
 Bradley,3,Cmte on Half-pay & to invalids bill,,1792-01-30,2,5
 Butler,3,Cmte on Half-pay & to invalids bill,,1792-01-30,2,5
@@ -496,24 +496,24 @@ Stanton,1,Cmte on James Mathers's petition,,1792-02-21,2,4
 Sherman,17,Cmte on James Mathers's petition,,1792-02-21,2,4
 Strong,3,Cmte on James Mathers's petition,,1792-02-21,2,4
 Wingate,3,Cmte on James Mathers's petition,,1792-02-21,2,4
-Burr,3,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Cabot,1,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Carroll,2,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Dickinson,1,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Ellsworth,10,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Foster,1,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Gunn,4,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Hawkins,2,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Johnston,1,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Izard,5,Cmte on bill to extend claims &c,,1792-02-27,2,4
-King,6,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Lee,9,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Monroe,4,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Morris,5,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Robinson,1,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Rutherfurd,5,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Stanton,2,Cmte on bill to extend claims &c,,1792-02-27,2,4
-Strong,7,Cmte on bill to extend claims &c,,1792-02-27,2,4
+Burr,3,Cmte on bill to extend claims,,1792-02-27,2,4
+Cabot,1,Cmte on bill to extend claims,,1792-02-27,2,4
+Carroll,2,Cmte on bill to extend claims,,1792-02-27,2,4
+Dickinson,1,Cmte on bill to extend claims,,1792-02-27,2,4
+Ellsworth,10,Cmte on bill to extend claims,,1792-02-27,2,4
+Foster,1,Cmte on bill to extend claims,,1792-02-27,2,4
+Gunn,4,Cmte on bill to extend claims,,1792-02-27,2,4
+Hawkins,2,Cmte on bill to extend claims,,1792-02-27,2,4
+Johnston,1,Cmte on bill to extend claims,,1792-02-27,2,4
+Izard,5,Cmte on bill to extend claims,,1792-02-27,2,4
+King,6,Cmte on bill to extend claims,,1792-02-27,2,4
+Lee,9,Cmte on bill to extend claims,,1792-02-27,2,4
+Monroe,4,Cmte on bill to extend claims,,1792-02-27,2,4
+Morris,5,Cmte on bill to extend claims,,1792-02-27,2,4
+Robinson,1,Cmte on bill to extend claims,,1792-02-27,2,4
+Rutherfurd,5,Cmte on bill to extend claims,,1792-02-27,2,4
+Stanton,2,Cmte on bill to extend claims,,1792-02-27,2,4
+Strong,7,Cmte on bill to extend claims,,1792-02-27,2,4
 Burr,4,Cmte of Conference on frontier protection bill,,1792-02-28,2,4
 Butler,7,Cmte of Conference on frontier protection bill,,1792-02-28,2,4
 Ellsworth,11,Cmte of Conference on frontier protection bill,,1792-02-28,2,4
@@ -562,22 +562,22 @@ Read,2,Cmte on lighthouse,,1792-03-01,2,4
 Rutherfurd,2,Cmte on lighthouse,,1792-03-01,2,4
 Stanton,5,Cmte on lighthouse,,1792-03-01,2,4
 Sherman,4,Cmte on lighthouse,,1792-03-01,2,4
-Bassett,2,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Bradley,1,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Burr,5,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Carroll,2,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Dickinson,1,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Ellsworth,14,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Hawkins,4,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Izard,3,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Johnston,2,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Langdon,1,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Lee,3,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Monroe,1,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Read,2,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Rutherfurd,5,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Sherman,2,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
-Strong,11,Conference on bill ascertain & regulate the claims to half-pay,,1792-03-05,2,9
+Bassett,2,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Bradley,1,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Burr,5,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Carroll,2,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Dickinson,1,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Ellsworth,14,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Hawkins,4,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Izard,3,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Johnston,2,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Langdon,1,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Lee,3,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Monroe,1,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Read,2,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Rutherfurd,5,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Sherman,2,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
+Strong,11,Cmte of Conference bill ascertain and regulate the claims to half-pay,,1792-03-05,2,9
 Bradley,2,Cmte on confer President on Americans imprisoned by Algiers,,1792-03-07,2,3
 Burr,2,Cmte on confer President on Americans imprisoned by Algiers,,1792-03-07,2,3
 Butler,2,Cmte on confer President on Americans imprisoned by Algiers,,1792-03-07,2,3
@@ -653,6 +653,21 @@ Monroe,3,Cmte of conference apportionment,,1792-03-19,2,3
 Sherman,2,Cmte of conference apportionment,,1792-03-19,2,3
 Strong,5,Cmte of conference apportionment,,1792-03-19,2,3
 Wingate,3,Cmte of conference apportionment,,1792-03-19,2,3
+Bradley,3,Cmte on bill for judicial courts,,1792-03-20,2,3
+Carroll,3,Cmte on bill for judicial courts,,1792-03-20,2,3
+Ellsworth,6,Cmte on bill for judicial courts,,1792-03-20,2,3
+Few,3,Cmte on bill for judicial courts,,1792-03-20,2,3
+Gunn,1,Cmte on bill for judicial courts,,1792-03-20,2,3
+Hawkins,1,Cmte on bill for judicial courts,,1792-03-20,2,3
+Johnston,20,Cmte on bill for judicial courts,,1792-03-20,2,3
+Langdon,2,Cmte on bill for judicial courts,,1792-03-20,2,3
+Lee,1,Cmte on bill for judicial courts,,1792-03-20,2,3
+Monroe,2,Cmte on bill for judicial courts,,1792-03-20,2,3
+Rutherfurd,4,Cmte on bill for judicial courts,,1792-03-20,2,3
+Stanton,1,Cmte on bill for judicial courts,,1792-03-20,2,3
+Sherman,15,Cmte on bill for judicial courts,,1792-03-20,2,3
+Strong,5,Cmte on bill for judicial courts,,1792-03-20,2,3
+Wingate,2,Cmte on bill for judicial courts,,1792-03-20,2,3
 Bassett,1,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
 Bradley,2,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
 Burr,9,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
@@ -671,21 +686,6 @@ Read,1,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
 Rutherfurd,4,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
 Strong,3,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
 Wingate,1,Cmte on message of PUS need for more army officers,,1792-03-20,2,3
-Bradley,3,Cmte on bill for judicial courts,,1792-03-20,2,3
-Carroll,3,Cmte on bill for judicial courts,,1792-03-20,2,3
-Ellsworth,6,Cmte on bill for judicial courts,,1792-03-20,2,3
-Few,3,Cmte on bill for judicial courts,,1792-03-20,2,3
-Gunn,1,Cmte on bill for judicial courts,,1792-03-20,2,3
-Hawkins,1,Cmte on bill for judicial courts,,1792-03-20,2,3
-Johnston,20,Cmte on bill for judicial courts,,1792-03-20,2,3
-Langdon,2,Cmte on bill for judicial courts,,1792-03-20,2,3
-Lee,1,Cmte on bill for judicial courts,,1792-03-20,2,3
-Monroe,2,Cmte on bill for judicial courts,,1792-03-20,2,3
-Rutherfurd,4,Cmte on bill for judicial courts,,1792-03-20,2,3
-Stanton,1,Cmte on bill for judicial courts,,1792-03-20,2,3
-Sherman,15,Cmte on bill for judicial courts,,1792-03-20,2,3
-Strong,5,Cmte on bill for judicial courts,,1792-03-20,2,3
-Wingate,2,Cmte on bill for judicial courts,,1792-03-20,2,3
 Bradley,1,Cmte Bald Head Lighthouse bill,,1792-03-27,2,3
 Cabot,4,Cmte Bald Head Lighthouse bill,,1792-03-27,2,3
 Dickinson,1,Cmte Bald Head Lighthouse bill,,1792-03-27,2,3
@@ -740,22 +740,22 @@ Sherman,3,cmte Bill George Gibson,,1792-03-28,2,3
 Stanton,1,cmte Bill George Gibson,,1792-03-28,2,3
 Strong,3,cmte Bill George Gibson,,1792-03-28,2,3
 Wingate,2,cmte Bill George Gibson,,1792-03-28,2,3
-Cabot,12,Cmte bill fugitives from justice,,1792-03-30,2,4
-Carroll,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Ellsworth,2,Cmte bill fugitives from justice,,1792-03-30,2,4
-Few,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Foster,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Gunn,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Henry,2,Cmte bill fugitives from justice,,1792-03-30,2,4
-Izard,7,Cmte bill fugitives from justice,,1792-03-30,2,4
-Johnston,3,Cmte bill fugitives from justice,,1792-03-30,2,4
-Langdon,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Lee,6,Cmte bill fugitives from justice,,1792-03-30,2,4
-Monroe,3,Cmte bill fugitives from justice,,1792-03-30,2,4
-Read,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Robinson,1,Cmte bill fugitives from justice,,1792-03-30,2,4
-Sherman,7,Cmte bill fugitives from justice,,1792-03-30,2,4
-Strong,2,Cmte bill fugitives from justice,,1792-03-30,2,4
+Cabot,12,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Carroll,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Ellsworth,2,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Few,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Foster,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Gunn,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Henry,2,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Izard,7,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Johnston,3,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Langdon,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Lee,6,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Monroe,3,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Read,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Robinson,1,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Sherman,7,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
+Strong,2,Cmte on expediency of fugitive slaves law,,1792-03-30,2,4
 Bassett,1,Cmte on Beacons and buoys bill,,1792-04-02,2,6
 Bradley,2,Cmte on Beacons and buoys bill,,1792-04-02,2,6
 Burr,1,Cmte on Beacons and buoys bill,,1792-04-02,2,6
@@ -922,6 +922,19 @@ Read,1,Cmte on Remission of certain duties bill,,1792-05-01,2,7
 Robinson,3,Cmte on Remission of certain duties bill,,1792-05-01,2,7
 Sherman,5,Cmte on Remission of certain duties bill,,1792-05-01,2,7
 Wingate,5,Cmte on Remission of certain duties bill,,1792-05-01,2,7
+Burr,8,Cmte to wait on president for recess,,1792-05-02,2,7
+Cabot,2,Cmte to wait on president for recess,,1792-05-02,2,7
+Carroll,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Dickinson,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Hawkins,9,Cmte to wait on president for recess,,1792-05-02,2,7
+Henry,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Johnston,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Izard,2,Cmte to wait on president for recess,,1792-05-02,2,7
+King,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Monroe,2,Cmte to wait on president for recess,,1792-05-02,2,7
+Morris,1,Cmte to wait on president for recess,,1792-05-02,2,7
+Robinson,2,Cmte to wait on president for recess,,1792-05-02,2,7
+Sherman,1,Cmte to wait on president for recess,,1792-05-02,2,7
 Burr,3,cmte on Excise,,1792-05-02,2,7
 Cabot,7,cmte on Excise,,1792-05-02,2,7
 Carroll,1,cmte on Excise,,1792-05-02,2,7
@@ -936,29 +949,6 @@ Morris,2,cmte on Excise,,1792-05-02,2,7
 Read,2,cmte on Excise,,1792-05-02,2,7
 Sherman,5,cmte on Excise,,1792-05-02,2,7
 Wingate,2,cmte on Excise,,1792-05-02,2,7
-Burr,8,Cmte to wait on president for recess,,1792-05-02,2,7
-Cabot,2,Cmte to wait on president for recess,,1792-05-02,2,7
-Carroll,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Dickinson,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Hawkins,9,Cmte to wait on president for recess,,1792-05-02,2,7
-Henry,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Johnston,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Izard,2,Cmte to wait on president for recess,,1792-05-02,2,7
-King,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Monroe,2,Cmte to wait on president for recess,,1792-05-02,2,7
-Morris,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Robinson,2,Cmte to wait on president for recess,,1792-05-02,2,7
-Sherman,1,Cmte to wait on president for recess,,1792-05-02,2,7
-Burr,5,cmte of Conference on processes bill,,1792-05-03,2,7
-Cabot,1,cmte of Conference on processes bill,,1792-05-03,2,7
-Ellsworth,11,cmte of Conference on processes bill,,1792-05-03,2,7
-Hawkins,1,cmte of Conference on processes bill,,1792-05-03,2,7
-Henry,6,cmte of Conference on processes bill,,1792-05-03,2,7
-Johnston,2,cmte of Conference on processes bill,,1792-05-03,2,7
-King,8,cmte of Conference on processes bill,,1792-05-03,2,7
-Monroe,5,cmte of Conference on processes bill,,1792-05-03,2,7
-Read,5,cmte of Conference on processes bill,,1792-05-03,2,7
-Sherman,1,cmte of Conference on processes bill,,1792-05-03,2,7
 Bassett,4,Cmte on Allowance to collectors bill,,1792-05-03,2,7
 Burr,4,Cmte on Allowance to collectors bill,,1792-05-03,2,7
 Few,1,Cmte on Allowance to collectors bill,,1792-05-03,2,7
@@ -976,17 +966,27 @@ Burr,2,Cmte on enrolled bills to replace Bradley,,1792-05-03,2,7
 Few,3,Cmte on enrolled bills to replace Bradley,,1792-05-03,2,7
 Henry,1,Cmte on enrolled bills to replace Bradley,,1792-05-03,2,7
 Wingate,8,Cmte on enrolled bills to replace Bradley,,1792-05-03,2,7
-Bassett,9,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Carroll,1,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Dickinson,1,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Ellsworth,1,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Few,2,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Foster,9,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Johnston,8,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Izard,2,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-King,6,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Robinson,1,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
-Stanton,1,Cmte on King's Bill to continue certain laws,,1792-05-03,2,8
+Burr,5,cmte of Conference on processes bill,,1792-05-03,2,7
+Cabot,1,cmte of Conference on processes bill,,1792-05-03,2,7
+Ellsworth,11,cmte of Conference on processes bill,,1792-05-03,2,7
+Hawkins,1,cmte of Conference on processes bill,,1792-05-03,2,7
+Henry,6,cmte of Conference on processes bill,,1792-05-03,2,7
+Johnston,2,cmte of Conference on processes bill,,1792-05-03,2,7
+King,8,cmte of Conference on processes bill,,1792-05-03,2,7
+Monroe,5,cmte of Conference on processes bill,,1792-05-03,2,7
+Read,5,cmte of Conference on processes bill,,1792-05-03,2,7
+Sherman,1,cmte of Conference on processes bill,,1792-05-03,2,7
+Bassett,9,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Carroll,1,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Dickinson,1,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Ellsworth,1,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Few,2,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Foster,9,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Johnston,8,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Izard,2,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+King,6,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Robinson,1,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
+Stanton,1,Cmte on King's Bill to continue appropriations for pensions and lighthouses,,1792-05-03,2,8
 Cabot,8,Cmte appropriation,,1792-05-08,2,8
 Carroll,2,Cmte appropriation,,1792-05-08,2,8
 Ellsworth,8,Cmte appropriation,,1792-05-08,2,8
@@ -1135,26 +1135,38 @@ Monroe,2,Cmte on fugitive from justice bill to replace members,,1792-12-28,2,9
 Sherman,7,Cmte on fugitive from justice bill to replace members,,1792-12-28,2,9
 Strong,7,Cmte on fugitive from justice bill to replace members,,1792-12-28,2,9
 Taylor,10,Cmte on fugitive from justice bill to replace members,,1792-12-28,2,9
-Bassett,1,Cmte on Registering bill,,1792-12-31,2,10
-Bradley,6,Cmte on Registering bill,,1792-12-31,2,10
-Brown,2,Cmte on Registering bill,,1792-12-31,2,10
-Butler,2,Cmte on Registering bill,,1792-12-31,2,10
-Cabot,13,Cmte on Registering bill,,1792-12-31,2,10
-Ellsworth,3,Cmte on Registering bill,,1792-12-31,2,10
-Few,4,Cmte on Registering bill,,1792-12-31,2,10
-Foster,3,Cmte on Registering bill,,1792-12-31,2,10
-Hawkins,5,Cmte on Registering bill,,1792-12-31,2,10
-Johnston,3,Cmte on Registering bill,,1792-12-31,2,10
-Izard,4,Cmte on Registering bill,,1792-12-31,2,10
-King,1,Cmte on Registering bill,,1792-12-31,2,10
-Langdon,6,Cmte on Registering bill,,1792-12-31,2,10
-Monroe,6,Cmte on Registering bill,,1792-12-31,2,10
-Morris,11,Cmte on Registering bill,,1792-12-31,2,10
-Rutherfurd,2,Cmte on Registering bill,,1792-12-31,2,10
-Sherman,2,Cmte on Registering bill,,1792-12-31,2,10
-Stanton,2,Cmte on Registering bill,,1792-12-31,2,10
-Strong,4,Cmte on Registering bill,,1792-12-31,2,10
-Taylor,5,Cmte on Registering bill,,1792-12-31,2,10
+Bassett,1,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Bradley,6,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Brown,2,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Butler,2,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Cabot,13,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Ellsworth,3,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Few,4,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Foster,3,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Hawkins,5,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Johnston,3,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Izard,4,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+King,1,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Langdon,6,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Monroe,6,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Morris,11,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Rutherfurd,2,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Sherman,2,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Stanton,2,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Strong,4,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Taylor,5,Cmte on Registering bill on ships in coasting trade,,1792-12-31,2,10
+Butler,2,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Edwards,4,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Ellsworth,4,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Hawkins,1,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Johnston,3,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+King,7,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Morris,2,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Rutherfurd,3,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Sherman,10,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Strong,13,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Wingate,4,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
+Taylor,2,Cmte on bill pay interest on sums due to Hay and others by resolve of Congress Sep-28 1785,,1793-01-03,2,10
 Bassett,1,Cmte on mint bill,,1793-01-03,2,10
 Cabot,9,Cmte on mint bill,,1793-01-03,2,10
 Dickinson,1,Cmte on mint bill,,1793-01-03,2,10
@@ -1168,18 +1180,6 @@ Morris,10,Cmte on mint bill,,1793-01-03,2,10
 Rutherfurd,4,Cmte on mint bill,,1793-01-03,2,10
 Sherman,1,Cmte on mint bill,,1793-01-03,2,10
 Taylor,3,Cmte on mint bill,,1793-01-03,2,10
-Butler,2,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Edwards,4,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Ellsworth,4,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Hawkins,1,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Johnston,3,Cmte on M Hay & C Strong,,1793-01-03,2,10
-King,7,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Morris,2,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Rutherfurd,3,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Sherman,10,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Strong,13,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Wingate,4,Cmte on M Hay & C Strong,,1793-01-03,2,10
-Taylor,2,Cmte on M Hay & C Strong,,1793-01-03,2,10
 Bassett,1,Cmte on bill widows & orphans,,1793-01-09,2,10
 Bradley,11,Cmte on bill widows & orphans,,1793-01-09,2,10
 Brown,4,Cmte on bill widows & orphans,,1793-01-09,2,10
@@ -1244,24 +1244,6 @@ Stanton,1,Cmte on bill respecting claims,,1793-01-17,2,10
 Strong,4,Cmte on bill respecting claims,,1793-01-17,2,10
 Wingate,2,Cmte on bill respecting claims,,1793-01-17,2,10
 Taylor,1,Cmte on bill respecting claims,,1793-01-17,2,10
-Bradley,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Brown,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Dickinson,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Edwards,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Ellsworth,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Few,2,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Hawkins,9,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Henry,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Johnston,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-King,2,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Langdon,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Monroe,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Morris,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Read,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Rutherfurd,16,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Sherman,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Strong,8,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
-Taylor,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
 Bassett,1,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
 Bradley,2,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
 Brown,6,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
@@ -1280,6 +1262,24 @@ Sherman,14,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
 Strong,3,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
 Taylor,5,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
 Wingate,5,Cmte on Bill for Lewis Garanger to settle accounts,,1793-01-21,2,10
+Bradley,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Brown,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Dickinson,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Edwards,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Ellsworth,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Few,2,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Hawkins,9,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Henry,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Johnston,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+King,2,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Langdon,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Monroe,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Morris,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Read,1,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Rutherfurd,16,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Sherman,3,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Strong,8,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
+Taylor,4,Cmte on HR bill to determine boundary of NC cession,,1793-01-21,2,10
 Bradley,7,Cmte on Indian Trade bill,,1793-01-21,2,11
 Burr,11,Cmte on Indian Trade bill,,1793-01-21,2,11
 Brown,6,Cmte on Indian Trade bill,,1793-01-21,2,11
@@ -1582,22 +1582,6 @@ Rutherfurd,3,Cmte of Conference on next mtg of Congress,,1793-02-28,2,12
 Strong,2,Cmte of Conference on next mtg of Congress,,1793-02-28,2,12
 Wingate,1,Cmte of Conference on next mtg of Congress,,1793-02-28,2,12
 Taylor,10,Cmte of Conference on next mtg of Congress,,1793-02-28,2,12
-Bassett,2,cmte on Banks bill,,1793-03-01,2,12
-Butler,7,cmte on Banks bill,,1793-03-01,2,12
-Cabot,5,cmte on Banks bill,,1793-03-01,2,12
-Ellsworth,14,cmte on Banks bill,,1793-03-01,2,12
-Foster,1,cmte on Banks bill,,1793-03-01,2,12
-Gunn,2,cmte on Banks bill,,1793-03-01,2,12
-Hawkins,3,cmte on Banks bill,,1793-03-01,2,12
-Johnston,2,cmte on Banks bill,,1793-03-01,2,12
-King,5,cmte on Banks bill,,1793-03-01,2,12
-Monroe,3,cmte on Banks bill,,1793-03-01,2,12
-Potts,2,cmte on Banks bill,,1793-03-01,2,12
-Read,1,cmte on Banks bill,,1793-03-01,2,12
-Robinson,1,cmte on Banks bill,,1793-03-01,2,12
-Rutherfurd,3,cmte on Banks bill,,1793-03-01,2,12
-Sherman,1,cmte on Banks bill,,1793-03-01,2,12
-Wingate,1,cmte on Banks bill,,1793-03-01,2,12
 Brown,1,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
 Butler,2,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
 Edwards,1,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
@@ -1607,6 +1591,22 @@ King,1,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,17
 Read,1,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
 Rutherfurd,4,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
 Sherman,4,Cmte of conference on next mtg of Congress Rutherfurd replace Langdon,,1793-03-01,2,12
+Bassett,2,Cmte on bill for John Banks,,1793-03-01,2,12
+Butler,7,Cmte on bill for John Banks,,1793-03-01,2,12
+Cabot,5,Cmte on bill for John Banks,,1793-03-01,2,12
+Ellsworth,14,Cmte on bill for John Banks,,1793-03-01,2,12
+Foster,1,Cmte on bill for John Banks,,1793-03-01,2,12
+Gunn,2,Cmte on bill for John Banks,,1793-03-01,2,12
+Hawkins,3,Cmte on bill for John Banks,,1793-03-01,2,12
+Johnston,2,Cmte on bill for John Banks,,1793-03-01,2,12
+King,5,Cmte on bill for John Banks,,1793-03-01,2,12
+Monroe,3,Cmte on bill for John Banks,,1793-03-01,2,12
+Potts,2,Cmte on bill for John Banks,,1793-03-01,2,12
+Read,1,Cmte on bill for John Banks,,1793-03-01,2,12
+Robinson,1,Cmte on bill for John Banks,,1793-03-01,2,12
+Rutherfurd,3,Cmte on bill for John Banks,,1793-03-01,2,12
+Sherman,1,Cmte on bill for John Banks,,1793-03-01,2,12
+Wingate,1,Cmte on bill for John Banks,,1793-03-01,2,12
 Bassett,11,Jt cmte to wait on PUS,,1793-03-02,2,12
 Brown,1,Jt cmte to wait on PUS,,1793-03-02,2,12
 Gunn,2,Jt cmte to wait on PUS,,1793-03-02,2,12

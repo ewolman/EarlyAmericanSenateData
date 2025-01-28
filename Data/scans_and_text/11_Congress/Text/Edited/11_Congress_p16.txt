@@ -12,7 +12,7 @@ And 4; Bay 5; Bradley 3; Brent 1; Clay 2; Cond 1; Craw 6; Frank
 5; Gail 1; Germ 1; Giles 1; Good 1; Gregg 2; Leib 6; pope 2; reed
 1. Tait 1.
 
-cmte of Conf PO. April 16, 1810. Goedneh, Franleler
+Cmte of Conference on PO. April 16, 1810. Goedneh, Franleler
 
 And 4; Bay 4; Bradl 1; Camp 1; Clay 2; Cond 1; Craw 3; Frank 10;
 Germ 1; Gilm 1; Good 11; Gregg 1; Hill 5; Lloyd 2; Pope 1; Reed

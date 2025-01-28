@@ -6,12 +6,14 @@ Bingham 2; Bloodworth 3; Bradford 4; Brown 3; Butler 3; Henry 7;
 Potts 1; Read 3; Ross 5; Rutherfurd 2; Strong 9; Tattnall 3;
 Tazewell 11; Trumbull 1.
 
-Cmte on salt springs. May 27, 1796. Ross, Rutherfurd, Burr.»
+Cmte on salt springs. May 27, 1796. Ross, Rutherfurd, Burr.ï¿½
 Bingham 1; Bloodworth 2; Bradford 3; Brown 4; Burr 5; Henry 3;
 Langdon 1; Marshall 2; Martin 2; Potts 3; Robinson 1; Ross 14;
 Rutherfurd 7; Strong 3; Tazewell 2; Trumbull 1.
 
-Cmte bill passports. May 27, 1796. Bingham, Bradford, eangnen.
+
+Cmte bill passports for US ships. May 27, 1796. Bingham, Bradford, eangnen.
+
 Bingham 5; Bradford 5; Brown 1; Burr 1; Butler 1; Langdon 3;
 Martin 2; Potts 1; Read 1; Robinson 1; Strong 2; Tattnall 1; Tazewell 3.
 
@@ -38,7 +40,9 @@ Tazewell 2; Trumbull 2;
 Cmte of conference on sugar and snuff bill. May 30, 1796. Bureau, Shong.
 Bing 15; Brown 2; Burr 2; Butler 2; Henry 1; Read 3; Strong 10; Tattnall 1.
 
-Cmte of conference on TN. May 31, 1796. Bum Sho
+
+Cmte of conference on land ceded by North Carolina - re Tennessee. May 31, 1796. Bum Sho
+
 Burr 10; Butler 7; Potts 3; Read 2; Ross 7; Strong 10; Tazewell 5.
 
 Cmte on military appropriations. May 31, 1796. Potts, Brown),

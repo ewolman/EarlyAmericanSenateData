@@ -13,18 +13,6 @@ Ross,4,Cmte on answer to PUS's message,,1795-12-08,4,1
 Strong,5,Cmte on answer to PUS's message,,1795-12-08,4,1
 Tazewell,1,Cmte on answer to PUS's message,,1795-12-08,4,1
 Trumbull,1,Cmte on answer to PUS's message,,1795-12-08,4,1
-Bingham,2,cmte on petition of John Blanch,,1795-12-14,4,1
-Butler,14,cmte on petition of John Blanch,,1795-12-14,4,1
-Cabot,3,cmte on petition of John Blanch,,1795-12-14,4,1
-Ellsworth,4,cmte on petition of John Blanch,,1795-12-14,4,1
- Frelinghuysen,2,cmte on petition of John Blanch,,1795-12-14,4,1
-Livermore,4,cmte on petition of John Blanch,,1795-12-14,4,1
-Paine,1,cmte on petition of John Blanch,,1795-12-14,4,1
-Read,5,cmte on petition of John Blanch,,1795-12-14,4,1
-Ross,2,cmte on petition of John Blanch,,1795-12-14,4,1
-Rutherfurd,5,cmte on petition of John Blanch,,1795-12-14,4,1
-Strong,8,cmte on petition of John Blanch,,1795-12-14,4,1
-Tazewell,3,cmte on petition of John Blanch,,1795-12-14,4,1
 Bingham,7,Cmte on mint,,1795-12-14,4,1
 Butler,2,Cmte on mint,,1795-12-14,4,1
 Cabot,11,Cmte on mint,,1795-12-14,4,1
@@ -39,6 +27,18 @@ Rutherfurd,7,Cmte on mint,,1795-12-14,4,1
 Strong,2,Cmte on mint,,1795-12-14,4,1
 Tazewell,2,Cmte on mint,,1795-12-14,4,1
 Trumbull,2,Cmte on mint,,1795-12-14,4,1
+Bingham,2,cmte on petition of John Blanch,,1795-12-14,4,1
+Butler,14,cmte on petition of John Blanch,,1795-12-14,4,1
+Cabot,3,cmte on petition of John Blanch,,1795-12-14,4,1
+Ellsworth,4,cmte on petition of John Blanch,,1795-12-14,4,1
+ Frelinghuysen,2,cmte on petition of John Blanch,,1795-12-14,4,1
+Livermore,4,cmte on petition of John Blanch,,1795-12-14,4,1
+Paine,1,cmte on petition of John Blanch,,1795-12-14,4,1
+Read,5,cmte on petition of John Blanch,,1795-12-14,4,1
+Ross,2,cmte on petition of John Blanch,,1795-12-14,4,1
+Rutherfurd,5,cmte on petition of John Blanch,,1795-12-14,4,1
+Strong,8,cmte on petition of John Blanch,,1795-12-14,4,1
+Tazewell,3,cmte on petition of John Blanch,,1795-12-14,4,1
 Bingham,1,Cmte on the report of Sec of War on Indian trade,,1795-12-16,4,1
 Brown,6,Cmte on the report of Sec of War on Indian trade,,1795-12-16,4,1
 Burr,8,Cmte on the report of Sec of War on Indian trade,,1795-12-16,4,1
@@ -296,24 +296,24 @@ Potts,2,Cmte on bill Indian Trade,,1796-02-05,4,2
 Ross,13,Cmte on bill Indian Trade,,1796-02-05,4,2
 Strong,3,Cmte on bill Indian Trade,,1796-02-05,4,2
 Tazewell,2,Cmte on bill Indian Trade,,1796-02-05,4,2
-Bloodworth,10,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Brown,2,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Cabot,3,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Ellsworth,3,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Frelinghuysen,2,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Gunn,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Henry,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-King,2,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Langdon,2,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Livermore,7,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Marshall,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Paine,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Read,14,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Robinson,2,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Strong,4,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Tazewell,3,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Trumbull,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
-Walton,1,Cmte on petition of T Leiper &c repeal of excise on snuff,,1796-02-10,4,3
+Bloodworth,10,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Brown,2,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Cabot,3,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Ellsworth,3,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Frelinghuysen,2,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Gunn,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Henry,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+King,2,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Langdon,2,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Livermore,7,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Marshall,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Paine,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Read,14,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Robinson,2,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Strong,4,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Tazewell,3,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Trumbull,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
+Walton,1,Cmte on petition Thomas Leiper and repeal of excise on snuff,,1796-02-10,4,3
 Bloodworth,1,Cmte on bill for payment of clerks,,1796-02-12,4,3
 Brown,1,Cmte on bill for payment of clerks,,1796-02-12,4,3
 Ellsworth,7,Cmte on bill for payment of clerks,,1796-02-12,4,3
@@ -472,6 +472,25 @@ Rutherfurd,1,Cmte on Israel Loring,,1796-03-01,4,3
 Strong,13,Cmte on Israel Loring,,1796-03-01,4,3
 Tazewell,1,Cmte on Israel Loring,,1796-03-01,4,3
 Trumbull,1,Cmte on Israel Loring,,1796-03-01,4,3
+Bloodworth,1,Cmte on Jose R Silva,,1796-03-02,4,3
+Bradford,7,Cmte on Jose R Silva,,1796-03-02,4,3
+Brown,4,Cmte on Jose R Silva,,1796-03-02,4,3
+Cabot,5,Cmte on Jose R Silva,,1796-03-02,4,3
+Ellsworth,11,Cmte on Jose R Silva,,1796-03-02,4,3
+henry,1,Cmte on Jose R Silva,,1796-03-02,4,3
+King,15,Cmte on Jose R Silva,,1796-03-02,4,3
+Langdon,3,Cmte on Jose R Silva,,1796-03-02,4,3
+Livermore,5,Cmte on Jose R Silva,,1796-03-02,4,3
+Martin,3,Cmte on Jose R Silva,,1796-03-02,4,3
+Mason,3,Cmte on Jose R Silva,,1796-03-02,4,3
+Paine,1,Cmte on Jose R Silva,,1796-03-02,4,3
+Potts,4,Cmte on Jose R Silva,,1796-03-02,4,3
+Ross,2,Cmte on Jose R Silva,,1796-03-02,4,3
+Rutherfurd,1,Cmte on Jose R Silva,,1796-03-02,4,3
+Strong,2,Cmte on Jose R Silva,,1796-03-02,4,3
+Tazewell,1,Cmte on Jose R Silva,,1796-03-02,4,3
+Trumbull,1,Cmte on Jose R Silva,,1796-03-02,4,3
+Vining,2,Cmte on Jose R Silva,,1796-03-02,4,3
 Bingham,1,Cmte on KY Papers from Governor,,1796-03-02,4,3
 Bloodworth,5,Cmte on KY Papers from Governor,,1796-03-02,4,3
 Bradford,1,Cmte on KY Papers from Governor,,1796-03-02,4,3
@@ -494,25 +513,10 @@ strong,11,Cmte on KY Papers from Governor,,1796-03-02,4,3
 Tazewell,5,Cmte on KY Papers from Governor,,1796-03-02,4,3
 Vining,3,Cmte on KY Papers from Governor,,1796-03-02,4,3
 Walton,1,Cmte on KY Papers from Governor,,1796-03-02,4,3
-Bloodworth,1,Cmte on Jose R Silva,,1796-03-02,4,3
-Bradford,7,Cmte on Jose R Silva,,1796-03-02,4,3
-Brown,4,Cmte on Jose R Silva,,1796-03-02,4,3
-Cabot,5,Cmte on Jose R Silva,,1796-03-02,4,3
-Ellsworth,11,Cmte on Jose R Silva,,1796-03-02,4,3
-henry,1,Cmte on Jose R Silva,,1796-03-02,4,3
-King,15,Cmte on Jose R Silva,,1796-03-02,4,3
-Langdon,3,Cmte on Jose R Silva,,1796-03-02,4,3
-Livermore,5,Cmte on Jose R Silva,,1796-03-02,4,3
-Martin,3,Cmte on Jose R Silva,,1796-03-02,4,3
-Mason,3,Cmte on Jose R Silva,,1796-03-02,4,3
-Paine,1,Cmte on Jose R Silva,,1796-03-02,4,3
-Potts,4,Cmte on Jose R Silva,,1796-03-02,4,3
-Ross,2,Cmte on Jose R Silva,,1796-03-02,4,3
-Rutherfurd,1,Cmte on Jose R Silva,,1796-03-02,4,3
-Strong,2,Cmte on Jose R Silva,,1796-03-02,4,3
-Tazewell,1,Cmte on Jose R Silva,,1796-03-02,4,3
-Trumbull,1,Cmte on Jose R Silva,,1796-03-02,4,3
-Vining,2,Cmte on Jose R Silva,,1796-03-02,4,3
+Martin,1,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
+Paine,1,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
+Potts,4,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
+Walton,13,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
 Henry,2,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
 King,1,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
 Martin,2,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
@@ -522,10 +526,6 @@ Rutherfurd,1,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,
 Trumbull,7,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
 Vining,2,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
 Walton,1,Cmte on bill respecting clerks in place of Ellsworth,,1796-03-04,4,4
-Martin,1,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
-Paine,1,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
-Potts,4,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
-Walton,13,Cmte on Judiciary in place Ellsworth,,1796-03-04,4,4
 Bingham,3,Cmte on Anthony Walton White reimbursement advanced to Army,,1796-03-08,4,4
 Bloodworth,1,Cmte on Anthony Walton White reimbursement advanced to Army,,1796-03-08,4,4
 Bradford,2,Cmte on Anthony Walton White reimbursement advanced to Army,,1796-03-08,4,4
@@ -614,18 +614,6 @@ Ross,7,Cmte on Ebenezer Zane petition,,1796-03-25,4,4
 Strong,3,Cmte on Ebenezer Zane petition,,1796-03-25,4,4
 Tazewell,1,Cmte on Ebenezer Zane petition,,1796-03-25,4,4
 Trumbull,2,Cmte on Ebenezer Zane petition,,1796-03-25,4,4
-Bingham,1,Cmte on bill MD,,1796-03-28,4,4
-Bloodworth,1,Cmte on bill MD,,1796-03-28,4,4
-Bradford,11,Cmte on bill MD,,1796-03-28,4,4
-Cabot,1,Cmte on bill MD,,1796-03-28,4,4
-Foster,4,Cmte on bill MD,,1796-03-28,4,4
-Gunn,1,Cmte on bill MD,,1796-03-28,4,4
-Henry,14,Cmte on bill MD,,1796-03-28,4,4
-Langdon,1,Cmte on bill MD,,1796-03-28,4,4
-Livermore,2,Cmte on bill MD,,1796-03-28,4,4
-Marshall,3,Cmte on bill MD,,1796-03-28,4,4
-Paine,1,Cmte on bill MD,,1796-03-28,4,4
-Strong,7,Cmte on bill MD,,1796-03-28,4,4
 Bloodworth,1,Cmte on Pension bill,,1796-03-28,4,4
 Bradford,2,Cmte on Pension bill,,1796-03-28,4,4
 Brown,4,Cmte on Pension bill,,1796-03-28,4,4
@@ -644,6 +632,18 @@ Ross,4,Cmte on Pension bill,,1796-03-28,4,4
 Strong,6,Cmte on Pension bill,,1796-03-28,4,4
 Tazewell,7,Cmte on Pension bill,,1796-03-28,4,4
 Trumbull,6,Cmte on Pension bill,,1796-03-28,4,4
+Bingham,1,Cmte on bill MD,,1796-03-28,4,4
+Bloodworth,1,Cmte on bill MD,,1796-03-28,4,4
+Bradford,11,Cmte on bill MD,,1796-03-28,4,4
+Cabot,1,Cmte on bill MD,,1796-03-28,4,4
+Foster,4,Cmte on bill MD,,1796-03-28,4,4
+Gunn,1,Cmte on bill MD,,1796-03-28,4,4
+Henry,14,Cmte on bill MD,,1796-03-28,4,4
+Langdon,1,Cmte on bill MD,,1796-03-28,4,4
+Livermore,2,Cmte on bill MD,,1796-03-28,4,4
+Marshall,3,Cmte on bill MD,,1796-03-28,4,4
+Paine,1,Cmte on bill MD,,1796-03-28,4,4
+Strong,7,Cmte on bill MD,,1796-03-28,4,4
 Bingham,1,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
 Bloodworth,1,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
 Bradford,2,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
@@ -661,6 +661,18 @@ Read,15,Cmte on petition of Legare and company for remission of duties,,1796-04-
 Ross,2,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
 Strong,4,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
 Tazewell,3,Cmte on petition of Legare and company for remission of duties,,1796-04-01,4,4
+Brown,2,Cmte bill officers widows,,1796-04-04,4,5
+Henry,10,Cmte bill officers widows,,1796-04-04,4,5
+King,8,Cmte bill officers widows,,1796-04-04,4,5
+Langdon,2,Cmte bill officers widows,,1796-04-04,4,5
+Livermore,10,Cmte bill officers widows,,1796-04-04,4,5
+Marshall,1,Cmte bill officers widows,,1796-04-04,4,5
+Mason,1,Cmte bill officers widows,,1796-04-04,4,5
+Paine,1,Cmte bill officers widows,,1796-04-04,4,5
+Ross,10,Cmte bill officers widows,,1796-04-04,4,5
+Strong,11,Cmte bill officers widows,,1796-04-04,4,5
+Tazewell,2,Cmte bill officers widows,,1796-04-04,4,5
+Trumbull,2,Cmte bill officers widows,,1796-04-04,4,5
 Bingham,1,cmte on federal city bill,,1796-04-04,4,5
 Bradford,1,cmte on federal city bill,,1796-04-04,4,5
 Brown,2,cmte on federal city bill,,1796-04-04,4,5
@@ -679,18 +691,6 @@ Ross,5,cmte on federal city bill,,1796-04-04,4,5
 Strong,4,cmte on federal city bill,,1796-04-04,4,5
 Tazewell,6,cmte on federal city bill,,1796-04-04,4,5
 Trumbull,1,cmte on federal city bill,,1796-04-04,4,5
-Brown,2,Cmte bill officers widows,,1796-04-04,4,5
-Henry,10,Cmte bill officers widows,,1796-04-04,4,5
-King,8,Cmte bill officers widows,,1796-04-04,4,5
-Langdon,2,Cmte bill officers widows,,1796-04-04,4,5
-Livermore,10,Cmte bill officers widows,,1796-04-04,4,5
-Marshall,1,Cmte bill officers widows,,1796-04-04,4,5
-Mason,1,Cmte bill officers widows,,1796-04-04,4,5
-Paine,1,Cmte bill officers widows,,1796-04-04,4,5
-Ross,10,Cmte bill officers widows,,1796-04-04,4,5
-Strong,11,Cmte bill officers widows,,1796-04-04,4,5
-Tazewell,2,Cmte bill officers widows,,1796-04-04,4,5
-Trumbull,2,Cmte bill officers widows,,1796-04-04,4,5
 Bingham,1,Cmte of conference Indian trading houses bill,,1796-04-05,4,5
 Bradford,1,Cmte of conference Indian trading houses bill,,1796-04-05,4,5
 Brown,1,Cmte of conference Indian trading houses bill,,1796-04-05,4,5
@@ -841,12 +841,6 @@ read,2,Cmte on bill revenue cutters,,1796-04-26,4,6
 Ross,2,Cmte on bill revenue cutters,,1796-04-26,4,6
 Tattnall,1,Cmte on bill revenue cutters,,1796-04-26,4,6
 Trumbull,2,Cmte on bill revenue cutters,,1796-04-26,4,6
-Bingham,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
-Bloodworth,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
-Martin,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
-Potts,2,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
-Rutherfurd,9,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
-tazewell,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
 Bingham,13,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
 Bradford,1,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
 Brown,2,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
@@ -862,23 +856,12 @@ Read,3,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
 Robinson,2,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
 Ross,2,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
 Tazewell,3,Cmte on merchants petition of French in W Indies,,1796-04-27,4,6
-Bloodworth,6,cmte on message fees to the DAs,,1796-04-29,4,6
-Brown,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Burr,5,cmte on message fees to the DAs,,1796-04-29,4,6
-Cabot,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Henry,3,cmte on message fees to the DAs,,1796-04-29,4,6
-King,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Livermore,4,cmte on message fees to the DAs,,1796-04-29,4,6
-Marshall,2,cmte on message fees to the DAs,,1796-04-29,4,6
-Mason,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Potts,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Read,2,cmte on message fees to the DAs,,1796-04-29,4,6
-Robinson,1,cmte on message fees to the DAs,,1796-04-29,4,6
-Ross,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Rutherfurd,2,cmte on message fees to the DAs,,1796-04-29,4,6
-Tattnall,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Tazewell,3,cmte on message fees to the DAs,,1796-04-29,4,6
-Trumbull,1,cmte on message fees to the DAs,,1796-04-29,4,6
+Bingham,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
+Bloodworth,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
+Martin,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
+Potts,2,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
+Rutherfurd,9,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
+tazewell,1,cmte Bill Indian Trade in place of Strong,,1796-04-27,4,6
 Bloodworth,1,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
 Brown,2,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
 Burr,3,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
@@ -897,6 +880,23 @@ Read,5,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
 Ross,3,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
 tattnall,4,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
 Tazewell,6,Cmte on report of att general respecting lands in SW,,1796-04-29,4,6
+Bloodworth,6,cmte on message fees to the DAs,,1796-04-29,4,6
+Brown,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Burr,5,cmte on message fees to the DAs,,1796-04-29,4,6
+Cabot,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Henry,3,cmte on message fees to the DAs,,1796-04-29,4,6
+King,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Livermore,4,cmte on message fees to the DAs,,1796-04-29,4,6
+Marshall,2,cmte on message fees to the DAs,,1796-04-29,4,6
+Mason,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Potts,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Read,2,cmte on message fees to the DAs,,1796-04-29,4,6
+Robinson,1,cmte on message fees to the DAs,,1796-04-29,4,6
+Ross,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Rutherfurd,2,cmte on message fees to the DAs,,1796-04-29,4,6
+Tattnall,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Tazewell,3,cmte on message fees to the DAs,,1796-04-29,4,6
+Trumbull,1,cmte on message fees to the DAs,,1796-04-29,4,6
 Bingham,2,Jt Cmte on recess,,1796-05-02,4,6
 Brown,3,Jt Cmte on recess,,1796-05-02,4,6
 Burr,2,Jt Cmte on recess,,1796-05-02,4,6
@@ -967,40 +967,22 @@ Strong,2,cmte bill Moses Myers,,1796-05-06,4,6
 Tattnall,4,cmte bill Moses Myers,,1796-05-06,4,6
 Tazewell,4,cmte bill Moses Myers,,1796-05-06,4,6
 Trumbull,1,cmte bill Moses Myers,,1796-05-06,4,6
-Bingham,11,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Bradford,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Brown,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Burr,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Cabot,8,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Henry,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
-King,7,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Marshall,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Martin,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Potts,3,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Read,4,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Ross,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Rutherfurd,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Strong,6,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Tattnall,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Tazewell,3,Cmte on payments of debts of states bill,,1796-05-06,4,7
-Bingham,5,cmte on bill collection of duties,,1796-05-06,4,7
-Bloodworth,1,cmte on bill collection of duties,,1796-05-06,4,7
-Brown,3,cmte on bill collection of duties,,1796-05-06,4,7
-Burr,3,cmte on bill collection of duties,,1796-05-06,4,7
-Cabot,6,cmte on bill collection of duties,,1796-05-06,4,7
-Foster,3,cmte on bill collection of duties,,1796-05-06,4,7
-Henry,3,cmte on bill collection of duties,,1796-05-06,4,7
-King,2,cmte on bill collection of duties,,1796-05-06,4,7
-Latimer,1,cmte on bill collection of duties,,1796-05-06,4,7
-Martin,2,cmte on bill collection of duties,,1796-05-06,4,7
-Potts,7,cmte on bill collection of duties,,1796-05-06,4,7
-Read,3,cmte on bill collection of duties,,1796-05-06,4,7
-Ross,1,cmte on bill collection of duties,,1796-05-06,4,7
-Rutherfurd,2,cmte on bill collection of duties,,1796-05-06,4,7
-Strong,3,cmte on bill collection of duties,,1796-05-06,4,7
-Tattnall,1,cmte on bill collection of duties,,1796-05-06,4,7
-Tazewell,1,cmte on bill collection of duties,,1796-05-06,4,7
-Trumbull,1,cmte on bill collection of duties,,1796-05-06,4,7
+Bingham,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Bloodworth,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Bradford,7,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Brown,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Cabot,7,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Foster,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Frelinghuysen,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Henry,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+King,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Latimer,3,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Martin,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Read,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Ross,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Rutherfurd,11,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Strong,4,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
+Tazewell,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
 Bloodworth,2,Cmte horses billed in battle,,1796-05-06,4,7
 Bradford,3,Cmte horses billed in battle,,1796-05-06,4,7
 Brown,2,Cmte horses billed in battle,,1796-05-06,4,7
@@ -1020,6 +1002,22 @@ Strong,2,Cmte horses billed in battle,,1796-05-06,4,7
 Tattnall,1,Cmte horses billed in battle,,1796-05-06,4,7
 Tazewell,1,Cmte horses billed in battle,,1796-05-06,4,7
 Trumbull,1,Cmte horses billed in battle,,1796-05-06,4,7
+Bingham,11,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Bradford,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Brown,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Burr,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Cabot,8,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Henry,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
+King,7,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Marshall,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Martin,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Potts,3,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Read,4,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Ross,2,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Rutherfurd,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Strong,6,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Tattnall,1,Cmte on payments of debts of states bill,,1796-05-06,4,7
+Tazewell,3,Cmte on payments of debts of states bill,,1796-05-06,4,7
 Bloodworth,1,cmte Bill J Hastings,,1796-05-06,4,7
 Bradford,5,cmte Bill J Hastings,,1796-05-06,4,7
 Brown,1,cmte Bill J Hastings,,1796-05-06,4,7
@@ -1037,39 +1035,41 @@ Ross,2,cmte Bill J Hastings,,1796-05-06,4,7
 Strong,1,cmte Bill J Hastings,,1796-05-06,4,7
 Tazewell,2,cmte Bill J Hastings,,1796-05-06,4,7
 Trumbull,2,cmte Bill J Hastings,,1796-05-06,4,7
-Bingham,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Bloodworth,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Bradford,7,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Brown,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Cabot,7,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Foster,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Frelinghuysen,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Henry,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-King,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Latimer,3,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Martin,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Read,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Ross,1,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Rutherfurd,11,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Strong,4,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Tazewell,2,Cmte Leap Lead lighthouse Cape Cod - MA,,1796-05-06,4,7
-Bradford,1,cmte bill Carriages,,1796-05-09,4,7
-Burr,5,cmte bill Carriages,,1796-05-09,4,7
-Cabot,3,cmte bill Carriages,,1796-05-09,4,7
-Frelinghuysen,1,cmte bill Carriages,,1796-05-09,4,7
-Gunn,1,cmte bill Carriages,,1796-05-09,4,7
-Henry,3,cmte bill Carriages,,1796-05-09,4,7
-King,2,cmte bill Carriages,,1796-05-09,4,7
-Latimer,3,cmte bill Carriages,,1796-05-09,4,7
-Martin,1,cmte bill Carriages,,1796-05-09,4,7
-Potts,4,cmte bill Carriages,,1796-05-09,4,7
-Read,2,cmte bill Carriages,,1796-05-09,4,7
-Ross,4,cmte bill Carriages,,1796-05-09,4,7
-Rutherfurd,7,cmte bill Carriages,,1796-05-09,4,7
-Strong,5,cmte bill Carriages,,1796-05-09,4,7
-Tattnall,2,cmte bill Carriages,,1796-05-09,4,7
-Tazewell,7,cmte bill Carriages,,1796-05-09,4,7
-Trumbull,3,cmte bill Carriages,,1796-05-09,4,7
+Bingham,5,cmte on bill collection of duties,,1796-05-06,4,7
+Bloodworth,1,cmte on bill collection of duties,,1796-05-06,4,7
+Brown,3,cmte on bill collection of duties,,1796-05-06,4,7
+Burr,3,cmte on bill collection of duties,,1796-05-06,4,7
+Cabot,6,cmte on bill collection of duties,,1796-05-06,4,7
+Foster,3,cmte on bill collection of duties,,1796-05-06,4,7
+Henry,3,cmte on bill collection of duties,,1796-05-06,4,7
+King,2,cmte on bill collection of duties,,1796-05-06,4,7
+Latimer,1,cmte on bill collection of duties,,1796-05-06,4,7
+Martin,2,cmte on bill collection of duties,,1796-05-06,4,7
+Potts,7,cmte on bill collection of duties,,1796-05-06,4,7
+Read,3,cmte on bill collection of duties,,1796-05-06,4,7
+Ross,1,cmte on bill collection of duties,,1796-05-06,4,7
+Rutherfurd,2,cmte on bill collection of duties,,1796-05-06,4,7
+Strong,3,cmte on bill collection of duties,,1796-05-06,4,7
+Tattnall,1,cmte on bill collection of duties,,1796-05-06,4,7
+Tazewell,1,cmte on bill collection of duties,,1796-05-06,4,7
+Trumbull,1,cmte on bill collection of duties,,1796-05-06,4,7
+Bradford,1,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Burr,5,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Cabot,3,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Frelinghuysen,1,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Gunn,1,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Henry,3,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+King,2,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Latimer,3,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Martin,1,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Potts,4,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Read,2,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Ross,4,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Rutherfurd,7,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Strong,5,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Tattnall,2,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Tazewell,7,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
+Trumbull,3,Cmte on bill for laying duties on carriages,,1796-05-09,4,7
 Bloodworth,2,Cmte Silvanus Brown,,1796-05-10,4,7
 Bradford,1,Cmte Silvanus Brown,,1796-05-10,4,7
 Brown,2,Cmte Silvanus Brown,,1796-05-10,4,7
@@ -1116,24 +1116,24 @@ Read,3,Cmte bill relative to quarantine,,1796-05-13,4,7
 Rutherfurd,11,Cmte bill relative to quarantine,,1796-05-13,4,7
 Strong,2,Cmte bill relative to quarantine,,1796-05-13,4,7
 Tattnall,2,Cmte bill relative to quarantine,,1796-05-13,4,7
-Bradford,1,cmte bill sale prizes,,1796-05-14,4,7
-Burr,7,cmte bill sale prizes,,1796-05-14,4,7
-Butler,4,cmte bill sale prizes,,1796-05-14,4,7
-Cabot,7,cmte bill sale prizes,,1796-05-14,4,7
-Foster,1,cmte bill sale prizes,,1796-05-14,4,7
-Gunn,1,cmte bill sale prizes,,1796-05-14,4,7
-Henry,2,cmte bill sale prizes,,1796-05-14,4,7
-King,4,cmte bill sale prizes,,1796-05-14,4,7
-Langdon,1,cmte bill sale prizes,,1796-05-14,4,7
-Potts,3,cmte bill sale prizes,,1796-05-14,4,7
-Read,13,cmte bill sale prizes,,1796-05-14,4,7
-Robinson,1,cmte bill sale prizes,,1796-05-14,4,7
-Ross,3,cmte bill sale prizes,,1796-05-14,4,7
-Rutherfurd,3,cmte bill sale prizes,,1796-05-14,4,7
-Strong,1,cmte bill sale prizes,,1796-05-14,4,7
-Tattnall,2,cmte bill sale prizes,,1796-05-14,4,7
-tazewell,2,cmte bill sale prizes,,1796-05-14,4,7
-Trumbull,1,cmte bill sale prizes,,1796-05-14,4,7
+Bradford,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Burr,7,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Butler,4,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Cabot,7,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Foster,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Gunn,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Henry,2,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+King,4,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Langdon,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Potts,3,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Read,13,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Robinson,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Ross,3,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Rutherfurd,3,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Strong,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Tattnall,2,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+tazewell,2,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
+Trumbull,1,cmte bill sale prizes to foreign princes,,1796-05-14,4,7
 Brown,1,Cmte on military bill in place of Frelinghuysen,,1796-05-17,4,7
 Burr,5,Cmte on military bill in place of Frelinghuysen,,1796-05-17,4,7
 Potts,1,Cmte on military bill in place of Frelinghuysen,,1796-05-17,4,7
@@ -1234,6 +1234,16 @@ Ross,2,Cmte of conference on bills for imprisonment for debt,,1796-05-23,4,8
 Strong,14,Cmte of conference on bills for imprisonment for debt,,1796-05-23,4,8
 Tazewell,1,Cmte of conference on bills for imprisonment for debt,,1796-05-23,4,8
 Trumbull,1,Cmte of conference on bills for imprisonment for debt,,1796-05-23,4,8
+Bloodworth,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Brown,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Burr,4,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Gunn,14,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Langdon,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Read,1,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Ross,11,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Rutherfurd,1,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Tazewell,3,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Trumbull,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
 Bingham,9,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
 Bradford,1,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
 Brown,2,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
@@ -1253,16 +1263,16 @@ Strong,9,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
 Tattnall,5,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
 Tazewell,1,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
 Trumbull,1,Cmte on sugar & snuff drawback bill & petition,,1796-05-24,4,8
-Bloodworth,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Brown,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Burr,4,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Gunn,14,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Langdon,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Read,1,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Ross,11,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Rutherfurd,1,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Tazewell,3,Cmte of Conf military establishment bill,,1796-05-24,4,8
-Trumbull,2,Cmte of Conf military establishment bill,,1796-05-24,4,8
+Bradford,1,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Burr,3,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Foster,1,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Henry,1,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Langdon,2,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Robinson,2,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Ross,6,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Strong,8,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Tazewell,1,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
+Trumbull,1,Cmte of Conference on bill to regulate pay of certain clerks,,1796-05-26,4,8
 Bingham,4,Cmte on HR to prevent sale of prizes to replace Cabot,,1796-05-26,4,8
 Brown,1,Cmte on HR to prevent sale of prizes to replace Cabot,,1796-05-26,4,8
 Langdon,7,Cmte on HR to prevent sale of prizes to replace Cabot,,1796-05-26,4,8
@@ -1278,16 +1288,19 @@ Read,2,Conference cmte bill certain debts,,1796-05-26,4,8
 Ross,3,Conference cmte bill certain debts,,1796-05-26,4,8
 Strong,9,Conference cmte bill certain debts,,1796-05-26,4,8
 Tazewell,2,Conference cmte bill certain debts,,1796-05-26,4,8
-Bradford,1,Conference cmte on bill Clerks,,1796-05-26,4,8
-Burr,3,Conference cmte on bill Clerks,,1796-05-26,4,8
-Foster,1,Conference cmte on bill Clerks,,1796-05-26,4,8
-Henry,1,Conference cmte on bill Clerks,,1796-05-26,4,8
-Langdon,2,Conference cmte on bill Clerks,,1796-05-26,4,8
-Robinson,2,Conference cmte on bill Clerks,,1796-05-26,4,8
-Ross,6,Conference cmte on bill Clerks,,1796-05-26,4,8
-Strong,8,Conference cmte on bill Clerks,,1796-05-26,4,8
-Tazewell,1,Conference cmte on bill Clerks,,1796-05-26,4,8
-Trumbull,1,Conference cmte on bill Clerks,,1796-05-26,4,8
+Bingham,5,Cmte bill passports for US ships,,1796-05-27,4,9
+Bradford,5,Cmte bill passports for US ships,,1796-05-27,4,9
+Brown,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Burr,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Butler,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Langdon,3,Cmte bill passports for US ships,,1796-05-27,4,9
+Martin,2,Cmte bill passports for US ships,,1796-05-27,4,9
+Potts,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Read,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Robinson,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Strong,2,Cmte bill passports for US ships,,1796-05-27,4,9
+Tattnall,1,Cmte bill passports for US ships,,1796-05-27,4,9
+Tazewell,3,Cmte bill passports for US ships,,1796-05-27,4,9
 Bingham,2,Cmte on Bill for gen Greene,,1796-05-27,4,9
 Bloodworth,3,Cmte on Bill for gen Greene,,1796-05-27,4,9
 Bradford,4,Cmte on Bill for gen Greene,,1796-05-27,4,9
@@ -1318,19 +1331,6 @@ Rutherfurd,7,Cmte on salt springs,,1796-05-27,4,9
 Strong,3,Cmte on salt springs,,1796-05-27,4,9
 Tazewell,2,Cmte on salt springs,,1796-05-27,4,9
 Trumbull,1,Cmte on salt springs,,1796-05-27,4,9
-Bingham,5,Cmte bill passports,,1796-05-27,4,9
-Bradford,5,Cmte bill passports,,1796-05-27,4,9
-Brown,1,Cmte bill passports,,1796-05-27,4,9
-Burr,1,Cmte bill passports,,1796-05-27,4,9
-Butler,1,Cmte bill passports,,1796-05-27,4,9
-Langdon,3,Cmte bill passports,,1796-05-27,4,9
-Martin,2,Cmte bill passports,,1796-05-27,4,9
-Potts,1,Cmte bill passports,,1796-05-27,4,9
-Read,1,Cmte bill passports,,1796-05-27,4,9
-Robinson,1,Cmte bill passports,,1796-05-27,4,9
-Strong,2,Cmte bill passports,,1796-05-27,4,9
-Tattnall,1,Cmte bill passports,,1796-05-27,4,9
-Tazewell,3,Cmte bill passports,,1796-05-27,4,9
 Bloodworth,2,Cmte on John Sears,,1796-05-28,4,9
 Bradford,7,Cmte on John Sears,,1796-05-28,4,9
 Brown,4,Cmte on John Sears,,1796-05-28,4,9
@@ -1375,6 +1375,14 @@ Ross,5,Cmte on insurrection bill,,1796-05-28,4,9
 Strong,4,Cmte on insurrection bill,,1796-05-28,4,9
 Tazewell,3,Cmte on insurrection bill,,1796-05-28,4,9
 Trumbull,2,Cmte on insurrection bill,,1796-05-28,4,9
+Bing,15,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Brown,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Burr,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Butler,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Henry,1,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Read,3,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Strong,10,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
+Tattnall,1,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
 Bingham,2,cmte to wait on PUS,,1796-05-30,4,9
 Brad,1,cmte to wait on PUS,,1796-05-30,4,9
 Burr,1,cmte to wait on PUS,,1796-05-30,4,9
@@ -1390,21 +1398,13 @@ Strong,1,cmte to wait on PUS,,1796-05-30,4,9
 Tatt,1,cmte to wait on PUS,,1796-05-30,4,9
 Tazewell,2,cmte to wait on PUS,,1796-05-30,4,9
 Trumbull,2,cmte to wait on PUS,,1796-05-30,4,9
-Bing,15,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Brown,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Burr,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Butler,2,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Henry,1,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Read,3,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Strong,10,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Tattnall,1,Cmte of conference on sugar and snuff bill,,1796-05-30,4,9
-Burr,10,Cmte of conference on TN,,1796-05-31,4,9
-Butler,7,Cmte of conference on TN,,1796-05-31,4,9
-Potts,3,Cmte of conference on TN,,1796-05-31,4,9
-Read,2,Cmte of conference on TN,,1796-05-31,4,9
-Ross,7,Cmte of conference on TN,,1796-05-31,4,9
-Strong,10,Cmte of conference on TN,,1796-05-31,4,9
-Tazewell,5,Cmte of conference on TN,,1796-05-31,4,9
+Burr,10,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Butler,7,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Potts,3,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Read,2,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Ross,7,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Strong,10,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
+Tazewell,5,Cmte of conference on land ceded by North Carolina - re Tennessee,,1796-05-31,4,9
 Bing,2,Cmte on military appropriations,,1796-05-31,4,9
 Brad,2,Cmte on military appropriations,,1796-05-31,4,9
 Brown,5,Cmte on military appropriations,,1796-05-31,4,9
@@ -1522,22 +1522,22 @@ Stockton,1,Cmte on bill promulgation of laws,,1796-12-14,4,10
 Tazewell,1,Cmte on bill promulgation of laws,,1796-12-14,4,10
 Tichenor,2,Cmte on bill promulgation of laws,,1796-12-14,4,10
 Tracy,12,Cmte on bill promulgation of laws,,1796-12-14,4,10
-Bingham,4,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Brown,1,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Good,18,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Henry,3,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Hillhouse,5,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Langdon,1,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Laurance,12,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Livermore,7,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Martin,4,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Paine,2,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Read,3,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Ruth,2,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Stockton,2,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Tazewell,5,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Tichenor,1,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
-Tracy,1,Cmte on augmentation of salaries of govt officers,,1796-12-16,4,10
+Bingham,4,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Brown,1,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Good,18,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Henry,3,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Hillhouse,5,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Langdon,1,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Laurance,12,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Livermore,7,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Martin,4,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Paine,2,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Read,3,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Ruth,2,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Stockton,2,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Tazewell,5,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Tichenor,1,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
+Tracy,1,Cmte on augmentation of salaries of government officials and members of legislature,,1796-12-16,4,10
 Brown,3,Cmte on expiring laws,,1796-12-16,4,10
 Cocke,2,Cmte on expiring laws,,1796-12-16,4,10
 Foster,1,Cmte on expiring laws,,1796-12-16,4,10
@@ -1577,23 +1577,23 @@ Sedgwick,2,Cmte on unfinished business - Dec 26,,1796-12-26,4,10
 Tazewell,2,Cmte on unfinished business - Dec 26,,1796-12-26,4,10
 Tichenor,3,Cmte on unfinished business - Dec 26,,1796-12-26,4,10
 Tracy,12,Cmte on unfinished business - Dec 26,,1796-12-26,4,10
-Bloodworth,1,Cmte on bill TN,,1796-12-26,4,11
-Blount,15,Cmte on bill TN,,1796-12-26,4,11
-Brad,1,Cmte on bill TN,,1796-12-26,4,11
-Brown,3,Cmte on bill TN,,1796-12-26,4,11
-Cocke,2,Cmte on bill TN,,1796-12-26,4,11
-Good,1,Cmte on bill TN,,1796-12-26,4,11
-Henry,2,Cmte on bill TN,,1796-12-26,4,11
-Hill,1,Cmte on bill TN,,1796-12-26,4,11
-Latimer,1,Cmte on bill TN,,1796-12-26,4,11
-Marshall,2,Cmte on bill TN,,1796-12-26,4,11
-Martin,1,Cmte on bill TN,,1796-12-26,4,11
-Paine,3,Cmte on bill TN,,1796-12-26,4,11
-Read,6,Cmte on bill TN,,1796-12-26,4,11
-Ruth,3,Cmte on bill TN,,1796-12-26,4,11
-Sedg,4,Cmte on bill TN,,1796-12-26,4,11
-Taz,1,Cmte on bill TN,,1796-12-26,4,11
-Tracy,2,Cmte on bill TN,,1796-12-26,4,11
+Bloodworth,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Blount,15,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Brad,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Brown,3,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Cocke,2,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Good,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Henry,2,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Hill,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Latimer,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Marshall,2,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Martin,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Paine,3,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Read,6,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Ruth,3,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Sedg,4,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Taz,1,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
+Tracy,2,Cmte on bill to give effect to US laws in state of Tennessee,,1796-12-26,4,11
 Blount,1,Cmte on bill John Sears,,1796-12-29,4,11
 Brad,1,Cmte on bill John Sears,,1796-12-29,4,11
 Brown,1,Cmte on bill John Sears,,1796-12-29,4,11
@@ -1976,41 +1976,6 @@ Tazewell,2,cmte on PO,,1797-02-07,4,13
 Tichenor,6,cmte on PO,,1797-02-07,4,13
 Tracy,16,cmte on PO,,1797-02-07,4,13
 vining,1,cmte on PO,,1797-02-07,4,13
-Brown,4,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Burr,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Cocke,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Foster,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Henry,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-How,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Lang,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Lat,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Laur,6,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Liver,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Marshall,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Martin,2,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Paine,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Read,8,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Ross,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Sedgwick,19,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Stock,4,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Taz,9,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Tracy,2,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Vin,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
-Bingham,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Blount,2,Cmte on bill for military establishment,,1797-02-09,4,13
-Burr,12,Cmte on bill for military establishment,,1797-02-09,4,13
-Gunn,11,Cmte on bill for military establishment,,1797-02-09,4,13
-Henry,1,Cmte on bill for military establishment,,1797-02-09,4,13
-How,11,Cmte on bill for military establishment,,1797-02-09,4,13
-Lang,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Laur,4,Cmte on bill for military establishment,,1797-02-09,4,13
-Mart,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Mason,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Paine,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Ross,5,Cmte on bill for military establishment,,1797-02-09,4,13
-Stock,1,Cmte on bill for military establishment,,1797-02-09,4,13
-Taz,3,Cmte on bill for military establishment,,1797-02-09,4,13
-Tracy,5,Cmte on bill for military establishment,,1797-02-09,4,13
 Brown,3,Cmte on Anthony W White,,1797-02-09,4,13
 Burr,16,Cmte on Anthony W White,,1797-02-09,4,13
 Gunn,2,Cmte on Anthony W White,,1797-02-09,4,13
@@ -2032,6 +1997,41 @@ Taz,4,Cmte on Anthony W White,,1797-02-09,4,13
 Tich,1,Cmte on Anthony W White,,1797-02-09,4,13
 Tracy,10,Cmte on Anthony W White,,1797-02-09,4,13
 Vin,1,Cmte on Anthony W White,,1797-02-09,4,13
+Bingham,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Blount,2,Cmte on bill for military establishment,,1797-02-09,4,13
+Burr,12,Cmte on bill for military establishment,,1797-02-09,4,13
+Gunn,11,Cmte on bill for military establishment,,1797-02-09,4,13
+Henry,1,Cmte on bill for military establishment,,1797-02-09,4,13
+How,11,Cmte on bill for military establishment,,1797-02-09,4,13
+Lang,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Laur,4,Cmte on bill for military establishment,,1797-02-09,4,13
+Mart,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Mason,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Paine,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Ross,5,Cmte on bill for military establishment,,1797-02-09,4,13
+Stock,1,Cmte on bill for military establishment,,1797-02-09,4,13
+Taz,3,Cmte on bill for military establishment,,1797-02-09,4,13
+Tracy,5,Cmte on bill for military establishment,,1797-02-09,4,13
+Brown,4,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Burr,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Cocke,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Foster,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Henry,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+How,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Lang,3,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Lat,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Laur,6,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Liver,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Marshall,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Martin,2,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Paine,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Read,8,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Ross,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Sedgwick,19,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Stock,4,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Taz,9,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Tracy,2,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
+Vin,1,Jt Cmte re arrangements for PUS,,1797-02-09,4,13
 Bing,4,Cmte to notify VP of election as PUS,,1797-02-10,4,13
 Brown,1,Cmte to notify VP of election as PUS,,1797-02-10,4,13
 Burr,5,Cmte to notify VP of election as PUS,,1797-02-10,4,13
@@ -2048,42 +2048,6 @@ Ross,5,Cmte to notify VP of election as PUS,,1797-02-10,4,13
 Sedg,9,Cmte to notify VP of election as PUS,,1797-02-10,4,13
 tracy,4,Cmte to notify VP of election as PUS,,1797-02-10,4,13
 Vining,1,Cmte to notify VP of election as PUS,,1797-02-10,4,13
-Blood,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Brad,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Brown,1,Cmte on bill for de Neufville,,1797-02-15,4,13
-Burr,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Cocke,1,Cmte on bill for de Neufville,,1797-02-15,4,13
-Goodhue,1,Cmte on bill for de Neufville,,1797-02-15,4,13
-Hill,3,Cmte on bill for de Neufville,,1797-02-15,4,13
-How,1,Cmte on bill for de Neufville,,1797-02-15,4,13
-Lang,7,Cmte on bill for de Neufville,,1797-02-15,4,13
-Laur,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Liver,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Marsh,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Mart,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Mason,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Read,3,Cmte on bill for de Neufville,,1797-02-15,4,13
-Ruth,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Sedg,2,Cmte on bill for de Neufville,,1797-02-15,4,13
-Tatt,1,Cmte on bill for de Neufville,,1797-02-15,4,13
-Taz,4,Cmte on bill for de Neufville,,1797-02-15,4,13
-Tich,4,Cmte on bill for de Neufville,,1797-02-15,4,13
-tracy,12,Cmte on bill for de Neufville,,1797-02-15,4,13
-Blood,2,Cmte on bill for circuit courts,,1797-02-15,4,13
-Brown,2,Cmte on bill for circuit courts,,1797-02-15,4,13
-Cocke,1,Cmte on bill for circuit courts,,1797-02-15,4,13
-Henry,1,Cmte on bill for circuit courts,,1797-02-15,4,13
-Lang,1,Cmte on bill for circuit courts,,1797-02-15,4,13
-Laur,3,Cmte on bill for circuit courts,,1797-02-15,4,13
-Liver,8,Cmte on bill for circuit courts,,1797-02-15,4,13
-Paine,2,Cmte on bill for circuit courts,,1797-02-15,4,13
-Read,3,Cmte on bill for circuit courts,,1797-02-15,4,13
-Ross,3,Cmte on bill for circuit courts,,1797-02-15,4,13
-Sedg,10,Cmte on bill for circuit courts,,1797-02-15,4,13
-Taz,3,Cmte on bill for circuit courts,,1797-02-15,4,13
-Tich,1,Cmte on bill for circuit courts,,1797-02-15,4,13
-tracy,3,Cmte on bill for circuit courts,,1797-02-15,4,13
-Vin,8,Cmte on bill for circuit courts,,1797-02-15,4,13
 Bing,1,Cmte on bill distilled spirits,,1797-02-15,4,13
 Blood,1,Cmte on bill distilled spirits,,1797-02-15,4,13
 Brad,1,Cmte on bill distilled spirits,,1797-02-15,4,13
@@ -2108,22 +2072,58 @@ Sedg,13,Cmte on bill distilled spirits,,1797-02-15,4,13
 Taz,1,Cmte on bill distilled spirits,,1797-02-15,4,13
 Tich,1,Cmte on bill distilled spirits,,1797-02-15,4,13
 Tracy,6,Cmte on bill distilled spirits,,1797-02-15,4,13
-Brown,1,cmte on debtors to US,,1797-02-16,4,13
-Burr,3,cmte on debtors to US,,1797-02-16,4,13
-Good,1,cmte on debtors to US,,1797-02-16,4,13
-Henry,4,cmte on debtors to US,,1797-02-16,4,13
-Hill,1,cmte on debtors to US,,1797-02-16,4,13
-Lang,7,cmte on debtors to US,,1797-02-16,4,13
-Lat,1,cmte on debtors to US,,1797-02-16,4,13
-Laur,4,cmte on debtors to US,,1797-02-16,4,13
-Liver,6,cmte on debtors to US,,1797-02-16,4,13
-Marsh,3,cmte on debtors to US,,1797-02-16,4,13
-Read,15,cmte on debtors to US,,1797-02-16,4,13
-Ross,4,cmte on debtors to US,,1797-02-16,4,13
-Ruth,2,cmte on debtors to US,,1797-02-16,4,13
-Tatt,1,cmte on debtors to US,,1797-02-16,4,13
-Taz,3,cmte on debtors to US,,1797-02-16,4,13
-Tracy,4,cmte on debtors to US,,1797-02-16,4,13
+Blood,2,Cmte on bill for circuit courts,,1797-02-15,4,13
+Brown,2,Cmte on bill for circuit courts,,1797-02-15,4,13
+Cocke,1,Cmte on bill for circuit courts,,1797-02-15,4,13
+Henry,1,Cmte on bill for circuit courts,,1797-02-15,4,13
+Lang,1,Cmte on bill for circuit courts,,1797-02-15,4,13
+Laur,3,Cmte on bill for circuit courts,,1797-02-15,4,13
+Liver,8,Cmte on bill for circuit courts,,1797-02-15,4,13
+Paine,2,Cmte on bill for circuit courts,,1797-02-15,4,13
+Read,3,Cmte on bill for circuit courts,,1797-02-15,4,13
+Ross,3,Cmte on bill for circuit courts,,1797-02-15,4,13
+Sedg,10,Cmte on bill for circuit courts,,1797-02-15,4,13
+Taz,3,Cmte on bill for circuit courts,,1797-02-15,4,13
+Tich,1,Cmte on bill for circuit courts,,1797-02-15,4,13
+tracy,3,Cmte on bill for circuit courts,,1797-02-15,4,13
+Vin,8,Cmte on bill for circuit courts,,1797-02-15,4,13
+Blood,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Brad,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Brown,1,Cmte on bill for de Neufville,,1797-02-15,4,13
+Burr,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Cocke,1,Cmte on bill for de Neufville,,1797-02-15,4,13
+Goodhue,1,Cmte on bill for de Neufville,,1797-02-15,4,13
+Hill,3,Cmte on bill for de Neufville,,1797-02-15,4,13
+How,1,Cmte on bill for de Neufville,,1797-02-15,4,13
+Lang,7,Cmte on bill for de Neufville,,1797-02-15,4,13
+Laur,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Liver,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Marsh,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Mart,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Mason,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Read,3,Cmte on bill for de Neufville,,1797-02-15,4,13
+Ruth,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Sedg,2,Cmte on bill for de Neufville,,1797-02-15,4,13
+Tatt,1,Cmte on bill for de Neufville,,1797-02-15,4,13
+Taz,4,Cmte on bill for de Neufville,,1797-02-15,4,13
+Tich,4,Cmte on bill for de Neufville,,1797-02-15,4,13
+tracy,12,Cmte on bill for de Neufville,,1797-02-15,4,13
+Brown,1,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Burr,3,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Good,1,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Henry,4,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Hill,1,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Lang,7,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Lat,1,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Laur,4,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Liver,6,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Marsh,3,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Read,15,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Ross,4,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Ruth,2,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Tatt,1,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Taz,3,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
+Tracy,4,Cmte on bill settlement of accounts between US and receivers of public moneys,,1797-02-16,4,13
 Brad,1,Cmte to draft answer to VP's farewell address,,1797-02-16,4,13
 Brown,2,Cmte to draft answer to VP's farewell address,,1797-02-16,4,13
 Burr,12,Cmte to draft answer to VP's farewell address,,1797-02-16,4,13
@@ -2185,6 +2185,27 @@ Tatt,2,Cmte on HR Bills on Navy and coastal trade,,1797-02-20,4,14
 Taz,2,Cmte on HR Bills on Navy and coastal trade,,1797-02-20,4,14
 Tich,1,Cmte on HR Bills on Navy and coastal trade,,1797-02-20,4,14
 tracy,3,Cmte on HR Bills on Navy and coastal trade,,1797-02-20,4,14
+Blount,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Brad,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Brown,4,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Good,4,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Henry,6,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Hill,14,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Hunter,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Lang,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Laur,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Liver,3,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Mart,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Mason,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Paine,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Read,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Ross,5,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Ruth,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Sedg,6,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Stock,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Taze,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Tich,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Tracy,3,Cmte bill appropriation- insurrection,,1797-02-23,4,14
 Blood,1,Cmte on bill for salary for AG,,1797-02-23,4,14
 Blount,2,Cmte on bill for salary for AG,,1797-02-23,4,14
 Brad,1,Cmte on bill for salary for AG,,1797-02-23,4,14
@@ -2208,27 +2229,22 @@ Tatt,2,Cmte on bill for salary for AG,,1797-02-23,4,14
 Taz,9,Cmte on bill for salary for AG,,1797-02-23,4,14
 Tracy,3,Cmte on bill for salary for AG,,1797-02-23,4,14
 Vin,1,Cmte on bill for salary for AG,,1797-02-23,4,14
-Blount,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Brad,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Brown,4,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Good,4,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Henry,6,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Hill,14,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Hunter,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Lang,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Laur,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Liver,3,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Mart,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Mason,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Paine,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Read,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Ross,5,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Ruth,1,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Sedg,6,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Stock,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Taze,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Tich,2,Cmte bill appropriation- insurrection,,1797-02-23,4,14
-Tracy,3,Cmte bill appropriation- insurrection,,1797-02-23,4,14
+Brown,11,Cmte John C Symmes,,1797-02-24,4,14
+Good,3,Cmte John C Symmes,,1797-02-24,4,14
+Henry,2,Cmte John C Symmes,,1797-02-24,4,14
+Hill,1,Cmte John C Symmes,,1797-02-24,4,14
+How,3,Cmte John C Symmes,,1797-02-24,4,14
+Laur,3,Cmte John C Symmes,,1797-02-24,4,14
+Liver,2,Cmte John C Symmes,,1797-02-24,4,14
+Mason,1,Cmte John C Symmes,,1797-02-24,4,14
+Paine,5,Cmte John C Symmes,,1797-02-24,4,14
+Read,1,Cmte John C Symmes,,1797-02-24,4,14
+Ross,12,Cmte John C Symmes,,1797-02-24,4,14
+Ruth,2,Cmte John C Symmes,,1797-02-24,4,14
+Stock,12,Cmte John C Symmes,,1797-02-24,4,14
+Tatt,3,Cmte John C Symmes,,1797-02-24,4,14
+Taz,8,Cmte John C Symmes,,1797-02-24,4,14
+Tracy,3,Cmte John C Symmes,,1797-02-24,4,14
 Blount,1,Cmte bill Dey Regency Algiers,,1797-02-24,4,14
 Brad,1,Cmte bill Dey Regency Algiers,,1797-02-24,4,14
 Brown,4,Cmte bill Dey Regency Algiers,,1797-02-24,4,14
@@ -2267,22 +2283,6 @@ sedg,1,Cmte on compensation for officers of revenue,,1797-02-24,4,14
 Stock,2,Cmte on compensation for officers of revenue,,1797-02-24,4,14
 Tatt,3,Cmte on compensation for officers of revenue,,1797-02-24,4,14
 Vin,1,Cmte on compensation for officers of revenue,,1797-02-24,4,14
-Brown,11,Cmte John C Symmes,,1797-02-24,4,14
-Good,3,Cmte John C Symmes,,1797-02-24,4,14
-Henry,2,Cmte John C Symmes,,1797-02-24,4,14
-Hill,1,Cmte John C Symmes,,1797-02-24,4,14
-How,3,Cmte John C Symmes,,1797-02-24,4,14
-Laur,3,Cmte John C Symmes,,1797-02-24,4,14
-Liver,2,Cmte John C Symmes,,1797-02-24,4,14
-Mason,1,Cmte John C Symmes,,1797-02-24,4,14
-Paine,5,Cmte John C Symmes,,1797-02-24,4,14
-Read,1,Cmte John C Symmes,,1797-02-24,4,14
-Ross,12,Cmte John C Symmes,,1797-02-24,4,14
-Ruth,2,Cmte John C Symmes,,1797-02-24,4,14
-Stock,12,Cmte John C Symmes,,1797-02-24,4,14
-Tatt,3,Cmte John C Symmes,,1797-02-24,4,14
-Taz,8,Cmte John C Symmes,,1797-02-24,4,14
-Tracy,3,Cmte John C Symmes,,1797-02-24,4,14
 Burr,1,Cmte on embargo,,1797-02-25,4,15
 good,7,Cmte on embargo,,1797-02-25,4,15
 Henry,3,Cmte on embargo,,1797-02-25,4,15
@@ -2381,24 +2381,6 @@ Tatt,2,Cmte bill appropriations for claims of captives by belligerent powers,,17
 Taz,6,Cmte bill appropriations for claims of captives by belligerent powers,,1797-02-28,4,15
 Tich,1,Cmte bill appropriations for claims of captives by belligerent powers,,1797-02-28,4,15
 Vin,1,Cmte bill appropriations for claims of captives by belligerent powers,,1797-02-28,4,15
-Blood,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Brad,2,cmte on mitigation of penalties,,1797-02-28,4,15
-Brown,3,cmte on mitigation of penalties,,1797-02-28,4,15
-Foster,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Good,12,cmte on mitigation of penalties,,1797-02-28,4,15
-Henry,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Hill,1,cmte on mitigation of penalties,,1797-02-28,4,15
-How,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Lang,5,cmte on mitigation of penalties,,1797-02-28,4,15
-Laur,3,cmte on mitigation of penalties,,1797-02-28,4,15
-Liver,4,cmte on mitigation of penalties,,1797-02-28,4,15
-Paine,2,cmte on mitigation of penalties,,1797-02-28,4,15
-Read,5,cmte on mitigation of penalties,,1797-02-28,4,15
-Ross,2,cmte on mitigation of penalties,,1797-02-28,4,15
-Stock,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Tatt,1,cmte on mitigation of penalties,,1797-02-28,4,15
-Taz,2,cmte on mitigation of penalties,,1797-02-28,4,15
-Tich,1,cmte on mitigation of penalties,,1797-02-28,4,15
 Blood,13,Cmte bill next Congress,,1797-02-28,4,15
 Brad,1,Cmte bill next Congress,,1797-02-28,4,15
 Brown,2,Cmte bill next Congress,,1797-02-28,4,15
@@ -2417,6 +2399,24 @@ Stock,2,Cmte bill next Congress,,1797-02-28,4,15
 Taz,2,Cmte bill next Congress,,1797-02-28,4,15
 Tich,1,Cmte bill next Congress,,1797-02-28,4,15
 Vin,2,Cmte bill next Congress,,1797-02-28,4,15
+Blood,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Brad,2,cmte on mitigation of penalties,,1797-02-28,4,15
+Brown,3,cmte on mitigation of penalties,,1797-02-28,4,15
+Foster,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Good,12,cmte on mitigation of penalties,,1797-02-28,4,15
+Henry,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Hill,1,cmte on mitigation of penalties,,1797-02-28,4,15
+How,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Lang,5,cmte on mitigation of penalties,,1797-02-28,4,15
+Laur,3,cmte on mitigation of penalties,,1797-02-28,4,15
+Liver,4,cmte on mitigation of penalties,,1797-02-28,4,15
+Paine,2,cmte on mitigation of penalties,,1797-02-28,4,15
+Read,5,cmte on mitigation of penalties,,1797-02-28,4,15
+Ross,2,cmte on mitigation of penalties,,1797-02-28,4,15
+Stock,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Tatt,1,cmte on mitigation of penalties,,1797-02-28,4,15
+Taz,2,cmte on mitigation of penalties,,1797-02-28,4,15
+Tich,1,cmte on mitigation of penalties,,1797-02-28,4,15
 Brad,1,Cmte on Invalid bill,,1797-03-01,4,15
 Brown,3,Cmte on Invalid bill,,1797-03-01,4,15
 Cocke,1,Cmte on Invalid bill,,1797-03-01,4,15
@@ -2439,6 +2439,23 @@ Taz,5,Cmte on Invalid bill,,1797-03-01,4,15
 Tich,1,Cmte on Invalid bill,,1797-03-01,4,15
 Tracy,14,Cmte on Invalid bill,,1797-03-01,4,15
 Vino,1,Cmte on Invalid bill,,1797-03-01,4,15
+Blood,2,Cmte bill domestic debt,,1797-03-02,4,15
+Brad,1,Cmte bill domestic debt,,1797-03-02,4,15
+Burr,3,Cmte bill domestic debt,,1797-03-02,4,15
+Good,1,Cmte bill domestic debt,,1797-03-02,4,15
+Henry,7,Cmte bill domestic debt,,1797-03-02,4,15
+Hill,1,Cmte bill domestic debt,,1797-03-02,4,15
+How,1,Cmte bill domestic debt,,1797-03-02,4,15
+Lang,2,Cmte bill domestic debt,,1797-03-02,4,15
+Lat,2,Cmte bill domestic debt,,1797-03-02,4,15
+Liver,2,Cmte bill domestic debt,,1797-03-02,4,15
+Ross,1,Cmte bill domestic debt,,1797-03-02,4,15
+Ruth,1,Cmte bill domestic debt,,1797-03-02,4,15
+Sedg,1,Cmte bill domestic debt,,1797-03-02,4,15
+Stock,2,Cmte bill domestic debt,,1797-03-02,4,15
+tatt,1,Cmte bill domestic debt,,1797-03-02,4,15
+Taz,3,Cmte bill domestic debt,,1797-03-02,4,15
+Tracy,11,Cmte bill domestic debt,,1797-03-02,4,15
 Blood,1,Cmte on bill military est,,1797-03-02,4,15
 Brad,1,Cmte on bill military est,,1797-03-02,4,15
 Brown,2,Cmte on bill military est,,1797-03-02,4,15
@@ -2458,23 +2475,6 @@ Stock,1,Cmte on bill military est,,1797-03-02,4,15
 taz,3,Cmte on bill military est,,1797-03-02,4,15
 Tich,1,Cmte on bill military est,,1797-03-02,4,15
 Tracy,3,Cmte on bill military est,,1797-03-02,4,15
-Blood,2,Cmte bill domestic debt,,1797-03-02,4,15
-Brad,1,Cmte bill domestic debt,,1797-03-02,4,15
-Burr,3,Cmte bill domestic debt,,1797-03-02,4,15
-Good,1,Cmte bill domestic debt,,1797-03-02,4,15
-Henry,7,Cmte bill domestic debt,,1797-03-02,4,15
-Hill,1,Cmte bill domestic debt,,1797-03-02,4,15
-How,1,Cmte bill domestic debt,,1797-03-02,4,15
-Lang,2,Cmte bill domestic debt,,1797-03-02,4,15
-Lat,2,Cmte bill domestic debt,,1797-03-02,4,15
-Liver,2,Cmte bill domestic debt,,1797-03-02,4,15
-Ross,1,Cmte bill domestic debt,,1797-03-02,4,15
-Ruth,1,Cmte bill domestic debt,,1797-03-02,4,15
-Sedg,1,Cmte bill domestic debt,,1797-03-02,4,15
-Stock,2,Cmte bill domestic debt,,1797-03-02,4,15
-tatt,1,Cmte bill domestic debt,,1797-03-02,4,15
-Taz,3,Cmte bill domestic debt,,1797-03-02,4,15
-Tracy,11,Cmte bill domestic debt,,1797-03-02,4,15
 Blount,2,Cmte bill John Brown,,1797-03-03,4,15
 Bradford,10,Cmte bill John Brown,,1797-03-03,4,15
 Brown,2,Cmte bill John Brown,,1797-03-03,4,15
@@ -2498,15 +2498,6 @@ Stock,1,Cmte bill John Brown,,1797-03-03,4,15
 Taz,1,Cmte bill John Brown,,1797-03-03,4,15
 Tich,2,Cmte bill John Brown,,1797-03-03,4,15
 Tracy,1,Cmte bill John Brown,,1797-03-03,4,15
-Brad,1,Jt cmte to wait on pres,,1797-03-03,4,16
-Henry,2,Jt cmte to wait on pres,,1797-03-03,4,16
-Laur,3,Jt cmte to wait on pres,,1797-03-03,4,16
-Martin,3,Jt cmte to wait on pres,,1797-03-03,4,16
-read,5,Jt cmte to wait on pres,,1797-03-03,4,16
-Ross,2,Jt cmte to wait on pres,,1797-03-03,4,16
-Ruth,1,Jt cmte to wait on pres,,1797-03-03,4,16
-Sedg,10,Jt cmte to wait on pres,,1797-03-03,4,16
-Stock,13,Jt cmte to wait on pres,,1797-03-03,4,16
 Brad,3,Cmte on military appropriations,,1797-03-03,4,16
 Brown,3,Cmte on military appropriations,,1797-03-03,4,16
 Cocke,1,Cmte on military appropriations,,1797-03-03,4,16
@@ -2529,6 +2520,15 @@ Tatt,1,Cmte on military appropriations,,1797-03-03,4,16
 Taz,9,Cmte on military appropriations,,1797-03-03,4,16
 Tich,2,Cmte on military appropriations,,1797-03-03,4,16
 Tracy,9,Cmte on military appropriations,,1797-03-03,4,16
+Brad,1,Jt cmte to wait on pres,,1797-03-03,4,16
+Henry,2,Jt cmte to wait on pres,,1797-03-03,4,16
+Laur,3,Jt cmte to wait on pres,,1797-03-03,4,16
+Martin,3,Jt cmte to wait on pres,,1797-03-03,4,16
+read,5,Jt cmte to wait on pres,,1797-03-03,4,16
+Ross,2,Jt cmte to wait on pres,,1797-03-03,4,16
+Ruth,1,Jt cmte to wait on pres,,1797-03-03,4,16
+Sedg,10,Jt cmte to wait on pres,,1797-03-03,4,16
+Stock,13,Jt cmte to wait on pres,,1797-03-03,4,16
 Bing,7,Cmte to wait on pres,,1797-03-04,4,16
 Bloodworth,0,Cmte to wait on pres,,1797-03-04,4,16
 Brown,2,Cmte to wait on pres,,1797-03-04,4,16

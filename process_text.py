@@ -78,12 +78,6 @@ for txt in texts:
         print('I found', n_committees, 'committees and', n_dates, 'dates!')
         #print(dates)
 
-        #find types if they exist, else - none
-        #types_exist = input('Are committee types on page '+ pg +'? (y or n): ')
-        #if types_exist == 'y':
-         #   c_type = re.compile(r'(?<=Type: )(.*?)(?=[\n])')
-          #  cmte_types = re.findall(c_type, garbanzo)
-        #else:
         cmte_types = [None]*len(committees)
 
         starts = [m.start(0) for m in indices] #record first index of each committee
@@ -143,5 +137,7 @@ df['date'] = df['month'].astype(str) +'/' + df['day'].astype(str) + '/' +df['yea
 df['date'] = pd.to_datetime(df['date'], format="%m/%d/%Y").dt.date # convert to datetime datatype
 df = pd.concat([df, df_nd]) # add back n.d. committees
 df = df[["name", "votes", "committee", "cmte_type","date", "congress", "page"]]
-df = df.sort_values(by=['date','page', 'committee']) # sort by date, page
+df = df.sort_values(
+            by=['date', 'page', 'committee'], 
+            key=lambda col: col.str.lower() if col.name == 'committee' else col) # sort by date, page, committee
 df.to_csv('data/vote_data/' + folder + '_Data.csv', index=False)

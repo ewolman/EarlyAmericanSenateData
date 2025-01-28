@@ -10,7 +10,7 @@ Brown 1; Good 1; Greene 2; Hill 7; How 6; Hunt 3; Jack 1; Lang 1;
 Liver 11; Marsh 3; Mart 4; Mas 1; Paine 3; Read 3; Ross 4; Sedg
 2; Tracy 7.
 
-Cmte bill partial appropriation. Jan 8, 1798. Goodliune | Bow, Masr—
+Cmte bill partial appropriation. Jan 8, 1798. Goodliune | Bow, Masrï¿½
 
 Blood 1; Brown 7; Foster 2; Good 9; Greene 1; Hill 2; How 1; Hunt
 2; Jack 2; Lang 3; Lat 2; Liver 1; Mas 5; Read 3; Ross 4; Sedg 4;
@@ -33,7 +33,8 @@ And 2; Brown 1; Chip 3; Foster 1; Good 9; Gunn 3; Hill 1; How 7;
 Hunt 1; Lang 2; Lat 2; Liver 2; Marsh 3; Mart 5; Paine 1; Ross 2;
 Sedg 1; Tracy 6.
 
-Cmte bill taking evidence in contested elections. Jan 12, 1798.
+
+Cmte bill taking evidence in contested elections to HR. Jan 12, 1798.
 
 And 4; Brown 3; Chip 5; Greene 1; Hill 4; How 2; Hunt 1; Jack 1;
 Lang 1; Lat 1; Liver 9; Marsh 4; Mart 3; Mas 3; Paine 7; Read 3;

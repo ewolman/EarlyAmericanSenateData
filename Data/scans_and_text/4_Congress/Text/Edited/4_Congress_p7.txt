@@ -6,7 +6,7 @@ Bingham 11; Bradford 1; Brown 1; Burr 2; Cabot 8; Henry 2; King
 7; Marshall 1; Martin 1; Potts 3; Read 4; Ross 2; Rutherfurd 1;
 Strong 6; Tattnall 1; Tazewell 3.
 
-cmte on bill collection of duties. May 6, 1796. fétls Cabot, Busou
+cmte on bill collection of duties. May 6, 1796. fï¿½tls Cabot, Busou
 Bingham 5; Bloodworth 1; Brown 3; Burr 3; Cabot 6; Foster 3;
 Henry 3; King 2; Latimer 1; Martin 2; Potts 7; Read 3; Ross 1;
 Rutherfurd 2; Strong 3; Tattnall 1; Tazewell 1; Trumbull 1.
@@ -17,7 +17,7 @@ Bloodworth 2; Bradford 3; Brown 2; Burr 1; Cabot 1; Foster 1;
 Frelinghuysen 1; Gunn 2; Henry 1; Marshall 1; Martin 5; Potts 3;
 Read 2; Ross 7; Rutherfurd 2; Strong 2; Tattnall 1; Tazewell 1; Trumbull 1.
 
-cmte Bill J Hastings. May 6, 1796. Gunn, Bradford, Cabot»
+cmte Bill J Hastings. May 6, 1796. Gunn, Bradford, Cabotï¿½
 Bloodworth 1; Bradford 5; Brown 1; Burr 2; Cabot 5; Foster 1;
 Gunn 10; Henry 4; King 3; Latimer 4; Martin 2; Potts 2; read 1;
 Ross 2; Strong 1; Tazewell 2; Trumbull 2.
@@ -33,10 +33,13 @@ Bloodworth 2; Bradford 1; Brown 2; cabot 4; Foster 11; Gunn 3;
 Henry 2; King 1; Langdon 5; Marshall 3; Martin 6; Potts 5; Read
 2; Robinson 1; Ross 2; Rutherfurd 2; Strong 1; Tazewell 1.
 
-cmte bill Carriages. May 9, 1796. fuctha{li’  {c (| Bux
+
+Cmte on bill for laying duties on carriages. May 9, 1796.
+
 Bradford 1; Burr 5; Cabot 3; Frelinghuysen 1; Gunn 1; Henry 3;
 King 2; Latimer 3; Martin 1; Potts 4; Read 2; Ross 4; Rutherfurd
 7; Strong 5; Tattnall 2; Tazewell 7; Trumbull 3.
+
 
 cmte on VT & RI Courts. May 11, 1796. Bradford, obinsan , foster
 Bradford 6; Brown 1; Burr 1; Foster 3; King 1; Langdon 2; Latimer
@@ -47,7 +50,9 @@ Bingham 10; Bloodworth 2; Brown 1; Burr 1; cabot 2; Foster 1;
 Henry 1; Langdon 5; Latimer 2; Martin 2; Read 3; Rutherfurd 11;
 Strong 2; Tattnall 2.
 
-cmte bill sale prizes. May 14, 1796. Kead, Burr, Cabot
+
+cmte bill sale prizes to foreign princes. May 14, 1796. Kead, Burr, Cabot
+
 Bradford 1; Burr 7; Butler 4; Cabot 7; Foster 1; Gunn 1; Henry 2;
 King 4; Langdon 1; Potts 3; Read 13; Robinson 1; Ross 3;
 Rutherfurd 3; Strong 1; Tattnall 2; tazewell 2; Trumbull 1.

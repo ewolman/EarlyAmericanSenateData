@@ -36,6 +36,10 @@ votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
 cmtes = pd.read_sql('SELECT * FROM tCommittee;', conn)
 cmtes.to_csv('useful_tables/Committees.csv', index = False)
 
+cmte_count = pd.read_sql('''SELECT congress, COUNT(DISTINCT committee_id) as NumCmtes 
+                                FROM tCommittee GROUP BY congress;''', conn)
+cmte_count.to_csv('useful_tables/CommitteeCount.csv', index = False)
+
 all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
 all_time['VotesPerCmte'] = all_time['VotesPerCmte'].round(2)
 all_time['VotesPerCongress'] = all_time['VotesPerCongress'].round(2)

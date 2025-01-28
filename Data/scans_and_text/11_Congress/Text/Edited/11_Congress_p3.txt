@@ -69,7 +69,7 @@ And 23; Bay 2; Bradl 7; Brent 1; Frank 4; Germ 1; Giles 1; Gilm
 Pope 1; Reed 1; Rob 1; Thrus 1; Turner 12; White 2; Whites 2.
 
 
-Cmte to change poste route from Annapolis to Rockhall. June 16, 1809.V st Route. Read, Ware, Bredlory-
+Cmte to change post route from Annapolis to Rockhall. June 16, 1809.V st Route. Read, Ware, Bredlory-
 
 Bradl 10; Brent 1; Craw 6; Gilm 1; Gregg 4; Leib 3; Math 3; Reed
 20; NY 1; Thrus 1; Turner 1; White 11.
