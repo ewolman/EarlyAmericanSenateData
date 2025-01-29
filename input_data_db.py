@@ -27,9 +27,43 @@ conn = sqlite3.connect('database.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 
+# committee types
+cmte_types = pd.read_excel('data/tCommittee_types.xlsx', sheet_name='tCommittee')
+cmte_types = cmte_types[['committee_id', 'type']]
+cmte_types.columns = ['committee_id', 'committee_type']
+
+conn = sqlite3.connect('database.db')
+curs = conn.cursor() 
+cmtes = pd.read_sql('SELECT * FROM tCommittee;', conn)
+
+try:
+    if len(cmtes) == len(cmte_types):
+        print('same length')
+        r = 0 
+        for row in cmte_types.to_dict(orient = 'records'):
+            sql = "SELECT * FROM tCommittee WHERE committee_id = ?;"
+            update_sql = "UPDATE tCommittee SET committee_type = ? WHERE committee_id = ?;"
+            #print(row)
+            check = pd.read_sql(sql, conn, params = [row['committee_id']])
+            #print('we checked')
+            if len(check) == 1: #committee in db
+             #   print('trying to add to db')
+                curs.execute(update_sql, (row['committee_type'], str(row['committee_id'])))
+                #if r < 5:
+              #  print('added to db')
+               # r +=1
+            else:
+                print('committee_id not in db')
+        conn.commit()
+except Exception as err:
+    print(row)
+    print('the cmte types sheet and the database do not agree')
+    conn.rollback()
+
+
 print('Generating spreadsheets ...')
 # create spreadsheets of views for easy use
-conn = sqlite3.connect('database.db')  
+
 votes = pd.read_sql('SELECT * FROM vIndividualVotes;', conn)
 votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
 

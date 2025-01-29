@@ -22,6 +22,23 @@ def FillTable(TableName, Data, curs):
             return 0
     return 1
 
+def CmteTypes(TableName, Data, curs):
+    i=0
+    
+    sql = "INSERT INTO " + TableName + " (" + \
+           ",".join([c for c in Data.columns]) + \
+           ") VALUES (" + ",".join([':' + c for c in Data.columns]) + ");"
+    for row in Data.to_dict(orient='records'):
+        try:
+            i+=1
+            curs.execute(sql,row)
+        except Exception as e:
+            print(e)
+            print(row)
+            print(i)
+            return 0
+    return 1
+
 def Rebuild():
     
     try:
@@ -68,15 +85,15 @@ def Rebuild():
                         age INTEGER, 
                         state TEXT NOT NULL CHECK (length(state) == 2),
                         party TEXT);""")
-
-#                        committee_type TEXT,
+                        
         curs.execute('DROP TABLE IF EXISTS tCommittee')
         curs.execute("""CREATE TABLE tCommittee(
                         committee_id INTEGER PRIMARY KEY AUTOINCREMENT,
                         committee_name TEXT NOT NULL,
                         date TEXT NOT NULL CHECK (date LIKE '____-__-__' OR date LIKE 'n.d.'),
                         congress INTEGER NOT NULL CHECK (congress < 17),
-                        page TEXT NOT NULL CHECK ((length(page) < 3) OR (length(page) == 5)));""")
+                        page TEXT NOT NULL CHECK ((length(page) < 3) OR (length(page) == 5)),
+                        committee_type TEXT);""")
 
         curs.execute('DROP TABLE IF EXISTS tVotes')
         curs.execute("""CREATE TABLE tVotes(
@@ -96,8 +113,8 @@ def Rebuild():
                       FROM(tSenatorByCongress 
                       LEFT JOIN tSenator
                       USING(senator_id))) 
-                SELECT first_name, middle_name, last_name, age, congress, state, party, votes, committee_name, date, senator_id, senator_congress_id, committee_id
-                  FROM(SELECT senator_congress_id, votes, committee_name, date, committee_id
+                SELECT first_name, middle_name, last_name, age, congress, state, party, votes, committee_name, date, committee_type, senator_id, senator_congress_id, committee_id
+                  FROM(SELECT senator_congress_id, votes, committee_name, date, committee_type, committee_id
                         FROM tVotes
                         LEFT JOIN tCommittee
                         USING(committee_id))
@@ -171,9 +188,8 @@ def GetSenatorCongressID(senator_id, congress, age, state, party, conn, curs):
 
     return sen_congress_id
 
-def GetCmteID(cmte_name, date, congress, pg, conn, curs):
 
-#                AND committee_type = ?
+def GetCmteID(cmte_name, date, congress, pg, conn, curs):
 
     sql = """SELECT committee_id FROM tCommittee
                 WHERE committee_name = ?
