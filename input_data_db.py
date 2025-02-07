@@ -63,8 +63,18 @@ except Exception as err:
 
 print('Generating spreadsheets ...')
 # create spreadsheets of views for easy use
+# function to add full name col
+def add_full_name_col(df, st = True):
+    df['middle_name'] = df['middle_name'].fillna('')
+    if st:
+        col = (df['first_name'] + ' ' + df['middle_name'] + ' ' + 
+                df['last_name'] + ' (' + df['state'] + ')').str.replace('  ',' ')
+    else:
+        col = (df['first_name'] + ' ' + df['middle_name'] + ' ' + df['last_name']).str.replace('  ',' ')
+    return col
 
 votes = pd.read_sql('SELECT * FROM vIndividualVotes;', conn)
+votes['full_name_st'] = add_full_name_col(votes)
 votes.to_csv('useful_tables/IndividualVotesByCmte.csv', index = False)
 
 cmtes = pd.read_sql('SELECT * FROM tCommittee;', conn)
@@ -77,13 +87,21 @@ cmte_count.to_csv('useful_tables/CommitteeCount.csv', index = False)
 all_time = pd.read_sql('SELECT * FROM vTotalVotesAllTime;', conn)
 all_time['VotesPerCmte'] = all_time['VotesPerCmte'].round(2)
 all_time['VotesPerCongress'] = all_time['VotesPerCongress'].round(2)
+all_time['full_name'] = add_full_name_col(all_time, st = False)
+# add vote totals by committee type
+votes_by_type_at = votes.groupby(by = ['senator_id','committee_type'], as_index = False).agg({'votes':'sum'})
+votes_by_type_at = votes_by_type_at.pivot(index='senator_id',columns='committee_type', values='votes')
+all_time = all_time.join(votes_by_type_at, how = 'inner', on = 'senator_id')
 all_time.to_csv('useful_tables/TotalVotesAllTime.csv', index = False)
 
+
 congress = pd.read_sql('SELECT * FROM vTotalVotesByCongress;', conn)
-congress['middle_name'] = congress['middle_name'].fillna('')
-congress['full_name_st'] = (congress['first_name'] + ' ' + congress['middle_name'] + ' ' + 
-                            congress['last_name'] + ' (' + congress['state'] + ')').str.replace('  ',' ')
+congress['full_name_st'] = add_full_name_col(congress)
 congress['VotesPerCmte'] = congress['VotesPerCmte'].round(2)
+# add vote totals by committee type
+votes_by_type_c = votes.groupby(by = ['senator_congress_id','committee_type'], as_index = False).agg({'votes':'sum'})
+votes_by_type_c = votes_by_type_c.pivot(index='senator_congress_id',columns='committee_type', values='votes')
+congress = congress.join(votes_by_type_c, how = 'inner', on = 'senator_congress_id')
 congress.to_csv('useful_tables/TotalVotesByCongress.csv', index = False)
 # more than 3 congresses (full term)
 count_congress = congress.groupby(by = 'senator_id', as_index=False).agg({'congress':'nunique'})

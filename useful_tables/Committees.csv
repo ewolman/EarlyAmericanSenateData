@@ -75,7 +75,7 @@ committee_id,committee_name,date,congress,page,committee_type
 74,Cmte on Beacons and buoys bill,1792-04-02,2,6,Commerce
 75,Cmte on Treasury & War Dept bill,1792-04-03,2,6,Misc
 76,Cmte on OH Bill,1792-04-09,2,6,Public Lands
-77,cmte on the Wilmington School,1792-04-10,2,6,\
+77,cmte on the Wilmington School,1792-04-10,2,6,Claims
 78,Cmte on duties on teas bill,1792-04-10,2,7,Commerce
 79,Cmte on General Greene,1792-04-12,2,7,Claims
 80,cmte on enrolled bills to replace Ruthurfurd,1792-04-19,2,7,Administrative
@@ -152,7 +152,7 @@ committee_id,committee_name,date,congress,page,committee_type
 151,Cmte bill intercourse with foreign nations,1794-03-14,3,13,Foreign Affairs
 152,Cmte on bill military appropriations,1794-03-14,3,13,Military
 153,Cmte on bill naval armament,1794-03-17,3,13,Military
-154,Cmte on bill for Arsenals & Magazines,1794-03-19,3,13,Military 
+154,Cmte on bill for Arsenals & Magazines,1794-03-19,3,13,Military
 155,cmte on lost certificates,1794-03-19,3,14,Finance
 156,Cmte on bill Calling Congress to alter place,1794-03-20,3,13,Administrative
 157,Cmte on motion respecting district courts in NH,1794-03-21,3,13,Judiciary
@@ -431,7 +431,7 @@ committee_id,committee_name,date,congress,page,committee_type
 430,Cmte to prepare answer to PUS's speech,1797-05-16,5,1,Ceremonial
 431,Cmte on answer to address And Addition,1797-05-19,5,1,Ceremonial
 432,Cmte on Arming Vessels,1797-05-29,5,1,Military
-433,Cmte on artillery & Cavalry & Provisional army,1797-05-29,5,1,Military 
+433,Cmte on artillery & Cavalry & Provisional army,1797-05-29,5,1,Military
 434,Cmte on bill militia,1797-05-29,5,1,Military
 435,Cmte on ports & harbors,1797-05-29,5,1,Commerce
 436,Cmte on recommitted bill depredations by Americans on American,1797-05-29,5,1,Military
@@ -443,7 +443,7 @@ committee_id,committee_name,date,congress,page,committee_type
 442,Cmte on bill register ships,1797-06-19,5,2,Commerce
 443,Cmte bill British Agents,1797-06-20,5,2,Foreign Affairs
 444,Cmte on bill militia,1797-06-20,5,2,Military
-445,cmte on bill private army ships,1797-06-21,5,2,Military 
+445,cmte on bill private army ships,1797-06-21,5,2,Military
 446,Cmte of Conference on bill protection of trade,1797-06-27,5,2,Commerce
 447,Cmte on message of PUS on ships for Dey of Algiers,1797-06-27,5,2,Foreign Affairs
 448,Cmte bill licenses,1797-06-28,5,3,Commerce
@@ -509,7 +509,7 @@ committee_id,committee_name,date,congress,page,committee_type
 508,cmte on petition of Joseph Ball & others,1798-03-14,5,8,Claims
 509,Cmte on petition of Margaret Lapsley,1798-03-14,5,8,Claims
 510,Cmte in place of Gunn - Cmte on PUS's message -- security and protection of Commerce,1798-03-15,5,8,Military
-511,Cmte bill City of Washington,1798-03-21,5,9,Washington Dc
+511,Cmte bill City of Washington,1798-03-21,5,9,Washington DC
 512,Cmte on bill arms & ammo,1798-03-22,5,9,Military
 513,Cmte supplemental judiciary,1798-03-22,5,9,Judiciary
 514,Cmte bill duties on foreign and domestic spirits,1798-03-23,5,9,Commerce
@@ -518,7 +518,7 @@ committee_id,committee_name,date,congress,page,committee_type
 517,Cmte on Bingham's motion to amend bill naval armament,1798-04-03,5,9,Military
 518,Cmte of Conference on Blount impeachment,1798-04-09,5,9,Judiciary
 519,Cmte bill regulation administration of oaths,1798-04-10,5,9,Judiciary
-520,Cmte recommit bill City of Washington,1798-04-10,5,9,Washington Dc
+520,Cmte recommit bill City of Washington,1798-04-10,5,9,Washington DC
 521,Cmte NC bill declare consent to state law,1798-04-10,5,10,Finance
 522,Cmte Mohawk treaty,1798-04-13,5,10,Indian Affairs
 523,emte on sick seamen,1798-04-13,5,10,Military
@@ -642,7 +642,7 @@ committee_id,committee_name,date,congress,page,committee_type
 641,Cmte on erect beacon on Boon Island,1799-02-25,5,20,Commerce
 642,cmte bill Marine Corps,1799-02-27,5,20,Military
 643,Cmte on post office,1799-02-27,5,20,Post Office
-644,Cmte amendment bill organizing army,1799-02-28,5,20,Military 
+644,Cmte amendment bill organizing army,1799-02-28,5,20,Military
 645,Cmte bill 80000 militia,1799-02-28,5,20,Military
 646,Cmte lands United Brethren,1799-03-01,5,21,Claims
 647,Cmte of conference on bill payment of officers of Congress,1799-03-01,5,21,Administrative
@@ -744,8 +744,8 @@ committee_id,committee_name,date,congress,page,committee_type
 743,Cmte inquire state of mint,1800-04-02,6,12,Finance
 744,Cmte on sale of lands in NW territory,1800-04-03,6,12,Public Lands
 745,Cmte on navy bill,1800-04-07,6,9,Military
-746,Cmte bill arrangement army,1800-04-07,6,12,Military 
-747,Cmte bill seat of govt,1800-04-08,6,12,Washington Dc
+746,Cmte bill arrangement army,1800-04-07,6,12,Military
+747,Cmte bill seat of govt,1800-04-08,6,12,Washington DC
 748,Cmte bill tariff on sugar and snuff,1800-04-08,6,12,Commerce
 749,Cmte of Conference bill stamps,1800-04-08,6,12,Finance
 750,cmte on merchant vessels,1800-04-08,6,12,Military
@@ -785,14 +785,14 @@ committee_id,committee_name,date,congress,page,committee_type
 784,Cmte on bill trading houses with Indians,1800-05-10,6,16,Indian Affairs
 785,cmte of Conference power of surveyors of revenue,1800-05-11,6,16,Commerce
 786,Cmte of conference on amendments to mint bill,1800-05-12,6,16,Finance
-787,Cmte on HR amendments to augmenting the army,1800-05-12,6,16,Military 
+787,Cmte on HR amendments to augmenting the army,1800-05-12,6,16,Military
 788,Cmte on bill refugees of Canada & Nova Scotia,1800-05-12,6,17,Foreign Affairs
 789,Cmte on resolution of Laws of Governor & judges of MS Territory,1800-05-12,6,17,Judiciary
 790,cmte to wait on PUS to notify adjourn,1800-05-14,6,16,Ceremonial
 791,cmte to wait on PUS,1800-11-21,6,17,Ceremonial
 792,Cmte on reply to PUS's message,1800-11-22,6,17,Ceremonial
 793,Cmte on bill delegate from NW Territory franking privilege,1800-12-03,6,17,Administrative
-794,Cmte on bill on powers over Washington DC,1800-12-05,6,17,Washington Dc
+794,Cmte on bill on powers over Washington DC,1800-12-05,6,17,Washington DC
 795,Cmte on Shadrach Inman's petition,1800-12-08,6,17,Claims
 796,Cmte on petition of Paul McDermott,1800-12-08,6,18,Claims
 797,cmte on enrolled bills,1800-12-10,6,17,Administrative
@@ -838,13 +838,13 @@ committee_id,committee_name,date,congress,page,committee_type
 837,Cmte bill to amend Bankruptcy bill,1801-03-02,6,21,Judiciary
 838,Cmte bill receivers of public money for lands,1801-03-02,6,22,Public Lands
 839,Cmte on bill altering the time of holding certain courts,1801-03-02,6,22,Judiciary
-840,Cmte on bill DC,1801-03-02,6,22,Washington Dc
+840,Cmte on bill DC,1801-03-02,6,22,Washington DC
 841,Cmte on bill Sec of T to employ Clerks,1801-03-02,6,22,Finance
 842,Cmte on bill teas destroyed by fires in RI,1801-03-02,6,22,Claims
 843,Cmte on letter of VP this day,1801-03-02,6,22,Ceremonial
 844,cmte bill for relief of Laurance Elb,1801-03-03,6,22,Claims
 845,Cmte bill to amend stamp act,1801-03-03,6,22,Finance
-846,Cmte on HR bill to amend seat of govt,1801-03-03,6,22,Washington Dc
+846,Cmte on HR bill to amend seat of govt,1801-03-03,6,22,Washington DC
 847,Cmte to wait on PUS,1801-03-03,6,22,Ceremonial
 848,Cmte respecting books,1801-12-07,7,1,Administrative
 849,Jt cmte to wait on PUS,1801-12-07,7,1,Ceremonial
@@ -854,7 +854,7 @@ committee_id,committee_name,date,congress,page,committee_type
 853,Cmte on Isaac Zane's petition,1801-12-31,7,1,Claims
 854,Cmte on library,1801-12-31,7,1,Administrative
 855,Cmte bill apportion representatives,1802-01-07,7,1,Judiciary
-856,Cmte on message of PUS of Jan 11 with report of commissioners of city of Washington,1802-01-11,7,1,Washington Dc
+856,Cmte on message of PUS of Jan 11 with report of commissioners of city of Washington,1802-01-11,7,1,Washington DC
 857,Cmte of conference on bill library,1802-01-15,7,1,Administrative
 858,Cmte on bill Jonathan Hobby,1802-01-15,7,1,Claims
 859,Cmte on resolution for repealing the Judicial act of 2/13/1801,1802-01-19,7,2,Judiciary
@@ -872,20 +872,20 @@ committee_id,committee_name,date,congress,page,committee_type
 871,Cmte on bill surgeons,1803-02-25,7,3,Military
 872,Cmte on resolutions of Breckinridge to bring bill accordingly regarding readiness of militia,1803-02-25,7,3,Military
 873,Cmte on United Brethren,1803-02-25,7,3,Claims
-874,cmte on bill DC,1803-02-26,7,3,Washington Dc
-875,Cmte on bill insurance co Alexandria,1803-02-26,7,3,Washington Dc
+874,cmte on bill DC,1803-02-26,7,3,Washington DC
+875,Cmte on bill insurance co Alexandria,1803-02-26,7,3,Washington DC
 876,Cmte on bill judicial courts,1803-02-26,7,3,Judiciary
 877,Cmte on bill Pensbscot lighthouse,1803-02-26,7,3,Commerce
 878,cmte on bill ports of entry,1803-02-26,7,3,Commerce
 879,Cmte on Lands south of the state of TN,1803-02-26,7,3,Public Lands
 880,Cmte on Canadian Refugees,1803-02-28,7,3,Public Lands
-881,Cmte on bill Washington DC militia,1803-02-28,7,4,Washington Dc
+881,Cmte on bill Washington DC militia,1803-02-28,7,4,Washington DC
 882,cmte on bill Paul Coulon,1803-03-01,7,4,Claims
 883,Cmte on Joshua Harvey,1803-03-01,7,4,Claims
 884,Cmte on Marine Corps,1803-03-01,7,4,Military
 885,emte on enrolled bills,1803-03-01,7,4,Administrative
 886,Cmte on bill - Brigantine Henrick,1803-03-02,7,4,Claims
-887,Cmte on bill concerning city of Washington,1803-03-02,7,4,Washington Dc
+887,Cmte on bill concerning city of Washington,1803-03-02,7,4,Washington DC
 888,Cmte of conference on appropriations for military establishment,1803-03-03,7,4,Military
 889,cmte on impeachment of John Pickering,1803-03-03,7,4,Judiciary
 890,cmte on refined sugar,1803-03-03,7,4,Commerce
@@ -931,7 +931,7 @@ committee_id,committee_name,date,congress,page,committee_type
 930,Cmte on Columbian Library,1803-12-23,8,5,Claims
 931,Cmte on judges in IN territory,1803-12-23,8,5,Judiciary
 932,Cmte on John Cole's act,1804-01-03,8,6,Claims
-933,Cmte on Wash Building Co,1804-01-04,8,6,Washington Dc
+933,Cmte on Wash Building Co,1804-01-04,8,6,Washington DC
 934,Cmte on military appropriations,1804-01-05,8,6,Military
 935,Cmte on NC Acts,1804-01-05,8,6,Misc
 936,Cmte on Louisiana bill recommitted - make US laws effective in territory,1804-01-06,8,6,Judiciary
@@ -945,7 +945,7 @@ committee_id,committee_name,date,congress,page,committee_type
 944,Cmte on bill directions to collectors,1804-01-26,8,7,Commerce
 945,Cmte of conference on military appropriations bill,1804-01-30,8,7,Military
 946,Cmte of conference on LA laws,1804-01-31,8,7,Judiciary
-947,Cmte on District of Columbia supplement bill,1804-02-02,8,7,Washington Dc
+947,Cmte on District of Columbia supplement bill,1804-02-02,8,7,Washington DC
 948,Cmte on petition of J H Stone Rev War Pension,1804-02-03,8,7,Claims
 949,Cmte on Moorish ships,1804-02-03,8,8,Claims
 950,Cmte on salary bill,1804-02-03,8,8,Finance
@@ -958,7 +958,7 @@ committee_id,committee_name,date,congress,page,committee_type
 957,cmte on bill for relief of samuel corp,1804-02-15,8,9,Claims
 958,Jt Cmte on recess and necessary business,1804-02-15,8,9,Administrative
 959,Cmte on OH Roads,1804-02-16,8,9,Roads And Canals
-960,Cmte on bill to amend Alexandria Charter,1804-02-18,8,9,Washington Dc
+960,Cmte on bill to amend Alexandria Charter,1804-02-18,8,9,Washington DC
 961,Cmte on Nancy flinn,1804-02-18,8,9,Claims
 962,Cmte on PUS & VP bill - Nicholas's motion,1804-02-21,8,9,Judiciary
 963,Cmte on appropriations,1804-02-23,8,9,Finance
@@ -984,7 +984,7 @@ committee_id,committee_name,date,congress,page,committee_type
 983,Cmte on Indian claims,1804-03-10,8,12,Indian Affairs
 984,Cmte on MS lighthouse,1804-03-10,8,12,Commerce
 985,Cmte on appropriation for impeachment trials bill,1804-03-12,8,12,Judiciary
-986,Cmte on bill supplemental to City of Washington,1804-03-12,8,12,Washington Dc
+986,Cmte on bill supplemental to City of Washington,1804-03-12,8,12,Washington DC
 987,Cmte on impeachment trial of Samuel Chase,1804-03-13,8,12,Judiciary
 988,Cmte on petition of M Young,1804-03-13,8,12,Claims
 989,Cmte on public roads,1804-03-13,8,12,Roads And Canals
@@ -1025,7 +1025,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1024,Cmte on John York,1805-01-30,8,16,Claims
 1025,cmte on petition of George Dougherty,1805-02-04,8,16,Claims
 1026,Cmte on petitions of Ethan Stone Jeremiah Hunt and Joseph Prince for preemption rights,1805-02-04,8,16,Public Lands
-1027,Cmte on DC,1805-02-06,8,17,Washington Dc
+1027,Cmte on DC,1805-02-06,8,17,Washington DC
 1028,cmte on bill consent to Maryland law for health officer,1805-02-07,8,17,Commerce
 1029,Cmte on peace in ports & harbors bill,1805-02-07,8,17,Military
 1030,cmte on further govt of LA bill,1805-02-08,8,17,Judiciary
@@ -1057,14 +1057,14 @@ committee_id,committee_name,date,congress,page,committee_type
 1056,Cmte on petition of Philip Jones and others for compensations as judges in New Orleans,1805-12-31,9,12,Judiciary
 1057,Cmte on petitions New Orleans land titles (5 members),1805-12-31,9,12,Public Lands
 1058,Cmte on lighthouse bill,1806-01-02,9,12,Commerce
-1059,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,1806-01-03,9,11,Washington Dc
+1059,Cmte on nominations of Joseph Bromley and Thomas Hewitt as justices of peace Washington DC,1806-01-03,9,11,Washington DC
 1060,Cmte on report of secretary of Treasury bill on certain imports from Britain,1806-01-03,9,12,Commerce
-1061,Cmte on memorial of Trustees of Academy Washington,1806-01-06,9,12,Washington Dc
+1061,Cmte on memorial of Trustees of Academy Washington,1806-01-06,9,12,Washington DC
 1062,Cmte on NY merchants memorial- 5 members,1806-01-06,9,12,Commerce
 1063,Cmte on petition of George Rapp and others for land grant for growing grapes and other manufactures,1806-01-06,9,12,Commerce
 1064,Cmte on petition of Levis & Maxwell sell copies of Journals of Confederation Congress,1806-01-08,9,12,Administrative
 1065,Cmte on rules - 5 members,1806-01-10,9,13,Administrative
-1066,cmte on bill for regulating the army,1806-01-13,9,13,Military 
+1066,cmte on bill for regulating the army,1806-01-13,9,13,Military
 1067,cmte on petitions of Benjamin Hichborn et al - James Sullivan et al - Joseph Peppin et al- on GA lands Yazoo - 5 members,1806-01-13,9,13,Public Lands
 1068,Cmte on petition of Galliopolis,1806-01-14,9,13,Claims
 1069,Cmte on Philadelphia merchant's memorial on neutral commerce,1806-01-15,9,13,Foreign Affairs
@@ -1101,7 +1101,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1100,Cmte on IN judges,1806-02-17,9,16,Judiciary
 1101,Cmte on bill to make Jersey NJ port of entry and erect lighthouse in MA,1806-02-19,9,16,Commerce
 1102,Cmte on bill American seamen,1806-02-21,9,16,Foreign Affairs
-1103,Cmte on HR bill to incorporate a Presbyterian congregation in Georgetown,1806-02-21,9,16,Washington Dc
+1103,Cmte on HR bill to incorporate a Presbyterian congregation in Georgetown,1806-02-21,9,16,Washington DC
 1104,Cmte on Bill for relief of Philip Nicklan & Robert Griffith,1806-02-24,9,16,Claims
 1105,Cmte on petition John Jason Dufour,1806-02-24,9,16,Claims
 1106,Cmte on PUS message military nominations,1806-02-25,9,16,Military
@@ -1125,7 +1125,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1124,Cmte on funeral of James Jackson,1806-03-19,9,18,Administrative
 1125,Cmte on bill to repeal laws for public debt,1806-03-21,9,18,Finance
 1126,Cmte on General Eaton and others to reward for bravery and victory in Tripoli with land grant,1806-03-21,9,18,Military
-1127,Cmte on Bridge over Potomac - 5 members,1806-03-24,9,18,Washington Dc
+1127,Cmte on Bridge over Potomac - 5 members,1806-03-24,9,18,Washington DC
 1128,cmte on report of Sec of War GC Russel,1806-03-24,9,18,Military
 1129,cmte on amendment to OH bill,1806-03-24,9,19,Roads And Canals
 1130,Cmte on amendments to marshal bill,1806-03-24,9,19,Judiciary
@@ -1133,7 +1133,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1132,Cmte on Bill to survey NC coast,1806-03-25,9,19,Commerce
 1133,Conference cmte on compensation of officers - both houses bill,1806-03-25,9,19,Commerce
 1134,Cmte of conference on bill articles of war - Last amendment insisted,1806-03-26,9,19,Military
-1135,Cmte on laws District of Columbia,1806-03-26,9,19,Washington Dc
+1135,Cmte on laws District of Columbia,1806-03-26,9,19,Washington DC
 1136,Cmte bill non-importation - 5 members,1806-03-28,9,19,Foreign Affairs
 1137,Cmte on bill Mint,1806-03-28,9,19,Finance
 1138,Cmte on expenses for fitting chamber for Chase Impeachment,1806-03-29,9,19,Judiciary
@@ -1182,7 +1182,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1181,cmte Library,1806-12-17,9,4,Administrative
 1182,Cmte on both nominations from Dec 15 recess appointments not yet confirmed,1806-12-17,9,4,Misc
 1183,cmte on Bradley's motion to inquire into necessary measures for land grants in TN,1806-12-17,9,4,Public Lands
-1184,cmte Potomac bridge bill,1806-12-18,9,4,Washington Dc
+1184,cmte Potomac bridge bill,1806-12-18,9,4,Washington DC
 1185,Cmte bill mint - Tracy's motion,1806-12-19,9,4,Finance
 1186,Cmte on slave bill to replace Stone,1806-12-19,9,4,Judiciary
 1187,Cmte on public lands in Indiana,1806-12-23,9,5,Public Lands
@@ -1195,7 +1195,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1194,Cmte bill military establishment,1807-01-05,9,5,Military
 1195,Cmte MI lands report of Sec of T,1807-01-05,9,5,Public Lands
 1196,Cmte of 5 on motion - re KY Circuit Courts,1807-01-05,9,5,Judiciary
-1197,cmte printing papers related to the Potomac bridge bill,1807-01-05,9,5,Washington Dc
+1197,cmte printing papers related to the Potomac bridge bill,1807-01-05,9,5,Washington DC
 1198,Cmte PUS message MI laws,1807-01-05,9,6,Judiciary
 1199,cmte on petition of Laurient Bazadon,1807-01-06,9,6,Claims
 1200,cmte report of the postmaster general,1807-01-07,9,6,Post Office
@@ -1208,7 +1208,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1207,Cmte on NC Courts meeting times,1807-01-14,9,6,Judiciary
 1208,cmte on bill to repeal duties on salt,1807-01-15,9,7,Commerce
 1209,Cmte on Worthington motion School land,1807-01-16,9,7,Public Lands
-1210,cmte on bill to accept service of army volunteers,1807-01-19,9,7,Military 
+1210,cmte on bill to accept service of army volunteers,1807-01-19,9,7,Military
 1211,Cmte on OH schools bill,1807-01-19,9,7,Finance
 1212,cmte on state debt,1807-01-19,9,7,Finance
 1213,Cmte bill public debt - replace Tracy,1807-01-21,9,7,Finance
@@ -1242,7 +1242,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1241,Cmte on motion jurors,1807-02-06,9,9,Judiciary
 1242,Jt cmte on Adams's motion on properly enrolled bills,1807-02-06,9,10,Administrative
 1243,cmte on nomination of Julian Poydrass asmember of legislative council of Orleans,1807-02-09,9,10,Judiciary
-1244,cmte bill on Washington DC Jurors,1807-02-11,9,10,Washington Dc
+1244,cmte bill on Washington DC Jurors,1807-02-11,9,10,Washington DC
 1245,Cmte on Bayard's motion re banks & insurance companies,1807-02-12,9,10,Finance
 1246,cmte on memorial of Philadelphia merchants drawback,1807-02-12,9,10,Commerce
 1247,Cmte on amendment to bill to prohibit importation of slaves,1807-02-19,9,10,Commerce
@@ -1263,15 +1263,15 @@ committee_id,committee_name,date,congress,page,committee_type
 1262,Cmte on petition of William Levis & Hugh Maxwell,1807-11-16,10,5,Claims
 1263,cmte on Tiffin's motion - TN courts,1807-11-18,10,5,Judiciary
 1264,Cmte on Bill salaries for secretaries of MS,1807-11-24,10,5,Commerce
-1265,Cmte on Baptist bill Washington,1807-11-25,10,5,Washington Dc
+1265,Cmte on Baptist bill Washington,1807-11-25,10,5,Washington DC
 1266,Cmte on military establishment - 3 members,1807-11-25,10,5,Military
 1267,cmte on W Wells petition for right of reemption,1807-11-26,10,5,Public Lands
 1268,cmte on John Smith (OH) expulsion for role in Burr Conspiracy,1807-11-27,10,5,Administrative
 1269,Cmte on engross bills - in place of Jones,1807-12-02,10,5,Administrative
 1270,Cmte on bill MS territory right of suffrage and other purposes,1807-12-03,10,6,Judiciary
-1271,cmte on bill Potomac,1807-12-03,10,6,Washington Dc
+1271,cmte on bill Potomac,1807-12-03,10,6,Washington DC
 1272,cmte on bill to change name of district Biddeford and Pepperelborough to Saco,1807-12-03,10,6,Commerce
-1273,Cmte on nominations various mostly army,1807-12-04,10,6,Military 
+1273,Cmte on nominations various mostly army,1807-12-04,10,6,Military
 1274,Cmte on Boston memorial - Phila memorial for repeal of embargo,1807-12-14,10,6,Foreign Affairs
 1275,cmte on military establishment,1807-12-15,10,6,Military
 1276,cmte on US Judicial Courts,1807-12-15,10,6,Judiciary
@@ -1294,7 +1294,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1293,Cmte on Choctaw Treaty,1808-01-22,10,8,Indian Affairs
 1294,Cmte on Amendment to Constitution term limit for judges and justices and removed by two-thirds both houses,1808-01-25,10,8,Judiciary
 1295,Cmte on James Taylor requesting compensation in case of John Smith (OH),1808-01-25,10,8,Administrative
-1296,Cmte on Baptist Church - recommitted,1808-01-27,10,8,Washington Dc
+1296,Cmte on Baptist Church - recommitted,1808-01-27,10,8,Washington DC
 1297,Cmte on Anderson's resolution - TN lands,1808-02-03,10,8,Public Lands
 1298,Cmte on Latrobe's letter,1808-02-03,10,8,Administrative
 1299,Cmte on Lighthouse port Judith,1808-02-03,10,8,Commerce
@@ -1384,13 +1384,13 @@ committee_id,committee_name,date,congress,page,committee_type
 1383,cmte on Lloyd's motion public buildings,1808-12-13,10,17,Administrative
 1384,Cmte on petition officers Marine Corps,1808-12-14,10,18,Military
 1385,Addition Cmte embargo,1808-12-19,10,18,Judiciary
-1386,cmte on bill on lots in Washington DC,1808-12-21,10,18,Washington Dc
+1386,cmte on bill on lots in Washington DC,1808-12-21,10,18,Washington DC
 1387,cmte on Eunice Hunt Petition,1808-12-21,10,18,Claims
-1388,Cmte on bill squares Washington,1808-12-22,10,18,Washington Dc
+1388,Cmte on bill squares Washington,1808-12-22,10,18,Washington DC
 1389,Cmte on bill William White & others,1808-12-23,10,18,Claims
 1390,cmte on petition of William Brown,1808-12-28,10,14,Claims
 1391,cmte on Barbary powers,1808-12-29,10,14,Foreign Affairs
-1392,Cmte on marine insurance company of Alexandria,1808-12-29,10,14,Washington Dc
+1392,Cmte on marine insurance company of Alexandria,1808-12-29,10,14,Washington DC
 1393,Cmte on Augustin Serry,1808-12-30,10,15,Claims
 1394,Cmte on bill Naval officer,1808-12-30,10,15,Military
 1395,Cmte on bill Wings Capitol 3rd reading & recommitted generally,1808-12-30,10,15,Administrative
@@ -1412,7 +1412,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1411,conference cmte on bill naval establishment,1809-01-17,10,18,Military
 1412,cmte on petition of people OH purchasers of lands,1809-01-19,10,18,Public Lands
 1413,Cmte on bill E Beaumont,1809-01-20,10,18,Claims
-1414,Cmte on Brown petition Baptist Church,1809-01-20,10,18,Washington Dc
+1414,Cmte on Brown petition Baptist Church,1809-01-20,10,18,Washington DC
 1415,Addition to cmte of Nov-15 Indiana bill,1809-01-20,10,19,Judiciary
 1416,Cmte on nomination of Johnson & others in Army,1809-01-25,10,19,Military
 1417,Cmte on motion inquiring nomination of Henry Dearborn as Collector at Boston,1809-01-26,10,19,Commerce
@@ -1420,10 +1420,10 @@ committee_id,committee_name,date,congress,page,committee_type
 1419,cmte to continue authority of commissioners of Kaskaskia,1809-01-30,10,19,Public Lands
 1420,Cmte on military nominations,1809-01-31,10,19,Military
 1421,Cmte on bill uninumerated services officers judicial courts,1809-02-01,10,19,Judiciary
-1422,cmte on Washington Canal,1809-02-02,10,19,Washington Dc
+1422,cmte on Washington Canal,1809-02-02,10,19,Washington DC
 1423,cmte on bill physicians and surgeons employed in public service,1809-02-03,10,19,Military
 1424,cmte on election of PUS,1809-02-03,10,19,Ceremonial
-1425,cmte on Alexandria Turnpike,1809-02-07,10,19,Washington Dc
+1425,cmte on Alexandria Turnpike,1809-02-07,10,19,Washington DC
 1426,Cmte on nominations for custom house officers,1809-02-07,10,20,Commerce
 1427,Teller for PUS & VP,1809-02-07,10,20,Ceremonial
 1428,Cmte on appropriations,1809-02-11,10,20,Finance
@@ -1433,7 +1433,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1432,Cmte on Spanish land grants in Mississippi,1809-02-15,10,20,Public Lands
 1433,cmte on suffrage IN,1809-02-15,10,20,Judiciary
 1434,Jt Cmte to wait on PUS re furnishing House,1809-02-15,10,20,Administrative
-1435,Cmte on Charter Georgetown,1809-02-17,10,20,Washington Dc
+1435,Cmte on Charter Georgetown,1809-02-17,10,20,Washington DC
 1436,Cmte to confer surveyor public bldgs on accomodations for the Senate,1809-02-17,10,20,Administrative
 1437,Addition to cmte on bill duties,1809-02-18,10,20,Commerce
 1438,cmte on petition of French inhabitants of Michigan for laws in French Language,1809-02-18,10,21,Judiciary
@@ -1454,7 +1454,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1453,Cmte on Giles's motion - laws governing navy,1809-05-25,11,2,Military
 1454,cmte on Giles's motion on commercial laws,1809-05-25,11,2,Foreign Affairs
 1455,cmte on ports and harbors,1809-05-25,11,2,Commerce
-1456,cmte on petition of John Mason and others - Washington DC,1809-05-28,11,2,Washington Dc
+1456,cmte on petition of John Mason and others - Washington DC,1809-05-28,11,2,Washington DC
 1457,cmte on bill Commercial intercourse,1809-05-29,11,2,Foreign Affairs
 1458,Cmte on bill for relief of William White & others - 5 members,1809-05-29,11,2,Claims
 1459,Cmte on engrossed bills,1809-05-29,11,2,Administrative
@@ -1494,19 +1494,19 @@ committee_id,committee_name,date,congress,page,committee_type
 1493,Cmte on amendment to constitution regarding judiciary - 5 members,1809-12-07,11,5,Judiciary
 1494,Cmte on petition of Charles Minifie,1809-12-07,11,5,Claims
 1495,cmte on bill to extend suffrage in IN territory,1809-12-08,11,5,Judiciary
-1496,Cmte on petition of board of trustees for education in Washington DC,1809-12-11,11,5,Washington Dc
+1496,Cmte on petition of board of trustees for education in Washington DC,1809-12-11,11,5,Washington DC
 1497,cmte on nomination of Alexander Frazer of SC to be surgeon in Navy,1809-12-13,11,5,Military
 1498,Cmte on Brownstown Road,1809-12-15,11,6,Roads And Canals
 1499,Cmte on bank bill - 5 members,1809-12-19,11,6,Finance
 1500,cmte on bill for relief of William and Elias Rector,1809-12-20,11,6,Claims
 1501,Cmte on bill refugees from Canada,1809-12-20,11,6,Foreign Affairs
-1502,Cmte on petition for Washington DC roads,1809-12-20,11,6,Washington Dc
+1502,Cmte on petition for Washington DC roads,1809-12-20,11,6,Washington DC
 1503,cmte bill on Joseph Summerl & others,1809-12-21,11,6,Claims
 1504,Cmte on nominations - made Dec-18 and not yet agreed to various,1809-12-21,11,6,Misc
 1505,Jt cmte on library,1809-12-21,11,6,Administrative
 1506,cmte on 42nd rule,1809-12-22,11,6,Administrative
 1507,Cmte on treaty with Delawares and others,1809-12-27,11,6,Indian Affairs
-1508,Cmte on nomination Amos Spafford & others - collector Surgeon's mate captain in army,1809-12-28,11,6,Military 
+1508,Cmte on nomination Amos Spafford & others - collector Surgeon's mate captain in army,1809-12-28,11,6,Military
 1509,Cmte on Petition of Daniel Boone for grant of land,1810-01-03,11,6,Claims
 1510,cmte on enrolled Bills in place of Condit,1810-01-05,11,6,Administrative
 1511,Cmte report on AG report on fees and pay for judicial officers,1810-01-05,11,7,Judiciary
@@ -1516,10 +1516,10 @@ committee_id,committee_name,date,congress,page,committee_type
 1515,emte on public lands,1810-01-11,11,7,Public Lands
 1516,Cmte on engrossed bills,1810-01-12,11,7,Administrative
 1517,Cmte on treaty with Kickapoos,1810-01-12,11,11,Indian Affairs
-1518,Cmte on bill to incorporate company for Washington DC turnpike and roads,1810-01-17,11,7,Washington Dc
+1518,Cmte on bill to incorporate company for Washington DC turnpike and roads,1810-01-17,11,7,Washington DC
 1519,Cmte on bill for relief of Harry Caldwell,1810-01-18,11,7,Claims
 1520,cmte on bill John Stout,1810-01-19,11,7,Finance
-1521,Cmte on removal of slaves from one part of DC to another bill,1810-01-19,11,7,Washington Dc
+1521,Cmte on removal of slaves from one part of DC to another bill,1810-01-19,11,7,Washington DC
 1522,cmte on petition of clerks Treasury for increase in compensation,1810-01-22,11,8,Finance
 1523,Cmte on Reed's amendment to Constitution titles of nobility,1810-01-24,11,8,Judiciary
 1524,cmte bill MS Judge,1810-01-31,11,8,Judiciary
@@ -1527,13 +1527,13 @@ committee_id,committee_name,date,congress,page,committee_type
 1526,Cmte on Commercial intercourse,1810-01-31,11,8,Foreign Affairs
 1527,cute on Jared Shalluck,1810-01-31,11,8,Claims
 1528,Cmte on Bill Orleans territorial Court,1810-02-01,11,8,Judiciary
-1529,Cmte on petition and representation of Walter Jones and others about Washington DC jail,1810-02-02,11,8,Washington Dc
-1530,Cmte on petitions of Thomas Beall and others of Georgetown,1810-02-02,11,8,Washington Dc
+1529,Cmte on petition and representation of Walter Jones and others about Washington DC jail,1810-02-02,11,8,Washington DC
+1530,Cmte on petitions of Thomas Beall and others of Georgetown,1810-02-02,11,8,Washington DC
 1531,Cmte of 5 on appropriations,1810-02-05,11,8,Finance
-1532,Cmte bill removal slaves from one part of Washington DC to another,1810-02-06,11,9,Washington Dc
+1532,Cmte bill removal slaves from one part of Washington DC to another,1810-02-06,11,9,Washington DC
 1533,Cmte on Joab Garret,1810-02-06,11,9,Claims
 1534,Cmte on military lands,1810-02-08,11,9,Public Lands
-1535,cmte on Bill road in Washington DC recommitted,1810-02-12,11,9,Washington Dc
+1535,cmte on Bill road in Washington DC recommitted,1810-02-12,11,9,Washington DC
 1536,emte on bill Sea letters,1810-02-12,11,9,Military
 1537,Cmte on amendment to Constitution on titles of Nobility - Recommit - 5 members,1810-02-13,11,9,Judiciary
 1538,Cmte on recommitment bill preemption,1810-02-15,11,9,Public Lands
@@ -1547,7 +1547,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1546,Cmte on petition & papers R B Lee - Clay's motion,1810-02-23,11,10,Claims
 1547,Cmte Osage Treaty & papers,1810-02-23,11,10,Indian Affairs
 1548,Cmte recommit naval appropriations,1810-02-23,11,10,Military
-1549,cmte on recommittal of bill to remove slaves from one part of Washington DC to another,1810-02-26,11,10,Washington Dc
+1549,cmte on recommittal of bill to remove slaves from one part of Washington DC to another,1810-02-26,11,10,Washington DC
 1550,cmte on Leib's motion for additional rations to commanders,1810-02-27,11,10,Military
 1551,cmte on OH courts,1810-02-28,11,10,Judiciary
 1552,Cmte to recommit bill for Summerl & others,1810-03-01,11,10,Military
@@ -1561,7 +1561,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1560,cmte on nomination of Richard Forest as consul at Tunis,1810-03-12,11,11,Foreign Affairs
 1561,cmte on nomination Stanley Griswold as judge in IL Territory,1810-03-12,11,11,Judiciary
 1562,cmte on petition of Orleans asking for statehoood- 5 members,1810-03-12,11,11,Judiciary
-1563,Cmte on Alexandria Turnpike,1810-03-13,11,11,Washington Dc
+1563,Cmte on Alexandria Turnpike,1810-03-13,11,11,Washington DC
 1564,Cmte on post road Washington,1810-03-13,11,11,Post Office
 1565,Cmte on Bayard's motion on treasury report on national bank - 5 members,1810-03-13,11,12,Finance
 1566,Conference cmte on census,1810-03-14,11,12,Commerce
@@ -1569,13 +1569,13 @@ committee_id,committee_name,date,congress,page,committee_type
 1568,Cmte on bill for relief of Elizabeth Hamilton,1810-03-20,11,12,Claims
 1569,cmte on Post office - 5 members,1810-03-20,11,12,Post Office
 1570,Cmte on petition of Fontain Maury,1810-03-21,11,12,Claims
-1571,Cmte on petition of George Andrews and others - DC turnpike,1810-03-21,11,12,Washington Dc
+1571,Cmte on petition of George Andrews and others - DC turnpike,1810-03-21,11,12,Washington DC
 1572,Cmte on petition of Urban Guillet - Society of La Trapp,1810-03-21,11,12,Public Lands
 1573,cmte on recess,1810-03-21,11,12,Administrative
 1574,Cmte on Pope's motion on Secretary of Treasury's report on roads and canals - respecting OH Canal,1810-03-22,11,12,Roads And Canals
 1575,Cmte on bill pre-emption lands,1810-03-22,11,13,Public Lands
 1576,Cmte on militia,1810-03-22,11,13,Military
-1577,Cmte on Bayard's bill to amend Washington DC laws,1810-03-23,11,13,Washington Dc
+1577,Cmte on Bayard's bill to amend Washington DC laws,1810-03-23,11,13,Washington DC
 1578,cmte on Chesapeake Canal,1810-03-23,11,13,Roads And Canals
 1579,Cmte on Whiteside's motion to inquire necessary provisions for relief of those imprisoned on process from federal courts in civil cases,1810-03-23,11,13,Judiciary
 1580,Cmte on bill pre-emption,1810-03-27,11,13,Public Lands
@@ -1604,7 +1604,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1603,cmte on bill quartermasters,1810-04-13,11,15,Military
 1604,cmte on lighthouses,1810-04-13,11,15,Commerce
 1605,cmte on post and patent office,1810-04-13,11,15,Post Office
-1606,Cmte on recommitted bill for establishment of turnpike company in Alexandria,1810-04-13,11,16,Washington Dc
+1606,Cmte on recommitted bill for establishment of turnpike company in Alexandria,1810-04-13,11,16,Washington DC
 1607,cmte on Circuit Court MD,1810-04-14,11,15,Judiciary
 1608,Cmte on post roads,1810-04-15,11,15,Post Office
 1609,Cmte of Conference on PO,1810-04-16,11,16,Post Office
@@ -1639,9 +1639,9 @@ committee_id,committee_name,date,congress,page,committee_type
 1638,Cmte on petition of Charles Minifie,1813-06-02,13,6,Claims
 1639,cmte on petition Thomas Sim Lee,1813-06-02,13,6,Claims
 1640,cmte to call on PUS & nomination of Jonathan Russell as minister to Sweden- King move,1813-06-02,13,6,Foreign Affairs
-1641,Cmte on petition of Bank of Washington - Brent move,1813-06-04,13,6,Washington Dc
+1641,Cmte on petition of Bank of Washington - Brent move,1813-06-04,13,6,Washington DC
 1642,Cmte on petition of Thomas Sloo - Morrow moves,1813-06-04,13,6,Public Lands
-1643,cmte on Farmer's Bank of Alexandria - Brent move,1813-06-07,13,6,Washington Dc
+1643,cmte on Farmer's Bank of Alexandria - Brent move,1813-06-07,13,6,Washington DC
 1644,Cmte on Gen Smith's motion on Stephen Girard violations of non-importation,1813-06-07,13,6,Foreign Affairs
 1645,Cmte on Joshua Barney - Giles moves,1813-06-07,13,6,Claims
 1646,Cmte on petition of JB Nickolls - Brent moves,1813-06-07,13,6,Claims
@@ -1653,8 +1653,8 @@ committee_id,committee_name,date,congress,page,committee_type
 1652,Cmte on President of the United States's message of June 5 re acts of Pennsylvania,1813-06-11,13,5,Misc
 1653,Cmte on memorial of John Gooding & others,1813-06-14,13,5,Claims
 1654,Cmte on nomination of Jonathan Russell - Wells's motion,1813-06-14,13,5,Foreign Affairs
-1655,Cmte on recommitted bill to incorporate fire insurance company of Alexandria - 5 members,1813-06-15,13,5,Washington Dc
-1656,Cmte on HR bills to incorporate companies for making Turnpike Washington DC and Alexandria,1813-06-16,13,5,Washington Dc
+1655,Cmte on recommitted bill to incorporate fire insurance company of Alexandria - 5 members,1813-06-15,13,5,Washington DC
+1656,Cmte on HR bills to incorporate companies for making Turnpike Washington DC and Alexandria,1813-06-16,13,5,Washington DC
 1657,Cmte on King's motion on petition of James Jay,1813-06-16,13,5,Claims
 1658,Cmte on Dana's motion to enquire if law necessary to prevent multiple suits - 5 members,1813-06-18,13,4,Judiciary
 1659,cmte in place of Cutts on Naval affairs,1813-06-21,13,4,Military
@@ -1706,11 +1706,11 @@ committee_id,committee_name,date,congress,page,committee_type
 1705,Committee on Resolution for a day of Thanksgiving,1815-02-25,13,Extra,Ceremonial
 1706,Committee on HR bill US Courts jurisdiction,1815-03-02,13,Extra,Judiciary
 1707,Committee to carry Confidential bill - HR bill which Senate passed - for protection of commerce against Algerine cruizers,1815-03-02,13,Extra,Foreign Affairs
-1708,Committee of conference on peace establishment bill - army,1815-03-03,13,Extra,Military 
+1708,Committee of conference on peace establishment bill - army,1815-03-03,13,Extra,Military
 1709,Cmte on petition of John Duckworth & others for post route,1815-12-13,14,7,Post Office
 1710,cmte on petition of John Thompson,1815-12-14,14,7,Claims
 1711,cmte on petition of Mayor + Alderman and inhabitants of New Orleans asking arsenal military hospital and barracks be sold and moved to suburbs from public squares,1815-12-14,14,7,Public Lands
-1712,Cmte on petition for Orphan asylum of Washington DC,1815-12-18,14,7,Washington Dc
+1712,Cmte on petition for Orphan asylum of Washington DC,1815-12-18,14,7,Washington DC
 1713,Cmte on Barbour's motion on relief for officers and soldiers of VA in Revolutionary War,1815-12-19,14,7,Claims
 1714,Cmte on memorial of MS territorial legislature for extra judge,1815-12-21,14,7,Judiciary
 1715,cmte on memorial of Thomas Murray,1815-12-26,14,3,Claims
@@ -1722,7 +1722,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1721,cmte on HR bill to discharge James Jewett from imprisonment,1816-01-11,14,3,Foreign Affairs
 1722,Cmte on petition of James Tilton,1816-01-11,14,3,Claims
 1723,Cmte on petition of Charles King & others regarding Trinity Church,1816-01-12,14,3,Claims
-1724,Cmte on memorial of Washington DC levy court,1816-01-15,14,3,Washington Dc
+1724,Cmte on memorial of Washington DC levy court,1816-01-15,14,3,Washington DC
 1725,Cmte on petition of Charleston city council for marine hospital,1816-01-16,14,3,Claims
 1726,cmte on recommitted engrossed on sale of public lands,1816-01-17,14,4,Public Lands
 1727,Cmte on salary for Senate officers bill,1816-01-17,14,4,Administrative
@@ -1743,7 +1743,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1742,cmte on HR bill to amend law of costs,1816-02-01,14,2,Judiciary
 1743,Cmte on Lacock's motion on PA legislature's instructions to divide PA into 2 judicial districts,1816-02-05,14,2,Judiciary
 1744,Cmte on recommitted bill for library,1816-02-05,14,3,Administrative
-1745,Cmte on petition of Walter Jones Jr on slaves in Washington DC,1816-02-07,14,4,Washington Dc
+1745,Cmte on petition of Walter Jones Jr on slaves in Washington DC,1816-02-07,14,4,Washington DC
 1746,Cmte on nomination of Daniel Bissell for Brigadier General to be Colonel,1816-02-14,14,4,Military
 1747,cmte on Barry's motion for extending law to all settlers on public lands,1816-02-15,14,4,Public Lands
 1748,Cmte of conference on bill concerning commerce between US and GB,1816-02-15,14,5,Foreign Affairs
@@ -1758,7 +1758,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1757,Cmte on memorial of the American Convention for promoting abolition of slavery,1816-02-26,14,5,Judiciary
 1758,Cmte on petition of Harriet Fulton for patent,1816-02-26,14,5,Commerce
 1759,Cmte on petition of John Holker,1816-02-27,14,5,Claims
-1760,Cmte on Horsey's resolution on Banks in Washington DC,1816-02-29,14,6,Washington Dc
+1760,Cmte on Horsey's resolution on Banks in Washington DC,1816-02-29,14,6,Washington DC
 1761,Cmte on Constitutional amendment for choosing representatives and electors,1816-03-01,14,6,Judiciary
 1762,Cmte on petition of George Rossier & others,1816-03-01,14,6,Claims
 1763,cmte on recommitted report on petition of Alfred Carter,1816-03-02,14,4,Claims
@@ -1767,7 +1767,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1766,Cmte on HR Post office bill,1816-03-08,14,1,Post Office
 1767,Cmte on bill for widow and children of Robert Fulton,1816-03-11,14,1,Claims
 1768,Cmte on petition of William Radcliff,1816-03-11,14,1,Claims
-1769,Cmte on bill to limit right of appeal from circuit court of DC,1816-03-13,14,2,Washington Dc
+1769,Cmte on bill to limit right of appeal from circuit court of DC,1816-03-13,14,2,Washington DC
 1770,Cmte on HR resolution on necessary business and adjournment,1816-03-22,14,1,Administrative
 1771,Cmte on Post Office bill,1816-03-22,14,1,Post Office
 1772,Cmte on petition of Nehemiah Hubbard,1816-03-26,14,1,Claims
@@ -1782,7 +1782,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1781,Cmte on Wilson's motion to print register of officers - civil and military,1816-04-16,14,6,Military
 1782,Cmte on salaries for secretary of Senate and clerk of HR,1816-04-17,14,6,Administrative
 1783,Cmte on bill for relief of Moses Turner,1816-04-17,14,7,Claims
-1784,Cmte on bill for appropriation for public square in Washington DC,1816-04-20,14,7,Washington Dc
+1784,Cmte on bill for appropriation for public square in Washington DC,1816-04-20,14,7,Washington DC
 1785,Cmte on Daggett's resolution for distribution of certain documents,1817-12-08,15,3,Administrative
 1786,Cmte on Barbour's proposed Constitutional amendment on internal improvements,1817-12-10,15,4,Roads And Canals
 1787,Cmte on claims,1817-12-11,15,4,Claims
@@ -1794,7 +1794,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1793,Cmte on militia,1817-12-11,15,4,Military
 1794,cmte on naval affairs,1817-12-11,15,4,Military
 1795,cmte on public lands,1817-12-11,15,4,Public Lands
-1796,cmte on DC,1817-12-11,15,5,Washington Dc
+1796,cmte on DC,1817-12-11,15,5,Washington DC
 1797,Cmte on pensions,1817-12-11,15,5,Claims
 1798,cmte on Post Office,1817-12-11,15,5,Post Office
 1799,cmte on Lacock's resolution regarding roads and inland navigation,1817-12-15,15,5,Roads And Canals
@@ -1823,7 +1823,7 @@ committee_id,committee_name,date,congress,page,committee_type
 1822,Jt Cmte on necessary business,1818-04-01,15,7,Administrative
 1823,Cmte on resolution authorizing subscription of Statistical annals,1818-04-06,15,7,Administrative
 1824,Cmte of conference on manor of appointing Indian agents,1818-04-07,15,7,Indian Affairs
-1825,cmte Conf on bill to make valid certain acts of Justices of the Peace in W DC,1818-04-13,15,7,Washington Dc
+1825,cmte Conf on bill to make valid certain acts of Justices of the Peace in W DC,1818-04-13,15,7,Washington DC
 1826,Jt Cmte on enrolled bills to replace Noble,1818-04-20,15,7,Administrative
 1827,Jt Cmte to wait on PUS,1818-04-20,15,7,Ceremonial
 1828,Cmte on 42nd rule,1818-11-16,15,7,Administrative
