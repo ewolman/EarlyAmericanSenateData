@@ -27,8 +27,8 @@ conn = sqlite3.connect('database.db')
 curs = conn.cursor()        
 build_db.LoadVoteData(data, conn, curs)
 
-# committee types
-cmte_types = pd.read_excel('data/tCommittee_types.xlsx', sheet_name='tCommittee')
+# committee types -- ADD in ignore error
+cmte_types = pd.read_excel('data/tCommittee_types.xlsx', sheet_name='tCommittee') 
 cmte_types = cmte_types[['committee_id', 'type']]
 cmte_types.columns = ['committee_id', 'committee_type']
 
@@ -113,11 +113,11 @@ party_votes = pd.read_sql('SELECT * FROM vVotesByParty;', conn)
 party_votes.to_csv('useful_tables/VotesByParty.csv', index = False)
 
 # votes per year per party
-all_t = votes[votes['date'] != 'n.d.']
-all_t['year'] = [i[0] for i in all_t['date'].str.split('-')] 
-party_year_votes = all_t.groupby(by = ['year','party'],as_index=False).agg({'votes':'sum', 'committee_id':'nunique'})
+votes['date'] = votes['date'].replace('n.d.', '1791-11-01') # put n.d. in 1791 - comms before and after by idx are 1791
+votes['year'] = [i[0] for i in votes['date'].str.split('-')] 
+party_year_votes = votes.groupby(by = ['year','congress','party'],as_index=False).agg({'votes':'sum', 'committee_id':'nunique'})
 party_year_votes['VotesPerCmte'] = (party_year_votes['votes']/party_year_votes['committee_id']).round(2)
-
+print(party_year_votes.columns)
 # get vote share
 totals = party_year_votes.groupby(by = 'year', as_index=False).sum('votes')
 shares = []
@@ -129,7 +129,7 @@ for year in totals['year']:
     shares += [round(party/total*100, 2) for party in that_year['votes']]
 party_year_votes['VoteShare (%)'] = shares
 
-party_year_votes.columns = ['year','party','NumVotes', 'NumCommittees', 'VotesPerCmte', 'VoteShare']
+party_year_votes.columns = ['year','congress','party','NumVotes', 'NumCommittees', 'VotesPerCmte', 'VoteShare']
 party_year_votes.to_csv('useful_tables/VotesByPartyByYear.csv', index = False)
 
 conn.close()

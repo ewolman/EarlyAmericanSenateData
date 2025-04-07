@@ -141,9 +141,10 @@ def Rebuild():
 
         curs.execute('DROP VIEW IF EXISTS vVotesByParty')
         curs.execute("""CREATE VIEW vVotesByParty as
-                            SELECT congress, party, sum(Votes) as TotalVotes FROM vIndividualVotes 
+                            SELECT congress, party, sum(Votes) as TotalVotes, COUNT(committee_id) as NumCommitteeVotes
+                            FROM vIndividualVotes
                             GROUP BY party, congress
-                            ORDER BY congress asc""")     
+                            ORDER BY congress asc;""")     
         
 
     except Exception as err:

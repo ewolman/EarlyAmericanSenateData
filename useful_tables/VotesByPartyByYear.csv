@@ -1,71 +1,96 @@
-year,party,NumVotes,NumCommittees,VotesPerCmte,VoteShare
-1790,Anti-Administration,61,7,8.71,14.15
-1790,Pro-Administration,370,7,52.86,85.85
-1791,Anti-Administration,874,40,21.85,28.67
-1791,Pro-Administration,2174,41,53.02,71.33
-1792,Anti-Administration,1032,53,19.47,31.73
-1792,Pro-Administration,2220,54,41.11,68.27
-1793,Anti-Administration,708,31,22.84,37.6
-1793,Pro-Administration,1175,31,37.9,62.4
-1794,Anti-Administration,2025,97,20.88,36.01
-1794,Pro-Administration,3598,97,37.09,63.99
-1795,Anti-Administration,744,52,14.31,26.7
-1795,Democratic Republican,92,10,9.2,3.3
-1795,Federalist,132,10,13.2,4.74
-1795,Pro-Administration,1819,52,34.98,65.27
-1796,Anti-Administration,631,96,6.57,12.38
-1796,Democratic Republican,803,96,8.36,15.76
-1796,Federalist,1498,98,15.29,29.4
-1796,Pro-Administration,2163,96,22.53,42.45
-1797,Anti-Administration,606,87,6.97,10.0
-1797,Democratic Republican,888,88,10.09,14.66
-1797,Federalist,3659,91,40.21,60.4
-1797,Pro-Administration,905,75,12.07,14.94
-1798,Anti-Administration,487,102,4.77,6.82
-1798,Democratic Republican,1117,117,9.55,15.64
-1798,Federalist,5515,121,45.58,77.2
-1798,Pro-Administration,25,7,3.57,0.35
-1799,Anti-Administration,52,28,1.86,1.05
-1799,Democratic Republican,726,82,8.85,14.65
-1799,Federalist,4179,84,49.75,84.31
-1800,Democratic Republican,2065,120,17.21,27.01
-1800,Federalist,5581,124,45.01,72.99
-1801,Democratic Republican,1047,52,20.13,33.1
-1801,Federalist,2116,52,40.69,66.9
-1802,Democratic Republican,607,13,46.69,57.05
-1802,Federalist,457,13,35.15,42.95
-1803,Democratic Republican,2825,64,44.14,72.72
-1803,Federalist,1060,63,16.83,27.28
-1804,Democratic Republican,3888,89,43.69,79.14
-1804,Federalist,1025,89,11.52,20.86
-1805,Democratic Republican,1887,37,51.0,77.46
-1805,Federalist,549,37,14.84,22.54
-1806,Democratic Republican,6794,135,50.33,78.43
-1806,Federalist,1868,132,14.15,21.57
-1807,Democratic Republican,4586,91,50.4,79.91
-1807,Federalist,1153,89,12.96,20.09
-1808,Democratic Republican,5539,114,48.59,81.95
-1808,Federalist,1220,113,10.8,18.05
-1809,Democratic Republican,5462,111,49.21,79.32
-1809,Federalist,1424,106,13.43,20.68
-1810,Democratic Republican,5961,118,50.52,81.35
-1810,Federalist,1367,115,11.89,18.65
-1813,Democratic Republican,3131,61,51.33,75.19
-1813,Federalist,1033,61,16.93,24.81
-1814,Democratic Republican,444,8,55.5,71.84
-1814,Federalist,174,8,21.75,28.16
-1815,Anti-Democrat,58,11,5.27,5.06
-1815,Democratic Republican,807,21,38.43,70.42
-1815,Federalist,281,21,13.38,24.52
-1816,Anti-Democrat,105,20,5.25,3.16
-1816,Democratic Republican,2215,68,32.57,66.56
-1816,Federalist,1008,68,14.82,30.29
-1817,Anti-Democrat,74,12,6.17,3.14
-1817,Democratic Republican,1700,22,77.27,72.22
-1817,Federalist,580,22,26.36,24.64
-1818,Anti-Democrat,153,21,7.29,3.72
-1818,Democratic Republican,2739,46,59.54,66.55
-1818,Federalist,1224,41,29.85,29.74
-1819,Anti-Democrat,29,1,29.0,6.82
-1819,Democratic Republican,292,6,48.67,68.71
-1819,Federalist,104,6,17.33,24.47
+year,congress,party,NumVotes,NumCommittees,VotesPerCmte,VoteShare
+1790,1,Anti-Administration,61,7,8.71,14.15
+1790,1,Pro-Administration,370,7,52.86,85.85
+1791,1,Anti-Administration,392,23,17.04,12.65
+1791,1,Pro-Administration,1444,24,60.17,46.6
+1791,2,Anti-Administration,487,18,27.06,15.71
+1791,2,Pro-Administration,776,18,43.11,25.04
+1792,2,Anti-Administration,1032,53,19.47,31.73
+1792,2,Pro-Administration,2220,54,41.11,68.27
+1793,2,Anti-Administration,629,28,22.46,33.4
+1793,2,Pro-Administration,1038,28,37.07,55.12
+1793,3,Anti-Administration,79,3,26.33,4.2
+1793,3,Pro-Administration,137,3,45.67,7.28
+1794,3,Anti-Administration,2025,97,20.88,36.01
+1794,3,Pro-Administration,3598,97,37.09,63.99
+1795,3,Anti-Administration,608,42,14.48,21.82
+1795,3,Pro-Administration,1511,42,35.98,54.22
+1795,4,Anti-Administration,136,10,13.6,4.88
+1795,4,Democratic Republican,92,10,9.2,3.3
+1795,4,Federalist,132,10,13.2,4.74
+1795,4,Pro-Administration,308,10,30.8,11.05
+1796,4,Anti-Administration,631,96,6.57,12.38
+1796,4,Democratic Republican,803,96,8.36,15.76
+1796,4,Federalist,1498,98,15.29,29.4
+1796,4,Pro-Administration,2163,96,22.53,42.45
+1797,4,Anti-Administration,393,46,8.54,6.49
+1797,4,Democratic Republican,469,46,10.2,7.74
+1797,4,Federalist,1592,47,33.87,26.28
+1797,4,Pro-Administration,669,47,14.23,11.04
+1797,5,Anti-Administration,213,41,5.2,3.52
+1797,5,Democratic Republican,419,42,9.98,6.92
+1797,5,Federalist,2067,44,46.98,34.12
+1797,5,Pro-Administration,236,28,8.43,3.9
+1798,5,Anti-Administration,487,102,4.77,6.82
+1798,5,Democratic Republican,1117,117,9.55,15.64
+1798,5,Federalist,5515,121,45.58,77.2
+1798,5,Pro-Administration,25,7,3.57,0.35
+1799,5,Anti-Administration,52,28,1.86,1.05
+1799,5,Democratic Republican,561,60,9.35,11.32
+1799,5,Federalist,2890,62,46.61,58.3
+1799,6,Democratic Republican,165,22,7.5,3.33
+1799,6,Federalist,1289,22,58.59,26.0
+1800,6,Democratic Republican,2065,120,17.21,27.01
+1800,6,Federalist,5581,124,45.01,72.99
+1801,6,Democratic Republican,847,45,18.82,26.78
+1801,6,Federalist,1969,45,43.76,62.25
+1801,7,Democratic Republican,200,7,28.57,6.32
+1801,7,Federalist,147,7,21.0,4.65
+1802,7,Democratic Republican,607,13,46.69,57.05
+1802,7,Federalist,457,13,35.15,42.95
+1803,7,Democratic Republican,742,24,30.92,19.1
+1803,7,Federalist,400,24,16.67,10.3
+1803,8,Democratic Republican,2083,40,52.08,53.62
+1803,8,Federalist,660,39,16.92,16.99
+1804,8,Democratic Republican,3888,89,43.69,79.14
+1804,8,Federalist,1025,89,11.52,20.86
+1805,8,Democratic Republican,769,16,48.06,31.57
+1805,8,Federalist,240,16,15.0,9.85
+1805,9,Democratic Republican,1118,21,53.24,45.89
+1805,9,Federalist,309,21,14.71,12.68
+1806,9,Democratic Republican,6794,135,50.33,78.43
+1806,9,Federalist,1868,132,14.15,21.57
+1807,9,Democratic Republican,2428,55,44.15,42.31
+1807,9,Federalist,759,54,14.06,13.23
+1807,10,Democratic Republican,2158,36,59.94,37.6
+1807,10,Federalist,394,35,11.26,6.87
+1808,10,Democratic Republican,5539,114,48.59,81.95
+1808,10,Federalist,1220,113,10.8,18.05
+1809,10,Democratic Republican,2471,52,47.52,35.88
+1809,10,Federalist,541,49,11.04,7.86
+1809,11,Democratic Republican,2991,59,50.69,43.44
+1809,11,Federalist,883,57,15.49,12.82
+1810,11,Democratic Republican,5961,118,50.52,81.35
+1810,11,Federalist,1367,115,11.89,18.65
+1813,13,Democratic Republican,3131,61,51.33,75.19
+1813,13,Federalist,1033,61,16.93,24.81
+1814,13,Democratic Republican,444,8,55.5,71.84
+1814,13,Federalist,174,8,21.75,28.16
+1815,13,Anti-Democrat,30,6,5.0,2.62
+1815,13,Democratic Republican,441,13,33.92,38.48
+1815,13,Federalist,186,13,14.31,16.23
+1815,14,Anti-Democrat,28,5,5.6,2.44
+1815,14,Democratic Republican,366,8,45.75,31.94
+1815,14,Federalist,95,8,11.88,8.29
+1816,14,Anti-Democrat,105,20,5.25,3.16
+1816,14,Democratic Republican,2215,68,32.57,66.56
+1816,14,Federalist,1008,68,14.82,30.29
+1817,15,Anti-Democrat,74,12,6.17,3.14
+1817,15,Democratic Republican,1700,22,77.27,72.22
+1817,15,Federalist,580,22,26.36,24.64
+1818,15,Anti-Democrat,153,21,7.29,3.72
+1818,15,Democratic Republican,2739,46,59.54,66.55
+1818,15,Federalist,1224,41,29.85,29.74
+1819,15,Anti-Democrat,29,1,29.0,6.82
+1819,15,Democratic Republican,292,6,48.67,68.71
+1819,15,Federalist,104,6,17.33,24.47

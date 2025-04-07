@@ -1,36 +1,36 @@
-congress,party,TotalVotes
-1,Anti-Administration,453
-1,Pro-Administration,1814
-2,Anti-Administration,2148
-2,Pro-Administration,4034
-3,Anti-Administration,2712
-3,Pro-Administration,5246
-4,Anti-Administration,1160
-4,Democratic Republican,1364
-4,Federalist,3222
-4,Pro-Administration,3140
-5,Anti-Administration,752
-5,Democratic Republican,2097
-5,Federalist,10472
-5,Pro-Administration,261
-6,Democratic Republican,3077
-6,Federalist,8839
-7,Democratic Republican,1549
-7,Federalist,1004
-8,Democratic Republican,6740
-8,Federalist,1925
-9,Democratic Republican,10340
-9,Federalist,2936
-10,Democratic Republican,10168
-10,Federalist,2155
-11,Democratic Republican,8952
-11,Federalist,2250
-13,Anti-Democrat,30
-13,Democratic Republican,4016
-13,Federalist,1393
-14,Anti-Democrat,133
-14,Democratic Republican,2581
-14,Federalist,1103
-15,Anti-Democrat,256
-15,Democratic Republican,4731
-15,Federalist,1908
+congress,party,TotalVotes,NumCommitteeVotes
+1,Anti-Administration,453,143
+1,Pro-Administration,1814,401
+2,Anti-Administration,2148,593
+2,Pro-Administration,4034,1024
+3,Anti-Administration,2712,848
+3,Pro-Administration,5246,1463
+4,Anti-Administration,1160,373
+4,Democratic Republican,1364,502
+4,Federalist,3222,885
+4,Pro-Administration,3140,785
+5,Anti-Administration,752,236
+5,Democratic Republican,2097,802
+5,Federalist,10472,2698
+5,Pro-Administration,261,72
+6,Democratic Republican,3077,1104
+6,Federalist,8839,2495
+7,Democratic Republican,1549,391
+7,Federalist,1004,327
+8,Democratic Republican,6740,1978
+8,Federalist,1925,667
+9,Democratic Republican,10340,3112
+9,Federalist,2936,823
+10,Democratic Republican,10168,3098
+10,Federalist,2155,641
+11,Democratic Republican,8952,2462
+11,Federalist,2250,685
+13,Anti-Democrat,30,6
+13,Democratic Republican,4016,1084
+13,Federalist,1393,366
+14,Anti-Democrat,133,25
+14,Democratic Republican,2581,816
+14,Federalist,1103,398
+15,Anti-Democrat,256,34
+15,Democratic Republican,4731,962
+15,Federalist,1908,415
